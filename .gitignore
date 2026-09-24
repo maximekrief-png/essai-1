@@ -1,0 +1,6 @@
+# Données personnelles de prospects : jamais dans Git (LPD)
+listings/
+*.xlsx
+
+# Secrets
+.env
