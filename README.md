@@ -24,10 +24,10 @@ Sommaire ─▶ Carte de ciblage ─▶ Listing ─▶ Enrichissement ─▶ Goo
 
 | Phase | Contenu | Statut |
 |---|---|---|
-| 0 | Cadrage, garde-fous, schéma du listing, skill `ciblage-sommaire` | fait |
-| 1 | Test du ciblage sur un vrai sommaire. Mesures : nombre d'entreprises, % de dirigeants identifiés, % portable ou ligne directe, crédits consommés | attend un sommaire |
-| 2 | Moteur d'agenda : pour une adresse de prospect, proposer 2 à 3 créneaux qui minimisent les trajets de Marc, en tenant compte des RDV existants | attend les contraintes de Marc |
-| 3 | Copilote d'appel : fiche prospect, déballe adaptée, numérotation enchaînée, saisie du résultat en un clic, créneaux proposés en direct | à cadrer |
+| 0 | Cadrage, garde-fous, skill `ciblage-sommaire`, script d'appel (`docs/script-appel.md`), outils (`docs/outils.md`) | fait |
+| 1 | Neuchâtel : compléter les 88 fiches restantes sans numéro, puis Genève (226 fiches sans numéro) | à lancer (crédits Apollo à valider) |
+| 2 | Moteur d'agenda (Apps Script) : pour une adresse de prospect, proposer 2 à 3 créneaux qui minimisent les trajets de Marc, entre les bornes ARRIVÉE et DÉPART de la semaine (`docs/planning.md`) | attend 4 réponses |
+| 3 | Copilote d'appel : barre latérale dans le Sheet avec fiche, accroche selon la source, statut en un clic et créneaux proposés | à cadrer |
 | 4 | Agent vocal : d'abord les confirmations et rappels de RDV déjà pris, avec transparence. La prospection à froid n'est envisagée qu'après un avis juridique écrit (LCD) et l'accord des partenaires officiels | conditionnel |
 
 ## Utilisation
