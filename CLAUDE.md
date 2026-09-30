@@ -25,8 +25,9 @@ Le sommaire ne liste que ces interviews : les objets présentés (projets, chant
 ## Outils existants
 
 - **CRM** : Google Sheet « Outil_Prospection_Swiss_Label », sur le Drive du compte Google Workspace d2bagencement.fr. Onglet `PROSPECTION` (une ligne par entreprise, ID de type E0001) et onglet `HISTORIQUE` (parutions passées, montants). Toute nouvelle fiche suit les colonnes de `PROSPECTION` (copie de l'en-tête : `templates/prospects.csv`).
-- **Agenda** : calendrier « RENDEZ VOUS MARC KRIEF » (RDV physiques uniquement, avec adresse complète) et calendrier « Rappels téléphoniques Com Consulting » (rappels). Protocole : `docs/planning.md`.
-- **Apollo** (enrichissement) et **ElevenLabs** (voix de Maxime déjà créée).
+- **Agenda** : calendrier « RENDEZ VOUS MARC KRIEF » (RDV physiques uniquement, avec adresse complète) et calendrier « Rappels téléphoniques Com Consulting » (rappels). Protocole : `docs/planning.md`. Moteur de créneaux : `apps-script/Agenda.gs` (Marc en voiture, 10 RDV par jour au maximum, hôtel choisi selon le dernier et le premier RDV).
+- **Apollo** (enrichissement ; crédits téléphone épuisés jusqu'au 27.10.2026, crédits e-mail disponibles) et **ElevenLabs** (voix de Maxime déjà créée).
+- **Limites de l'environnement cloud** : le réseau bloque search.ch, local.ch, Zefix, Moneyhouse, SIMAP et les sites d'entreprise. Seul `WebSearch` fonctionne, avec 200 recherches par session. Pas de connecteur Google Sheets : lecture du Sheet via Drive, pas d'écriture.
 - Script d'appel : `docs/script-appel.md`. Outils proposés : `docs/outils.md`.
 
 ## Pipeline cible

@@ -21,31 +21,30 @@ Le lundi qui précède une semaine de RDV, tu crées dans **RENDEZ VOUS MARC KRI
 |---|---|---|
 | `ARRIVÉE Marc` | heure d'arrivée | lieu d'arrivée (gare, domicile, bureau…) |
 | `DÉPART Marc` | heure de départ | lieu de départ |
-| `NUIT Marc` (facultatif, un par soir) | le soir | lieu où il dort, qui sert de point de départ et d'arrivée de chaque journée |
 
-Le moteur lit ces événements directement dans le calendrier : pas de fichier de paramètres à tenir à jour. Pour la même raison, un RDV ajouté à la main par Marc ou par toi est pris en compte au calcul suivant.
+Pas besoin d'indiquer l'hôtel : le moteur le conseille à partir des RDV (voir « Vérifier les semaines à venir »). Le moteur lit ces événements directement dans le calendrier : pas de fichier de paramètres à tenir à jour. Pour la même raison, un RDV ajouté à la main par Marc ou par toi est pris en compte au calcul suivant.
 
-## Paramètres par défaut
-
-Ils sont déduits des RDV existants ; à confirmer.
+## Paramètres (validés le 30.09)
 
 - Bloc RDV : **30 min** (15 à 20 min de présentation, plus la marge).
 - Tampon entre deux RDV : **10 min**, en plus du trajet.
-- Plage de travail : **8h00 à 18h30**.
-- Mode de déplacement : **voiture**. Couvet, La Sagne et Les Geneveys-sur-Coffrane dans la même journée, c'est difficile en transports publics.
-- Maximum : **8 RDV par jour**, comme le mardi 29.
+- Plage de travail : **8h00 à 18h30**, du lundi au vendredi.
+- Mode de déplacement : **voiture**.
+- Maximum : **10 RDV par jour**.
+- **Nuits à l'hôtel, choisies selon le dernier RDV du soir et le premier du lendemain.** Si le trajet entre les deux dépasse 25 min, l'hôtel est près du premier RDV du lendemain (Marc fait la route la veille) ; sinon, il est près du dernier RDV.
+- Pause déjeuner : non imposée (à ajouter dans `PARAMS` si besoin).
 
 ## Algorithme : proposer 2 à 3 créneaux pour un prospect
 
 Entrée : l'adresse du prospect P et la semaine visée.
 
-1. Lire les événements de la semaine dans RENDEZ VOUS MARC KRIEF (RDV, `ARRIVÉE`, `DÉPART`, `NUIT`).
-2. Pour chaque jour compris entre ARRIVÉE et DÉPART, construire la séquence des étapes fixes : point de départ du jour, puis les RDV, puis le point d'arrivée du jour.
+1. Lire les événements dans RENDEZ VOUS MARC KRIEF (RDV, `ARRIVÉE`, `DÉPART`). Les rappels téléphoniques sont ignorés.
+2. Pour chaque jour compris entre ARRIVÉE et DÉPART, construire la séquence des étapes : l'arrivée ou le dernier RDV de la veille (nuit à l'hôtel, sans contrainte horaire), puis les RDV du jour, puis le départ ou le premier RDV du lendemain.
 3. Pour chaque trou entre deux étapes A et B, tester les heures de début t (par pas de 15 min) qui vérifient :
    - `t ≥ fin(A) + trajet(A→P) + tampon`
    - `t + 30 min ≤ début(B) − trajet(P→B) − tampon`
 4. Calculer le **coût** d'un créneau : `trajet(A→P) + trajet(P→B) − trajet(A→B)`, c'est-à-dire le détour ajouté.
-5. Trier par coût croissant. Proposer si possible deux jours différents, ou un matin et un après-midi.
+5. Trier : d'abord les séjours confirmés (ARRIVÉE / DÉPART), puis le coût croissant. Proposer si possible deux jours différents, ou un matin et un après-midi. Les semaines sans bornes passent en dernier.
 6. Contrôles au passage :
    - chevauchements entre RDV ;
    - enchaînements impossibles vu le trajet ;
@@ -53,18 +52,16 @@ Entrée : l'adresse du prospect P et la semaine visée.
 
 Sortie, par exemple : « Mardi 10h45 (+6 min de trajet) · Mercredi 8h00 (+9 min) ».
 
-## Mise en œuvre recommandée
+## Mise en œuvre
 
-Un **Google Apps Script** rattaché au Google Sheet « Outil_Prospection_Swiss_Label » :
+C'est fait : `apps-script/Agenda.gs`, un Google Apps Script rattaché au Google Sheet (installation : `apps-script/README.md`).
 
-- un menu **Agenda → Proposer des créneaux** qui travaille sur la ligne sélectionnée ;
-- le service Maps d'Apps Script pour le géocodage et le temps de trajet en voiture ;
-- aucun serveur, et gratuit dans la limite des quotas Google ;
-- plus tard, le même code exposé en web app, pour que l'agent vocal puisse l'appeler comme un outil.
+- Menu **Agenda → Proposer des créneaux** sur la ligne sélectionnée, et bouton **Réserver**.
+- Menu **Agenda → Vérifier les semaines à venir**, avec les conseils d'hôtel.
+- Le service Maps d'Apps Script calcule les trajets en voiture ; ils restent en cache 6 h.
+- Aucun serveur, et gratuit dans la limite des quotas Google.
+- Plus tard, le même cœur pourra être exposé en web app pour l'agent vocal.
 
-## Questions ouvertes
+## Question ouverte
 
-1. Marc se déplace en voiture ou en train ?
-2. Où dort-il pendant les semaines de RDV ? Rentre-t-il chaque soir à La Chaux-de-Fonds ?
-3. Une pause déjeuner est-elle imposée ?
-4. Quel maximum de RDV par jour souhaite-t-il vraiment ?
+- Une pause déjeuner doit-elle être bloquée ?

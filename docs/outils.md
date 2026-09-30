@@ -9,8 +9,15 @@ Principe : **partir de ce qui existe déjà** (Google Sheet, Google Agenda, Apol
 | Agenda de Marc | **Google Agenda** (existant) + **Apps Script** + service Maps | Gratuit, sans serveur, lit les ajouts manuels (voir `planning.md`) | Google Routes API, pour le trafic en temps réel (payant à l'usage) |
 | Poste d'appel (copilote) | **Barre latérale Apps Script** dans le Sheet : fiche du prospect, accroche selon la source, boutons de statut, créneaux proposés, clic pour appeler | Gratuit ; tout reste dans le Sheet | Ringover ou Aircall : numérotation enchaînée, numéro suisse affiché, enregistrement avec annonce |
 | Amélioration du script | Ton outil de transcription actuel + une revue hebdomadaire avec Claude | La déballe s'améliore sur des données réelles | — |
-| Agent vocal (phase 4) | **ElevenLabs Agents** (compte et voix existants) + numéro de téléphone (Twilio ou SIP) + outils branchés sur l'agenda et le Sheet | Déjà en place côté voix | Retell AI, Vapi |
+| Agent vocal (phase 4) | **ElevenLabs Agents** (compte et voix existants) + **numéro fixe suisse** fourni par un opérateur SIP (peoplefone par exemple) ou par Twilio + outils branchés sur l'agenda et le Sheet | Déjà en place côté voix | Retell AI, Vapi |
 | Automatisations | Apps Script d'abord ; **Zapier** (déjà connecté) si besoin | Moins de pièces à maintenir | Make, n8n |
+
+## Téléphonie : ce qui se branche sur ElevenLabs (vérifié le 30.09.2026)
+
+- **Twilio** : un opérateur « en ligne ». Il loue des numéros et relie le réseau téléphonique à un logiciel. Chez ElevenLabs, c'est le tuyau entre la ligne et l'agent. Ses numéros **mobiles** suisses sont réservés aux SMS. Ses numéros fixes suisses demandent un dossier réglementaire (extrait du registre du commerce, adresse en Suisse).
+- **Ringover** : il n'a pas de trunk SIP bidirectionnel. Son module Connectivity sait seulement renvoyer un appel reçu sur Ringover vers un agent externe comme ElevenLabs. C'est utile pour les rappels entrants, pas pour qu'un agent appelle. Il propose aussi son propre agent d'accueil (AIRO).
+- **Aircall** : aucune intégration documentée avec ElevenLabs n'a été trouvée.
+- **Trunk SIP** : ElevenLabs accepte n'importe quel trunk SIP (Telnyx, Bandwidth, DIDWW, ou un opérateur suisse comme peoplefone).
 
 ## Agent vocal : périmètre défendable
 
