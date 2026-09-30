@@ -25,7 +25,7 @@ Sommaire ─▶ Carte de ciblage ─▶ Listing ─▶ Enrichissement ─▶ Goo
 | Phase | Contenu | Statut |
 |---|---|---|
 | 0 | Cadrage, garde-fous, skill `ciblage-sommaire`, script d'appel (`docs/script-appel.md`), outils (`docs/outils.md`) | fait |
-| 1 | Neuchâtel : 63 fiches sur 103 enrichies le 30.09 (écriture dans le Sheet en attente du connecteur Google Sheets), 40 à relancer ; puis Genève (226 fiches sans numéro) | en cours |
+| 1 | Neuchâtel : 63 fiches enrichies et écrites dans le Sheet le 30.09 (colonne Adresse ajoutée) ; 42 à relancer ; portables Apollo à valider ; puis Genève (226 fiches sans numéro) | en cours |
 | 2 | Moteur d'agenda (Apps Script) : pour une adresse de prospect, proposer 3 créneaux qui minimisent les trajets de Marc, entre les bornes ARRIVÉE et DÉPART (`apps-script/`) | fait, à installer |
 | 3 | Copilote d'appel : barre latérale dans le Sheet avec fiche, accroche selon la source, statut en un clic et créneaux proposés | à cadrer |
 | 4 | Agent vocal : d'abord les confirmations et rappels de RDV déjà pris, avec transparence. La prospection à froid n'est envisagée qu'après un avis juridique écrit (LCD) et l'accord des partenaires officiels | conditionnel |

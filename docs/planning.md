@@ -32,7 +32,7 @@ Pas besoin d'indiquer l'hôtel : le moteur le conseille à partir des RDV (voir 
 - Mode de déplacement : **voiture**.
 - Maximum : **10 RDV par jour**.
 - **Nuits à l'hôtel, choisies selon le dernier RDV du soir et le premier du lendemain.** Si le trajet entre les deux dépasse 25 min, l'hôtel est près du premier RDV du lendemain (Marc fait la route la veille) ; sinon, il est près du dernier RDV.
-- Pause déjeuner : non imposée (à ajouter dans `PARAMS` si besoin).
+- Pas de pause déjeuner.
 
 ## Algorithme : proposer 2 à 3 créneaux pour un prospect
 
@@ -61,7 +61,3 @@ C'est fait : `apps-script/Agenda.gs`, un Google Apps Script rattaché au Google 
 - Le service Maps d'Apps Script calcule les trajets en voiture ; ils restent en cache 6 h.
 - Aucun serveur, et gratuit dans la limite des quotas Google.
 - Plus tard, le même cœur pourra être exposé en web app pour l'agent vocal.
-
-## Question ouverte
-
-- Une pause déjeuner doit-elle être bloquée ?
