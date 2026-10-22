@@ -1,0 +1,1720 @@
+{
+  "slug": "zurich",
+  "title": "Swiss Knowhow – Zürcher Wirtschaft / Zurich Economy (2013)",
+  "series": "Économie régionale",
+  "year": 2013,
+  "region": "Zurich (ville et canton)",
+  "languages": [
+    "de",
+    "en"
+  ],
+  "description": "Numéro bilingue allemand-anglais consacré à l'économie zurichoise, mis en page en décembre 2013. Il s'ouvre sur les interviews de la présidente de la Ville de Zurich, du directeur cantonal de l'économie et de plusieurs responsables de la Chambre de commerce zurichoise (ZHK). Suivent une vingtaine de portraits d'entreprises et d'institutions : bureaux d'architectes et d'ingénieurs, industrie, technologies, santé, formation, immobilier, ainsi que Swissmem, Swissmill et l'Hôpital universitaire.",
+  "themes": [
+    "economie",
+    "industrie",
+    "architecture",
+    "construction",
+    "sante",
+    "collectivites"
+  ],
+  "files": [
+    {
+      "driveId": "1s25QhdU4lBIj8CryixC1Bgo4wmKamsN7",
+      "name": "SWISS_ECO_ZURICH-web.pdf",
+      "sizeMB": 13.9,
+      "label": "Édition web"
+    }
+  ],
+  "pdfLocal": false,
+  "articles": [
+    {
+      "slug": "zurich-stadt-zurich-corine-mauch",
+      "title": "Stadt Zürich",
+      "subtitle": "Interview mit Corine Mauch, Stadtpräsidentin von Zürich",
+      "type": "interview",
+      "page": "2-3",
+      "pdfPages": [],
+      "summary": "Première femme à présider la Ville de Zurich depuis 2009, Corine Mauch présente le document « Strategien Zürich 2025 » : société à 2000 watts, davantage de logements d'utilité publique, protection contre les nuisances du trafic et accueil extrafamilial. Elle évoque la promotion économique ciblée (finance, industries créatives, TIC, cleantech, sciences de la vie), la présence de Zurich à l'Exposition universelle de Milan 2015, une enquête interne auprès de 27 000 employés municipaux, la politique culturelle et l'extension du Kunsthaus, le refus du stade du Hardturm et l'opposition aux décollages vers le sud de l'aéroport. Elle se représente en 2014.",
+      "quote": "Es freut mich, dass Zürich Substanz hat und auch unter heute erschwerten wirtschaftlichen Bedingungen gut unterwegs ist.",
+      "themes": [
+        "collectivites",
+        "economie",
+        "territoire"
+      ],
+      "region": "Zurich",
+      "language": "de",
+      "people": [
+        {
+          "name": "Corine Mauch",
+          "role": "Stadtpräsidentin"
+        }
+      ],
+      "companies": [
+        "stadt-zurich"
+      ]
+    },
+    {
+      "slug": "zurich-zhk-karin-lenzlinger",
+      "title": "Zürcher Handelskammer (ZHK)",
+      "subtitle": "Interview mit Dr. Karin Lenzlinger, Präsidentin ZHK",
+      "type": "interview",
+      "page": "4-5",
+      "pdfPages": [],
+      "summary": "Présidente de la Chambre de commerce zurichoise depuis juillet 2013 et CEO de l'entreprise familiale Lenzlinger Söhne AG (environ 250 collaborateurs), Karin Lenzlinger décrit le rôle du comité dans le dialogue entre économie et politique pour les cantons de Zurich, Zoug et Schaffhouse. Elle regrette que les débats politiques se concentrent sur la redistribution et que les dirigeants se détournent de la politique. Zurich reste en tête de la compétitivité suisse, mais montre des faiblesses en matière de coûts et de soutien aux entreprises. Elle plaide pour davantage de femmes dirigeantes et se réjouit qu'une femme occupe pour la première fois à la fois la présidence et la direction.",
+      "quote": "Leider wenden sich immer mehr Wirtschaftsführer von der politischen Ebene ab.",
+      "themes": [
+        "economie"
+      ],
+      "region": "Zurich",
+      "language": "de",
+      "people": [
+        {
+          "name": "Karin Lenzlinger",
+          "role": "Präsidentin ZHK, CEO Lenzlinger Söhne AG"
+        }
+      ],
+      "companies": [
+        "zurcher-handelskammer"
+      ]
+    },
+    {
+      "slug": "zurich-zhk-regine-sauter",
+      "title": "Zürcher Handelskammer (ZHK) – Direktion",
+      "subtitle": "Interview mit Regine Sauter, Direktorin ZHK",
+      "type": "interview",
+      "page": "6-7",
+      "pdfPages": [],
+      "summary": "Directrice de la ZHK depuis juillet 2012, Regine Sauter veut que la voix de l'économie zurichoise soit davantage entendue, y compris publiquement. La chambre, vieille de 140 ans, représente environ 1 100 entreprises des cantons de Zurich, Zoug et Schaffhouse. Elle défend de bonnes conditions-cadres (fiscalité, infrastructures, formation, recherche), veut restaurer la confiance dans la place financière et lutter contre le réflexe « anti-Zurich » des autres régions. Elle décrit les collaborations avec economiesuisse, la Greater Zurich Area, les autres chambres de commerce et Switzerland Global Enterprise.",
+      "quote": "",
+      "themes": [
+        "economie"
+      ],
+      "region": "Zurich",
+      "language": "de",
+      "people": [
+        {
+          "name": "Regine Sauter",
+          "role": "Direktorin ZHK"
+        }
+      ],
+      "companies": [
+        "zurcher-handelskammer"
+      ]
+    },
+    {
+      "slug": "zurich-volkswirtschaftsdirektion-ernst-stocker",
+      "title": "Volkswirtschaftsdirektion des Kantons Zürich – «Ideale Rahmenbedingungen für erfolgreiches und gesundes Wachstum schaffen»",
+      "subtitle": "Interview mit Regierungsrat Ernst Stocker",
+      "type": "interview",
+      "page": "8-9",
+      "pdfPages": [],
+      "summary": "Le conseiller d'Etat chargé de l'économie du canton de Zurich explique les missions de sa direction : transports par rail, route, eau et air, réinsertion des demandeurs d'emploi, surveillance des conditions de travail et promotion économique via l'Office de l'économie et du travail. Il attribue la force zurichoise à son histoire industrielle et à son aéroport, et mise sur une stratégie de clusters et des hautes écoles de haut niveau. Il souligne l'essor de l'économie créative, le poids de la place financière (un franc de valeur ajoutée sur trois) et la baisse des mouvements aériens malgré la hausse des passagers.",
+      "quote": "Ich bin der Überzeugung, dass ein starker Wirtschaftsstandort notwendig ist, um auch bezüglich Lebensqualität an der Spitze zu sein.",
+      "themes": [
+        "collectivites",
+        "economie",
+        "mobilite"
+      ],
+      "region": "Canton de Zurich",
+      "language": "de",
+      "people": [
+        {
+          "name": "Ernst Stocker",
+          "role": "Regierungsrat, Vorsteher Volkswirtschaftsdirektion"
+        }
+      ],
+      "companies": [
+        "volkswirtschaftsdirektion-kanton-zurich"
+      ]
+    },
+    {
+      "slug": "zurich-zhk-wirtschaftswochen",
+      "title": "Zürcher Handelskammer (ZHK) – Wirtschaftswochen",
+      "subtitle": "Interview mit Giulia Bonaldi",
+      "type": "interview",
+      "page": "10",
+      "pdfPages": [],
+      "summary": "Depuis le début des années 1970, les « semaines économiques » rapprochent école et économie. Des gymnasiens passent une semaine en internat à diriger une entreprise virtuelle au moyen d'un jeu de simulation informatique, chaque jour représentant un exercice comptable. Ils sont encadrés par des cadres d'entreprises bénévoles. Giulia Bonaldi décrit le déroulement, les retours très positifs des élèves, l'évolution de l'outil et les partenaires : la Fondation Ernst Schmidheiny, les écoles et les chambres de commerce, dont la ZHK qui organise une dizaine de classes par an.",
+      "quote": "",
+      "themes": [
+        "formation",
+        "economie"
+      ],
+      "region": "Zurich",
+      "language": "de",
+      "people": [
+        {
+          "name": "Giulia Bonaldi",
+          "role": "Responsable Wirtschaftswochen, ZHK"
+        }
+      ],
+      "companies": [
+        "zurcher-handelskammer"
+      ]
+    },
+    {
+      "slug": "zurich-zhk-export-dienstleistungen",
+      "title": "Zürcher Handelskammer (ZHK) – Export-Dienstleistungen",
+      "subtitle": "Interview mit Giovanni Montera, Chef Beglaubigungsdienst",
+      "type": "interview",
+      "page": "11",
+      "pdfPages": [],
+      "summary": "Le chef du service de légalisation de la ZHK explique comment la chambre aide les exportateurs : certificats d'origine exigés par les banques ou certains pays, carnets ATA permettant d'exporter temporairement des marchandises sans droits de douane, légalisation des certificats CITES pour l'horlogerie et le luxe, et cours pour exportateurs agréés en collaboration avec l'Administration fédérale des douanes. Il rappelle les simplifications introduites en 2008 et le rôle de conseil de la chambre pour toute question douanière.",
+      "quote": "Mit unseren Dienstleistungen sind wir direkt am Puls der Exportwirtschaft.",
+      "themes": [
+        "economie"
+      ],
+      "region": "Zurich",
+      "language": "de",
+      "people": [
+        {
+          "name": "Giovanni Montera",
+          "role": "Chef Beglaubigungsdienst"
+        }
+      ],
+      "companies": [
+        "zurcher-handelskammer"
+      ]
+    },
+    {
+      "slug": "zurich-zhk-schiedsgericht",
+      "title": "Zürcher Handelskammer (ZHK) – Schiedsgericht",
+      "subtitle": "Interview mit Elena Stancato, lic. iur., Leiterin Schiedsgerichtsabteilung",
+      "type": "interview",
+      "page": "12",
+      "pdfPages": [],
+      "summary": "La responsable du service d'arbitrage de la ZHK présente l'arbitrage comme alternative aux tribunaux étatiques : les parties choisissent un lieu neutre, des règles indépendantes (les Swiss Rules adoptées par sept chambres de commerce) et leurs arbitres. La procédure est confidentielle, rapide et exécutoire dans 146 pays grâce à la Convention de New York. Les litiges de moins d'un million sont tranchés par un arbitre unique en six mois. La ZHK a enregistré 50 nouveaux cas en 2012, pour une valeur litigieuse moyenne de 22,8 millions.",
+      "quote": "",
+      "themes": [
+        "economie"
+      ],
+      "region": "Zurich",
+      "language": "de",
+      "people": [
+        {
+          "name": "Elena Stancato",
+          "role": "Leiterin Schiedsgerichtsabteilung"
+        }
+      ],
+      "companies": [
+        "zurcher-handelskammer"
+      ]
+    },
+    {
+      "slug": "zurich-zhk-beat-zimmermann",
+      "title": "Zürcher Handelskammer (ZHK) – Direktion",
+      "subtitle": "Interview mit Beat Zimmermann, Stv. Direktor ZHK",
+      "type": "interview",
+      "page": "13",
+      "pdfPages": [],
+      "summary": "Fondée en 1873, la ZHK compte plus de 1 100 membres employant environ 200 000 personnes. Son directeur adjoint présente les avantages de l'adhésion : réseau, assemblée générale, apéritif de Nouvel An, formations, conditions préférentielles et publications mensuelles. Il détaille les services (prises de position politiques, certificats d'origine, carnets ATA) et l'engagement de la chambre en politique des transports, notamment pour le RER zurichois et l'aéroport. Il cite aussi les projets jeunesse : semaines économiques, exposition « tunZürich » et diplôme d'allemand de la ZHK.",
+      "quote": "",
+      "themes": [
+        "economie",
+        "mobilite",
+        "formation"
+      ],
+      "region": "Zurich",
+      "language": "de",
+      "people": [
+        {
+          "name": "Beat Zimmermann",
+          "role": "Stv. Direktor ZHK"
+        }
+      ],
+      "companies": [
+        "zurcher-handelskammer"
+      ]
+    },
+    {
+      "slug": "zurich-aebi-kuehni",
+      "title": "aebi+kuehni ag – Headhunting neu definiert",
+      "subtitle": "Im Gespräch mit Doris Aebi und René Kuehni",
+      "type": "interview",
+      "page": "14-15",
+      "pdfPages": [],
+      "summary": "Fondée en 2004 par Doris Aebi et René Kuehni, cette boutique zurichoise de chasse de têtes recrute administrateurs, CEO, membres de direction et spécialistes clés. Son originalité : renoncer à une base de données de candidats et partir d'une analyse indépendante de chaque poste et de la situation du client. Les deux fondateurs mènent eux-mêmes chaque mandat de bout en bout, de l'analyse du marché aux références, afin de garantir qualité, discrétion et continuité. Ils travaillent dans des secteurs très variés pour préserver leur indépendance. L'interview est publiée en allemand et en anglais.",
+      "quote": "Wir verstehen uns weder als Verkäufer noch als Lieferanten, sondern als ehrlichen und unabhängigen Partner für unseren Kunden.",
+      "themes": [
+        "economie"
+      ],
+      "region": "Zurich",
+      "language": "de",
+      "people": [
+        {
+          "name": "Doris Aebi",
+          "role": "Cofondatrice"
+        },
+        {
+          "name": "René Kuehni",
+          "role": "Cofondateur"
+        }
+      ],
+      "companies": [
+        "aebi-kuehni"
+      ]
+    },
+    {
+      "slug": "zurich-atelier-10-8",
+      "title": "Atelier 10:8, Zürich",
+      "subtitle": "Interview mit Katrin Schubiger, Georg Rinderknecht und Jürg Senn",
+      "type": "interview",
+      "page": "16-19",
+      "pdfPages": [],
+      "summary": "Fondé en 2001 par trois architectes issus de l'EPF de Zurich, l'atelier 10:8 compte 17 collaborateurs et se spécialise à l'interface entre transports publics et espace public. Les associés expliquent leur conception d'une architecture qui « raconte une histoire » et d'un urbanisme orienté processus. Ils pilotent depuis 2004 la transformation de la gare d'Oerlikon (liaison de quartier, passage inférieur, nouvelles voies), ont conçu les arrêts rouges du Stadtbahn Zug et dessinent l'architecture de ligne du Limmattalbahn (27 arrêts sur 13 km). Ils ont aussi rénové l'église St. Felix und Regula. Le nom vient d'un baby-foot et d'un numéro de rue.",
+      "quote": "",
+      "themes": [
+        "architecture",
+        "mobilite",
+        "territoire"
+      ],
+      "region": "Zurich",
+      "language": "de",
+      "people": [
+        {
+          "name": "Katrin Schubiger",
+          "role": "Associée, architecte"
+        },
+        {
+          "name": "Georg Rinderknecht",
+          "role": "Associé, architecte"
+        },
+        {
+          "name": "Jürg Senn",
+          "role": "Associé, architecte"
+        }
+      ],
+      "companies": [
+        "atelier-10-8"
+      ]
+    },
+    {
+      "slug": "zurich-atelier-ww",
+      "title": "atelier ww Architekten SIA AG",
+      "subtitle": "Interview mit Walter Wäschle, Mitinhaber und Christoph Schmid, Mitglied Geschäftsleitung",
+      "type": "interview",
+      "page": "20-23",
+      "pdfPages": [],
+      "summary": "Le bureau zurichois atelier ww, dont le nom renvoie à ses fondateurs Wäschle et Wüst, emploie environ 73 personnes et forme des dessinateurs. Il privilégie l'intégration des bâtiments dans leur contexte et une architecture contemporaine fonctionnelle. Spécialiste de la reconversion de sites industriels, il a transformé l'aire Löwenbräu à Zurich (avec Gigon Guyer), l'ancienne brasserie Haldengut à Winterthour et le Salmenpark à Rheinfelden (175 logements en première étape). Il a aussi signé la soufflerie de Sauber à Hinwil, le siège de Tamedia, le Radisson Blu de l'aéroport, les halles de la Messe Zürich et Luzern et un centre commercial à Pékin.",
+      "quote": "",
+      "themes": [
+        "architecture",
+        "construction"
+      ],
+      "region": "Zurich",
+      "language": "de",
+      "people": [
+        {
+          "name": "Walter Wäschle",
+          "role": "Mitinhaber"
+        },
+        {
+          "name": "Christoph Schmid",
+          "role": "Mitglied der Geschäftsleitung"
+        }
+      ],
+      "companies": [
+        "atelier-ww"
+      ]
+    },
+    {
+      "slug": "zurich-dr-j-grob-partner",
+      "title": "Dr. Bauingenieure J. Grob & Partner SIA/USIC AG",
+      "subtitle": "Interview mit Dr. Josef Grob, Geschäftsleiter",
+      "type": "interview",
+      "page": "24-25",
+      "pdfPages": [],
+      "summary": "Le bureau d'ingénieurs civils Dr. J. Grob & Partner, basé à Winterthour avec une succursale à Zurich, réalise structures porteuses de bâtiments et d'industries, ponts, murs de soutènement, tunnels en tranchée, structures de façades et expertises. Son directeur insiste sur une approche globale qui propose des améliorations au-delà de sa propre discipline. Le bureau conduit l'ingénierie de la surélévation du silo Swissmill à 118 mètres, avec analyse sismique 3D et travaux en exploitation, a assuré environ la moitié des prestations sur trois champs de l'Europaallee et évalue les risques sismiques de parcs immobiliers.",
+      "quote": "",
+      "themes": [
+        "construction",
+        "architecture"
+      ],
+      "region": "Winterthour, Zurich",
+      "language": "de",
+      "people": [
+        {
+          "name": "Josef Grob",
+          "role": "Geschäftsleiter"
+        }
+      ],
+      "companies": [
+        "dr-j-grob-partner"
+      ]
+    },
+    {
+      "slug": "zurich-eberhard-bau",
+      "title": "Eberhard Bau AG",
+      "subtitle": "Im Gespräch mit VR-Präsident Heinz Eberhard",
+      "type": "interview",
+      "page": "26-27",
+      "pdfPages": [],
+      "summary": "Fondée comme entreprise de terrassement et fêtant ses 60 ans en 2014, l'entreprise familiale Eberhard de Kloten couvre génie civil, déconstruction, assainissement de sites pollués et production de matériaux. Son président présente l'« urban mining » : produire des matériaux recyclés de qualité à partir des gravats pour fermer le cycle. L'entreprise a contribué à la reconversion de Zurich Nord, Zurich Ouest et Sihlcity, et travaille sur le Zollfreilager et l'ancienne gare marchandises. Elle exploite l'installation de lavage des sols ESAR, le centre de recyclage Ebirec et la plateforme BAZO, et mise sur le transport ferroviaire.",
+      "quote": "Unsere Konstante ist die Bewegung.",
+      "themes": [
+        "construction",
+        "energie"
+      ],
+      "region": "Kloten",
+      "language": "de",
+      "people": [
+        {
+          "name": "Heinz Eberhard",
+          "role": "VR-Präsident"
+        }
+      ],
+      "companies": [
+        "eberhard-bau"
+      ]
+    },
+    {
+      "slug": "zurich-elex",
+      "title": "Elex AG",
+      "subtitle": "Im Gespräch mit Peter Studer, Leiter Verkauf",
+      "type": "interview",
+      "page": "28-29",
+      "pdfPages": [],
+      "summary": "Fondée en 1934 et toujours majoritairement détenue par la famille Meyerhofer, Elex AG à Schwerzenbach est l'un des leaders mondiaux de l'épuration des fumées. Elle construit des électrofiltres, des tours de refroidissement par évaporation, des installations de dénitrification catalytique et des filtres hybrides pour les cimenteries, la métallurgie, les centrales, les usines d'incinération et les raffineries. Son plus grand électrofiltre, près de 50 mètres de long, équipe une cimenterie saoudienne. Le responsable des ventes souligne l'électrode ELEX-RS, l'innovation et le service après installation.",
+      "quote": "Innovation ist von enormer Bedeutung für unser Unternehmen und gehört mit zum Alltag.",
+      "themes": [
+        "industrie",
+        "energie"
+      ],
+      "region": "Schwerzenbach",
+      "language": "de",
+      "people": [
+        {
+          "name": "Peter Studer",
+          "role": "Leiter Verkauf"
+        }
+      ],
+      "companies": [
+        "elex"
+      ]
+    },
+    {
+      "slug": "zurich-fabrimex-systems",
+      "title": "Fabrimex Systems AG, Volketswil",
+      "subtitle": "Interview mit Urs Zimmermann, Managing Director",
+      "type": "interview",
+      "page": "30-31",
+      "pdfPages": [],
+      "summary": "Fournisseur de l'industrie depuis de nombreuses années, Fabrimex Systems est spécialisé dans l'informatique embarquée, les ordinateurs industriels, la vision industrielle, l'acquisition de mesures et la visualisation. Ses clients viennent de l'industrie, de l'automatisation du bâtiment, de la technique des transports et du médical. L'entreprise propose conseil, support, solutions clés en main et assemblage d'ordinateurs industriels sur mesure. Elle a fondé en 2001 une filiale à Taïwan, Fabrimex Far East, pour le contrôle qualité, les achats et une production dédiée, qui sert aussi de plateforme vers l'Asie.",
+      "quote": "",
+      "themes": [
+        "industrie"
+      ],
+      "region": "Volketswil",
+      "language": "de",
+      "people": [
+        {
+          "name": "Urs Zimmermann",
+          "role": "Managing Director"
+        }
+      ],
+      "companies": [
+        "fabrimex-systems"
+      ]
+    },
+    {
+      "slug": "zurich-fluckiger-bosshard",
+      "title": "Flückiger + Bosshard AG",
+      "subtitle": "Im Gespräch mit Dieter Flückiger, Dr. sc. techn., dipl. Bauing. ETH, Geschäftsleitung",
+      "type": "interview",
+      "page": "32-33",
+      "pdfPages": [],
+      "summary": "Le bureau d'ingénieurs zurichois, dont les origines remontent à 1964, couvre le génie civil ainsi que la conception, la réalisation et l'entretien de bâtiments et d'ouvrages d'art. Sa spécialité en technologie des matériaux et en mesures de potentiel lui permet de diagnostiquer lui-même l'état des ouvrages. Issu de la fusion en 1998 de Flückiger Ingenieure et de Studer & Bosshard, il est partenaire de JägerPartner depuis 2006. Parmi ses projets : l'assainissement du Hardbrücke, les Archives d'Etat de Zurich et la gare de Horgen, primée en 2010.",
+      "quote": "Die technische Konstruktion ist wie der Körper eines Objektes, die optische Wirkung wie das Gesicht.",
+      "themes": [
+        "construction",
+        "architecture"
+      ],
+      "region": "Zurich",
+      "language": "de",
+      "people": [
+        {
+          "name": "Dieter Flückiger",
+          "role": "Membre de la direction"
+        }
+      ],
+      "companies": [
+        "fluckiger-bosshard"
+      ]
+    },
+    {
+      "slug": "zurich-gebruder-loepfe",
+      "title": "Gebrüder Loepfe AG",
+      "subtitle": "Im Gespräch mit Maurizio Wermelinger, CEO und Delegierter des Verwaltungsrates",
+      "type": "interview",
+      "page": "34-35",
+      "pdfPages": [],
+      "summary": "Fondée en 1955 par Helmut et Erich Loepfe, l'entreprise de Wetzikon fait partie des leaders mondiaux des systèmes de contrôle électroniques pour l'industrie textile. Ses purgeurs de fil YarnMaster contrôlent le fil jusqu'à 2 000 mètres par minute et ont été les premiers à détecter fibres étrangères puis polypropylène. Toute la production reste en Suisse pour garantir la qualité, environ 10 % du chiffre d'affaires va au développement et quelque 90 représentations servent des marchés comme la Chine, l'Inde ou la Turquie. Le CEO retrace les étapes clés de l'entreprise et ses ambitions.",
+      "quote": "",
+      "themes": [
+        "industrie"
+      ],
+      "region": "Wetzikon",
+      "language": "de",
+      "people": [
+        {
+          "name": "Maurizio Wermelinger",
+          "role": "CEO und Delegierter des Verwaltungsrates"
+        }
+      ],
+      "companies": [
+        "gebruder-loepfe"
+      ]
+    },
+    {
+      "slug": "zurich-hardturm",
+      "title": "Hardturm AG, Zürich",
+      "subtitle": "Interview mit Vincent Albers, Verwaltungsratspräsident Hardturm AG",
+      "type": "interview",
+      "page": "36-39",
+      "pdfPages": [],
+      "summary": "Membre du groupe Albers, la société Hardturm développe et détient des immeubles centraux et de grands projets mixtes à long terme. Pionnière de la reconversion de Zurich Ouest avec Limmatwest dans les années 1990, elle réalise le Hard Turm Park sur les anciens terrains d'entraînement des Grasshoppers : environ 100 000 m², pour moitié des logements, avec les hôtels Sheraton et 25hours et Swissmem. Elle a acquis des œuvres d'art public et lancé un concours de design avec Casa Vogue. Elle a aussi construit le parking Opéra sous le Sechseläutenplatz et livre son regard sur les risques de bulle immobilière.",
+      "quote": "Wir waren tatsächlich einer der Pioniere bei der Umnutzung von Zürichs ehemaligem Industriequartier.",
+      "themes": [
+        "architecture",
+        "economie",
+        "territoire"
+      ],
+      "region": "Zurich",
+      "language": "de",
+      "people": [
+        {
+          "name": "Vincent Albers",
+          "role": "Verwaltungsratspräsident"
+        }
+      ],
+      "companies": [
+        "hardturm"
+      ]
+    },
+    {
+      "slug": "zurich-havells-sylvania",
+      "title": "Havells-Sylvania Switzerland AG",
+      "subtitle": "Fragen an Thomas Rauscher, Geschäftsführer",
+      "type": "interview",
+      "page": "40-41",
+      "pdfPages": [],
+      "summary": "Fournisseur complet de lampes et luminaires sous les marques Sylvania, Lumiance et Concord, Havells-Sylvania vend exclusivement via le commerce de gros tout en conseillant installateurs, planificateurs et architectes. Son directeur suisse présente les innovations LED, comme le premier remplacement direct d'une halogène GU10 de 50 W par une LED de 5,5 W, ainsi que les sites de production européens de Tienen et d'Erlangen. Le groupe appartient depuis 2007 à l'indien Havells, qui a fortement investi dans les LED. La lampe Concord Glace a reçu le Lighting Design Award 2013.",
+      "quote": "",
+      "themes": [
+        "energie",
+        "industrie"
+      ],
+      "region": "Zurich",
+      "language": "de",
+      "people": [
+        {
+          "name": "Thomas Rauscher",
+          "role": "Geschäftsführer"
+        }
+      ],
+      "companies": [
+        "havells-sylvania"
+      ]
+    },
+    {
+      "slug": "zurich-h-net",
+      "title": "H-Net AG – innovative eHealth-Lösungen",
+      "subtitle": "Im Gespräch mit Geschäftsführer Michael Ziegler",
+      "type": "interview",
+      "page": "42-43",
+      "pdfPages": [],
+      "summary": "H-Net est la principale plateforme suisse d'échange électronique de données dans la santé. Environ 200 hôpitaux y sont directement reliés, ainsi que, via des partenaires, tous les assureurs, quelque 130 instituts de radiologie et laboratoires et plus de 10 000 médecins. L'échange de données médicales a bondi de 255 % en 2012. Le directeur évoque l'introduction des DRG, le projet pilote de dossier électronique du patient à Bâle-Ville mené en partenariat public-privé, le rôle d'intégrateur IHE de l'entreprise et sa participation au logiciel de cabinet E-Medicus.",
+      "quote": "",
+      "themes": [
+        "sante",
+        "economie"
+      ],
+      "region": "Zurich",
+      "language": "de",
+      "people": [
+        {
+          "name": "Michael Ziegler",
+          "role": "Geschäftsführer"
+        }
+      ],
+      "companies": [
+        "h-net"
+      ]
+    },
+    {
+      "slug": "zurich-imt-masken-und-teilungen",
+      "title": "IMT Masken und Teilungen AG, Greifensee",
+      "subtitle": "Interview mit Dr. Jean-François Willemin, Geschäftsleiter",
+      "type": "interview",
+      "page": "44-45",
+      "pdfPages": [],
+      "summary": "Fondée en 1959, IMT fabrique à façon des microstructures et couches minces sur verre par photolithographie, avec des traits jusqu'à 150 nanomètres. Ses produits (disques d'encodeurs, réticules pour lunettes de visée, diaphragmes pour l'endoscopie) servent l'automation, l'optique de sport, le médical, la mesure, les semi-conducteurs et l'aérospatial. L'entreprise dispose depuis 2000 d'une salle blanche de 1 200 m² et depuis 2012 d'une ligne de production pour plaquettes de 200 mm. Elle emploie 75 personnes, dont une dizaine d'ingénieurs et physiciens.",
+      "quote": "Know-why ist genauso wichtig wie Know-how.",
+      "themes": [
+        "industrie",
+        "formation"
+      ],
+      "region": "Greifensee",
+      "language": "de",
+      "people": [
+        {
+          "name": "Jean-François Willemin",
+          "role": "Geschäftsleiter"
+        }
+      ],
+      "companies": [
+        "imt-masken-und-teilungen"
+      ]
+    },
+    {
+      "slug": "zurich-itpc",
+      "title": "ITPC AG, Zürich",
+      "subtitle": "Interview mit Vincenzo Boesch, CEO und Technology Lead",
+      "type": "interview",
+      "page": "46-47",
+      "pdfPages": [],
+      "summary": "Fondée en 2003, avec une filiale indienne depuis 2010, ITPC compte plus de 25 collaborateurs spécialisés dans la technologie SAP. Elle propose conseil (installations, migrations, mises à niveau, virtualisation, plans de reprise), exploitation de la base SAP avec monitoring, helpdesk jusqu'à 7 jours sur 7, hébergement dans un centre de données suisse et offshoring pour intégrateurs. Ses équipes revendiquent plus de 250 projets SAP et disposent d'un centre de test et d'évaluation pour preuves de concept, formations et démonstrations.",
+      "quote": "Ihre Unternehmensdaten bleiben somit in der Schweiz.",
+      "themes": [
+        "economie"
+      ],
+      "region": "Zurich",
+      "language": "de",
+      "people": [
+        {
+          "name": "Vincenzo Boesch",
+          "role": "CEO und Technology Lead"
+        }
+      ],
+      "companies": [
+        "itpc"
+      ]
+    },
+    {
+      "slug": "zurich-jakob-stiefel",
+      "title": "Jakob Stiefel GmbH",
+      "subtitle": "Im Gespräch mit Geschäftsführer Martin Stiefel",
+      "type": "interview",
+      "page": "48-49",
+      "pdfPages": [],
+      "summary": "L'entreprise de Wetzikon conçoit des solutions de valorisation thermique des déchets et d'autres combustibles, fondées sur une grille de combustion refroidie à l'eau mise au point par le père de son directeur et utilisée depuis 1993. Le groupe Stiefel fournit des installations complètes, des fours rotatifs et des convoyeurs, et développe un procédé améliorant la qualité des mâchefers pour en faire un matériau de construction. Très active en Italie (Rimini, Forlì), l'entreprise se tourne vers la Chine et l'Asie du Sud-Est grâce à des partenariats et coentreprises.",
+      "quote": "Die dynamischsten Märkte sind derzeit klar China und Südostasien.",
+      "themes": [
+        "energie",
+        "industrie"
+      ],
+      "region": "Wetzikon",
+      "language": "de",
+      "people": [
+        {
+          "name": "Martin Stiefel",
+          "role": "Geschäftsführer"
+        }
+      ],
+      "companies": [
+        "jakob-stiefel"
+      ]
+    },
+    {
+      "slug": "zurich-klinik-susenberg",
+      "title": "Klinik Susenberg, Zürich – Umfassende Betreuung in schwierigen Lebenslagen",
+      "subtitle": "Interview mit Dr. Christel Nigg, Leitende Ärztin und Dr. Nic Zerkiebel, Chefarzt",
+      "type": "interview",
+      "page": "50-53",
+      "pdfPages": [],
+      "summary": "Située au Zürichberg, la clinique Susenberg détient des mandats cantonaux en gériatrie aiguë, réadaptation oncologique interne et soins palliatifs, une combinaison unique en Suisse. Elle accueille surtout des patients âgés et polymorbides après un séjour hospitalier, mais aussi des patients plus jeunes en soins palliatifs, sans changement de service si leur état évolue. Les médecins décrivent l'approche interprofessionnelle, les équipements (radiologie numérique, laboratoire, pharmacie) et le label « qualitépalliative » obtenu en 2012, qui a structuré l'évaluation des symptômes et la préparation des sorties.",
+      "quote": "",
+      "themes": [
+        "sante"
+      ],
+      "region": "Zurich",
+      "language": "de",
+      "people": [
+        {
+          "name": "Christel Nigg",
+          "role": "Leitende Ärztin"
+        },
+        {
+          "name": "Nic Zerkiebel",
+          "role": "Chefarzt"
+        }
+      ],
+      "companies": [
+        "klinik-susenberg"
+      ]
+    },
+    {
+      "slug": "zurich-lernpaedagogisches-zentrum",
+      "title": "Lernpädagogisches Zentrum Zürich",
+      "subtitle": "Interview mit Ruth Gisler, Schulleitung und Claude Jubin, Stellvertreter Schulleitung LPZ",
+      "type": "interview",
+      "page": "54-57",
+      "pdfPages": [],
+      "summary": "Ecole privée reconnue par l'Etat, le LPZ accueille des élèves en difficulté de la 4e primaire à la 10e année et propose aussi des cours d'appui, la préparation aux examens d'entrée (gymnase, écoles professionnelles), des bilans scolaires et de l'orientation professionnelle. Quatorze élèves suivent l'école de jour, en cours individuels ou en groupes de quatre au plus. La direction insiste sur la motivation de l'élève, le rattrapage des lacunes, les méthodes de travail, la notation et un cadre social clair qui offre un « foyer scolaire ».",
+      "quote": "",
+      "themes": [
+        "formation"
+      ],
+      "region": "Zurich",
+      "language": "de",
+      "people": [
+        {
+          "name": "Ruth Gisler",
+          "role": "Schulleitung"
+        },
+        {
+          "name": "Claude Jubin",
+          "role": "Stellvertreter Schulleitung"
+        }
+      ],
+      "companies": [
+        "lernpaedagogisches-zentrum"
+      ]
+    },
+    {
+      "slug": "zurich-luzi",
+      "title": "LUZI AG",
+      "subtitle": "Im Gespräch mit Geschäftsführer Jürg Koller",
+      "type": "interview",
+      "page": "58-59",
+      "pdfPages": [],
+      "summary": "La société LUZI à Dietlikon crée, produit et exporte des compositions parfumées pour parfums, cosmétiques, produits ménagers et parfums d'ambiance. Son directeur insiste sur la créativité des parfumeurs, les contrôles qualité menés par des chimistes et une production automatisée entièrement traçable (ISO 9001). Il décrit la collaboration avec les clients à partir d'un briefing et de la base non parfumée, les exigences techniques des parfums pour lessives et l'importance du bien-être procuré. L'entreprise développe plus de 900 nouvelles compositions par an.",
+      "quote": "",
+      "themes": [
+        "industrie"
+      ],
+      "region": "Dietlikon",
+      "language": "de",
+      "people": [
+        {
+          "name": "Jürg Koller",
+          "role": "Geschäftsführer"
+        }
+      ],
+      "companies": [
+        "luzi"
+      ]
+    },
+    {
+      "slug": "zurich-medizinisches-zentrum-roemerhof",
+      "title": "Medizinisches Zentrum Römerhof",
+      "subtitle": "Im Gespräch mit Dr. med. Galleon Graetz, Facharzt FMH für Innere Medizin",
+      "type": "interview",
+      "page": "60-61",
+      "pdfPages": [],
+      "summary": "Le centre médical Römerhof réunit médecine interne, rhumatologie, neurologie, psychiatrie, physiothérapie et angiologie, avec deuxièmes avis. Spécialiste de la prévention cardiovasculaire, le Dr Graetz explique qu'un bilan de santé doit évaluer les risques à long terme, y compris l'âge, le sexe et la génétique, et non seulement l'état du moment. Le centre propose des consultations pour personnes en surpoids, des bilans préopératoires ambulatoires et des expertises interdisciplinaires pour l'AI, les assureurs privés et les tribunaux.",
+      "quote": "Das Entscheidende ist, dass ein Check-up nicht nur eine aktuelle Standortbestimmung sein darf.",
+      "themes": [
+        "sante"
+      ],
+      "region": "Zurich",
+      "language": "de",
+      "people": [
+        {
+          "name": "Galleon Graetz",
+          "role": "Facharzt FMH für Innere Medizin"
+        }
+      ],
+      "companies": [
+        "medizinisches-zentrum-roemerhof"
+      ]
+    },
+    {
+      "slug": "zurich-meworla",
+      "title": "Meworla GmbH",
+      "subtitle": "Im Gespräch mit Geschäftsführer Michael Baumer",
+      "type": "interview",
+      "page": "62-63",
+      "pdfPages": [],
+      "summary": "Fondée en 2006, Meworla conseille entreprises et associations dans l'usage de systèmes d'information et développe des applications fondées sur des logiciels standards. Son produit phare, le CRM Addressix, est utilisé par de nombreuses associations, certaines gérant près de 200 000 personnes. L'entreprise a aussi développé des bases de données pour la chambre de compensation du biogaz et pour les groupes parlementaires de la Ville de Zurich. Son directeur décrit sa méthode de migration de données et le rôle croissant des CRM participatifs.",
+      "quote": "",
+      "themes": [
+        "economie"
+      ],
+      "region": "Zurich",
+      "language": "de",
+      "people": [
+        {
+          "name": "Michael Baumer",
+          "role": "Geschäftsführer"
+        }
+      ],
+      "companies": [
+        "meworla"
+      ]
+    },
+    {
+      "slug": "zurich-nilan",
+      "title": "Nilan AG",
+      "subtitle": "Im Gespräch mit Geschäftsführerin Stina Andersen",
+      "type": "interview",
+      "page": "64-65",
+      "pdfPages": [],
+      "summary": "Filiale suisse du fabricant danois Nilan, fondé en 1974 à Vejle, l'entreprise d'Urdorf distribue des appareils de ventilation et des pompes à chaleur économes en énergie pour logements et locaux commerciaux. Sa directrice souligne le contrôle qualité tout au long de la production, la facilité d'installation et le potentiel lié à la rénovation de dizaines de milliers de bâtiments suisses. Elle retrace les étapes clés, de la première pompe à chaleur air-eau en 1975 aux appareils certifiés pour maisons passives et aux victoires au Solar Decathlon. Nilan est présente dans 17 pays européens et en Amérique du Nord.",
+      "quote": "",
+      "themes": [
+        "energie",
+        "construction"
+      ],
+      "region": "Urdorf",
+      "language": "de",
+      "people": [
+        {
+          "name": "Stina Andersen",
+          "role": "Geschäftsführerin"
+        }
+      ],
+      "companies": [
+        "nilan"
+      ]
+    },
+    {
+      "slug": "zurich-poyry-schweiz",
+      "title": "Pöyry Schweiz AG",
+      "subtitle": "Interview mit Martin Bachmann, Executive Vice President der Pöyry PLC und Verwaltungsratspräsident der Pöyry Schweiz AG",
+      "type": "interview",
+      "page": "66-69",
+      "pdfPages": [],
+      "summary": "Avec 700 collaborateurs sur six sites, Pöyry Schweiz, née mi-2013 de la fusion de trois entités, est l'un des principaux bureaux de conseil et d'ingénierie du pays, actif dans l'énergie, l'urbanisme et les transports, l'eau et l'environnement. Son président évoque l'hydroélectricité, où le groupe compte parmi les meilleurs mondiaux, près de 40 ans d'implication dans le tunnel de base du Gothard, la ligne diamétrale de Zurich, les équipements de sécurité routière et ferroviaire, la géothermie zurichoise, l'usine de biogaz de Werdhölzli et les réseaux intelligents.",
+      "quote": "Pöyry ist seit fast 40 Jahren im Jahrhundertprojekt Gotthard Tunnel involviert.",
+      "themes": [
+        "energie",
+        "construction",
+        "mobilite"
+      ],
+      "region": "Zurich",
+      "language": "de",
+      "people": [
+        {
+          "name": "Martin Bachmann",
+          "role": "Executive Vice President Pöyry PLC, Verwaltungsratspräsident Pöyry Schweiz AG"
+        }
+      ],
+      "companies": [
+        "poyry-schweiz"
+      ]
+    },
+    {
+      "slug": "zurich-spannverbund-bausysteme",
+      "title": "Spannverbund Bausysteme GmbH",
+      "subtitle": "Interview mit Paul Horn, Geschäftsführer, Verkauf Schweiz",
+      "type": "interview",
+      "page": "70-73",
+      "pdfPages": [],
+      "summary": "L'entreprise de Bülach développe des systèmes de construction mixte acier-béton : les colonnes Geilinger, plus élancées que des piliers en béton, à surface d'acier et montage par emboîtement, et le système anti-poinçonnement Europilz pour dalles plates. Elle dimensionne elle-même ses produits et est la seule société suisse titulaire d'agréments du Deutsches Institut für Bautechnik. Ses références incluent la tour Roche à Bâle, la couverture de l'A1 à Lenzburg et le siège de Bosch à Renningen ; l'étranger représente environ la moitié du chiffre d'affaires.",
+      "quote": "",
+      "themes": [
+        "construction",
+        "architecture"
+      ],
+      "region": "Bülach",
+      "language": "de",
+      "people": [
+        {
+          "name": "Paul Horn",
+          "role": "Geschäftsführer, Verkauf Schweiz"
+        },
+        {
+          "name": "Dimitrios Tonis",
+          "role": "Managing Director"
+        }
+      ],
+      "companies": [
+        "spannverbund-bausysteme"
+      ]
+    },
+    {
+      "slug": "zurich-swissmem",
+      "title": "Swissmem",
+      "subtitle": "Im Gespräch mit Peter Dietrich, Direktor",
+      "type": "interview",
+      "page": "74-75",
+      "pdfPages": [],
+      "summary": "Le directeur de l'association de l'industrie suisse des machines, des équipements électriques et des métaux (MEM) dresse le portrait d'une branche high-tech qui emploie 327 000 personnes et réalise près de 65 milliards d'exportations, environ un tiers des exportations suisses. Malgré la crise de la dette et le franc fort, elle a maintenu son niveau. Swissmem a conclu en 2013 une nouvelle convention collective pour 560 de ses 1 000 membres et offre conseils, réseaux et formations. Il cite cinq axes d'action et s'oppose à toute restriction de la libre circulation.",
+      "quote": "Die MEM-Industrie präsentiert sich heute als ausgesprochen facettenreiche Hightech-Branche.",
+      "themes": [
+        "industrie",
+        "economie"
+      ],
+      "region": "Zurich",
+      "language": "de",
+      "people": [
+        {
+          "name": "Peter Dietrich",
+          "role": "Direktor"
+        }
+      ],
+      "companies": [
+        "swissmem"
+      ]
+    },
+    {
+      "slug": "zurich-swissmill",
+      "title": "Die Qualitätsmühle mitten in Zürich",
+      "subtitle": "Nachhaltigkeit als Antrieb der grössten Mühle der Schweiz",
+      "type": "publireportage",
+      "page": "76-77",
+      "pdfPages": [],
+      "summary": "Filiale de Coop installée au bord de la Limmat depuis 1843, Swissmill est le plus grand moulin de Suisse : elle traite environ 30 % des céréales alimentaires du pays, soit quelque 220 000 tonnes par an, et produit plus de 100 farines, semoules et flocons. Ses 75 collaborateurs disposent d'un laboratoire et d'une boulangerie d'essai. Les céréales arrivent par train et près de 90 % du blé panifiable est suisse. Son directeur évoque la part bio, la neutralité carbone visée et le projet de rehausser le silo Kornhaus à 118 mètres, approuvé par le peuple en 2011.",
+      "quote": "Das geplante Kornhaus von Swissmill ist mehr als ein Lagersilo.",
+      "themes": [
+        "industrie",
+        "economie"
+      ],
+      "region": "Zurich",
+      "language": "de",
+      "people": [
+        {
+          "name": "Romeo Sciaranetti",
+          "role": "Leiter Swissmill"
+        }
+      ],
+      "companies": [
+        "swissmill"
+      ]
+    },
+    {
+      "slug": "zurich-universitatsspital-zurich",
+      "title": "UniversitätsSpital Zürich",
+      "subtitle": "Im Gespräch mit Spitaldirektorin Rita Ziegler",
+      "type": "interview",
+      "page": "78-80",
+      "pdfPages": [],
+      "summary": "Avec quelque 40 cliniques et instituts et environ 8 000 collaborateurs, l'Hôpital universitaire de Zurich a traité 36 500 patients hospitalisés et plus de 134 000 en ambulatoire. Sa directrice tire un premier bilan des forfaits par cas introduits en 2012, qui reflètent mal la complexité des cas universitaires, et assure que la qualité n'a pas baissé. Elle évoque le renouvellement complet des bâtiments, l'ouverture du Centre universitaire du cœur en 2013, le centre des tumeurs, le futur neurocentre et l'alliance Hochschulmedizin Zürich créée avec l'Université et l'EPF.",
+      "quote": "",
+      "themes": [
+        "sante",
+        "formation"
+      ],
+      "region": "Zurich",
+      "language": "de",
+      "people": [
+        {
+          "name": "Rita Ziegler",
+          "role": "Vorsitzende der Spitaldirektion"
+        }
+      ],
+      "companies": [
+        "universitatsspital-zurich"
+      ]
+    }
+  ],
+  "companies": [
+    {
+      "slug": "stadt-zurich",
+      "name": "Stadt Zürich – Stadtpräsidentin",
+      "sector": "Administration communale",
+      "themes": [
+        "collectivites"
+      ],
+      "description": "Présidence de la Ville de Zurich, qui dirige une administration d'environ 27 000 employés. La ville vise la société à 2000 watts, davantage de logements d'utilité publique et une promotion ciblée des branches d'avenir.",
+      "address": "Stadthausquai 17, Stadthaus, Postfach",
+      "postalCode": "8022",
+      "city": "Zürich",
+      "canton": "ZH",
+      "country": "Suisse",
+      "phone": "+41 (0)44 412 31 20",
+      "email": "",
+      "website": "http://www.stadt-zuerich.ch",
+      "contacts": [
+        {
+          "name": "Corine Mauch",
+          "role": "Stadtpräsidentin"
+        }
+      ],
+      "page": "2-3",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "zurcher-handelskammer",
+      "name": "Zürcher Handelskammer (ZHK)",
+      "sector": "Chambre de commerce",
+      "themes": [
+        "economie"
+      ],
+      "description": "Chambre de commerce fondée en 1873 pour les cantons de Zurich (sans Winterthour), Zoug et Schaffhouse : plus de 1 100 membres employant environ 200 000 personnes. Défense des intérêts économiques, certificats d'origine, carnets ATA, arbitrage selon les Swiss Rules, semaines économiques pour gymnasiens.",
+      "address": "Selnaustrasse 32, Postfach 3058",
+      "postalCode": "8022",
+      "city": "Zürich",
+      "canton": "ZH",
+      "country": "Suisse",
+      "phone": "+41 (0)44 217 40 50",
+      "email": "direktion@zhk.ch",
+      "website": "www.zhk.ch",
+      "contacts": [
+        {
+          "name": "Karin Lenzlinger",
+          "role": "Präsidentin"
+        },
+        {
+          "name": "Regine Sauter",
+          "role": "Direktorin"
+        },
+        {
+          "name": "Beat Zimmermann",
+          "role": "Stv. Direktor"
+        },
+        {
+          "name": "Giulia Bonaldi",
+          "role": "Wirtschaftswochen (giulia.bonaldi@zhk.ch)"
+        },
+        {
+          "name": "Giovanni Montera",
+          "role": "Chef Beglaubigungsdienst (beglaubigung@zhk.ch)"
+        },
+        {
+          "name": "Elena Stancato",
+          "role": "Leiterin Schiedsgerichtsabteilung (arbitration@zhk.ch)"
+        }
+      ],
+      "page": "4-13",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "volkswirtschaftsdirektion-kanton-zurich",
+      "name": "Volkswirtschaftsdirektion des Kantons Zürich",
+      "sector": "Administration cantonale",
+      "themes": [
+        "collectivites",
+        "economie",
+        "mobilite"
+      ],
+      "description": "Direction cantonale de l'économie publique : organisation des transports, marché du travail, conditions de travail et promotion économique via l'Office de l'économie et du travail, avec une stratégie de clusters.",
+      "address": "Neumühlequai 10, Postfach",
+      "postalCode": "8090",
+      "city": "Zürich",
+      "canton": "ZH",
+      "country": "Suisse",
+      "phone": "+41 (43) 259 11 11",
+      "email": "volkswirtschaftsdirektion@vd.zh.ch",
+      "website": "www.vd.zh.ch",
+      "contacts": [
+        {
+          "name": "Ernst Stocker",
+          "role": "Regierungsrat, Vorsteher"
+        }
+      ],
+      "page": "8-9",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "aebi-kuehni",
+      "name": "aebi+kuehni ag",
+      "sector": "Chasse de têtes (executive search)",
+      "themes": [
+        "economie"
+      ],
+      "description": "Boutique d'executive search fondée en 2004 à Zurich par Doris Aebi et René Kuehni. Recherche sur mandat d'administrateurs, CEO, membres de direction et spécialistes clés, sans base de données préétablie et avec un suivi personnel de chaque mandat par les fondateurs.",
+      "address": "Gartenstrasse 36",
+      "postalCode": "8002",
+      "city": "Zürich",
+      "canton": "ZH",
+      "country": "Suisse",
+      "phone": "+41 43 243 99 00",
+      "email": "doris.aebi@aebi-kuehni.ch",
+      "website": "www.aebi-kuehni.ch",
+      "contacts": [
+        {
+          "name": "Doris Aebi",
+          "role": "Cofondatrice"
+        },
+        {
+          "name": "René Kuehni",
+          "role": "Cofondateur (rene.kuehni@aebi-kuehni.ch)"
+        }
+      ],
+      "page": "14-15",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "atelier-10-8",
+      "name": "atelier 10:8 gmbh",
+      "sector": "Bureau d'architecture et d'urbanisme",
+      "themes": [
+        "architecture",
+        "mobilite"
+      ],
+      "description": "Bureau d'architecture zurichois fondé en 2001 (GmbH depuis 2005), 17 collaborateurs, spécialisé à l'interface entre transports publics et espace public. Clients : CFF, Ville de Zurich, cantons de Zurich et d'Argovie ; projets gare d'Oerlikon, Stadtbahn Zug, Limmattalbahn.",
+      "address": "Scheffelstrasse 3",
+      "postalCode": "8037",
+      "city": "Zürich",
+      "canton": "ZH",
+      "country": "Suisse",
+      "phone": "044 240 11 77",
+      "email": "mail@10zu8.ch",
+      "website": "www.10zu8.ch",
+      "contacts": [
+        {
+          "name": "Georg Rinderknecht",
+          "role": "Associé"
+        },
+        {
+          "name": "Katrin Schubiger",
+          "role": "Associée"
+        },
+        {
+          "name": "Jürg Senn",
+          "role": "Associé"
+        }
+      ],
+      "page": "16-19",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "atelier-ww",
+      "name": "atelier ww Architekten SIA AG",
+      "sector": "Bureau d'architectes",
+      "themes": [
+        "architecture",
+        "construction"
+      ],
+      "description": "Bureau d'architectes zurichois d'environ 73 collaborateurs, fondé par Wäschle et Wüst. Spécialiste de la reconversion d'aires industrielles (Löwenbräu, Haldengut, Salmenpark) ; références Tamedia, Radisson Blu aéroport, Messe Zürich et Luzern, soufflerie Sauber.",
+      "address": "Asylstrasse 108, Postfach 2024",
+      "postalCode": "8032",
+      "city": "Zürich",
+      "canton": "ZH",
+      "country": "Suisse",
+      "phone": "+41 (0)44 388 66 66",
+      "email": "buero@atelier-ww.ch",
+      "website": "www.atelier-ww.ch",
+      "contacts": [
+        {
+          "name": "Walter Wäschle",
+          "role": "Mitinhaber"
+        },
+        {
+          "name": "Christoph Schmid",
+          "role": "Mitglied der Geschäftsleitung"
+        }
+      ],
+      "page": "20-23",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "dr-j-grob-partner",
+      "name": "Dr. J. Grob & Partner AG, Bauingenieure SIA/USIC",
+      "sector": "Bureau d'ingénieurs civils",
+      "themes": [
+        "construction"
+      ],
+      "description": "Bureau d'ingénieurs civils (bâtiment, ouvrages d'art, façades, dynamique des structures, expertises) avec siège à Winterthour et succursale à Zurich (Seestrasse 346, 8038 Zürich, +41 (0)44 485 45 45). Projets : Kornhaus Swissmill, Europaallee.",
+      "address": "Technikumstrasse 73",
+      "postalCode": "8400",
+      "city": "Winterthur",
+      "canton": "ZH",
+      "country": "Suisse",
+      "phone": "+41 (0)52 268 02 00",
+      "email": "info@gropar.ch",
+      "website": "http://www.gropar.ch",
+      "contacts": [
+        {
+          "name": "Josef Grob",
+          "role": "Geschäftsleiter"
+        }
+      ],
+      "page": "24-25",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "eberhard-bau",
+      "name": "Eberhard Bau AG (Eberhard Unternehmungen)",
+      "sector": "Génie civil, déconstruction, recyclage",
+      "themes": [
+        "construction",
+        "energie"
+      ],
+      "description": "Entreprise familiale fondée il y a 60 ans comme entreprise de terrassement : génie civil, déconstruction, assainissement de sites contaminés et production de matériaux recyclés (ESAR, Ebirec, BAZO), avec gravière à Weiach et transport ferroviaire.",
+      "address": "Steinackerstrasse 56",
+      "postalCode": "8302",
+      "city": "Kloten",
+      "canton": "ZH",
+      "country": "Suisse",
+      "phone": "+41 43 211 22 10",
+      "email": "eberhard@eberhard.ch",
+      "website": "http://www.eberhard.ch",
+      "contacts": [
+        {
+          "name": "Heinz Eberhard",
+          "role": "VR-Präsident"
+        }
+      ],
+      "page": "26-27",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "elex",
+      "name": "Elex AG",
+      "sector": "Epuration des fumées (électrofiltres)",
+      "themes": [
+        "industrie",
+        "energie"
+      ],
+      "description": "Entreprise fondée en 1934, détenue majoritairement par la famille Meyerhofer, leader mondial des électrofiltres. Elle produit aussi tours de refroidissement, installations de dénitrification catalytique et filtres hybrides pour cimenteries, métallurgie, centrales et incinérateurs.",
+      "address": "Eschenstrasse 6",
+      "postalCode": "8603",
+      "city": "Schwerzenbach",
+      "canton": "ZH",
+      "country": "Suisse",
+      "phone": "+41 44 825 78 78",
+      "email": "elex@elex.ch",
+      "website": "http://www.elex.ch",
+      "contacts": [
+        {
+          "name": "Peter Studer",
+          "role": "Leiter Verkauf"
+        }
+      ],
+      "page": "28-29",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "fabrimex-systems",
+      "name": "Fabrimex Systems AG",
+      "sector": "Informatique industrielle et vision",
+      "themes": [
+        "industrie"
+      ],
+      "description": "Fournisseur d'informatique embarquée, d'ordinateurs industriels, de vision industrielle et d'acquisition de mesures, avec engineering interne et production d'IPC sur mesure via sa filiale taïwanaise Fabrimex Far East (2001).",
+      "address": "Industriestr. 4B, Postfach Schwerzenbach",
+      "postalCode": "8604",
+      "city": "Volketswil",
+      "canton": "ZH",
+      "country": "Suisse",
+      "phone": "+41 (0)44 908 13 60",
+      "email": "kontakt@fabrimex-systems.ch",
+      "website": "www.fabrimex-systems.ch",
+      "contacts": [
+        {
+          "name": "Urs Zimmermann",
+          "role": "Managing Director"
+        }
+      ],
+      "page": "30-31",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "fluckiger-bosshard",
+      "name": "Flückiger + Bosshard AG",
+      "sector": "Bureau d'ingénieurs civils",
+      "themes": [
+        "construction"
+      ],
+      "description": "Bureau d'ingénieurs (origines en 1964, fusion en 1998) actif en génie civil, ouvrages d'art et bâtiments, avec une expertise en technologie des matériaux et assainissement. Références : Hardbrücke, Archives d'Etat de Zurich, gare de Horgen.",
+      "address": "Räffelstrasse 32",
+      "postalCode": "8045",
+      "city": "Zürich",
+      "canton": "ZH",
+      "country": "Suisse",
+      "phone": "+41 43 960 81 20",
+      "email": "info@fbag.ch",
+      "website": "www.fbag.ch",
+      "contacts": [
+        {
+          "name": "Dieter Flückiger",
+          "role": "Membre de la direction"
+        }
+      ],
+      "page": "32-33",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "gebruder-loepfe",
+      "name": "Gebrüder Loepfe AG",
+      "sector": "Systèmes de contrôle pour l'industrie textile",
+      "themes": [
+        "industrie"
+      ],
+      "description": "Entreprise fondée en 1955 à Zurich, leader mondial des purgeurs de fil (YarnMaster) et capteurs pour filatures et tissages. Production exclusivement à Wetzikon, environ 10 % du chiffre d'affaires en R&D, réseau de quelque 90 représentations.",
+      "address": "Kastellstrasse 10, Postfach 582",
+      "postalCode": "8623",
+      "city": "Wetzikon",
+      "canton": "ZH",
+      "country": "Suisse",
+      "phone": "+41 43 488 11 11",
+      "email": "info@loepfe.com",
+      "website": "www.loepfe.com",
+      "contacts": [
+        {
+          "name": "Maurizio Wermelinger",
+          "role": "CEO und Delegierter des Verwaltungsrates"
+        }
+      ],
+      "page": "34-35",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "hardturm",
+      "name": "Hardturm AG",
+      "sector": "Développement et investissement immobilier",
+      "themes": [
+        "architecture",
+        "economie"
+      ],
+      "description": "Société du groupe Albers qui développe des immeubles centraux et de grands projets mixtes : Limmatwest, Hard Turm Park (environ 100 000 m² avec hôtels Sheraton et 25hours), parking Opéra sous le Sechseläutenplatz.",
+      "address": "Schanzengasse 14, Postfach 2016",
+      "postalCode": "8022",
+      "city": "Zürich",
+      "canton": "ZH",
+      "country": "Suisse",
+      "phone": "+41 (0)44 265 29 03",
+      "email": "info@hardturm.com",
+      "website": "www.hardturm.com",
+      "contacts": [
+        {
+          "name": "Vincent Albers",
+          "role": "Verwaltungsratspräsident"
+        }
+      ],
+      "page": "36-39",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "havells-sylvania",
+      "name": "Havells-Sylvania Switzerland AG",
+      "sector": "Lampes et luminaires",
+      "themes": [
+        "energie",
+        "industrie"
+      ],
+      "description": "Filiale suisse du groupe d'éclairage Havells-Sylvania (marques Sylvania, Lumiance, Concord), propriété de l'indien Havells depuis 2007. Vente via le commerce de gros, innovations LED, production européenne à Tienen et Erlangen.",
+      "address": "Schaffhauserstrasse 470",
+      "postalCode": "8052",
+      "city": "Zürich",
+      "canton": "ZH",
+      "country": "Suisse",
+      "phone": "+41 44 305 31 80",
+      "email": "info.ch@havells-sylvania.com",
+      "website": "www.havells-sylvania.com",
+      "contacts": [
+        {
+          "name": "Thomas Rauscher",
+          "role": "Geschäftsführer"
+        }
+      ],
+      "page": "40-41",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "h-net",
+      "name": "H-Net AG",
+      "sector": "Plateforme d'échange de données eHealth",
+      "themes": [
+        "sante"
+      ],
+      "description": "Principale plateforme suisse d'échange électronique de données de santé, reliant environ 200 hôpitaux, assureurs, laboratoires, instituts de radiologie et plus de 10 000 médecins. Intégrateur IHE, partenaire du logiciel de cabinet E-Medicus.",
+      "address": "Stampfenbachstrasse 40",
+      "postalCode": "8006",
+      "city": "Zürich",
+      "canton": "ZH",
+      "country": "Suisse",
+      "phone": "+41 43 222 61 90",
+      "email": "info@h-net.ch",
+      "website": "www.h-net.ch",
+      "contacts": [
+        {
+          "name": "Michael Ziegler",
+          "role": "Geschäftsführer"
+        }
+      ],
+      "page": "42-43",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "imt-masken-und-teilungen",
+      "name": "IMT Masken und Teilungen AG",
+      "sector": "Microstructures et couches minces sur verre",
+      "themes": [
+        "industrie"
+      ],
+      "description": "Entreprise fondée en 1959, spécialiste de la photolithographie sur verre (traits jusqu'à 150 nm) pour encodeurs, réticules, optique médicale et aérospatiale. Salle blanche de 1 200 m², 75 collaborateurs.",
+      "address": "Im Langacher",
+      "postalCode": "8606",
+      "city": "Greifensee",
+      "canton": "ZH",
+      "country": "Suisse",
+      "phone": "+41 (0)44 943 19 00",
+      "email": "",
+      "website": "www.imtag.ch",
+      "contacts": [
+        {
+          "name": "Jean-François Willemin",
+          "role": "Geschäftsleiter"
+        }
+      ],
+      "page": "44-45",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "itpc",
+      "name": "ITPC AG",
+      "sector": "Conseil et exploitation SAP",
+      "themes": [
+        "economie"
+      ],
+      "description": "Société fondée en 2003, avec filiale ITPC India depuis 2010, plus de 25 collaborateurs : conseil technologique SAP, exploitation, helpdesk, hébergement en Suisse, offshoring ; plus de 250 projets SAP.",
+      "address": "Freihofstrasse 14",
+      "postalCode": "8048",
+      "city": "Zürich",
+      "canton": "ZH",
+      "country": "Suisse",
+      "phone": "+41 (0)43 818 67 83",
+      "email": "office@itpc.ch",
+      "website": "www.itpc.ch",
+      "contacts": [
+        {
+          "name": "Vincenzo Boesch",
+          "role": "CEO und Technology Lead"
+        }
+      ],
+      "page": "46-47",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "jakob-stiefel",
+      "name": "Jakob Stiefel GmbH",
+      "sector": "Installations de valorisation thermique des déchets",
+      "themes": [
+        "energie",
+        "industrie"
+      ],
+      "description": "Entreprise spécialisée dans les grilles de combustion refroidies à l'eau pour l'incinération des déchets, de la biomasse et des combustibles de substitution, fournisseur d'installations complètes ; active en Italie et en Asie.",
+      "address": "Hofstrasse 87",
+      "postalCode": "8620",
+      "city": "Wetzikon",
+      "canton": "ZH",
+      "country": "Suisse",
+      "phone": "+41 44 576 01 00",
+      "email": "info@jstiefelgmbh.ch",
+      "website": "www.jstiefelgmbh.ch",
+      "contacts": [
+        {
+          "name": "Martin Stiefel",
+          "role": "Geschäftsführer"
+        }
+      ],
+      "page": "48-49",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "klinik-susenberg",
+      "name": "Klinik Susenberg",
+      "sector": "Clinique de gériatrie aiguë, réadaptation oncologique et soins palliatifs",
+      "themes": [
+        "sante"
+      ],
+      "description": "Clinique spécialisée au Zürichberg, sur la liste hospitalière zurichoise, combinant gériatrie aiguë, réadaptation oncologique interne et soins palliatifs ; label « qualitépalliative » depuis 2012.",
+      "address": "Schreberweg 9",
+      "postalCode": "8044",
+      "city": "Zürich",
+      "canton": "ZH",
+      "country": "Suisse",
+      "phone": "+41 (0)44 268 38 38",
+      "email": "info@susenbergklinik.ch",
+      "website": "www.susenbergklinik.ch",
+      "contacts": [
+        {
+          "name": "Christel Nigg",
+          "role": "Leitende Ärztin"
+        },
+        {
+          "name": "Nic Zerkiebel",
+          "role": "Chefarzt"
+        }
+      ],
+      "page": "50-53",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "lernpaedagogisches-zentrum",
+      "name": "Lernpädagogisches Zentrum AG (LPZ)",
+      "sector": "Ecole privée et soutien scolaire",
+      "themes": [
+        "formation"
+      ],
+      "description": "Ecole privée reconnue par l'Etat pour élèves en difficulté (4e primaire à 10e année), avec cours d'appui, préparation aux examens d'entrée, bilans scolaires et orientation professionnelle.",
+      "address": "Kreuzplatz 2",
+      "postalCode": "8032",
+      "city": "Zürich",
+      "canton": "ZH",
+      "country": "Suisse",
+      "phone": "+41 (0)44 252 39 00",
+      "email": "lpz@lpz-zh.ch",
+      "website": "www.lpz-zh.ch",
+      "contacts": [
+        {
+          "name": "Ruth Gisler",
+          "role": "Schulleitung"
+        },
+        {
+          "name": "Claude Jubin",
+          "role": "Stellvertreter Schulleitung"
+        }
+      ],
+      "page": "54-57",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "luzi",
+      "name": "LUZI AG",
+      "sector": "Compositions parfumées",
+      "themes": [
+        "industrie"
+      ],
+      "description": "Créateur et producteur de compositions parfumées pour parfums, cosmétiques, produits ménagers et parfums d'ambiance ; plus de 900 nouvelles compositions par an, production automatisée certifiée ISO 9001.",
+      "address": "Industriestrasse 9",
+      "postalCode": "8305",
+      "city": "Dietlikon",
+      "canton": "ZH",
+      "country": "Suisse",
+      "phone": "+41 44 835 76 76",
+      "email": "info@luzi.ch",
+      "website": "http://www.luzi.ch",
+      "contacts": [
+        {
+          "name": "Jürg Koller",
+          "role": "Geschäftsführer"
+        }
+      ],
+      "page": "58-59",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "medizinisches-zentrum-roemerhof",
+      "name": "Medizinisches Zentrum Römerhof (MZR)",
+      "sector": "Centre médical",
+      "themes": [
+        "sante"
+      ],
+      "description": "Centre médical zurichois réunissant médecine interne, rhumatologie, neurologie, psychiatrie, physiothérapie et angiologie ; bilans de prévention, consultations obésité, bilans préopératoires et expertises pour les assurances sociales.",
+      "address": "Klosbachstrasse 116",
+      "postalCode": "8032",
+      "city": "Zürich",
+      "canton": "ZH",
+      "country": "Suisse",
+      "phone": "+41 43 244 81 61",
+      "email": "info@mzr.ch",
+      "website": "http://www.mzr.ch",
+      "contacts": [
+        {
+          "name": "Galleon Graetz",
+          "role": "Facharzt FMH für Innere Medizin"
+        }
+      ],
+      "page": "60-61",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "meworla",
+      "name": "Meworla GmbH",
+      "sector": "Systèmes d'information et CRM",
+      "themes": [
+        "economie"
+      ],
+      "description": "Société fondée en 2006 qui conseille entreprises et associations et développe des applications de bases de données, dont le CRM Addressix utilisé par de nombreuses associations ; migrations de données.",
+      "address": "Friedheimstrasse 15",
+      "postalCode": "8057",
+      "city": "Zürich",
+      "canton": "ZH",
+      "country": "Suisse",
+      "phone": "+41 44 310 24 47",
+      "email": "info@meworla.com",
+      "website": "www.meworla.com",
+      "contacts": [
+        {
+          "name": "Michael Baumer",
+          "role": "Geschäftsführer"
+        }
+      ],
+      "page": "62-63",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "nilan",
+      "name": "Nilan AG",
+      "sector": "Ventilation et pompes à chaleur",
+      "themes": [
+        "energie",
+        "construction"
+      ],
+      "description": "Filiale suisse du fabricant danois Nilan (fondé en 1974) qui propose des appareils de ventilation et des pompes à chaleur économes en énergie, dont des modèles certifiés pour maisons passives ; présent dans 17 pays européens et en Amérique du Nord.",
+      "address": "Schützenstrasse 33",
+      "postalCode": "8902",
+      "city": "Urdorf",
+      "canton": "ZH",
+      "country": "Suisse",
+      "phone": "+41 44 736 50 00",
+      "email": "info@nilan.ch",
+      "website": "www.nilan.ch",
+      "contacts": [
+        {
+          "name": "Stina Andersen",
+          "role": "Geschäftsführerin"
+        }
+      ],
+      "page": "64-65",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "poyry-schweiz",
+      "name": "Pöyry Schweiz AG",
+      "sector": "Ingénierie et conseil",
+      "themes": [
+        "energie",
+        "construction",
+        "mobilite"
+      ],
+      "description": "Filiale suisse du groupe Pöyry (environ 6 500 experts), 700 collaborateurs sur six sites : énergie, hydroélectricité, tunnels (Gothard), transports, eau et environnement, conseil en management.",
+      "address": "Hardturmstrasse 161, P.O.Box",
+      "postalCode": "8037",
+      "city": "Zürich",
+      "canton": "ZH",
+      "country": "Suisse",
+      "phone": "+41 (0)44 355 55 55",
+      "email": "info.ch@poyry.com",
+      "website": "http://www.poyry.ch",
+      "contacts": [
+        {
+          "name": "Martin Bachmann",
+          "role": "Verwaltungsratspräsident"
+        }
+      ],
+      "page": "66-69",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "spannverbund-bausysteme",
+      "name": "Spannverbund Bausysteme GmbH",
+      "sector": "Systèmes de construction mixte acier-béton",
+      "themes": [
+        "construction"
+      ],
+      "description": "Fabricant des colonnes mixtes Geilinger et du système anti-poinçonnement Europilz, titulaire d'agréments allemands DIBt ; références en Suisse (tour Roche) et à l'étranger, qui représente environ la moitié du chiffre d'affaires.",
+      "address": "Feldstrasse 66",
+      "postalCode": "8180",
+      "city": "Bülach",
+      "canton": "ZH",
+      "country": "Suisse",
+      "phone": "+41 44 862 52 00",
+      "email": "info@spannverbund.ch",
+      "website": "www.spannverbund.ch",
+      "contacts": [
+        {
+          "name": "Paul Horn",
+          "role": "Geschäftsführer, Verkauf Schweiz"
+        },
+        {
+          "name": "Dimitrios Tonis",
+          "role": "Managing Director"
+        }
+      ],
+      "page": "70-73",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "swissmem",
+      "name": "Swissmem",
+      "sector": "Association de l'industrie MEM",
+      "themes": [
+        "industrie",
+        "economie"
+      ],
+      "description": "Association faîtière de l'industrie suisse des machines, des équipements électriques et des métaux (environ 1 000 entreprises membres) ; la branche emploie 327 000 personnes. Conseil juridique, formation des cadres, convention collective, lobbying.",
+      "address": "Pfingstweidstrasse 102",
+      "postalCode": "8005",
+      "city": "Zürich",
+      "canton": "ZH",
+      "country": "Suisse",
+      "phone": "+41 44 384 41 11",
+      "email": "info@swissmem.ch",
+      "website": "www.swissmem.ch",
+      "contacts": [
+        {
+          "name": "Peter Dietrich",
+          "role": "Direktor"
+        }
+      ],
+      "page": "74-75",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "swissmill",
+      "name": "Swissmill – Division der Coop Genossenschaft",
+      "sector": "Meunerie",
+      "themes": [
+        "industrie"
+      ],
+      "description": "Plus grand moulin de Suisse, installé sur la Limmat depuis 1843 et filiale de Coop : environ 220 000 tonnes de céréales par an, plus de 100 produits, 75 collaborateurs, approvisionnement ferroviaire et projet de silo Kornhaus de 118 mètres.",
+      "address": "Sihlquai 306, Postfach",
+      "postalCode": "8037",
+      "city": "Zürich",
+      "canton": "ZH",
+      "country": "Suisse",
+      "phone": "+41 (0)44 447 25 25",
+      "email": "",
+      "website": "www.swissmill.ch",
+      "contacts": [
+        {
+          "name": "Romeo Sciaranetti",
+          "role": "Leiter"
+        }
+      ],
+      "page": "76-77",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "universitatsspital-zurich",
+      "name": "UniversitätsSpital Zürich (USZ)",
+      "sector": "Hôpital universitaire",
+      "themes": [
+        "sante",
+        "formation"
+      ],
+      "description": "Hôpital universitaire d'environ 40 cliniques et instituts et 8 000 collaborateurs ; Centre universitaire du cœur, centre des tumeurs, neurocentre, membre fondateur de Hochschulmedizin Zürich.",
+      "address": "Rämistrasse 100",
+      "postalCode": "8091",
+      "city": "Zürich",
+      "canton": "ZH",
+      "country": "Suisse",
+      "phone": "+41 44 255 11 11",
+      "email": "",
+      "website": "www.usz.ch",
+      "contacts": [
+        {
+          "name": "Rita Ziegler",
+          "role": "Vorsitzende der Spitaldirektion"
+        }
+      ],
+      "page": "78-80",
+      "pdfPages": [],
+      "advertiserOnly": false
+    }
+  ]
+}

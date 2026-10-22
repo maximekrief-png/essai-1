@@ -1,0 +1,1337 @@
+{
+  "slug": "arc-lemanique",
+  "title": "Swiss Knowhow – Arc lémanique (septembre 2019)",
+  "series": "Économie régionale",
+  "year": 2019,
+  "region": "Arc lémanique – districts de Nyon et de Morges",
+  "languages": [
+    "fr",
+    "en"
+  ],
+  "description": "Edition de septembre 2019 consacrée à La Côte vaudoise. Le comité de direction de la Région de Nyon y présente ses politiques de mobilité, de territoire, d'environnement, d'économie et de culture, puis les syndics de Morges, Saint-Prex, Aubonne, Cossonay et Préverenges évoquent les projets de leur commune. Une seconde partie réunit des portraits d'entreprises régionales : architectes, transports publics, construction, énergie, formation et logiciels industriels.",
+  "themes": [
+    "collectivites",
+    "territoire",
+    "mobilite",
+    "architecture",
+    "construction",
+    "energie"
+  ],
+  "files": [
+    {
+      "driveId": "1ISHbkALTSn-C3a7xKLo8YokXjAzWgde6",
+      "name": "SWISS_ARC_LEMANIQUE-v7-web.pdf",
+      "sizeMB": 7.0,
+      "label": "Édition web"
+    }
+  ],
+  "pdfLocal": false,
+  "articles": [
+    {
+      "slug": "arc-lemanique-region-de-nyon-gerald-cretegny",
+      "title": "La Région de Nyon, un laboratoire de la démocratie représentative",
+      "subtitle": "Interview de Gérald Cretegny, président de la Région de Nyon, syndic de Gland",
+      "type": "interview",
+      "page": "2",
+      "pdfPages": [],
+      "summary": "Président de la Région de Nyon depuis 2011, Gérald Cretegny explique pourquoi les communes, devenues trop petites face aux défis actuels, ont besoin de cette association intercommunale pilotée par un comité de neuf membres organisé en dicastères. Il cite la refonte des lignes de bus, qui a fait croître la fréquentation de 34 % en cinq ans, le soutien à la culture, au tourisme et à l'innovation, et la participation au Grand Genève (gares, Léman Express). Il évoque les défis à venir : le repli de certaines communes sous la pression budgétaire, l'application de la loi sur l'aménagement du territoire et l'urgence environnementale.",
+      "quote": "Elle agit comme un laboratoire de la démocratie représentative.",
+      "themes": [
+        "collectivites",
+        "territoire",
+        "mobilite"
+      ],
+      "region": "District de Nyon",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Gérald Cretegny",
+          "role": "Président de la Région de Nyon, syndic de Gland"
+        }
+      ],
+      "companies": [
+        "region-de-nyon"
+      ]
+    },
+    {
+      "slug": "arc-lemanique-region-de-nyon-pierre-graber",
+      "title": "La Région de Nyon, une pionnière en matière de mobilité",
+      "subtitle": "Interview de Pierre Graber, responsable de la mobilité au sein du comité de direction, syndic de Saint-Cergue",
+      "type": "interview",
+      "page": "3",
+      "pdfPages": [],
+      "summary": "Les 24 lignes de bus du district transportent plus de 7,5 millions de voyageurs par an, une offre réorganisée après la fermeture de plusieurs petites gares en 2002 et assurée par CarPostal et les TPN. Pierre Graber annonce l'extension des bus de nuit, l'augmentation des cadences aux heures de pointe et le développement du réseau cyclable, freiné par la protection des terres agricoles. Il évoque l'adaptation des jonctions autoroutières et des gares de Coppet, Rolle et Nyon d'ici 2025, l'extension des vélos en libre-service à 50 stations, les plans de mobilité d'entreprise et un carnet d'avantages loisirs.",
+      "quote": "",
+      "themes": [
+        "mobilite",
+        "collectivites"
+      ],
+      "region": "District de Nyon",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Pierre Graber",
+          "role": "Responsable de la mobilité, syndic de Saint-Cergue"
+        }
+      ],
+      "companies": [
+        "region-de-nyon"
+      ]
+    },
+    {
+      "slug": "arc-lemanique-region-de-nyon-frederic-mani",
+      "title": "Maîtriser la densification du territoire",
+      "subtitle": "Interview de Frédéric Mani, responsable politique de la planification territoriale, syndic de Dully",
+      "type": "interview",
+      "page": "4",
+      "pdfPages": [],
+      "summary": "Entre lac, Jura et frontières genevoise et française, le district de Nyon offre une grande diversité géographique et économique (agriculture, pharma, aéronautique). Sa population est passée de 70 000 à 100 000 habitants en quinze ans, la plus forte hausse du canton. Frédéric Mani décrit la mission de coordination confiée à la Région par les communes : intégrer services et espaces verts à la densification, favoriser les transports publics et la mobilité douce, préserver des corridors biologiques et planifier des zones artisanales intercommunales. Le principal enjeu reste de concilier autonomie et solidarité des communes.",
+      "quote": "C'est tout un art de concilier leur autonomie et leur solidarité !",
+      "themes": [
+        "territoire",
+        "collectivites"
+      ],
+      "region": "District de Nyon",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Frédéric Mani",
+          "role": "Responsable de la planification territoriale, syndic de Dully"
+        }
+      ],
+      "companies": [
+        "region-de-nyon"
+      ]
+    },
+    {
+      "slug": "arc-lemanique-region-de-nyon-gudrun-russig",
+      "title": "Protéger l'environnement pour une meilleure qualité de vie",
+      "subtitle": "Interview de Gudrun Russig, responsable de l'environnement au sein du comité de direction, municipale à Signy-Avenex",
+      "type": "interview",
+      "page": "5",
+      "pdfPages": [],
+      "summary": "La Région de Nyon soutient les réseaux agro-écologiques, les corridors biologiques, la renaturation des cours d'eau et la lutte contre les plantes invasives. Gudrun Russig présente la restauration du Bois de Chênes, dotée de 300 000 francs, qui protège des coléoptères rares vivant sur les chênes centenaires et sert de lieu de sensibilisation pour les écoles. Elle évoque le Zoo de la Garenne, l'objectif de réduire de 40 % les émissions de CO2 d'ici 2030 avec le Grand Genève, le projet de « corridors noirs » contre la pollution lumineuse et les Assises européennes de la transition énergétique.",
+      "quote": "Un simple mégot de cigarette peut polluer un m³ d'eau à lui tout seul !",
+      "themes": [
+        "energie",
+        "territoire",
+        "collectivites"
+      ],
+      "region": "District de Nyon",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Gudrun Russig",
+          "role": "Responsable de l'environnement, municipale à Signy-Avenex"
+        }
+      ],
+      "companies": [
+        "region-de-nyon"
+      ]
+    },
+    {
+      "slug": "arc-lemanique-region-de-nyon-daniel-rossellat",
+      "title": "Maintenir la diversité économique de la région",
+      "subtitle": "Interview de Daniel Rossellat, vice-président de la Région de Nyon et responsable de l'économie, syndic de Nyon",
+      "type": "interview",
+      "page": "6",
+      "pdfPages": [],
+      "summary": "Un million de personnes vivent à moins de 30 minutes de Nyon, et le district compte désormais plus de 100 000 habitants et 45 000 emplois, ceux-ci croissant plus vite que la population. Sans subventions ni réserves foncières importantes, la Région agit surtout sur les conditions-cadres : filière bois locale, Maison des Vins à Mont-sur-Rolle, accueil d'entreprises de recherche agronomique, planification des zones d'activités. Son Prix à l'innovation de 50 000 francs a distingué notamment Sensima Inspections, Marquise Technologies et Aquama. Daniel Rossellat insiste sur la diversité des branches et le soutien à l'apprentissage dual.",
+      "quote": "Il est crucial de préserver sur notre territoire la diversité des entreprises, des branches d'activité, des types d'emplois et des formations.",
+      "themes": [
+        "economie",
+        "collectivites",
+        "formation"
+      ],
+      "region": "District de Nyon",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Daniel Rossellat",
+          "role": "Vice-président de la Région de Nyon, syndic de Nyon"
+        }
+      ],
+      "companies": [
+        "region-de-nyon"
+      ]
+    },
+    {
+      "slug": "arc-lemanique-region-de-nyon-gerard-produit",
+      "title": "Fédérer les acteurs au service du rayonnement régional",
+      "subtitle": "Interview de Gérard Produit, responsable de la culture, du tourisme et du sport, syndic de Coppet",
+      "type": "interview",
+      "page": "7",
+      "pdfPages": [],
+      "summary": "Du sommet de la Dôle aux rives du Léman, le district séduit par ses paysages, ses châteaux et ses festivals, de Visions du Réel au Paléo. Gérard Produit explique que la taxe de séjour finance l'office du tourisme, qui mise sur le tourisme de nature, les produits du terroir, la Maison des Vins, le Bois de Chênes et le Zoo de la Garenne agrandi. Depuis 2011, la Région soutient quatre institutions culturelles majeures et encourage les spectacles hors les murs dans les villages. En sport, elle aide les jeunes d'élite et les manifestations régionales comme le Triathlon de Nyon ou le VéloPoDôle.",
+      "quote": "",
+      "themes": [
+        "territoire",
+        "collectivites"
+      ],
+      "region": "District de Nyon",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Gérard Produit",
+          "role": "Responsable culture, tourisme et sport, syndic de Coppet"
+        }
+      ],
+      "companies": [
+        "region-de-nyon"
+      ]
+    },
+    {
+      "slug": "arc-lemanique-morges-vincent-jaques",
+      "title": "Morges – Une ville en pleine mutation",
+      "subtitle": "Interview de Vincent Jaques, syndic de la ville",
+      "type": "interview",
+      "page": "8",
+      "pdfPages": [],
+      "summary": "Partie prenante de l'agglomération Lausanne-Morges, Morges vit une mutation inédite depuis quarante ans : sa population devrait atteindre 18 000 habitants d'ici deux à cinq ans. Le syndic présente les projets du secteur de la gare, « Le Quartier des Halles » et « L'îlot sud », qui accueilleront plus d'un millier d'habitants avec école, crèche et appartements protégés, ainsi que l'agrandissement du pôle de Beausobre pour une quarantaine de millions. Il évoque la modernisation de l'administration avec des délégués thématiques, la mobilité régionale et le futur contournement autoroutier.",
+      "quote": "L'enjeu maintenant, c'est de faire croître notre ville tout en lui gardant son identité et sa grande qualité de vie.",
+      "themes": [
+        "collectivites",
+        "territoire",
+        "mobilite"
+      ],
+      "region": "Morges",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Vincent Jaques",
+          "role": "Syndic de Morges"
+        }
+      ],
+      "companies": [
+        "ville-de-morges"
+      ]
+    },
+    {
+      "slug": "arc-lemanique-morges-promotion-economique",
+      "title": "Promotion économique – « L'économie morgienne est la pièce d'un puzzle entre Lausanne et Genève »",
+      "subtitle": "Interview de Pascal Rocha da Silva, délégué à la promotion économique de la Ville de Morges",
+      "type": "interview",
+      "page": "9",
+      "pdfPages": [],
+      "summary": "En poste depuis 2017, un délégué à la promotion économique partagé entre la Ville de Morges et l'ARCAM fait le lien entre autorités et entreprises. Morges offre environ 8 350 emplois, répartis entre commerce local, multinationales et PME. Pascal Rocha da Silva décrit les actions menées avec les commerçants, le suivi des multinationales et l'accompagnement des PME dans leur recherche de locaux. Il cite l'arrivée en 2020 de la biopharma Incyte, qui pourrait employer plus de 400 personnes, et le potentiel de synergies dans le secteur Saint-Prex-Allaman, qui compte 4 000 emplois.",
+      "quote": "Il faut penser l'économie morgienne comme une pièce d'un puzzle qui va de Lausanne à Genève.",
+      "themes": [
+        "economie",
+        "collectivites"
+      ],
+      "region": "Morges",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Pascal Rocha da Silva",
+          "role": "Délégué à la promotion économique"
+        }
+      ],
+      "companies": [
+        "ville-de-morges"
+      ]
+    },
+    {
+      "slug": "arc-lemanique-morges-livre-sur-les-quais",
+      "title": "Le Livre sur les quais célèbre la littérature sous toutes ses formes",
+      "subtitle": "Interview de Christelle Joly, cheffe de l'Office de la culture de la Ville de Morges",
+      "type": "interview",
+      "page": "10",
+      "pdfPages": [],
+      "summary": "Créé en 2009 sur le modèle du Livre sur la place de Nancy, le festival morgien réunit auteurs et lecteurs au bord du lac lors de la rentrée littéraire. Il accueille près de 300 auteurs et plus de 40 000 visiteurs en trois jours, pour une ville de 16 000 habitants. Pour sa dixième édition en 2019, il mise sur les tables rondes, rend hommage à ses anciens présidents, célèbre la littérature romande et propose des croisières sur les bateaux Belle Epoque de la CGN. Librairies, bibliothèque, musées et cinéma s'associent à la manifestation.",
+      "quote": "C'est vraiment la littérature sous toutes ses formes que nous tenons à célébrer.",
+      "themes": [
+        "territoire",
+        "collectivites"
+      ],
+      "region": "Morges",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Christelle Joly",
+          "role": "Cheffe de l'Office de la culture"
+        }
+      ],
+      "companies": [
+        "ville-de-morges"
+      ]
+    },
+    {
+      "slug": "arc-lemanique-saint-prex-daniel-mosini",
+      "title": "Saint-Prex, bijou du Léman",
+      "subtitle": "Rencontre avec Daniel Mosini, syndic",
+      "type": "portrait",
+      "page": "11",
+      "pdfPages": [],
+      "summary": "Fondé en 1234, le bourg médiéval de Saint-Prex, lauréat du Prix Wakker, compte 5 850 habitants, cinq kilomètres et demi de rives et une trentaine de sociétés locales. Son développement remonte à l'ouverture de la verrerie en 1911. La commune veut une densification harmonieuse avec quelque 7 000 habitants en 2030 : réaménagement du quartier de la Gare, résidence pour seniors au Motty, Bain-des-Hommes et piscine scolaire prévue en 2020. Labellisée Cité de l'énergie, elle a créé un chauffage à pellets et espère des voies vertes vers Préverenges.",
+      "quote": "Laissons dire et faisons bien.",
+      "themes": [
+        "collectivites",
+        "territoire"
+      ],
+      "region": "Saint-Prex",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Daniel Mosini",
+          "role": "Syndic de Saint-Prex"
+        }
+      ],
+      "companies": [
+        "commune-de-saint-prex"
+      ]
+    },
+    {
+      "slug": "arc-lemanique-aubonne-luc-etienne-rossier",
+      "title": "Aubonne – Grandir modérément, tout en gardant son identité",
+      "subtitle": "Rencontre avec Luc-Étienne Rossier, syndic",
+      "type": "interview",
+      "page": "12",
+      "pdfPages": [],
+      "summary": "Connue pour son grand magasin de meubles, Aubonne compte 3 300 habitants et fusionnera avec Montherod en 2021. Son syndic veut une croissance mesurée grâce au nouveau plan général d'affectation. Il présente la future caserne régionale des pompiers couvrant 28 communes, l'extension des bâtiments scolaires et l'étude d'un évitement routier pour les poids lourds. Il cite les acteurs économiques majeurs, IKEA, Merck et la Société électrique des forces de l'Aubonne, ainsi qu'un projet de pôle bois pour valoriser les 500 hectares de forêts communales.",
+      "quote": "",
+      "themes": [
+        "collectivites",
+        "territoire"
+      ],
+      "region": "Aubonne",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Luc-Étienne Rossier",
+          "role": "Syndic d'Aubonne"
+        }
+      ],
+      "companies": [
+        "commune-d-aubonne"
+      ]
+    },
+    {
+      "slug": "arc-lemanique-cossonay-georges-rime",
+      "title": "Cossonay – Objectif : rester un pôle régional fort",
+      "subtitle": "Interview de Georges Rime, syndic",
+      "type": "interview",
+      "page": "13",
+      "pdfPages": [],
+      "summary": "Malgré la perte de son statut de chef-lieu en 2008, Cossonay entend rester un centre régional fort pour le nord du district de Morges. Elle vient de dépasser 4 000 habitants et en attend 4 500 d'ici cinq à sept ans. Le syndic, qui préside aussi l'ARCAM, présente le complexe scolaire des Chavannes avec piscine couverte intercommunale prévu pour 2021, un nouvel EMS d'une cinquantaine de lits et la sauvegarde du cinéma. Il évoque le funiculaire, le développement des bus, la nouvelle route d'accès à l'autoroute et un projet pilote de 30 km/h nocturne.",
+      "quote": "",
+      "themes": [
+        "collectivites",
+        "territoire",
+        "mobilite"
+      ],
+      "region": "Cossonay",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Georges Rime",
+          "role": "Syndic de Cossonay, président de l'ARCAM"
+        }
+      ],
+      "companies": [
+        "commune-de-cossonay"
+      ]
+    },
+    {
+      "slug": "arc-lemanique-preverenges-guy-delacretaz",
+      "title": "Préverenges, l'harmonieuse",
+      "subtitle": "Interview de Guy Delacrétaz, syndic",
+      "type": "interview",
+      "page": "14",
+      "pdfPages": [],
+      "summary": "Avec 5 300 habitants, Préverenges mise sur une stratégie du « Bien-Vivre » face à la croissance de l'agglomération Lausanne-Morges. La commune a racheté un ensemble de bâtiments du centre pour en préserver le caractère, aménage une maison de commune dans une bâtisse du XVIIIe siècle et étudie un parking souterrain pour désengorger sa plage. Elle a renaturé le Bief avec Morges, soutient un lieu didactique ornithologique, a créé une cinquantaine de places parascolaires en un temps record et prépare un projet intergénérationnel avec garderie et logements pour aînés.",
+      "quote": "",
+      "themes": [
+        "collectivites",
+        "territoire"
+      ],
+      "region": "Préverenges",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Guy Delacrétaz",
+          "role": "Syndic de Préverenges"
+        }
+      ],
+      "companies": [
+        "commune-de-preverenges"
+      ]
+    },
+    {
+      "slug": "arc-lemanique-atelier-94-architecture",
+      "title": "Atelier 94 Architecture SA – Dessiner le futur de la ville de Nyon",
+      "subtitle": "",
+      "type": "publireportage",
+      "page": "16-17",
+      "pdfPages": [],
+      "summary": "Fondé en 1994 à Arzier par Georges Tornier et Véronique Viret, le bureau Atelier 94 Architecture emploie 27 collaborateurs et forme des apprentis. Il a présenté de sa propre initiative le projet urbanistique « Mieux Vivre à Nyon Dessus/Dessous », vision à vingt ans qui enterre parkings et trafic sous la place Perdtemps et la place de la Gare, relie le nord et le sud de la ville et réaménage les rives. L'exposition a attiré 600 visiteurs, les autorités restant plus réservées ; le bureau propose des financements en partenariat public-privé. Il réalise aussi la résidence Les Cottages à Nyon via son entreprise générale Movito.",
+      "quote": "Il faut imaginer que c'est une vision à 20 ans.",
+      "themes": [
+        "architecture",
+        "territoire"
+      ],
+      "region": "Arzier, Nyon",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Georges Tornier",
+          "role": "Fondateur"
+        },
+        {
+          "name": "Véronique Viret",
+          "role": "Cofondatrice"
+        },
+        {
+          "name": "Philippe Tornier",
+          "role": "Responsable commercial"
+        },
+        {
+          "name": "Lorenzo Cistellini",
+          "role": "Architecte"
+        },
+        {
+          "name": "Nadine Mousties",
+          "role": "Architecte"
+        }
+      ],
+      "companies": [
+        "atelier-94-architecture"
+      ]
+    },
+    {
+      "slug": "arc-lemanique-nstcm",
+      "title": "Chemin de fer Nyon - St-Cergue - Morez à un tournant de son histoire",
+      "subtitle": "",
+      "type": "publireportage",
+      "page": "18",
+      "pdfPages": [],
+      "summary": "Juste après son centenaire, la compagnie ferroviaire Nyon-St-Cergue-Morez va investir 300 millions de francs en douze ans grâce aux fonds fédéraux, notamment le FAIF. Le programme commence par un nouveau dépôt à Trélex, puis la mise à niveau des haltes et gares, la réfection des voies et l'acquisition de six nouvelles rames Stadler. La ligne à voie métrique de 27 km, devenue RER au quart d'heure entre Nyon et Genolier, a transporté 1,28 million de voyageurs en 2017. Son directeur évoque aussi la modernisation de la gouvernance de l'entreprise.",
+      "quote": "Jamais encore on n'avait engagé autant d'argent sur la ligne, dont le visage va complètement changer.",
+      "themes": [
+        "mobilite"
+      ],
+      "region": "Nyon",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Richard Zaugg",
+          "role": "Directeur général"
+        }
+      ],
+      "companies": [
+        "nstcm"
+      ]
+    },
+    {
+      "slug": "arc-lemanique-tpn",
+      "title": "Les Transports publics de la région nyonnaise SA (TPN) – Croissance positive et continue",
+      "subtitle": "",
+      "type": "publireportage",
+      "page": "19",
+      "pdfPages": [],
+      "summary": "Filiale du chemin de fer Nyon-St-Cergue-Morez, les TPN ont transporté plus de 3,1 millions de passagers en 2017, vingt fois plus qu'il y a vingt ans. Ils exploitent cinq lignes urbaines, quatre suburbaines et une transfrontalière. Un nouveau centre de gestion du trafic (SAEIV), piloté par des conducteurs, régule les bus en temps réel et informe les passagers. La société a acquis deux bus articulés de 18 mètres et un dépôt à la Ballastière à Gland, et étudie des navettes électriques pour le centre de Nyon.",
+      "quote": "",
+      "themes": [
+        "mobilite"
+      ],
+      "region": "Nyon",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Richard Zaugg",
+          "role": "Directeur"
+        }
+      ],
+      "companies": [
+        "tpn"
+      ]
+    },
+    {
+      "slug": "arc-lemanique-coretra",
+      "title": "Coretra SA – Pour une architecture rationnelle et fonctionnelle",
+      "subtitle": "",
+      "type": "publireportage",
+      "page": "20-21",
+      "pdfPages": [],
+      "summary": "Héritier d'un bureau d'études fondé en 1990 et transformé en atelier d'architecture par Angelo Boscardin, rejoint par son frère Flavio, Coretra SA compte 26 collaborateurs et gère une soixantaine de dossiers. Son entreprise générale Coretra Réalisations Sàrl, créée en 2004, permet des prix forfaitaires. Le bureau privilégie béton, verre, bois et métal et soigne l'orientation et la lumière. Réalisations citées : bureaux du Paléo Festival, chantier naval Huning, bâtiment mixte en bois route de Saint-Cergue, 57 logements à Vich, UAPE à Gingins, église catholique de Gland et manufacture Hublot à Nyon.",
+      "quote": "",
+      "themes": [
+        "architecture",
+        "construction"
+      ],
+      "region": "Nyon",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Angelo Boscardin",
+          "role": "Architecte, dirigeant"
+        },
+        {
+          "name": "Flavio Boscardin",
+          "role": "Architecte associé"
+        }
+      ],
+      "companies": [
+        "coretra"
+      ]
+    },
+    {
+      "slug": "arc-lemanique-reymond-freres",
+      "title": "Reymond Frères SA – Votre fournisseur de matériaux pour tout type de chantier",
+      "subtitle": "",
+      "type": "publireportage",
+      "page": "22",
+      "pdfPages": [],
+      "summary": "Fondée en 1919 par Albert Reymond à la Vallée de Joux, l'entreprise familiale, désormais dirigée par la quatrième génération, emploie 20 personnes et dispose de 17 poids lourds. Elle fournit sables, graviers et graves recyclées, transporte les matériaux, loue des bennes et assure des services aux collectivités comme le ramassage des déchets. Sa filiale Risse Béton SA produit du béton prêt à l'emploi. Active entre Morges, Versoix et Saint-Cergue, elle a livré tout le béton de l'écoquartier d'Eikenøtt à Gland.",
+      "quote": "",
+      "themes": [
+        "construction",
+        "mobilite"
+      ],
+      "region": "Coinsins",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Philippe Reymond",
+          "role": "Direction"
+        },
+        {
+          "name": "Nicolas Reymond",
+          "role": "Direction"
+        }
+      ],
+      "companies": [
+        "reymond-freres",
+        "risse-beton"
+      ]
+    },
+    {
+      "slug": "arc-lemanique-domaine-de-bois-bougy",
+      "title": "Le Domaine de Bois-Bougy – Diversification agricole exemplaire",
+      "subtitle": "",
+      "type": "portrait",
+      "page": "23",
+      "pdfPages": [],
+      "summary": "Dernier domaine agricole de Nyon à produire du lait près du centre-ville, Bois-Bougy est exploité par Samuel Baumgartner, quatrième génération. Sur 50 hectares cultivés selon les prestations écologiques requises, les vaches vivent en stabulation libre et le domaine produit aussi du vin. Pour réduire sa dépendance aux prix et aux paiements directs, la famille a diversifié ses activités : pension pour chevaux, cueillette de fleurs et légumes, vente directe par automate et, désormais, cinq chambres d'hôtes dans une maison de maître, sur le chemin de Compostelle.",
+      "quote": "Ce développement du tourisme rural est pour nous une bonne façon de compléter nos revenus issus de l'activité agricole.",
+      "themes": [
+        "territoire",
+        "economie"
+      ],
+      "region": "Nyon",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Samuel Baumgartner",
+          "role": "Exploitant"
+        }
+      ],
+      "companies": [
+        "domaine-de-bois-bougy"
+      ]
+    },
+    {
+      "slug": "arc-lemanique-iffp",
+      "title": "Institut fédéral des hautes études en formation professionnelle IFFP – Préparer l'avenir de la formation professionnelle",
+      "subtitle": "Interview de Jean-Pierre Perdrizat, directeur par intérim",
+      "type": "interview",
+      "page": "24-25",
+      "pdfPages": [],
+      "summary": "L'IFFP forme les responsables de la formation professionnelle (enseignants, formateurs, directions d'écoles, experts), mène des recherches et contribue au développement des métiers, depuis Zollikofen, Lausanne et Lugano. Son directeur par intérim rappelle que deux tiers des jeunes choisissent une formation professionnelle initiale parmi quelque 230 métiers, même si l'apprentissage reste moins valorisé en Suisse romande. Il présente le programme trans:formation qui accompagne les écoles face à la numérisation, l'Observatoire suisse de la formation professionnelle et le rôle nouveau d'accompagnant de l'enseignant.",
+      "quote": "Il y a 30 ans, on apprenait un métier pour une vie.",
+      "themes": [
+        "formation"
+      ],
+      "region": "Lausanne",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Jean-Pierre Perdrizat",
+          "role": "Directeur par intérim"
+        }
+      ],
+      "companies": [
+        "iffp"
+      ]
+    },
+    {
+      "slug": "arc-lemanique-balmelli",
+      "title": "Balmelli SA – Maçonnerie, béton armé, transformation, travaux publics",
+      "subtitle": "",
+      "type": "publireportage",
+      "page": "26",
+      "pdfPages": [],
+      "summary": "Dirigée par Philippe Hug et Eric Risse, propriétaires de l'ensemble du capital, Balmelli SA emploie 40 collaborateurs. L'entreprise de Bremblens construit des immeubles en béton, intervient en urgence sur le réseau d'eau potable de Lausanne et réalise aménagements extérieurs, enrobés et pavages. Elle s'est aussi fait un nom dans la restauration de bâtiments anciens : Musée Alexis Forel à Morges, propriété classée à Gland avec un chalet déplacé, capitainerie du port du Petit Bois. Elle est certifiée ISO 9001, ISO 14001 et OHSAS 18001.",
+      "quote": "",
+      "themes": [
+        "construction"
+      ],
+      "region": "Bremblens",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Philippe Hug",
+          "role": "Directeur"
+        },
+        {
+          "name": "Eric Risse",
+          "role": "Directeur"
+        }
+      ],
+      "companies": [
+        "balmelli"
+      ]
+    },
+    {
+      "slug": "arc-lemanique-rgr-ingenieurs-conseils",
+      "title": "RGR Ingénieurs Conseils SA – La gestion de la mobilité urbaine orchestrée par des experts",
+      "subtitle": "",
+      "type": "publireportage",
+      "page": "27",
+      "pdfPages": [],
+      "summary": "Le bureau RGR, présent à Lausanne et Genève avec 35 collaborateurs, est spécialisé dans la gestion intégrée des modes de transport : régulation des feux, contrôle d'accès, autoroutes et intégration de lignes de transports publics. Il repense les réseaux avec les urbanistes pour redonner de l'espace aux piétons et cyclistes, réalise des audits de sécurité face aux vélos et trottinettes électriques, travaille sur le tram Renens-Flon et les bus à haut niveau de service Lutry-Pully, et réfléchit à un titre de transport multimodal.",
+      "quote": "",
+      "themes": [
+        "mobilite",
+        "construction"
+      ],
+      "region": "Lausanne, Genève",
+      "language": "fr",
+      "people": [
+        {
+          "name": "David Hofstetter",
+          "role": "Directeur associé, succursale de Lausanne"
+        },
+        {
+          "name": "Patrick Maillard",
+          "role": "Codirecteur, succursale de Lausanne"
+        },
+        {
+          "name": "Yannick Allegra",
+          "role": "Directeur de la succursale de Genève"
+        }
+      ],
+      "companies": [
+        "rgr-ingenieurs-conseils"
+      ]
+    },
+    {
+      "slug": "arc-lemanique-sefa",
+      "title": "SEFA SA – Société électrique des forces d'Aubonne, partenaire incontournable de la transition énergétique",
+      "subtitle": "",
+      "type": "publireportage",
+      "page": "28-29",
+      "pdfPages": [],
+      "summary": "Active depuis 1895, la SEFA produit grâce à ses centrales hydroélectriques sur l'Aubonne l'équivalent de 45 % de l'énergie consommée sur son réseau. Son nouveau directeur Laurent Balsiger, ancien directeur cantonal de l'énergie, veut contribuer à la sortie du nucléaire et des énergies fossiles. L'entreprise intervient dans huit domaines : photovoltaïque, énergies renouvelables, installations, multimédia, domotique, électricité, e-mobilité et gaz. Elle étudie un parc éolien à Bière, participe au projet géothermique EnergeÔ à Vinzel, exploite un réseau multimédia rapide et installe des bornes de recharge.",
+      "quote": "",
+      "themes": [
+        "energie"
+      ],
+      "region": "Aubonne",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Laurent Balsiger",
+          "role": "Directeur"
+        }
+      ],
+      "companies": [
+        "sefa"
+      ]
+    },
+    {
+      "slug": "arc-lemanique-sennwald-architectes",
+      "title": "Sennwald Architectes",
+      "subtitle": "",
+      "type": "publireportage",
+      "page": "30-31",
+      "pdfPages": [],
+      "summary": "Alexandra et Jean-Marc Sennwald ont repris le bureau fondé en 1972 par leur père Daniel. Une quinzaine de collaborateurs, dont une équipe de design intérieur (3S Designers), y conçoivent bâtiments, aménagements intérieurs et extérieurs. Deux réalisations récentes sont détaillées : l'extension du collège des Pressoirs à Lonay, glissée en reprise en sous-œuvre pour accueillir une UAPE de 60 places et une cantine de 150 places avec un jardin-préau en toiture, et le quartier Dandolens à Echandens, quatre immeubles en PPE généreusement espacés.",
+      "quote": "Nous imaginons chaque projet comme si nous allions y vivre.",
+      "themes": [
+        "architecture"
+      ],
+      "region": "Lussy-sur-Morges",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Alexandra Sennwald",
+          "role": "Architecte, codirectrice"
+        },
+        {
+          "name": "Jean-Marc Sennwald",
+          "role": "Architecte, codirecteur"
+        }
+      ],
+      "companies": [
+        "sennwald-architectes"
+      ]
+    },
+    {
+      "slug": "arc-lemanique-wonderware",
+      "title": "Wonderware SA – Des solutions logicielles pour la conduite et l'optimisation des sites industriels, des infrastructures techniques et des villes intelligentes",
+      "subtitle": "Software solutions for driving and optimising industrial sites, technical infrastructures and smart cities",
+      "type": "publireportage",
+      "page": "32-33",
+      "pdfPages": [],
+      "summary": "Créée en 1999 à Morges, Wonderware SA est le distributeur exclusif pour la Suisse et le Liechtenstein des logiciels industriels Wonderware, dont le logiciel de supervision InTouch. Avec 8 collaborateurs et 3,5 millions de chiffre d'affaires, elle compte plus de 8 000 licences pilotant plus de 700 sites. Elle propose la plateforme System Platform, intégrant supervision et objets connectés, ainsi que trois modules MES (performance, opérations et traçabilité, qualité). Ses références incluent Migros, Emmi et plusieurs villes romandes ; un bureau alémanique ouvrira en 2020. L'article est publié en français et en anglais.",
+      "quote": "",
+      "themes": [
+        "industrie",
+        "economie"
+      ],
+      "region": "Morges",
+      "language": "fr",
+      "people": [
+        {
+          "name": "François Nomblot",
+          "role": "General Manager"
+        }
+      ],
+      "companies": [
+        "wonderware"
+      ]
+    },
+    {
+      "slug": "arc-lemanique-gn-wuthrich",
+      "title": "G&N Wuthrich SA – Des prestations de conseiller pour la rénovation et la transformation",
+      "subtitle": "",
+      "type": "publireportage",
+      "page": "34",
+      "pdfPages": [],
+      "summary": "Créée en 1966 et devenue société anonyme en 1992, G&N Wuthrich SA à Aclens emploie 12 personnes et 4 apprentis. Elle réalise plâtrerie, peinture intérieure et extérieure, isolation naturelle (bois, chanvre, cellulose, liège) et décoration (trompe-l'œil, dorure). Spécialiste des enduits à la chaux, elle a ouvert un local d'exposition dédié en 2006, recycle ses eaux de lavage et fait rouler ses véhicules au biogaz. Elle termine la restauration du temple de Morges.",
+      "quote": "",
+      "themes": [
+        "construction"
+      ],
+      "region": "Aclens",
+      "language": "fr",
+      "people": [],
+      "companies": [
+        "gn-wuthrich"
+      ]
+    },
+    {
+      "slug": "arc-lemanique-mbc",
+      "title": "Transports de la région Morges Bière Cossonay – MBC : des échappées touristiques aux voyages sur mesure",
+      "subtitle": "",
+      "type": "publireportage",
+      "page": "35",
+      "pdfPages": [],
+      "summary": "Les MBC transportent plus de 6 millions de voyageurs par an entre Morges et Lausanne et desservent 52 localités par bus, train et funiculaire. Ils soutiennent aussi le tourisme régional avec l'association BAM, la Voie des Sens, qui réunit producteurs, restaurateurs et vignerons le long des lignes ferroviaires. Le train historique BAM propose des escapades gourmandes (Train des saveurs, Secrets du vin, Brunch des champs, Train du fromager) et doit être transformé dès 2020. Un service de bus premium de 16 places est également proposé pour les sorties sur mesure.",
+      "quote": "",
+      "themes": [
+        "mobilite",
+        "territoire"
+      ],
+      "region": "Morges",
+      "language": "fr",
+      "people": [],
+      "companies": [
+        "mbc"
+      ]
+    }
+  ],
+  "companies": [
+    {
+      "slug": "region-de-nyon",
+      "name": "Région de Nyon",
+      "sector": "Association intercommunale de développement régional",
+      "themes": [
+        "collectivites",
+        "territoire",
+        "mobilite"
+      ],
+      "description": "Association intercommunale des 42 communes membres du district de Nyon, pilotée par un comité de direction de neuf membres. Elle coordonne mobilité, aménagement, environnement, économie, culture, tourisme et sport, et participe au Grand Genève. Aucune coordonnée n'est indiquée dans le magazine.",
+      "address": "",
+      "postalCode": "",
+      "city": "Nyon",
+      "canton": "VD",
+      "country": "Suisse",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "contacts": [
+        {
+          "name": "Gérald Cretegny",
+          "role": "Président"
+        },
+        {
+          "name": "Daniel Rossellat",
+          "role": "Vice-président"
+        },
+        {
+          "name": "Pierre Graber",
+          "role": "Responsable mobilité"
+        },
+        {
+          "name": "Frédéric Mani",
+          "role": "Responsable planification territoriale"
+        },
+        {
+          "name": "Gudrun Russig",
+          "role": "Responsable environnement"
+        },
+        {
+          "name": "Gérard Produit",
+          "role": "Responsable culture, tourisme et sport"
+        }
+      ],
+      "page": "2-7",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "ville-de-morges",
+      "name": "Ville de Morges",
+      "sector": "Commune",
+      "themes": [
+        "collectivites",
+        "territoire"
+      ],
+      "description": "Ville vaudoise d'environ 16 000 habitants, membre de l'agglomération Lausanne-Morges. Elle développe le secteur de la gare, agrandit le pôle de Beausobre, s'est dotée d'un délégué à la promotion économique et organise Le Livre sur les quais.",
+      "address": "Place de l'Hôtel-de-Ville 1",
+      "postalCode": "1110",
+      "city": "Morges",
+      "canton": "VD",
+      "country": "Suisse",
+      "phone": "021 804 96 96",
+      "email": "greffe@morges.ch",
+      "website": "www.morges.ch",
+      "contacts": [
+        {
+          "name": "Vincent Jaques",
+          "role": "Syndic"
+        },
+        {
+          "name": "Pascal Rocha da Silva",
+          "role": "Délégué à la promotion économique (021 804 96 15, promeco@morges.ch)"
+        },
+        {
+          "name": "Christelle Joly",
+          "role": "Cheffe de l'Office de la culture"
+        }
+      ],
+      "page": "8-10",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "commune-de-saint-prex",
+      "name": "Administration communale de Saint-Prex",
+      "sector": "Commune",
+      "themes": [
+        "collectivites",
+        "territoire"
+      ],
+      "description": "Commune vaudoise de 5 850 habitants au bourg médiéval primé par le Prix Wakker, avec cinq kilomètres et demi de rives. Labellisée Cité de l'énergie, elle prévoit une densification harmonieuse et de nouveaux équipements sportifs et culturels.",
+      "address": "Chemin de Penguey 1a, Case postale 51",
+      "postalCode": "1162",
+      "city": "Saint-Prex",
+      "canton": "VD",
+      "country": "Suisse",
+      "phone": "021 823 01 01",
+      "email": "",
+      "website": "www.saint-prex.ch",
+      "contacts": [
+        {
+          "name": "Daniel Mosini",
+          "role": "Syndic"
+        }
+      ],
+      "page": "11",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "commune-d-aubonne",
+      "name": "Administration communale d'Aubonne",
+      "sector": "Commune",
+      "themes": [
+        "collectivites",
+        "territoire"
+      ],
+      "description": "Commune vaudoise de 3 300 habitants au bourg préservé, siège d'IKEA, de Merck et de la SEFA. Elle fusionne avec Montherod en 2021, prépare une caserne régionale des pompiers et un pôle bois.",
+      "address": "Place du Marché 12, Case postale 133",
+      "postalCode": "1170",
+      "city": "Aubonne",
+      "canton": "VD",
+      "country": "Suisse",
+      "phone": "021/821 51 08",
+      "email": "",
+      "website": "www.aubonne.ch",
+      "contacts": [
+        {
+          "name": "Luc-Étienne Rossier",
+          "role": "Syndic"
+        }
+      ],
+      "page": "12",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "commune-de-cossonay",
+      "name": "Commune de Cossonay",
+      "sector": "Commune",
+      "themes": [
+        "collectivites",
+        "territoire"
+      ],
+      "description": "Commune vaudoise de plus de 4 000 habitants, centre régional du nord du district de Morges et siège de l'ARCAM. Elle construit le complexe scolaire des Chavannes avec piscine intercommunale et planifie un nouvel EMS.",
+      "address": "Rue Neuve 1",
+      "postalCode": "1304",
+      "city": "Cossonay-Ville",
+      "canton": "VD",
+      "country": "Suisse",
+      "phone": "021 863 22 00",
+      "email": "",
+      "website": "www.cossonay.ch",
+      "contacts": [
+        {
+          "name": "Georges Rime",
+          "role": "Syndic"
+        }
+      ],
+      "page": "13",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "commune-de-preverenges",
+      "name": "Administration communale de Préverenges",
+      "sector": "Commune",
+      "themes": [
+        "collectivites",
+        "territoire"
+      ],
+      "description": "Commune vaudoise de 5 300 habitants au bord du Léman, qui mise sur la préservation de son centre, la protection de ses rives et le développement de l'accueil parascolaire et intergénérationnel.",
+      "address": "Rue de Lausanne 23, Case postale 96",
+      "postalCode": "1028",
+      "city": "Préverenges",
+      "canton": "VD",
+      "country": "Suisse",
+      "phone": "021 811 50 50",
+      "email": "",
+      "website": "www.preverenges.ch",
+      "contacts": [
+        {
+          "name": "Guy Delacrétaz",
+          "role": "Syndic"
+        }
+      ],
+      "page": "14",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "atelier-94-architecture",
+      "name": "Atelier 94 Architecture SA",
+      "sector": "Bureau d'architectes et urbanisme",
+      "themes": [
+        "architecture",
+        "territoire"
+      ],
+      "description": "Bureau fondé en 1994 à Arzier, 27 collaborateurs, actif dans l'architecture et l'urbanisme de la conception à la réalisation. Auteur du projet « Mieux Vivre à Nyon Dessus/Dessous » et de la résidence Les Cottages à Nyon, réalisée via son entreprise générale Movito Sàrl.",
+      "address": "Route de St-Cergue 10, Case Postale 36",
+      "postalCode": "1273",
+      "city": "Arzier",
+      "canton": "VD",
+      "country": "Suisse",
+      "phone": "+41 22 366 66 66",
+      "email": "Info@atelier94.ch",
+      "website": "www.atelier94.ch",
+      "contacts": [
+        {
+          "name": "Georges Tornier",
+          "role": "Fondateur"
+        },
+        {
+          "name": "Philippe Tornier",
+          "role": "Responsable commercial"
+        }
+      ],
+      "page": "16-17",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "nstcm",
+      "name": "NStCM – Chemin de fer Nyon - St-Cergue - Morez",
+      "sector": "Transport ferroviaire",
+      "themes": [
+        "mobilite"
+      ],
+      "description": "Compagnie ferroviaire centenaire exploitant une ligne à voie métrique de 27 km desservant sept communes, détenue à 43 % par l'Etat de Vaud. 300 millions de francs d'investissements prévus en douze ans ; 1,28 million de voyageurs en 2017. Elle détient la totalité des TPN.",
+      "address": "Rue de la Gare 45",
+      "postalCode": "1260",
+      "city": "Nyon",
+      "canton": "VD",
+      "country": "Suisse",
+      "phone": "+41 22 994 28 40",
+      "email": "",
+      "website": "www.tprnov.ch",
+      "contacts": [
+        {
+          "name": "Richard Zaugg",
+          "role": "Directeur général"
+        }
+      ],
+      "page": "18",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "tpn",
+      "name": "Transports publics de la région nyonnaise SA (TPN)",
+      "sector": "Transports publics",
+      "themes": [
+        "mobilite"
+      ],
+      "description": "Société de bus filiale du NStCM, exploitant cinq lignes urbaines, quatre suburbaines et une transfrontalière ; plus de 3,1 millions de passagers en 2017. Centre de gestion du trafic SAEIV, bus articulés et nouveau dépôt à Gland.",
+      "address": "Rue de la Gare 45",
+      "postalCode": "1260",
+      "city": "Nyon",
+      "canton": "VD",
+      "country": "Suisse",
+      "phone": "+41 22 994 28 40",
+      "email": "",
+      "website": "www.tprnov.ch",
+      "contacts": [
+        {
+          "name": "Richard Zaugg",
+          "role": "Directeur"
+        }
+      ],
+      "page": "19",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "coretra",
+      "name": "Coretra SA Architecture et Construction",
+      "sector": "Bureau d'architectes et entreprise générale",
+      "themes": [
+        "architecture",
+        "construction"
+      ],
+      "description": "Atelier d'architecture de 26 collaborateurs dirigé par Angelo et Flavio Boscardin, doté depuis 2004 d'une entreprise générale (Coretra Réalisations Sàrl). Une soixantaine de dossiers en cours, antenne à Genève depuis 2019 ; références à Nyon, Gland, Vich et Gingins.",
+      "address": "Route de St-Cergue 311",
+      "postalCode": "1260",
+      "city": "Nyon",
+      "canton": "VD",
+      "country": "Suisse",
+      "phone": "+ 41 22 369 30 69",
+      "email": "info@coretra.ch",
+      "website": "www.coretra.ch",
+      "contacts": [
+        {
+          "name": "Angelo Boscardin",
+          "role": "Architecte"
+        },
+        {
+          "name": "Flavio Boscardin",
+          "role": "Architecte"
+        }
+      ],
+      "page": "20-21",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "reymond-freres",
+      "name": "Reymond Frères SA",
+      "sector": "Transport, matériaux de construction et services aux collectivités",
+      "themes": [
+        "construction",
+        "mobilite"
+      ],
+      "description": "Entreprise familiale fondée en 1919 à la Vallée de Joux, aujourd'hui à Coinsins : fourniture et transport de sables, graviers et béton, bennes, ramassage des déchets et balayage. 20 employés, 17 poids lourds ; actionnaire unique de Risse Béton SA.",
+      "address": "Route de la Tourbière 12",
+      "postalCode": "1267",
+      "city": "Coinsins",
+      "canton": "VD",
+      "country": "Suisse",
+      "phone": "+ 41 22 354 45 45",
+      "email": "info@reymond-freres.ch",
+      "website": "www.reymond-freres.ch",
+      "contacts": [
+        {
+          "name": "Philippe Reymond",
+          "role": "Direction"
+        },
+        {
+          "name": "Nicolas Reymond",
+          "role": "Direction"
+        }
+      ],
+      "page": "22",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "risse-beton",
+      "name": "Risse Béton SA",
+      "sector": "Production de béton prêt à l'emploi",
+      "themes": [
+        "construction"
+      ],
+      "description": "Filiale à 100 % de Reymond Frères SA qui produit et commercialise différents bétons prêts à l'emploi, à retirer sur site ou livrés par Reymond Frères.",
+      "address": "Route de la Tourbière 12",
+      "postalCode": "1267",
+      "city": "Coinsins",
+      "canton": "VD",
+      "country": "Suisse",
+      "phone": "+ 41 22 354 45 45",
+      "email": "info@reymond-freres.ch",
+      "website": "www.reymond-freres.ch",
+      "contacts": [],
+      "page": "22",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "domaine-de-bois-bougy",
+      "name": "Domaine de Bois-Bougy",
+      "sector": "Exploitation agricole et chambres d'hôtes",
+      "themes": [
+        "territoire",
+        "economie"
+      ],
+      "description": "Domaine familial de 50 hectares à Nyon, dernier à produire du lait près du centre-ville. Elevage respectueux, vigne, vente directe, pension pour chevaux et cinq chambres d'hôtes dans une maison de maître.",
+      "address": "Chemin de Bois-Bougy 4",
+      "postalCode": "1260",
+      "city": "Nyon",
+      "canton": "VD",
+      "country": "Suisse",
+      "phone": "+41 22 361 34 52",
+      "email": "",
+      "website": "www.boisbougynyon.ch",
+      "contacts": [
+        {
+          "name": "Samuel Baumgartner",
+          "role": "Exploitant"
+        }
+      ],
+      "page": "23",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "iffp",
+      "name": "Institut fédéral des hautes études en formation professionnelle IFFP",
+      "sector": "Formation et recherche en formation professionnelle",
+      "themes": [
+        "formation"
+      ],
+      "description": "Organisation experte suisse de la formation professionnelle, présente à Zollikofen, Lausanne et Lugano. Elle forme enseignants et formateurs, délivre bachelor et master en formation professionnelle, mène des recherches et pilote l'Observatoire suisse de la formation professionnelle.",
+      "address": "Case postale 192",
+      "postalCode": "1000",
+      "city": "Lausanne 16 Malley",
+      "canton": "VD",
+      "country": "Suisse",
+      "phone": "+41 58 458 22 00",
+      "email": "",
+      "website": "www.iffp.swiss",
+      "contacts": [
+        {
+          "name": "Jean-Pierre Perdrizat",
+          "role": "Directeur par intérim"
+        }
+      ],
+      "page": "24-25",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "balmelli",
+      "name": "Balmelli SA",
+      "sector": "Maçonnerie, béton armé et travaux publics",
+      "themes": [
+        "construction"
+      ],
+      "description": "Entreprise de maçonnerie et de travaux publics de 40 collaborateurs dirigée par Philippe Hug et Eric Risse. Constructions neuves, réparations du réseau d'eau lausannois, aménagements extérieurs et restaurations de bâtiments anciens ; certifiée ISO 9001, 14001 et OHSAS 18001.",
+      "address": "Les Corbes 2",
+      "postalCode": "1121",
+      "city": "Bremblens",
+      "canton": "VD",
+      "country": "Suisse",
+      "phone": "+41 21 801 31 14",
+      "email": "info@balmellisa.ch",
+      "website": "www.balmellisa.ch",
+      "contacts": [
+        {
+          "name": "Philippe Hug",
+          "role": "Directeur"
+        },
+        {
+          "name": "Eric Risse",
+          "role": "Directeur"
+        }
+      ],
+      "page": "26",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "rgr-ingenieurs-conseils",
+      "name": "RGR Robert-Grandpierre & Rapp SA",
+      "sector": "Ingénierie de la mobilité et du trafic",
+      "themes": [
+        "mobilite"
+      ],
+      "description": "Bureau d'ingénieurs-conseils de 35 collaborateurs spécialisé dans la gestion des déplacements : régulation des feux, contrôles d'accès, autoroutes et intégration de transports publics (tram Renens-Flon, BHNS Lutry-Pully). Succursales à Lausanne et Genève (Ch. de la Gravière 4, 1227 Genève-Acacias, +41 22 308 98 00).",
+      "address": "Av. Ruchonnet 12",
+      "postalCode": "1003",
+      "city": "Lausanne",
+      "canton": "VD",
+      "country": "Suisse",
+      "phone": "+41 21 614 04 40",
+      "email": "",
+      "website": "www.rgr-sa.ch",
+      "contacts": [
+        {
+          "name": "David Hofstetter",
+          "role": "Directeur associé"
+        },
+        {
+          "name": "Patrick Maillard",
+          "role": "Codirecteur Lausanne"
+        },
+        {
+          "name": "Yannick Allegra",
+          "role": "Directeur Genève"
+        }
+      ],
+      "page": "27",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "sefa",
+      "name": "SEFA SA – Société électrique des forces de l'Aubonne",
+      "sector": "Production et distribution d'énergie, multimédia",
+      "themes": [
+        "energie"
+      ],
+      "description": "Entreprise fondée en 1895 qui exploite des centrales hydroélectriques sur l'Aubonne couvrant 45 % de la consommation de son réseau. Elle est active dans le photovoltaïque, l'éolien, la géothermie (EnergeÔ), le gaz, le multimédia, la domotique et la mobilité électrique.",
+      "address": "Chemin des Ancelles 5, Case postale 134",
+      "postalCode": "1170",
+      "city": "Aubonne",
+      "canton": "VD",
+      "country": "Suisse",
+      "phone": "+41 021 821 54 00",
+      "email": "info@sefa.ch",
+      "website": "www.sefa.ch",
+      "contacts": [
+        {
+          "name": "Laurent Balsiger",
+          "role": "Directeur"
+        }
+      ],
+      "page": "28-29",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "sennwald-architectes",
+      "name": "Sennwald Architectes SA",
+      "sector": "Bureau d'architectes et design intérieur",
+      "themes": [
+        "architecture"
+      ],
+      "description": "Bureau d'architecture familial fondé en 1972 par Daniel Sennwald et repris par Alexandra et Jean-Marc Sennwald. Une quinzaine de collaborateurs, département de design intérieur 3S Designers SA ; références à Lonay et Echandens.",
+      "address": "Chemin de la Vignette 5",
+      "postalCode": "1167",
+      "city": "Lussy-sur-Morges",
+      "canton": "VD",
+      "country": "Suisse",
+      "phone": "+41 21 811 35 35",
+      "email": "info@sennwald.com",
+      "website": "sennwald.com",
+      "contacts": [
+        {
+          "name": "Alexandra Sennwald",
+          "role": "Architecte"
+        },
+        {
+          "name": "Jean-Marc Sennwald",
+          "role": "Architecte"
+        }
+      ],
+      "page": "30-31",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "wonderware",
+      "name": "Wonderware SA",
+      "sector": "Logiciels industriels (supervision, MES)",
+      "themes": [
+        "industrie",
+        "economie"
+      ],
+      "description": "Distributeur exclusif pour la Suisse et le Liechtenstein des solutions Wonderware depuis 1999 : supervision InTouch, System Platform, MES. 8 collaborateurs, 3,5 millions de chiffre d'affaires, plus de 8 000 licences sur 700 sites suisses.",
+      "address": "Rue de Lausanne 31",
+      "postalCode": "1110",
+      "city": "Morges",
+      "canton": "VD",
+      "country": "Suisse",
+      "phone": "+41 21 802 80 80",
+      "email": "",
+      "website": "www.wonderware.fr/de",
+      "contacts": [
+        {
+          "name": "François Nomblot",
+          "role": "General Manager"
+        }
+      ],
+      "page": "32-33",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "gn-wuthrich",
+      "name": "G&N Wuthrich SA",
+      "sector": "Plâtrerie, peinture et isolation",
+      "themes": [
+        "construction"
+      ],
+      "description": "Entreprise fondée en 1966 : plâtrerie, peinture, isolation naturelle, enduits à la chaux et décoration. 12 employés et 4 apprentis, véhicules au biogaz ; clients publics (Monuments historiques, Etat de Vaud, communes) et privés.",
+      "address": "Chemin du Coteau 7",
+      "postalCode": "1123",
+      "city": "Aclens",
+      "canton": "VD",
+      "country": "Suisse",
+      "phone": "+41 (0)21 869 83 93",
+      "email": "info@wuthrichsa.ch",
+      "website": "www.wuthrichsa.ch",
+      "contacts": [],
+      "page": "34",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "mbc",
+      "name": "Transports de la région Morges Bière Cossonay – MBC",
+      "sector": "Transports publics",
+      "themes": [
+        "mobilite",
+        "territoire"
+      ],
+      "description": "Réseau de bus, trains et funiculaire desservant 52 localités de la région morgienne, plus de 6 millions de voyageurs par an. Les MBC exploitent aussi le train historique BAM et un service de bus premium sur mesure.",
+      "address": "Centre commercial de la Gottaz, Avenue de la Gottaz 28A",
+      "postalCode": "1110",
+      "city": "Morges",
+      "canton": "VD",
+      "country": "Suisse",
+      "phone": "+41 (0)21 811 43 43",
+      "email": "info@mbc.ch",
+      "website": "mbc.ch",
+      "contacts": [],
+      "page": "35",
+      "pdfPages": [],
+      "advertiserOnly": false
+    }
+  ]
+}
