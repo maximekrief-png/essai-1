@@ -762,12 +762,12 @@
     },
     {
       "slug": "horlogerie-2015-fehr-et-cie",
-      "title": "FEHR et Cie SA – La passion du cadran",
+      "title": "Fehr et Cie SA – La passion du cadran",
       "subtitle": "",
       "type": "publireportage",
       "page": "57",
       "pdfPages": [],
-      "summary": "Riche de 90 ans d'expérience et d'une centaine de collaborateurs, FEHR et Cie SA produit plus de 200 000 cadrans par an pour de grandes marques. Sa force tient à l'intégration de tous les métiers du cadran, en interne ou avec les sociétés du même groupe : frappe avec Technofrap et Li Calzi, usinages, galvanoplastie et vernissage, nacre, décalques et sérigraphies, appliques, guillochage sur machines anciennes, gravure main, sertissage et luminescent avec Monyco. Cette autonomie limite les risques de rupture et permet une sous-traitance globale, de l'étude des plans aux échantillons puis à la production. L'entreprise assure aussi le service après-vente sur de longues périodes, a créé début 2014 un département de cadrans compliqués et métiers d'art, et occupe depuis août 2014 un nouveau site à La Chaux-de-Fonds.",
+      "summary": "Riche de 90 ans d'expérience et d'une centaine de collaborateurs, Fehr et Cie SA produit plus de 200 000 cadrans par an pour de grandes marques. Sa force tient à l'intégration de tous les métiers du cadran, en interne ou avec les sociétés du même groupe : frappe avec Technofrap et Li Calzi, usinages, galvanoplastie et vernissage, nacre, décalques et sérigraphies, appliques, guillochage sur machines anciennes, gravure main, sertissage et luminescent avec Monyco. Cette autonomie limite les risques de rupture et permet une sous-traitance globale, de l'étude des plans aux échantillons puis à la production. L'entreprise assure aussi le service après-vente sur de longues périodes, a créé début 2014 un département de cadrans compliqués et métiers d'art, et occupe depuis août 2014 un nouveau site à La Chaux-de-Fonds.",
       "quote": "Toutes ces activités sont réalisées en interne ou au travers de collaboration avec des entreprises du groupe",
       "themes": [
         "horlogerie",
@@ -1183,12 +1183,12 @@
     },
     {
       "slug": "horlogerie-2015-mecanor",
-      "title": "MECANOR SA – L'alliance de la productivité et de la précision",
-      "subtitle": "MECANOR SA – Combining precision with productivity",
+      "title": "Mecanor SA – L'alliance de la productivité et de la précision",
+      "subtitle": "Mecanor SA – Combining precision with productivity",
       "type": "publireportage",
       "page": "76",
       "pdfPages": [],
-      "summary": "Basée à Brügg, près de Bienne, MECANOR SA est spécialisée depuis sa fondation en 1948 dans les outils d'étampage et la découpe de pièces de précision. Avec plus de 65 ans d'expérience, elle maîtrise la découpe d'engrenages, les pliages précis et le formage à tolérances serrées. D'abord presque exclusivement au service de l'horlogerie, des marques moyennes aux manufactures, elle a diversifié sa clientèle vers le médical, les micro-appareils et l'automobile. Tous les outils d'étampage sont développés et fabriqués à l'interne en fonction du design de la pièce et de sa durée de vie, ce qui permet ensuite des séries de quelques milliers à plusieurs millions de pièces par an. Des spécialistes accompagnent le client de la faisabilité au réglage fin de la production.",
+      "summary": "Basée à Brügg, près de Bienne, Mecanor SA est spécialisée depuis sa fondation en 1948 dans les outils d'étampage et la découpe de pièces de précision. Avec plus de 65 ans d'expérience, elle maîtrise la découpe d'engrenages, les pliages précis et le formage à tolérances serrées. D'abord presque exclusivement au service de l'horlogerie, des marques moyennes aux manufactures, elle a diversifié sa clientèle vers le médical, les micro-appareils et l'automobile. Tous les outils d'étampage sont développés et fabriqués à l'interne en fonction du design de la pièce et de sa durée de vie, ce qui permet ensuite des séries de quelques milliers à plusieurs millions de pièces par an. Des spécialistes accompagnent le client de la faisabilité au réglage fin de la production.",
       "quote": "",
       "themes": [
         "industrie",
@@ -2407,7 +2407,7 @@
     },
     {
       "slug": "l-klein",
-      "name": "L. KLEIN SA",
+      "name": "L. Klein SA",
       "sector": "Métaux et alliages pour l'horlogerie",
       "themes": [
         "industrie",
@@ -2416,7 +2416,7 @@
       "description": "Fournisseur biennois de métaux présent par une annonce mettant en avant plus de 4 000 articles disponibles en stock et des produits conçus pour l'horlogerie. L'annonce ne détaille pas davantage les activités de l'entreprise.",
       "address": "Chemin du Long-Champ 110, CP 8358",
       "postalCode": "2500",
-      "city": "Biel / Bienne 8",
+      "city": "Biel/Bienne 8",
       "canton": "BE",
       "country": "Suisse",
       "phone": "+41 (0)32 341 73 73",
@@ -2429,7 +2429,7 @@
     },
     {
       "slug": "tavadec",
-      "name": "TAVADEC SA",
+      "name": "Tavadec SA",
       "sector": "Micro-décolletage de haute précision",
       "themes": [
         "industrie",
@@ -2575,7 +2575,7 @@
     },
     {
       "slug": "badeco",
-      "name": "BADECO SA",
+      "name": "Badeco SA",
       "sector": "",
       "themes": [
         "horlogerie"
@@ -2618,7 +2618,7 @@
     },
     {
       "slug": "inhotec",
-      "name": "INHOTEC SA",
+      "name": "Inhotec SA",
       "sector": "Usinage de précision de composants horlogers",
       "themes": [
         "horlogerie",
@@ -2645,7 +2645,7 @@
     },
     {
       "slug": "mecanor",
-      "name": "MECANOR SA",
+      "name": "Mecanor SA",
       "sector": "Outils d'étampage et pièces découpées de précision",
       "themes": [
         "industrie",
@@ -2690,7 +2690,7 @@
     },
     {
       "slug": "manufactures-d-outils-dumont",
-      "name": "Manufactures D'Outils Dumont SA",
+      "name": "Manufactures d'Outils Dumont SA",
       "sector": "Pinces et brucelles de précision",
       "themes": [
         "industrie",

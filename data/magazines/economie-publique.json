@@ -4,28 +4,52 @@
   "series": "Collectivités",
   "year": 2016,
   "region": "Canton de Vaud",
-  "languages": ["fr", "de", "en"],
+  "languages": [
+    "fr",
+    "de",
+    "en"
+  ],
   "description": "Numéro de janvier 2016 consacré à l’économie publique et aux institutions du canton de Vaud. Il s’ouvre sur les entretiens du conseiller d’État Philippe Leuba, de la directrice de la CVCI Claudine Amstein et du chef de la promotion économique Lionel Eperon, puis présente des institutions publiques et parapubliques (caisse AVS, hautes écoles, IFFP, Interprofession du Gruyère) et des entreprises de services, de formation, de transport et de construction de la région.",
-  "themes": ["economie", "collectivites", "formation", "mobilite"],
+  "themes": [
+    "economie",
+    "collectivites",
+    "formation",
+    "mobilite"
+  ],
   "files": [
-    { "driveId": "1qmNJfd1ekufyNLv4cNhqqslXr2ioX0SC", "name": "ECONOMIE-PUBLIQUE.pdf", "sizeMB": 10.5, "label": "Édition web" }
+    {
+      "driveId": "1qmNJfd1ekufyNLv4cNhqqslXr2ioX0SC",
+      "name": "ECONOMIE-PUBLIQUE.pdf",
+      "sizeMB": 10.5,
+      "label": "Édition web"
+    }
   ],
   "pdfLocal": false,
   "articles": [
     {
       "slug": "economie-publique-interview-philippe-leuba",
       "title": "Les défis de l’économie vaudoise",
-      "subtitle": "Interview du conseiller d’Etat Philippe Leuba",
+      "subtitle": "Interview du conseiller d’État Philippe Leuba",
       "type": "interview",
       "page": "03",
       "pdfPages": [],
       "summary": "Chef du Département de l’économie et du sport depuis 2012, ancien arbitre international de football, Philippe Leuba défend une économie vaudoise diversifiée, où industrie, pharma, sciences de la vie et communication sont soutenues sans exclusive. Il cite les atouts du canton : équilibre entre multinationales et PME, 55 fédérations sportives internationales, hautes écoles de qualité, liens étroits entre recherche et économie, record mondial des brevets par habitant, finances saines et proximité de l’aéroport de Genève. Entre 4500 et 6000 emplois ont été créés chaque année depuis dix ans. Face à l’abandon du taux plancher, le canton a créé un fonds de soutien à l’industrie de 17,5 millions, en plus de 25 millions pour Innovaud, et prévoit un taux d’imposition unique de 13,7 %.",
       "quote": "Il n’existe pas de confort matériel ni de liberté sans travail.",
-      "themes": ["economie", "collectivites"],
+      "themes": [
+        "economie",
+        "collectivites"
+      ],
       "region": "Vaud",
       "language": "fr",
-      "people": [{ "name": "Philippe Leuba", "role": "Conseiller d’État, chef du Département de l’économie et du sport" }],
-      "companies": ["departement-economie-sport-vaud"]
+      "people": [
+        {
+          "name": "Philippe Leuba",
+          "role": "Conseiller d’État, chef du Département de l’économie et du sport"
+        }
+      ],
+      "companies": [
+        "departement-economie-sport-vaud"
+      ]
     },
     {
       "slug": "economie-publique-interview-claudine-amstein-cvci",
@@ -36,11 +60,20 @@
       "pdfPages": [],
       "summary": "Claudine Amstein décrit les quatre missions de la CVCI : contribuer au développement économique, notamment comme centre de réflexion et via la Fondation pour l’innovation technologique qui a aidé plus de 100 start-up en 20 ans ; défendre des conditions-cadres libérales ; fournir des services aux membres (caisses sociales, service juridique, export, conseil aux créateurs, enquêtes conjoncturelles) ; et animer le réseautage avec plus de 200 manifestations par an. Elle évoque l’assemblée générale, le Prix vaudois des entreprises internationales et les formations en droit et export. Sur le plan politique, elle plaide pour un taux d’imposition unique abaissé dans la réforme de la fiscalité des entreprises et s’inquiète du franc fort et des conséquences de l’initiative contre l’immigration de masse.",
       "quote": "La réforme de la fiscalité des entreprises, qui nous occupe depuis 4 ans, est aussi indispensable qu’urgente.",
-      "themes": ["economie"],
+      "themes": [
+        "economie"
+      ],
       "region": "Vaud",
       "language": "fr",
-      "people": [{ "name": "Claudine Amstein", "role": "Directrice de la CVCI" }],
-      "companies": ["cvci"]
+      "people": [
+        {
+          "name": "Claudine Amstein",
+          "role": "Directrice de la CVCI"
+        }
+      ],
+      "companies": [
+        "cvci"
+      ]
     },
     {
       "slug": "economie-publique-promotion-economique-lionel-eperon",
@@ -51,11 +84,21 @@
       "pdfPages": [],
       "summary": "Le chef du service de la promotion économique vaudois constate que l’« âge d’or » des implantations faciles est révolu : le modèle vaudois a été copié, l’Europe est en panne et le franc fort, le vote du 9 février ou la Lex Weber créent des incertitudes. Dans le cadre de la loi sur l’appui au développement économique et de son programme 2012-2017, le service a resserré la gouvernance, lancé l’image commune Vaud Swissness et privilégie des indicateurs de veille. Il cible des clusters : sciences de la vie, sport international, tourisme, agroalimentaire, ingénierie de précision, cleantech, produits haut de gamme et TIC. La prospection à l’étranger est confiée au DEV et la promotion touristique à l’OTV ; le service finance, cautionne et facilite surtout les projets.",
       "quote": "Le canton de Vaud est une petite Suisse à lui tout seul.",
-      "themes": ["economie", "collectivites"],
+      "themes": [
+        "economie",
+        "collectivites"
+      ],
       "region": "Vaud",
       "language": "fr",
-      "people": [{ "name": "Lionel Eperon", "role": "Chef du service de la promotion économique" }],
-      "companies": ["speco-vaud"]
+      "people": [
+        {
+          "name": "Lionel Eperon",
+          "role": "Chef du service de la promotion économique"
+        }
+      ],
+      "companies": [
+        "speco-vaud"
+      ]
     },
     {
       "slug": "economie-publique-caisse-avs-vaud-fabienne-goetzinger",
@@ -66,11 +109,22 @@
       "pdfPages": [],
       "summary": "Institution autonome de droit public fondée à Montreux en 1948, la Caisse cantonale vaudoise de compensation applique plus de 18 lois fédérales et cantonales avec 246 collaborateurs. En 2014, elle a versé 2,72 milliards de francs de prestations à quelque 100 600 affiliés AVS et près de 90 000 bénéficiaires de rentes. Sa directrice détaille ses tâches : perception des cotisations AVS/AI/APG et chômage, versement des rentes, allocations familiales et pour perte de gain, prestations complémentaires, PC Familles et rente-pont, gestion de la caisse agricole Agrivit et du Fonds cantonal pour la famille. Elle présente la plateforme e-business pour les employeurs, commente la politique cantonale « Vieillissement et Santé » et évoque les projets fédéraux comme l’IDE et la réforme Prévoyance vieillesse 2020.",
       "quote": "Sa mission est de garantir à ses affiliés des prestations en appliquant la législation en vigueur.",
-      "themes": ["collectivites", "economie", "sante"],
+      "themes": [
+        "collectivites",
+        "economie",
+        "sante"
+      ],
       "region": "Vaud",
       "language": "fr",
-      "people": [{ "name": "Fabienne Goetzinger", "role": "Directrice" }],
-      "companies": ["caisse-avs-vaud"]
+      "people": [
+        {
+          "name": "Fabienne Goetzinger",
+          "role": "Directrice"
+        }
+      ],
+      "companies": [
+        "caisse-avs-vaud"
+      ]
     },
     {
       "slug": "economie-publique-chenevartarchitecte",
@@ -81,11 +135,21 @@
       "pdfPages": [],
       "summary": "Fondé par Olivier Chenevart à Fribourg, le bureau chenevartarchitecte travaille sur des logements, bâtiments industriels et commerces, neufs ou rénovés, avec un principe constant : intégrer les constructions nouvelles dans leur milieu naturel et bâti et respecter l’essence des bâtiments existants. L’utilisateur final est au centre du projet. Le bureau transforme actuellement un ancien atelier mécanique en lofts et densifie deux petits immeubles d’un centre historique, étudie une installation de biogaz destinée à chauffer des logements voisins, prépare 30 logements à la Vallée de Joux en dialogue avec les habitants et la commune, et conçoit une halle industrielle près de Payerne. Il accompagne aussi les maîtres d’ouvrage par des analyses techniques et de rentabilité.",
       "quote": "Un bâtiment est réussi quand son utilisateur final est satisfait.",
-      "themes": ["architecture", "energie"],
+      "themes": [
+        "architecture",
+        "energie"
+      ],
       "region": "Fribourg / Vaud",
       "language": "fr",
-      "people": [{ "name": "Olivier Chenevart", "role": "Architecte dipl. EPFL SIA, fondateur" }],
-      "companies": ["chenevartarchitecte"]
+      "people": [
+        {
+          "name": "Olivier Chenevart",
+          "role": "Architecte dipl. EPFL SIA, fondateur"
+        }
+      ],
+      "companies": [
+        "chenevartarchitecte"
+      ]
     },
     {
       "slug": "economie-publique-cett-heig-vd",
@@ -96,11 +160,22 @@
       "pdfPages": [],
       "summary": "Le CeTT coordonne la recherche appliquée et le développement des 13 instituts et groupes transversaux de la HEIG-VD. En 2014, il a conclu 258 contrats de recherche pour 19,1 millions de francs, compte 125 équivalents plein temps, a déposé trois brevets et créé la start-up eBiz Games. Son directeur Didier Louvier met en avant le nouveau groupe mecatronYx, qui associe mécanique, automatisation et gestion pour améliorer les machines industrielles, et le Health, Engineering and Economics Group, qui a développé avec Novigenics un outil de diagnostic du cancer colorectal à partir d’une prise de sang. Le financement provient surtout de fonds privés et nationaux. Le CeTT s’implique aussi dans la création de start-up avec l’incubateur Y-START du Y-Parc.",
       "quote": "Il est très utile de pouvoir évaluer l’impact économique et commercial des solutions développées par les ingénieurs.",
-      "themes": ["formation", "economie", "industrie"],
+      "themes": [
+        "formation",
+        "economie",
+        "industrie"
+      ],
       "region": "Yverdon-les-Bains (VD)",
       "language": "fr",
-      "people": [{ "name": "Didier Louvier", "role": "Directeur du CeTT" }],
-      "companies": ["cett-heig-vd"]
+      "people": [
+        {
+          "name": "Didier Louvier",
+          "role": "Directeur du CeTT"
+        }
+      ],
+      "companies": [
+        "cett-heig-vd"
+      ]
     },
     {
       "slug": "economie-publique-ecole-minerva",
@@ -111,11 +186,16 @@
       "pdfPages": [],
       "summary": "Fondée en 1949 à Lausanne, l’École Minerva forme des secrétaires et des assistants médicaux. Elle peut accueillir jusqu’à 150 élèves en école professionnelle ou à plein temps, sous une direction inchangée depuis 1978, dans des locaux équipés comme des cabinets médicaux. Les deux voies de formation de trois ans, apprentissage ou école des métiers, mènent au CFC d’assistant médical et couvrent laboratoire, soins, radiologie et secrétariat, avec un accent sur l’accueil du patient. L’école propose aussi une maturité professionnelle santé-social et des cours de perfectionnement pour d’anciens élèves. Après avoir fêté ses 65 ans en 2014, elle mise sur la qualité, attestée par les certifications EduQua et QSC et l’accréditation cantonale.",
       "quote": "",
-      "themes": ["formation", "sante"],
+      "themes": [
+        "formation",
+        "sante"
+      ],
       "region": "Lausanne (VD)",
       "language": "fr",
       "people": [],
-      "companies": ["ecole-minerva"]
+      "companies": [
+        "ecole-minerva"
+      ]
     },
     {
       "slug": "economie-publique-de-rham-immobilier",
@@ -126,41 +206,61 @@
       "pdfPages": [],
       "summary": "Plus que centenaire et solidement implantée dans le canton de Vaud, la régie de Rham Immobilier gère 3,5 milliards de francs d’immeubles, 10 000 logements et 200 millions de loyers encaissés par an avec 70 collaborateurs. Son CEO Jean-Jacques Morard, dans l’entreprise depuis 2009, veut automatiser les tâches répétitives, une grande partie des 10 000 appels mensuels pouvant être traités automatiquement, pour concentrer les équipes sur le conseil. La société couvre tous les segments, du logement subventionné au luxe, environ 70 % de son portefeuille étant à loyers modérés, et sert des propriétaires privés et institutionnels ainsi que des PME. Elle propose aussi des études de valorisation, de densification et de surélévation, comme pour les 358 logements de Sébeillon à Lausanne.",
       "quote": "de Rham veut être un régisseur attractif, pour les propriétaires bien sûr, mais aussi pour les locataires.",
-      "themes": ["economie", "architecture"],
+      "themes": [
+        "economie",
+        "architecture"
+      ],
       "region": "Vaud",
       "language": "fr",
-      "people": [{ "name": "Jean-Jacques Morard", "role": "CEO" }],
-      "companies": ["de-rham-immobilier"]
+      "people": [
+        {
+          "name": "Jean-Jacques Morard",
+          "role": "CEO"
+        }
+      ],
+      "companies": [
+        "de-rham-immobilier"
+      ]
     },
     {
       "slug": "economie-publique-emch-berger-lausanne",
-      "title": "EMCH+Berger SA Lausanne – Le goût des projets de grande envergure et complexes",
+      "title": "Emch+Berger SA Lausanne – Le goût des projets de grande envergure et complexes",
       "subtitle": "Publireportage",
       "type": "publireportage",
       "page": "16-17",
       "pdfPages": [],
       "summary": "Avec 21 collaborateurs et un chiffre d’affaires de 3,6 millions de francs, la succursale lausannoise du groupe Emch+Berger (600 collaborateurs en Suisse) mène une quarantaine de projets de génie civil. Elle réalise des travaux souterrains (tunnels, galeries et cavernes hydroélectriques), des travaux spéciaux, des structures et l’assainissement d’ouvrages d’art, dont trois ponts pour l’aéroport de Genève et l’OFROU. Elle assiste aussi les maîtres d’ouvrage, réalise des expertises et des contrôles indépendants pour des projets ferroviaires. Ses références comprennent la gare des Eaux-Vives du CEVA, l’usine hydroélectrique de Veytaux, la galerie des Farettes et des parois antibruit CFF ; en cours figurent le centre de maintenance En Chardon des TPG et l’Hôtel des patients au-dessus du tunnel du m2.",
       "quote": "",
-      "themes": ["construction", "architecture", "energie"],
+      "themes": [
+        "construction",
+        "architecture",
+        "energie"
+      ],
       "region": "Arc lémanique",
       "language": "fr",
       "people": [],
-      "companies": ["emch-berger-lausanne"]
+      "companies": [
+        "emch-berger-lausanne"
+      ]
     },
     {
       "slug": "economie-publique-gems-world-academy-etoy",
-      "title": "Ecole Internationale GEMS World Academy-Etoy – Des élèves équilibrés au service de la communauté",
+      "title": "École Internationale GEMS World Academy-Etoy – Des élèves équilibrés au service de la communauté",
       "subtitle": "Balanced students who give back to the community (français et anglais)",
       "type": "publireportage",
       "page": "20-21",
       "pdfPages": [],
       "summary": "Ouverte en 2013 à Etoy, première implantation en Europe continentale du groupe GEMS Education fondé par la famille Varkey, l’école internationale accueille 200 élèves de 3 à 18 ans et emploie 69 personnes dont 38 enseignants. Les cours sont donnés en anglais, avec le français en deuxième langue, et l’école délivre le Baccalauréat International. Son World Language Learning Centre, ouvert au public, enseigne d’autres langues par le théâtre. L’établissement dispose de deux piscines couvertes, d’un centre sportif et propose de nombreuses activités extrascolaires et un programme de bien-être. Il associe les parents par une trentaine d’ateliers, attribue des bourses au mérite, ouvre ses installations aux clubs locaux et réunit 30 nationalités.",
       "quote": "",
-      "themes": ["formation"],
+      "themes": [
+        "formation"
+      ],
       "region": "La Côte (VD)",
       "language": "fr",
       "people": [],
-      "companies": ["gems-world-academy-etoy"]
+      "companies": [
+        "gems-world-academy-etoy"
+      ]
     },
     {
       "slug": "economie-publique-hesav",
@@ -171,11 +271,16 @@
       "pdfPages": [],
       "summary": "La Haute École de Santé Vaud compte environ 1000 étudiants, dont 750 en formation HES-SO, 200 collaborateurs permanents et 120 institutions partenaires offrant 1450 places de stage par an ; elle a délivré 211 bachelors en 2014, presque deux fois plus qu’en 2008. Elle propose quatre filières : soins infirmiers, sage-femme, physiothérapie et technique en radiologie médicale, et collabore avec l’UNIL et la HES-SO pour des masters et doctorats. Son enseignement s’appuie sur des experts et la simulation, sur un campus partagé avec la faculté de médecine et le CHUV. Elle développe une politique internationale, dont une Summer University, et une recherche interdisciplinaire tournée vers les maladies chroniques, le vieillissement et la maîtrise des coûts.",
       "quote": "",
-      "themes": ["sante", "formation"],
+      "themes": [
+        "sante",
+        "formation"
+      ],
       "region": "Lausanne (VD)",
       "language": "fr",
       "people": [],
-      "companies": ["hesav"]
+      "companies": [
+        "hesav"
+      ]
     },
     {
       "slug": "economie-publique-hep-vaud-guillaume-vanhulst",
@@ -186,11 +291,21 @@
       "pdfPages": [],
       "summary": "Fondée en 2001, la Haute École pédagogique du canton de Vaud propose l’offre romande la plus complète de formation à l’enseignement, avec six filières et douze unités d’enseignement et de recherche. Son recteur Guillaume Vanhulst observe que les effectifs ont plus que doublé en dix ans, passant de 700 étudiants en 2003 à plus de 2600, pour relever les enseignants partant à la retraite. L’alignement sur le système bachelor-master et les liens avec les universités rendent le métier plus ouvert, avec par exemple un master commun avec l’UNIL. La part d’étudiants de 30 ans et plus atteint 40 %, ce qui exige souplesse et validation des acquis. Les titres délivrés sont reconnus dans toute la Suisse grâce à la conférence des directeurs de l’instruction publique.",
       "quote": "Les effectifs ont plus que doublé en dix ans.",
-      "themes": ["formation", "collectivites"],
+      "themes": [
+        "formation",
+        "collectivites"
+      ],
       "region": "Vaud",
       "language": "fr",
-      "people": [{ "name": "Guillaume Vanhulst", "role": "Recteur" }],
-      "companies": ["hep-vaud"]
+      "people": [
+        {
+          "name": "Guillaume Vanhulst",
+          "role": "Recteur"
+        }
+      ],
+      "companies": [
+        "hep-vaud"
+      ]
     },
     {
       "slug": "economie-publique-henri-badoux-vins",
@@ -201,14 +316,25 @@
       "pdfPages": [],
       "summary": "Créée en 1908 à Aigle, la maison Henri Badoux possède 50 hectares de vignes à Aigle, Yvorne, Ollon et Saint-Saphorin et s’approvisionne sur 60 hectares supplémentaires ; 57 collaborateurs vinifient 1 à 1,2 million de litres par an pour une capacité d’encavage de 2,6 millions. Avec 70 % de chasselas, elle mise sur ce cépage et doit sa notoriété à l’AOC Chablais « Aigle les Murailles », désormais aussi en rouge. Ses trois gammes vont du Badoux 1908 pour la restauration aux « Lettres de Noblesse » en petites séries. La clientèle est répartie entre grande distribution, gastronomie, grossistes et privés. Primée 39 fois en 2014, dont 13 médailles d’or, l’entreprise a ouvert un espace de dégustation à Aigle et veut développer l’export.",
       "quote": "",
-      "themes": ["economie", "territoire"],
+      "themes": [
+        "economie",
+        "territoire"
+      ],
       "region": "Chablais vaudois",
       "language": "fr",
       "people": [
-        { "name": "M. Egli", "role": "Cité dans le chai à barriques" },
-        { "name": "M. Dufaux", "role": "Œnologue" }
+        {
+          "name": "M. Egli",
+          "role": "Cité dans le chai à barriques"
+        },
+        {
+          "name": "M. Dufaux",
+          "role": "Œnologue"
+        }
       ],
-      "companies": ["henri-badoux"]
+      "companies": [
+        "henri-badoux"
+      ]
     },
     {
       "slug": "economie-publique-igt-heig-vd",
@@ -219,11 +345,21 @@
       "pdfPages": [],
       "summary": "Rattaché à la HEIG-VD, l’Institut de génie thermique dirigé par Nicolas Weber étudie, dans ses cinq laboratoires, des équipements améliorant l’efficacité énergétique dans le respect de l’environnement : processus thermiques, thermique industrielle, simulation, bioénergie, énergie solaire et physique du bâtiment. Ses sept professeurs participent à la nouvelle filière Bachelor en énergie et techniques environnementales, répondant à une forte demande de spécialistes, ainsi qu’à des MAS, CAS et au cours de solarteur. Ses projets de recherche portent sur le stockage thermique, le post-traitement des fumées de poêles à bois (Xyloclean), le bois torréfié (C-TOP) et la réfrigération magnétique. Un centre de compétences en optimisation énergétique a été créé fin 2014 avec la HES de Lucerne.",
       "quote": "L’énergie, c’est le défi du futur.",
-      "themes": ["energie", "formation"],
+      "themes": [
+        "energie",
+        "formation"
+      ],
       "region": "Yverdon-les-Bains (VD)",
       "language": "fr",
-      "people": [{ "name": "Nicolas Weber", "role": "Directeur de l’IGT" }],
-      "companies": ["igt-heig-vd"]
+      "people": [
+        {
+          "name": "Nicolas Weber",
+          "role": "Directeur de l’IGT"
+        }
+      ],
+      "companies": [
+        "igt-heig-vd"
+      ]
     },
     {
       "slug": "economie-publique-iffp-alexandre-etienne",
@@ -234,11 +370,21 @@
       "pdfPages": [],
       "summary": "Alexandre Étienne présente l’IFFP, expert suisse de la formation professionnelle, chargé de former enseignants des écoles professionnelles et formateurs en cours d’emploi, de mener des recherches et de conseiller la réforme des métiers. Le site de Lausanne fédère les cantons romands, organise des journées thématiques, collabore avec la CIIP et a été pionnier de la validation des acquis de l’expérience. L’institut propose des formations continues, CAS et DAS, forme les experts aux examens et participe à la FORDIF. Son Centre pour le développement des métiers accompagne les ordonnances de formation et, sur mandat du SEFRI, les examens supérieurs. Ses recherches portent sur l’enseignement, les curricula et le pilotage, et il accueille de nombreuses délégations étrangères et mène des projets en Slovaquie, Bulgarie et Inde.",
       "quote": "Nous sommes les experts suisses de la formation professionnelle.",
-      "themes": ["formation", "collectivites"],
+      "themes": [
+        "formation",
+        "collectivites"
+      ],
       "region": "Lausanne / Suisse",
       "language": "fr",
-      "people": [{ "name": "Alexandre Étienne", "role": "Directeur suppléant de l’IFFP, directeur régional du site de Lausanne" }],
-      "companies": ["iffp"]
+      "people": [
+        {
+          "name": "Alexandre Étienne",
+          "role": "Directeur suppléant de l’IFFP, directeur régional du site de Lausanne"
+        }
+      ],
+      "companies": [
+        "iffp"
+      ]
     },
     {
       "slug": "economie-publique-interprofession-du-gruyere",
@@ -249,11 +395,21 @@
       "pdfPages": [],
       "summary": "Directeur de l’Interprofession du Gruyère depuis sa création en 1997, Philippe Bardet explique le rôle de cette association qui réunit 2000 producteurs de lait, 170 fromagers et 9 affineurs autour de l’appellation d’origine, AOC dès 2001 puis AOP depuis 2014. Elle contrôle la qualité et la traçabilité, adapte la production au marché et assure la promotion. Premier fromage AOP de Suisse avec près de 30 000 tonnes, le Gruyère est fabriqué dans six cantons et la filière représente environ 6000 emplois ; 12 300 tonnes ont été exportées en 2014 vers 55 pays, l’Allemagne et les États-Unis en tête. Le lait provient de vaches nourries sans ensilage ; chaque meule est taxée à cinq mois et 96 % des lots atteignent la qualité 1A.",
       "quote": "C’est seulement avec la qualité 1A que l’on vit.",
-      "themes": ["economie", "territoire"],
+      "themes": [
+        "economie",
+        "territoire"
+      ],
       "region": "Fribourg / Suisse romande",
       "language": "fr",
-      "people": [{ "name": "Philippe Bardet", "role": "Directeur" }],
-      "companies": ["interprofession-du-gruyere"]
+      "people": [
+        {
+          "name": "Philippe Bardet",
+          "role": "Directeur"
+        }
+      ],
+      "companies": [
+        "interprofession-du-gruyere"
+      ]
     },
     {
       "slug": "economie-publique-montangero-fils",
@@ -264,14 +420,24 @@
       "pdfPages": [],
       "summary": "Fondée en 1879 par Jean-Baptiste Montangero, saisonnier venu de Curino en Italie du Nord, cette entreprise familiale de plâtrerie et de peinture est dirigée depuis 2002 par Ludovic et Sylvain Montangero, cinquième génération. Basée à Romanel-sur-Lausanne avec une trentaine de collaborateurs et deux apprentis, elle réalise plâtrerie, peinture, rénovation de façades, peintures décoratives, béton ciré et papiers peints, pour des privés, des architectes et des gérances, de la région lausannoise jusqu’à Genève et au Valais. Elle met en avant sa force de proposition et peut gérer le suivi de chantier. Une société sœur, Capmont SA, propose le montage d’échafaudages, et l’entreprise soutient clubs sportifs et événements locaux.",
       "quote": "",
-      "themes": ["construction"],
+      "themes": [
+        "construction"
+      ],
       "region": "Lausanne (VD)",
       "language": "fr",
       "people": [
-        { "name": "Ludovic Montangero", "role": "Administrateur" },
-        { "name": "Sylvain Montangero", "role": "Administrateur" }
+        {
+          "name": "Ludovic Montangero",
+          "role": "Administrateur"
+        },
+        {
+          "name": "Sylvain Montangero",
+          "role": "Administrateur"
+        }
       ],
-      "companies": ["montangero-fils"]
+      "companies": [
+        "montangero-fils"
+      ]
     },
     {
       "slug": "economie-publique-mbc-mobilite-regionale",
@@ -282,11 +448,16 @@
       "pdfPages": [],
       "summary": "Les MBC relient 52 localités de la région morgienne, emploient 210 collaborateurs et ont réalisé 33 millions de francs de chiffre d’affaires en 2014, avec 5 millions de voyageurs dont 623 000 écoliers. Le réseau de bus compte 209 arrêts sur 150 km, enrichi des lignes du Pied du Jura et d’un service nocturne, le Pyjam’bus. Le chemin de fer, qui fête ses 120 ans, exploite les lignes Morges–Apples–Bière et Apples–L’Isle, valorisées par les offres touristiques BAM Saveurs et BAM Terroir, et transporte 42 000 tonnes de marchandises grâce à des bogies porteurs, avec des volumes de gravier appelés à croître. Les MBC exploitent aussi le funiculaire Cossonay-Penthalaz, renouvellent leur matériel et préparent la cadence à la demi-heure, puis au quart d’heure.",
       "quote": "",
-      "themes": ["mobilite", "territoire"],
+      "themes": [
+        "mobilite",
+        "territoire"
+      ],
       "region": "Région de Morges (VD)",
       "language": "fr",
       "people": [],
-      "companies": ["mbc"]
+      "companies": [
+        "mbc"
+      ]
     },
     {
       "slug": "economie-publique-pesa-port-franc-chavornay",
@@ -297,14 +468,25 @@
       "pdfPages": [],
       "summary": "Fondée en 1973 et reprise en 2010 par le groupe Planzer, PESA SA est spécialisée dans le transport de marchandises, l’entreposage et les formalités douanières, avec 62 employés parlant neuf langues sur six sites. Elle organise le fret aérien, maritime, routier et ferroviaire, profitant d’un raccordement au rail devant ses locaux. Elle assure le dédouanement à l’import et à l’export, à distance ou temporaire pour expositions et salons, en partenariat avec l’administration des douanes logée dans le même bâtiment. Ses 30 000 m2 d’entrepôts incluent une zone tempérée et un port franc sous vidéosurveillance. Membre d’organisations internationales comme IATA et FIATA, elle dispose de succursales à Genève, Martigny et Novazzano.",
       "quote": "",
-      "themes": ["mobilite", "economie"],
+      "themes": [
+        "mobilite",
+        "economie"
+      ],
       "region": "Nord vaudois",
       "language": "fr",
       "people": [
-        { "name": "Laetitia Soutter", "role": "Responsable Finance" },
-        { "name": "Lara Muehlethaler", "role": "Responsable Ressources humaines et assistante du directeur" }
+        {
+          "name": "Laetitia Soutter",
+          "role": "Responsable Finance"
+        },
+        {
+          "name": "Lara Muehlethaler",
+          "role": "Responsable Ressources humaines et assistante du directeur"
+        }
       ],
-      "companies": ["pesa"]
+      "companies": [
+        "pesa"
+      ]
     },
     {
       "slug": "economie-publique-nstcm-ligne-unique",
@@ -315,11 +497,21 @@
       "pdfPages": [],
       "summary": "Menacée de disparition au début des années 1980, la ligne métrique de 27 km du Nyon–St-Cergue–Morez dessert sept communes du pied du Jura et sert aussi le tourisme, des randonnées sur les crêtes au ski de fond à la Givrine et au ski de piste à la Dôle. Une gare souterraine a été inaugurée à Nyon en 2004, une nouvelle halte aux Cheseaux en décembre 2014 et quatre nouvelles rames ont été livrées jusqu’en juin 2015. Richard Zaugg présente les localités desservies, d’Arzier à Trélex, et souligne qu’une étude montre que le train est aussi rapide, voire plus, que la voiture. Dès décembre 2015, la cadence passe au quart d’heure, avec une meilleure information voyageurs et la sécurisation de la gare de Genolier.",
       "quote": "Si on choisit le rail on va aussi vite, voire plus vite, qu’en voiture.",
-      "themes": ["mobilite", "territoire"],
+      "themes": [
+        "mobilite",
+        "territoire"
+      ],
       "region": "District de Nyon (VD)",
       "language": "fr",
-      "people": [{ "name": "Richard Zaugg", "role": "Directeur" }],
-      "companies": ["nstcm"]
+      "people": [
+        {
+          "name": "Richard Zaugg",
+          "role": "Directeur"
+        }
+      ],
+      "companies": [
+        "nstcm"
+      ]
     },
     {
       "slug": "economie-publique-tpn-offre-de-qualite",
@@ -330,11 +522,21 @@
       "pdfPages": [],
       "summary": "Les TPN desservent le district de Nyon, bassin de plus de 90 000 habitants tourné vers Genève et Lausanne, et transportent 2,3 millions de voyageurs par an avec 70 conducteurs, deux dépôts et 28 bus, dont 11 tout neufs. Leur directeur Richard Zaugg, également à la tête du NStCM, présente un réseau de cinq lignes suburbaines, dont une transfrontalière, et de cinq lignes urbaines passées au quart d’heure en décembre 2014. Les usagers profitent des communautés tarifaires Mobilis et Unireso et de billets par SMS. La compagnie propose des offres ski pour les écoliers et des navettes lors de manifestations comme le Paléo Festival, et prévoit un système d’information voyageurs dynamique et un nouveau tracé de la ligne 814 vers Divonne et Gex.",
       "quote": "",
-      "themes": ["mobilite", "collectivites"],
+      "themes": [
+        "mobilite",
+        "collectivites"
+      ],
       "region": "District de Nyon (VD)",
       "language": "fr",
-      "people": [{ "name": "Richard Zaugg", "role": "Directeur" }],
-      "companies": ["tpn"]
+      "people": [
+        {
+          "name": "Richard Zaugg",
+          "role": "Directeur"
+        }
+      ],
+      "companies": [
+        "tpn"
+      ]
     },
     {
       "slug": "economie-publique-swi-institut-suisse-soudure",
@@ -345,11 +547,16 @@
       "pdfPages": [],
       "summary": "Fondation créée en février 2002 et détenue à parts égales par la HEIG-VD et l’Association suisse d’inspection technique, le SWI d’Yverdon-les-Bains offre formation, recherche appliquée et expertise en soudage. Il assure en moyenne 1400 jours-homme de formation pratique par an dans dix box et délivre 130 certificats de soudeurs, sur l’acier, l’aluminium ou le titane, ainsi que des formations théoriques internationales de praticien à ingénieur et de coordinateur en soudage selon la norme EN 1090. Sa branche SWI-micro développe le microsoudage et le brasage électronique, accrédité sous condition par l’Agence spatiale européenne au Technopôle de Sainte-Croix. Le SWI teste aussi de nouveaux procédés comme le soudage par impulsion magnétique.",
       "quote": "Il y a toujours quelque chose à souder et une soudure à vérifier !",
-      "themes": ["industrie", "formation"],
+      "themes": [
+        "industrie",
+        "formation"
+      ],
       "region": "Nord vaudois",
       "language": "fr",
       "people": [],
-      "companies": ["swi"]
+      "companies": [
+        "swi"
+      ]
     },
     {
       "slug": "economie-publique-tekhne",
@@ -360,11 +567,16 @@
       "pdfPages": [],
       "summary": "Créée en 1998 à Lausanne, avec des bureaux à Fribourg et Genève, Tekhne emploie plus de 40 personnes de sept nationalités dans la maîtrise d’ouvrage déléguée, la planification et la réalisation d’ouvrages de moyenne à grande importance. Elle intervient dans quatre domaines : coordination et pilotage de projet (qualité, coûts, délais, aide à la décision), conception et développement dès les phases initiales, direction des travaux et assistance au maître d’ouvrage. Ses clients sont surtout des pouvoirs publics, des institutions et de grandes entreprises. Parmi ses références figure la transformation de la gare de Genève-Cornavin, restée ouverte à plus de 100 000 passagers par jour ; en cours, HEG Battelle, la Faculté de droit de Fribourg, le siège de l’OFROU à Ittigen et le stade de la Tuilière.",
       "quote": "",
-      "themes": ["architecture", "construction"],
+      "themes": [
+        "architecture",
+        "construction"
+      ],
       "region": "Lausanne / Genève / Fribourg",
       "language": "fr",
       "people": [],
-      "companies": ["tekhne"]
+      "companies": [
+        "tekhne"
+      ]
     },
     {
       "slug": "economie-publique-vaudoise-assurances-philippe-hebeisen",
@@ -375,11 +587,20 @@
       "pdfPages": [],
       "summary": "Fondée en 1895 et détenue par la coopérative Mutuelle Vaudoise, la Vaudoise est présente dans toute la Suisse avec plus de 90 agences et règle près de 80 % des sinistres au plus près de ses 400 000 clients. Son directeur général Philippe Hebeisen décrit une stratégie de retour aux racines mutualistes et de concentration sur le marché suisse, qui a permis une croissance supérieure au marché et un bénéfice consolidé de 153,6 millions de francs en 2014. Depuis 2014, une partie des bénéfices non-vie est redistribuée aux clients par une rétrocession de primes d’environ 15 %, via un fonds doté de 30 millions. L’entreprise emploie 1500 collaborateurs, dont une centaine d’apprenants, sponsorise de grands événements et mène le programme de responsabilité sociale involvere.",
       "quote": "Solidité, indépendance et proximité font de la Vaudoise une véritable alternative aux grands groupes.",
-      "themes": ["economie"],
+      "themes": [
+        "economie"
+      ],
       "region": "Lausanne / Suisse",
       "language": "fr",
-      "people": [{ "name": "Philippe Hebeisen", "role": "Directeur général, CEO" }],
-      "companies": ["vaudoise-assurances"]
+      "people": [
+        {
+          "name": "Philippe Hebeisen",
+          "role": "Directeur général, CEO"
+        }
+      ],
+      "companies": [
+        "vaudoise-assurances"
+      ]
     }
   ],
   "companies": [
@@ -387,7 +608,10 @@
       "slug": "departement-economie-sport-vaud",
       "name": "Département de l’économie et du sport – État de Vaud",
       "sector": "Administration cantonale – économie et sport",
-      "themes": ["collectivites", "economie"],
+      "themes": [
+        "collectivites",
+        "economie"
+      ],
       "description": "Département vaudois dirigé par le conseiller d’État Philippe Leuba, chargé de maintenir une économie forte et diversifiée : exonérations fiscales temporaires pour nouvelles activités, fonds de soutien à l’industrie de 17,5 millions de francs, soutien à la plateforme Innovaud et préparation d’un taux d’imposition unique des entreprises.",
       "address": "Rue Caroline 11",
       "postalCode": "1014",
@@ -397,7 +621,12 @@
       "phone": "+41 (0)21 316 60 19",
       "email": "info.sgdecs@vd.ch",
       "website": "www.vd.ch/decs",
-      "contacts": [{ "name": "Philippe Leuba", "role": "Conseiller d’État" }],
+      "contacts": [
+        {
+          "name": "Philippe Leuba",
+          "role": "Conseiller d’État"
+        }
+      ],
       "page": "03",
       "pdfPages": [],
       "advertiserOnly": false
@@ -406,7 +635,9 @@
       "slug": "cvci",
       "name": "Chambre Vaudoise du Commerce et de l’Industrie (CVCI)",
       "sector": "Chambre de commerce",
-      "themes": ["economie"],
+      "themes": [
+        "economie"
+      ],
       "description": "Organisation économique vaudoise qui défend des conditions-cadres libérales, gère la Fondation pour l’innovation technologique, fournit à ses membres caisses sociales, conseil juridique, appui à l’export et enquêtes conjoncturelles, et organise plus de 200 manifestations de réseautage par an. Coordonnées non indiquées dans le texte.",
       "address": "",
       "postalCode": "",
@@ -416,7 +647,12 @@
       "phone": "",
       "email": "",
       "website": "",
-      "contacts": [{ "name": "Claudine Amstein", "role": "Directrice" }],
+      "contacts": [
+        {
+          "name": "Claudine Amstein",
+          "role": "Directrice"
+        }
+      ],
       "page": "04",
       "pdfPages": [],
       "advertiserOnly": false
@@ -425,7 +661,10 @@
       "slug": "speco-vaud",
       "name": "Service de la promotion économique et du commerce – État de Vaud",
       "sector": "Administration cantonale – promotion économique",
-      "themes": ["collectivites", "economie"],
+      "themes": [
+        "collectivites",
+        "economie"
+      ],
       "description": "Service cantonal chargé de favoriser l’investissement privé et la création d’emplois selon la loi sur l’appui au développement économique : financement et cautionnement de projets, facilitation administrative, image Vaud Swissness et ciblage de clusters (sciences de la vie, sport, tourisme, agroalimentaire, précision, cleantech, TIC).",
       "address": "Rue Caroline 11",
       "postalCode": "1014",
@@ -435,7 +674,12 @@
       "phone": "+41 (0)21 316 60 21",
       "email": "Info.speco@vd.ch",
       "website": "",
-      "contacts": [{ "name": "Lionel Eperon", "role": "Chef de service" }],
+      "contacts": [
+        {
+          "name": "Lionel Eperon",
+          "role": "Chef de service"
+        }
+      ],
       "page": "05",
       "pdfPages": [],
       "advertiserOnly": false
@@ -444,7 +688,11 @@
       "slug": "caisse-avs-vaud",
       "name": "Caisse cantonale vaudoise de compensation AVS (CCVD)",
       "sector": "Assurances sociales – institution de droit public",
-      "themes": ["collectivites", "economie", "sante"],
+      "themes": [
+        "collectivites",
+        "economie",
+        "sante"
+      ],
       "description": "Institution autonome de droit public fondée en 1948, 246 collaborateurs, qui applique plus de 18 lois : cotisations et rentes AVS/AI, APG, allocations familiales, prestations complémentaires, PC Familles, caisse agricole Agrivit et Fonds cantonal pour la famille. 2,72 milliards de francs de prestations versées en 2014 ; plateforme e-business pour les employeurs.",
       "address": "Rue des Moulins 3",
       "postalCode": "1800",
@@ -454,7 +702,12 @@
       "phone": "021 964 12 11",
       "email": "",
       "website": "www.caisseavsvaud.ch",
-      "contacts": [{ "name": "Fabienne Goetzinger", "role": "Directrice" }],
+      "contacts": [
+        {
+          "name": "Fabienne Goetzinger",
+          "role": "Directrice"
+        }
+      ],
       "page": "07-10, 4e de couv.",
       "pdfPages": [],
       "advertiserOnly": false
@@ -463,7 +716,9 @@
       "slug": "chenevartarchitecte",
       "name": "chenevartarchitecte – atelier d’architecture et d’espaces bâtis",
       "sector": "Bureau d’architecture",
-      "themes": ["architecture"],
+      "themes": [
+        "architecture"
+      ],
       "description": "Bureau fondé par l’architecte Olivier Chenevart, actif dans le logement, l’industrie, le commerce et la rénovation, avec une approche d’intégration au site et au bâti existant, des projets liés à l’énergie (biogaz) et un accompagnement technique et économique des maîtres d’ouvrage.",
       "address": "Avenue Beauregard 15",
       "postalCode": "1700",
@@ -473,7 +728,12 @@
       "phone": "+41 (0)26 504 2856",
       "email": "atelier@chenevart.ch",
       "website": "www.chenevart.ch",
-      "contacts": [{ "name": "Olivier Chenevart", "role": "Architecte dipl. EPFL SIA" }],
+      "contacts": [
+        {
+          "name": "Olivier Chenevart",
+          "role": "Architecte dipl. EPFL SIA"
+        }
+      ],
       "page": "11",
       "pdfPages": [],
       "advertiserOnly": false
@@ -482,7 +742,10 @@
       "slug": "cett-heig-vd",
       "name": "Centre d’Etudes et de Transferts Technologiques de la HEIG-VD (CeTT)",
       "sector": "Recherche appliquée et transfert technologique",
-      "themes": ["formation", "economie"],
+      "themes": [
+        "formation",
+        "economie"
+      ],
       "description": "Centre qui coordonne la recherche appliquée des 13 instituts et groupes transversaux de la HEIG-VD : 258 contrats et 19,1 millions de francs en 2014, 125 équivalents plein temps, brevets et soutien à la création de start-up avec Y-START au Y-Parc d’Yverdon.",
       "address": "Y-Parc, Rue Galilée 15",
       "postalCode": "1400",
@@ -492,16 +755,24 @@
       "phone": "+41 (0)24 557 28 04",
       "email": "d-cett@heig-vd.ch",
       "website": "www.heig-vd.ch/rad/cett",
-      "contacts": [{ "name": "Didier Louvier", "role": "Directeur" }],
+      "contacts": [
+        {
+          "name": "Didier Louvier",
+          "role": "Directeur"
+        }
+      ],
       "page": "12-13",
       "pdfPages": [],
       "advertiserOnly": false
     },
     {
       "slug": "ecole-minerva",
-      "name": "Ecole Minerva Sàrl",
+      "name": "École Minerva Sàrl",
       "sector": "École de formation paramédicale",
-      "themes": ["formation", "sante"],
+      "themes": [
+        "formation",
+        "sante"
+      ],
       "description": "École lausannoise fondée en 1949 formant secrétaires et assistants médicaux (CFC en apprentissage ou école des métiers), avec maturité professionnelle santé-social et cours de perfectionnement ; jusqu’à 150 élèves, certifications EduQua et QSC.",
       "address": "Rue Etraz 4 / de l’Ecole Supérieure 5, Case postale 5970",
       "postalCode": "1002",
@@ -520,7 +791,10 @@
       "slug": "de-rham-immobilier",
       "name": "de Rham Immobilier",
       "sector": "Gérance et services immobiliers",
-      "themes": ["economie", "architecture"],
+      "themes": [
+        "economie",
+        "architecture"
+      ],
       "description": "Régie vaudoise plus que centenaire : 3,5 milliards de francs d’immeubles sous gestion, 10 000 logements, 70 collaborateurs, 2000 nouveaux baux par an. Gestion pour propriétaires privés et institutionnels, immobilier commercial et services de rénovation, densification et surélévation.",
       "address": "Avenue de Mon-Repos 14",
       "postalCode": "1005",
@@ -530,7 +804,12 @@
       "phone": "+41(0)58 211 11 11",
       "email": "contact@deRham.ch",
       "website": "www.derham.ch",
-      "contacts": [{ "name": "Jean-Jacques Morard", "role": "CEO" }],
+      "contacts": [
+        {
+          "name": "Jean-Jacques Morard",
+          "role": "CEO"
+        }
+      ],
       "page": "15",
       "pdfPages": [],
       "advertiserOnly": false
@@ -539,7 +818,10 @@
       "slug": "emch-berger-lausanne",
       "name": "Emch+Berger SA Lausanne",
       "sector": "Ingénierie civile",
-      "themes": ["construction", "architecture"],
+      "themes": [
+        "construction",
+        "architecture"
+      ],
       "description": "Succursale lausannoise du groupe Emch+Berger, 21 collaborateurs et 3,6 millions de francs de chiffre d’affaires : travaux souterrains, travaux spéciaux, structures, assainissement d’ouvrages d’art, assistance au maître d’ouvrage et expertises. Références CEVA (gare des Eaux-Vives), Veytaux, Farettes, centre TPG En Chardon.",
       "address": "Chemin d’Entre-Bois 29, Case postale 5",
       "postalCode": "1000",
@@ -558,7 +840,9 @@
       "slug": "fondation-bartimee",
       "name": "Fondation Bartimée",
       "sector": "",
-      "themes": ["sante"],
+      "themes": [
+        "sante"
+      ],
       "description": "Fondation citée dans l’index du magazine (page 19) et dont le logo « Choisir ma vie » apparaît sur les pages de logos ; le texte extrait ne contient aucune information sur son activité ni ses coordonnées.",
       "address": "",
       "postalCode": "",
@@ -577,7 +861,9 @@
       "slug": "gems-world-academy-etoy",
       "name": "GEMS World Academy International School-Etoy",
       "sector": "École internationale privée",
-      "themes": ["formation"],
+      "themes": [
+        "formation"
+      ],
       "description": "École internationale ouverte en 2013, membre du groupe GEMS Education : 200 élèves de 3 à 18 ans, 69 collaborateurs, enseignement en anglais et Baccalauréat International, centre de langues ouvert au public, piscines et centre sportif.",
       "address": "La Tuilière 18",
       "postalCode": "1163",
@@ -596,7 +882,10 @@
       "slug": "hesav",
       "name": "HESAV – Haute Ecole de Santé Vaud",
       "sector": "Haute école de santé",
-      "themes": ["sante", "formation"],
+      "themes": [
+        "sante",
+        "formation"
+      ],
       "description": "Haute école d’environ 1000 étudiants et 200 collaborateurs, membre de la HES-SO : bachelors en soins infirmiers, sage-femme, physiothérapie et radiologie médicale, masters et doctorats en partenariat, recherche interdisciplinaire et programme international.",
       "address": "Avenue de Beaumont 21",
       "postalCode": "1011",
@@ -615,7 +904,10 @@
       "slug": "hep-vaud",
       "name": "Haute Ecole Pédagogique Vaud (HEP Vaud)",
       "sector": "Formation des enseignants",
-      "themes": ["formation", "collectivites"],
+      "themes": [
+        "formation",
+        "collectivites"
+      ],
       "description": "Haute école fondée en 2001, plus de 2600 étudiants, six filières (primaire, secondaire I et II, pédagogie spécialisée, postgrade, formation continue) et douze unités d’enseignement et de recherche ; master commun avec l’UNIL.",
       "address": "Avenue de Cour 33",
       "postalCode": "1014",
@@ -625,7 +917,12 @@
       "phone": "+41 21 316 92 70",
       "email": "accueil@hepl.ch",
       "website": "www.hepl.ch",
-      "contacts": [{ "name": "Guillaume Vanhulst", "role": "Recteur" }],
+      "contacts": [
+        {
+          "name": "Guillaume Vanhulst",
+          "role": "Recteur"
+        }
+      ],
       "page": "24-25",
       "pdfPages": [],
       "advertiserOnly": false
@@ -634,7 +931,10 @@
       "slug": "henri-badoux",
       "name": "Henri Badoux SA (Badoux-Vins)",
       "sector": "Viticulture et négoce de vins",
-      "themes": ["economie", "territoire"],
+      "themes": [
+        "economie",
+        "territoire"
+      ],
       "description": "Maison viticole fondée en 1908 à Aigle : 50 hectares de vignes dans le Chablais et à Saint-Saphorin, 57 collaborateurs, 1 à 1,2 million de litres vinifiés par an, 70 % de chasselas. Vin phare « Aigle les Murailles », gammes Badoux 1908, Tradition et Lettres de Noblesse. Téléphone alternatif : +41 (0)24 468 68 88.",
       "address": "Route d’Ollon 8, Case postale 448",
       "postalCode": "1860",
@@ -644,7 +944,12 @@
       "phone": "0800 223 689",
       "email": "info@badoux-vins.ch",
       "website": "www.badoux-vins.ch/fr/",
-      "contacts": [{ "name": "M. Dufaux", "role": "Œnologue" }],
+      "contacts": [
+        {
+          "name": "M. Dufaux",
+          "role": "Œnologue"
+        }
+      ],
       "page": "26-27",
       "pdfPages": [],
       "advertiserOnly": false
@@ -653,7 +958,10 @@
       "slug": "igt-heig-vd",
       "name": "Institut de Génie Thermique (IGT) de la HEIG-VD",
       "sector": "Recherche et formation en énergie",
-      "themes": ["energie", "formation"],
+      "themes": [
+        "energie",
+        "formation"
+      ],
       "description": "Institut de la HEIG-VD doté de cinq laboratoires (processus thermiques, thermique industrielle, simulation, bioénergie, solaire et physique du bâtiment), engagé dans le bachelor Énergie et techniques environnementales, des CAS/MAS, le cours de solarteur et des projets de recherche sur le stockage thermique et la combustion du bois.",
       "address": "Avenue des Sports 20",
       "postalCode": "1401",
@@ -663,7 +971,12 @@
       "phone": "+41 (0) 24 557 61 59",
       "email": "",
       "website": "http://igt.heig-vd.ch",
-      "contacts": [{ "name": "Nicolas Weber", "role": "Directeur" }],
+      "contacts": [
+        {
+          "name": "Nicolas Weber",
+          "role": "Directeur"
+        }
+      ],
       "page": "28-29",
       "pdfPages": [],
       "advertiserOnly": false
@@ -672,7 +985,10 @@
       "slug": "iffp",
       "name": "Institut fédéral des hautes études en formation professionnelle (IFFP)",
       "sector": "Institution fédérale de formation et de recherche",
-      "themes": ["formation", "collectivites"],
+      "themes": [
+        "formation",
+        "collectivites"
+      ],
       "description": "Institut fédéral expert de la formation professionnelle : formation des enseignants et formateurs, formation continue (CAS, DAS), Master of Science en formation professionnelle, recherche et Centre pour le développement des métiers. Site régional romand à Lausanne. Renseignements master : 031 910 37 38, msc@iffp-suisse.ch.",
       "address": "Avenue de Longemalle 1, CP 192",
       "postalCode": "1000",
@@ -682,7 +998,12 @@
       "phone": "+41 21 621 82 00",
       "email": "",
       "website": "www.iffp-suisse.ch",
-      "contacts": [{ "name": "Alexandre Étienne", "role": "Directeur suppléant, directeur régional du site de Lausanne" }],
+      "contacts": [
+        {
+          "name": "Alexandre Étienne",
+          "role": "Directeur suppléant, directeur régional du site de Lausanne"
+        }
+      ],
       "page": "30-33",
       "pdfPages": [],
       "advertiserOnly": false
@@ -691,7 +1012,10 @@
       "slug": "interprofession-du-gruyere",
       "name": "Interprofession du Gruyère (IPG)",
       "sector": "Organisation interprofessionnelle fromagère",
-      "themes": ["economie", "territoire"],
+      "themes": [
+        "economie",
+        "territoire"
+      ],
       "description": "Association fondée en 1997 qui réunit producteurs de lait, fromagers et affineurs du Gruyère AOP : gestion du cahier des charges, contrôles de qualité et de traçabilité, adaptation de la production et promotion. Environ 30 000 tonnes produites, dont 12 300 exportées en 2014.",
       "address": "Case postale 12",
       "postalCode": "1663",
@@ -701,7 +1025,12 @@
       "phone": "+41 (0)26 921 84 10",
       "email": "interprofession@gruyere.com",
       "website": "www.gruyere.com",
-      "contacts": [{ "name": "Philippe Bardet", "role": "Directeur" }],
+      "contacts": [
+        {
+          "name": "Philippe Bardet",
+          "role": "Directeur"
+        }
+      ],
       "page": "34-37, 3e de couv.",
       "pdfPages": [],
       "advertiserOnly": false
@@ -710,7 +1039,9 @@
       "slug": "montangero-fils",
       "name": "Montangero & Fils SA",
       "sector": "Plâtrerie et peinture",
-      "themes": ["construction"],
+      "themes": [
+        "construction"
+      ],
       "description": "Entreprise familiale de plâtriers-peintres fondée en 1879, cinquième génération, une trentaine de collaborateurs à Romanel-sur-Lausanne : plâtrerie, peinture, façades, peintures décoratives, béton ciré, papiers peints, transformations et entretien ; échafaudages via la société sœur Capmont SA.",
       "address": "",
       "postalCode": "1032",
@@ -721,8 +1052,14 @@
       "email": "",
       "website": "www.montangeropeinture.ch",
       "contacts": [
-        { "name": "Ludovic Montangero", "role": "Administrateur" },
-        { "name": "Sylvain Montangero", "role": "Administrateur" }
+        {
+          "name": "Ludovic Montangero",
+          "role": "Administrateur"
+        },
+        {
+          "name": "Sylvain Montangero",
+          "role": "Administrateur"
+        }
       ],
       "page": "38",
       "pdfPages": [],
@@ -732,7 +1069,10 @@
       "slug": "mbc",
       "name": "Transports de la région Morges Bière Cossonay SA (MBC SA)",
       "sector": "Transports publics (bus, train, funiculaire, fret)",
-      "themes": ["mobilite", "territoire"],
+      "themes": [
+        "mobilite",
+        "territoire"
+      ],
       "description": "Compagnie de transports de la région morgienne : 210 collaborateurs, 5 millions de voyageurs en 2014, réseau de bus de 150 km, lignes ferroviaires Morges–Apples–Bière et Apples–L’Isle, funiculaire Cossonay-Penthalaz et fret ferroviaire de 42 000 tonnes par an.",
       "address": "Riond-Bosson 3, CP 232",
       "postalCode": "1110",
@@ -751,7 +1091,10 @@
       "slug": "pesa",
       "name": "Port-Franc et Entrepôts de Lausanne – Chavornay – PESA SA",
       "sector": "Transport, entreposage et dédouanement",
-      "themes": ["mobilite", "economie"],
+      "themes": [
+        "mobilite",
+        "economie"
+      ],
       "description": "Société fondée en 1973, filiale du groupe Planzer depuis 2010, 62 employés sur six sites : fret aérien, maritime, routier et ferroviaire, dédouanement, 30 000 m2 d’entrepôts dont un port franc. Succursales à Genève, Martigny et Novazzano.",
       "address": "Rue de l’Industrie 4c",
       "postalCode": "1373",
@@ -762,8 +1105,14 @@
       "email": "info@pesa-chavornay.ch",
       "website": "www.pesa-chavornay.ch",
       "contacts": [
-        { "name": "Laetitia Soutter", "role": "Responsable Finance" },
-        { "name": "Lara Muehlethaler", "role": "Responsable Ressources humaines" }
+        {
+          "name": "Laetitia Soutter",
+          "role": "Responsable Finance"
+        },
+        {
+          "name": "Lara Muehlethaler",
+          "role": "Responsable Ressources humaines"
+        }
       ],
       "page": "42-43",
       "pdfPages": [],
@@ -773,7 +1122,10 @@
       "slug": "nstcm",
       "name": "Compagnie du chemin de fer Nyon - St-Cergue - Morez SA (NStCM)",
       "sector": "Chemin de fer régional à voie métrique",
-      "themes": ["mobilite", "territoire"],
+      "themes": [
+        "mobilite",
+        "territoire"
+      ],
       "description": "Ligne métrique de 27 km reliant Nyon à St-Cergue et La Cure, au service de sept communes et du tourisme jurassien ; gare souterraine à Nyon, nouvelles rames et cadence au quart d’heure dès décembre 2015. Également présente en deuxième de couverture.",
       "address": "Rue de la Gare 45",
       "postalCode": "1260",
@@ -783,7 +1135,12 @@
       "phone": "+41 22 994 28 40",
       "email": "info@tprnov.ch",
       "website": "www.tprnov.ch/nstcm",
-      "contacts": [{ "name": "Richard Zaugg", "role": "Directeur" }],
+      "contacts": [
+        {
+          "name": "Richard Zaugg",
+          "role": "Directeur"
+        }
+      ],
       "page": "44-45, 2e de couv.",
       "pdfPages": [],
       "advertiserOnly": false
@@ -792,7 +1149,10 @@
       "slug": "tpn",
       "name": "Transports publics de la région nyonnaise SA (TPN)",
       "sector": "Transports publics (bus)",
-      "themes": ["mobilite", "collectivites"],
+      "themes": [
+        "mobilite",
+        "collectivites"
+      ],
       "description": "Compagnie de bus du district de Nyon : 2,3 millions de voyageurs par an, 70 conducteurs, 28 bus, cinq lignes suburbaines dont une transfrontalière et cinq lignes urbaines au quart d’heure. Site web reproduit tel qu’imprimé (variante « www.tprnov/tpn » en deuxième de couverture).",
       "address": "Rue de la Gare 45",
       "postalCode": "1260",
@@ -802,7 +1162,12 @@
       "phone": "+41 22 994 28 40",
       "email": "info@tprnov.ch",
       "website": "www.tprnov.ch/tpn",
-      "contacts": [{ "name": "Richard Zaugg", "role": "Directeur" }],
+      "contacts": [
+        {
+          "name": "Richard Zaugg",
+          "role": "Directeur"
+        }
+      ],
       "page": "46-47, 2e de couv.",
       "pdfPages": [],
       "advertiserOnly": false
@@ -811,7 +1176,10 @@
       "slug": "swi",
       "name": "Swiss Welding Institute – Institut Suisse de la Soudure (SWI)",
       "sector": "Formation, recherche et expertise en soudage",
-      "themes": ["industrie", "formation"],
+      "themes": [
+        "industrie",
+        "formation"
+      ],
       "description": "Fondation créée en 2002, détenue par la HEIG-VD et l’ASIT : formations pratiques et théoriques internationales en soudage, 130 certificats par an, coordinateurs EN 1090, brasage électronique (SWI-micro, accréditation ESA sous condition), recherche sur de nouveaux procédés et expertises d’avaries.",
       "address": "Rue du Nord 3",
       "postalCode": "1400",
@@ -830,7 +1198,10 @@
       "slug": "tekhne",
       "name": "Tekhne SA",
       "sector": "Maîtrise d’ouvrage déléguée et pilotage de projets de construction",
-      "themes": ["architecture", "construction"],
+      "themes": [
+        "architecture",
+        "construction"
+      ],
       "description": "Société de services créée en 1998 à Lausanne, avec bureaux à Fribourg et Genève, plus de 40 collaborateurs : pilotage, développement de projet, direction des travaux et assistance au maître d’ouvrage. Références : gare de Cornavin, HEG Battelle, Faculté de droit de Fribourg, siège de l’OFROU à Ittigen, stade de la Tuilière. Coordonnées non indiquées dans le texte.",
       "address": "",
       "postalCode": "",
@@ -849,7 +1220,9 @@
       "slug": "vaudoise-assurances",
       "name": "Vaudoise Assurances",
       "sector": "Assurances",
-      "themes": ["economie"],
+      "themes": [
+        "economie"
+      ],
       "description": "Assureur suisse fondé en 1895, détenu par la coopérative Mutuelle Vaudoise : plus de 90 agences, 400 000 clients, 1500 collaborateurs, bénéfice consolidé de 153,6 millions de francs en 2014 et redistribution d’une partie des bénéfices non-vie aux clients.",
       "address": "Place de Milan, CP 120",
       "postalCode": "1001",
@@ -859,7 +1232,12 @@
       "phone": "+41 21 618 88 88",
       "email": "info@vaudoise.ch",
       "website": "www.vaudoise.ch",
-      "contacts": [{ "name": "Philippe Hebeisen", "role": "Directeur général, CEO" }],
+      "contacts": [
+        {
+          "name": "Philippe Hebeisen",
+          "role": "Directeur général, CEO"
+        }
+      ],
       "page": "54",
       "pdfPages": [],
       "advertiserOnly": false

@@ -233,7 +233,7 @@
     },
     {
       "slug": "grands-travaux-a5-colombier-cornaux",
-      "title": "A5 Colombier - Cornaux",
+      "title": "A5 Colombier – Cornaux",
       "subtitle": "Assainissement de l’autoroute à travers l’agglomération de Neuchâtel",
       "type": "dossier",
       "page": "10",
@@ -378,7 +378,7 @@
     },
     {
       "slug": "grands-travaux-leman-2030-noeud-geneve-mies-chambesy",
-      "title": "Léman 2030 - Nœud de Genève Mies-Chambésy",
+      "title": "Léman 2030 – Nœud de Genève Mies-Chambésy",
       "subtitle": "Vers la cadence au quart d’heure entre Coppet et Genève",
       "type": "dossier",
       "page": "16",
@@ -455,7 +455,7 @@
     },
     {
       "slug": "grands-travaux-tpn-accompagner-essor-region",
-      "title": "TPN - Transports publics de la région nyonnaise SA : accompagner l’essor d’une région",
+      "title": "TPN – Transports publics de la région nyonnaise SA : accompagner l’essor d’une région",
       "subtitle": "Entretien avec M. Richard Zaugg, directeur des TPN",
       "type": "interview",
       "page": "22-23",
@@ -1590,7 +1590,7 @@
     },
     {
       "slug": "monod-piguet-associes",
-      "name": "MONOD-PIGUET + ASSOCIES Ingénieurs Conseils S.A.",
+      "name": "Monod-Piguet + Associés Ingénieurs Conseils S.A.",
       "sector": "Ingénierie civile et planification générale",
       "themes": [
         "construction",
@@ -1613,7 +1613,7 @@
     },
     {
       "slug": "norbert",
-      "name": "NORBERT SA Géologues conseils",
+      "name": "Norbert SA Géologues conseils",
       "sector": "Géologie de l’ingénieur et hydrogéologie",
       "themes": [
         "construction",
@@ -1868,7 +1868,7 @@
     },
     {
       "slug": "paler",
-      "name": "PALER Lavori Speciali del Sottosuolo SA",
+      "name": "Paler Lavori Speciali del Sottosuolo SA",
       "sector": "Travaux spéciaux du sous-sol",
       "themes": [
         "construction"
@@ -1999,7 +1999,7 @@
     },
     {
       "slug": "hygin-debons",
-      "name": "Hygin Debons Serrurerie - Construction métallique",
+      "name": "Hygin Debons Serrurerie – Construction métallique",
       "sector": "Serrurerie et construction métallique",
       "themes": [
         "construction",
@@ -2043,7 +2043,7 @@
     },
     {
       "slug": "poseidon-engineering",
-      "name": "POSEIDON Engineering SA",
+      "name": "Poseidon Engineering SA",
       "sector": "Géophysique et études territoriales",
       "themes": [
         "construction",

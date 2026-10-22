@@ -27,12 +27,12 @@
   "articles": [
     {
       "slug": "aee-suisse-energie-interview-gianni-operto",
-      "title": "AEE SUISSE: «Mit der Wasserkraft haben wir für die Energiewende einen fliegenden Start»",
-      "subtitle": "Interview mit Gianni Operto, Präsident AEE SUISSE",
+      "title": "AEE Suisse: «Mit der Wasserkraft haben wir für die Energiewende einen fliegenden Start»",
+      "subtitle": "Interview mit Gianni Operto, Präsident AEE Suisse",
       "type": "interview",
       "page": "02-03",
       "pdfPages": [],
-      "summary": "Président de l’AEE SUISSE, faîtière qui représente 15 000 entreprises et 20 associations des énergies renouvelables et de l’efficacité énergétique, Gianni Operto présente son action de sensibilisation et de lobbying, appuyée par les initiatives d’entrepreneurs NEUE ENERGIE dans 16 cantons. L’association a mené la campagne de l’économie pour la Stratégie énergétique 2050 avec plus de 150 entreprises et participé aux consultations sur les ordonnances. Elle a proposé un programme en neuf points pour la construction, insistant sur le taux de rénovation et le coût sur tout le cycle de vie des bâtiments. Selon lui, la Suisse a d’excellents atouts, dont l’hydraulique, mais doit préparer un second paquet de mesures, lier énergie et climat et adopter un modèle de marché adapté à la transition.",
+      "summary": "Président de l’AEE Suisse, faîtière qui représente 15 000 entreprises et 20 associations des énergies renouvelables et de l’efficacité énergétique, Gianni Operto présente son action de sensibilisation et de lobbying, appuyée par les initiatives d’entrepreneurs Neue Energie dans 16 cantons. L’association a mené la campagne de l’économie pour la Stratégie énergétique 2050 avec plus de 150 entreprises et participé aux consultations sur les ordonnances. Elle a proposé un programme en neuf points pour la construction, insistant sur le taux de rénovation et le coût sur tout le cycle de vie des bâtiments. Selon lui, la Suisse a d’excellents atouts, dont l’hydraulique, mais doit préparer un second paquet de mesures, lier énergie et climat et adopter un modèle de marché adapté à la transition.",
       "quote": "Mit der Wasserkraft haben wir für die Energiewende einen fliegenden Start.",
       "themes": [
         "energie",
@@ -43,7 +43,7 @@
       "people": [
         {
           "name": "Gianni Operto",
-          "role": "Präsident AEE SUISSE"
+          "role": "Präsident AEE Suisse"
         }
       ],
       "companies": [
@@ -384,7 +384,7 @@
       "page": "17",
       "pdfPages": [],
       "summary": "Ingénieur agronome devenu spécialiste de l’écologie des matériaux de construction, Laurent Caillère a fondé et préside Energies Nouvelles Fribourg, qui rassemble les professionnels pour partager connaissances et bonnes pratiques en efficacité énergétique et renouvelables. Il estime que Fribourg est sur la bonne voie, parfois cité en exemple, et dispose de fortes capacités éoliennes, solaires et hydrauliques ainsi que d’un grand potentiel de rénovation. L’association veut accompagner les autorités, convaincre les communes selon leurs moyens et démontrer que l’écologie et l’économie, qui partagent la même racine grecque, vont de pair. Il note que le besoin d’énergie d’un bâtiment a été divisé par quatre en quarante ans.",
-      "quote": "Ecologie et économie sont donc très proches et interdépendantes.",
+      "quote": "Écologie et économie sont donc très proches et interdépendantes.",
       "themes": [
         "energie",
         "construction"
@@ -483,7 +483,7 @@
       "type": "interview",
       "page": "22-23",
       "pdfPages": [],
-      "summary": "Né du refus de la centrale de Kaiseraugst dans les années 1970, la politique énergétique bâloise, qui interdit le nucléaire dans la constitution, repose sur l’efficacité et les renouvelables. Christoph Brutschin présente la loi révisée de 2017, qui ajoute un objectif de décarbonisation : passer de près de quatre à une tonne de CO2 par habitant d’ici 2050. Cette loi, qui est en fait une loi sur la construction, impose des bâtiments neufs proches du zéro énergie et oblige les propriétaires remplaçant une chaudière fossile à étudier un système renouvelable, subventionné. Les grands consommateurs doivent conclure des conventions d’objectifs. Depuis 2009, le courant du réseau local est 100 % renouvelable ; le défi reste le rythme des rénovations et la chaleur.",
+      "summary": "Née du refus de la centrale de Kaiseraugst dans les années 1970, la politique énergétique bâloise, qui interdit le nucléaire dans la constitution, repose sur l’efficacité et les renouvelables. Christoph Brutschin présente la loi révisée de 2017, qui ajoute un objectif de décarbonisation : passer de près de quatre à une tonne de CO2 par habitant d’ici 2050. Cette loi, qui est en fait une loi sur la construction, impose des bâtiments neufs proches du zéro énergie et oblige les propriétaires remplaçant une chaudière fossile à étudier un système renouvelable, subventionné. Les grands consommateurs doivent conclure des conventions d’objectifs. Depuis 2009, le courant du réseau local est 100 % renouvelable ; le défi reste le rythme des rénovations et la chaleur.",
       "quote": "Wir möchten keine neuen fossilen Heizsysteme mehr.",
       "themes": [
         "energie",
@@ -554,7 +554,7 @@
     },
     {
       "slug": "aee-suisse-energie-betelec-smart-electricity",
-      "title": "BETELEC – Smart electricity management",
+      "title": "Betelec – Smart electricity management",
       "subtitle": "Intelligentes Elektrizitätsmanagement (français et allemand)",
       "type": "publireportage",
       "page": "26-27",
@@ -630,7 +630,7 @@
       "page": "31",
       "pdfPages": [],
       "summary": "Fondé en 1970 à Berne et Fribourg comme spécialiste scientifique de l’environnement, le groupe CSD s’est étendu aux infrastructures ferroviaires et routières dans les années 1990, puis à la planification générale dans les années 2000. Fort d’environ 550 collaborateurs dans une vingtaine de succursales, dont Genève, Lausanne, Yverdon, Fribourg, Sion et Porrentruy, et de filiales en Belgique, Allemagne, Italie et Lituanie, il appartient à ses cadres. Son CEO Jean-Pascal Gendre cite les études du projet Cargo souterrain, l’assainissement de la décharge de la Pila, l’avant-projet de la gare de Lausanne, les trams lausannois, l’A1 Vennes–Chexbres et la géothermie profonde de Saint-Gall. CSD pilote aussi pour la Confédération le standard de construction durable SNBS.",
-      "quote": "A l’origine, CSD est un spécialiste de l’environnement et cela n’a pas changé.",
+      "quote": "À l’origine, CSD est un spécialiste de l’environnement et cela n’a pas changé.",
       "themes": [
         "energie",
         "construction",
@@ -680,7 +680,7 @@
     },
     {
       "slug": "aee-suisse-energie-ecoscan-specialiste-polyvalent",
-      "title": "ECOSCAN, études en environnement – Un spécialiste polyvalent",
+      "title": "Ecoscan, études en environnement – Un spécialiste polyvalent",
       "subtitle": "Interview de Jérôme Duval, sous-directeur",
       "type": "interview",
       "page": "34-35",
@@ -746,7 +746,7 @@
     },
     {
       "slug": "aee-suisse-energie-energest",
-      "title": "ENERGEST – Gestion technique et énergétique du bâtiment : le cerveau des bâtiments",
+      "title": "Energest – Gestion technique et énergétique du bâtiment : le cerveau des bâtiments",
       "subtitle": "Publireportage",
       "type": "publireportage",
       "page": "38",
@@ -972,13 +972,13 @@
   "companies": [
     {
       "slug": "aee-suisse",
-      "name": "AEE SUISSE – Dachorganisation der Wirtschaft für erneuerbare Energien und Energieeffizienz",
+      "name": "AEE Suisse – Dachorganisation der Wirtschaft für erneuerbare Energien und Energieeffizienz",
       "sector": "Association faîtière des énergies renouvelables et de l’efficacité énergétique",
       "themes": [
         "energie",
         "economie"
       ],
-      "description": "Faîtière de l’économie des énergies renouvelables et de l’efficacité énergétique, représentant 15 000 entreprises et 20 associations. Elle sensibilise le public et les décideurs, participe à l’élaboration des conditions-cadres (loi sur l’énergie, loi sur le CO2, marché de l’électricité) et s’appuie sur les initiatives d’entrepreneurs NEUE ENERGIE dans 16 cantons.",
+      "description": "Faîtière de l’économie des énergies renouvelables et de l’efficacité énergétique, représentant 15 000 entreprises et 20 associations. Elle sensibilise le public et les décideurs, participe à l’élaboration des conditions-cadres (loi sur l’énergie, loi sur le CO2, marché de l’électricité) et s’appuie sur les initiatives d’entrepreneurs Neue Energie dans 16 cantons.",
       "address": "Falkenplatz 11",
       "postalCode": "3001",
       "city": "Bern",
@@ -1735,7 +1735,7 @@
     },
     {
       "slug": "energest",
-      "name": "ENERGEST",
+      "name": "Energest",
       "sector": "Gestion technique et énergétique du bâtiment",
       "themes": [
         "energie",

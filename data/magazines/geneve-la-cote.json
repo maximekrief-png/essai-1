@@ -262,12 +262,12 @@
     },
     {
       "slug": "geneve-la-cote-answer",
-      "title": "ANSWER SA",
+      "title": "Answer SA",
       "subtitle": "Solutions de consolidation de données financières et cybersécurité",
       "type": "publireportage",
       "page": "18",
       "pdfPages": [],
-      "summary": "Société genevoise basée à Plan-les-Ouates, ANSWER conçoit des solutions d'analyse et de consolidation de données financières ou industrielles et intervient en cybersécurité. Sa division Software Factory développe des solutions sur mesure dans les environnements SharePoint et Business Intelligence ; la division IT Security propose une approche par projet pour comprendre et traiter les risques informatiques ; la division Strategic Outsourcing externalise la consolidation d'actifs grâce au logiciel maison ATRIUM. Forte de quinze ans d'expérience, l'entreprise s'adresse à la finance, à l'industrie, aux organisations publiques et aux multinationales.",
+      "summary": "Société genevoise basée à Plan-les-Ouates, Answer conçoit des solutions d'analyse et de consolidation de données financières ou industrielles et intervient en cybersécurité. Sa division Software Factory développe des solutions sur mesure dans les environnements SharePoint et Business Intelligence ; la division IT Security propose une approche par projet pour comprendre et traiter les risques informatiques ; la division Strategic Outsourcing externalise la consolidation d'actifs grâce au logiciel maison ATRIUM. Forte de quinze ans d'expérience, l'entreprise s'adresse à la finance, à l'industrie, aux organisations publiques et aux multinationales.",
       "quote": "",
       "themes": [
         "economie",
@@ -488,7 +488,7 @@
       "type": "publireportage",
       "page": "30-31",
       "pdfPages": [],
-      "summary": "Président et fondateur de GENEVACCORD ADR, société créée en 2012 à Genève, le médiateur assermenté Guy A. Bottequin plaide pour la médiation dans les litiges commerciaux, internationaux et de propriété intellectuelle. Face à l'engorgement des tribunaux, il souligne un taux d'accord de 87 % en trois mois au plus, des coûts réduits et une stricte confidentialité. L'article décrit le déroulement d'une séance, le rôle indispensable des avocats-conseils et les qualités requises du médiateur : indépendance, impartialité, neutralité. Il rappelle aussi ses nombreux engagements associatifs dans le domaine de la médiation.",
+      "summary": "Président et fondateur de Genevaccord ADR, société créée en 2012 à Genève, le médiateur assermenté Guy A. Bottequin plaide pour la médiation dans les litiges commerciaux, internationaux et de propriété intellectuelle. Face à l'engorgement des tribunaux, il souligne un taux d'accord de 87 % en trois mois au plus, des coûts réduits et une stricte confidentialité. L'article décrit le déroulement d'une séance, le rôle indispensable des avocats-conseils et les qualités requises du médiateur : indépendance, impartialité, neutralité. Il rappelle aussi ses nombreux engagements associatifs dans le domaine de la médiation.",
       "quote": "Une médiation sans les avocats est une médiation contre les avocats.",
       "themes": [
         "economie"
@@ -1738,7 +1738,7 @@
     },
     {
       "slug": "answer",
-      "name": "ANSWER SA",
+      "name": "Answer SA",
       "sector": "Logiciels financiers et cybersécurité",
       "themes": [
         "economie"
@@ -1996,7 +1996,7 @@
     },
     {
       "slug": "genevaccord",
-      "name": "GENEVACCORD Alternative Dispute Resolution (A.D.R.) SA",
+      "name": "Genevaccord Alternative Dispute Resolution (A.D.R.) SA",
       "sector": "Médiation de conflits",
       "themes": [
         "economie"

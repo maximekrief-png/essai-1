@@ -339,14 +339,14 @@
     },
     {
       "slug": "lausanne-agrola",
-      "title": "AGROLA AG – « AGROLA betreibt das zweitgrösste Tankstellennetz der Schweiz »",
+      "title": "Agrola AG – « Agrola betreibt das zweitgrösste Tankstellennetz der Schweiz »",
       "subtitle": "Interview mit Alexander Streitzig, Vorsitzender der Geschäftsleitung",
       "type": "publireportage",
       "page": "15",
       "pdfPages": [
         17
       ],
-      "summary": "Avec 430 stations, AGROLA exploite le deuxième réseau de stations-service de Suisse, surtout en zone rurale, et domine le marché des pellets de bois, à 80 % d'origine suisse. Son directeur détaille l'offre de mazout (dont plus de 50 % d'éco-mazout), de diesel enrichi en biocomposants et à faibles émissions, le plus grand réseau d'AdBlue et l'E85 dans plus de 30 stations. Il présente la carte AGROLA energy card et la société sœur Solvatec, active dans les installations solaires. L'entreprise veut évoluer vers un fournisseur d'énergies renouvelables. Interview en allemand.",
+      "summary": "Avec 430 stations, Agrola exploite le deuxième réseau de stations-service de Suisse, surtout en zone rurale, et domine le marché des pellets de bois, à 80 % d'origine suisse. Son directeur détaille l'offre de mazout (dont plus de 50 % d'éco-mazout), de diesel enrichi en biocomposants et à faibles émissions, le plus grand réseau d'AdBlue et l'E85 dans plus de 30 stations. Il présente la carte Agrola energy card et la société sœur Solvatec, active dans les installations solaires. L'entreprise veut évoluer vers un fournisseur d'énergies renouvelables. Interview en allemand.",
       "quote": "",
       "themes": [
         "energie",
@@ -587,7 +587,7 @@
     },
     {
       "slug": "lausanne-edifea",
-      "title": "EDIFEA SA – Des solutions constructives pour particuliers et professionnels",
+      "title": "Edifea SA – Des solutions constructives pour particuliers et professionnels",
       "subtitle": "Constructive solutions for private individuals and professionals",
       "type": "publireportage",
       "page": "32-33",
@@ -746,7 +746,7 @@
     },
     {
       "slug": "lausanne-guyot-architectes",
-      "title": "GUYOT | Architectes",
+      "title": "Guyot | Architectes",
       "subtitle": "",
       "type": "publireportage",
       "page": "43",
@@ -864,7 +864,7 @@
       "pdfPages": [
         52
       ],
-      "summary": "Entreprise familiale depuis cinq générations, depuis l'arrivée de Jean-Baptiste Montangero à Aubonne en 1879, Montangero & Fils emploie une trentaine de personnes à Romanel-sur-Lausanne. Dirigée depuis 2002 par Ludovic et Sylvain Montangero, elle réalise plâtrerie, peinture, rénovation de façades et techniques décoratives (béton ciré, papier peint), pour des privés, des architectes et des gérances. Elle forme des apprentis, sponsorise des clubs locaux et collabore avec sa société sœur CAPMONT SA pour les échafaudages. L'entreprise sponsorise régulièrement des clubs sportifs et des événements locaux.",
+      "summary": "Entreprise familiale depuis cinq générations, depuis l'arrivée de Jean-Baptiste Montangero à Aubonne en 1879, Montangero & Fils emploie une trentaine de personnes à Romanel-sur-Lausanne. Dirigée depuis 2002 par Ludovic et Sylvain Montangero, elle réalise plâtrerie, peinture, rénovation de façades et techniques décoratives (béton ciré, papier peint), pour des privés, des architectes et des gérances. Elle forme des apprentis, sponsorise des clubs locaux et collabore avec sa société sœur Capmont SA pour les échafaudages. L'entreprise sponsorise régulièrement des clubs sportifs et des événements locaux.",
       "quote": "",
       "themes": [
         "construction"
@@ -1073,7 +1073,7 @@
     },
     {
       "slug": "lausanne-transports-mbc",
-      "title": "Transports de la région Morges - Bière - Cossonay SA",
+      "title": "Transports de la région Morges-Bière-Cossonay SA",
       "subtitle": "",
       "type": "publireportage",
       "page": "64",
@@ -1094,7 +1094,7 @@
     },
     {
       "slug": "lausanne-tekhne",
-      "title": "TEKHNE",
+      "title": "Tekhne",
       "subtitle": "",
       "type": "publireportage",
       "page": "66-69",
@@ -1382,13 +1382,13 @@
     },
     {
       "slug": "agrola",
-      "name": "AGROLA AG",
+      "name": "Agrola AG",
       "sector": "Distribution de carburants et combustibles",
       "themes": [
         "energie",
         "mobilite"
       ],
-      "description": "Exploitant du deuxième réseau de stations-service de Suisse (430 stations), leader des pellets de bois et de l'éco-mazout ; société sœur Solvatec active dans le solaire. Elle propose aussi le diesel cleanline, l'AdBlue, l'E85 et la carte AGROLA energy card, et veut devenir un fournisseur d'énergies renouvelables.",
+      "description": "Exploitant du deuxième réseau de stations-service de Suisse (430 stations), leader des pellets de bois et de l'éco-mazout ; société sœur Solvatec active dans le solaire. Elle propose aussi le diesel cleanline, l'AdBlue, l'E85 et la carte Agrola energy card, et veut devenir un fournisseur d'énergies renouvelables.",
       "address": "Theaterstrasse 15a",
       "postalCode": "8401",
       "city": "Winterthur",
@@ -1662,7 +1662,7 @@
     },
     {
       "slug": "edifea",
-      "name": "EDIFEA SA",
+      "name": "Edifea SA",
       "sector": "Entreprise générale de construction",
       "themes": [
         "construction"
@@ -1831,7 +1831,7 @@
     },
     {
       "slug": "guyot-architectes",
-      "name": "GUYOT | Architectes – Etudes et conceptions architecturales SARL",
+      "name": "Guyot | Architectes – Etudes et conceptions architecturales SARL",
       "sector": "Bureau d'architectes",
       "themes": [
         "architecture"
@@ -1954,7 +1954,7 @@
       "themes": [
         "construction"
       ],
-      "description": "Entreprise familiale de plâtrerie, peinture et rénovation de façades depuis cinq générations (1879), une trentaine de collaborateurs ; partenaire de la société sœur CAPMONT SA (échafaudages). Dirigée depuis 2002 par Ludovic et Sylvain Montangero, elle forme deux apprentis et intervient de Lausanne jusqu'à Genève et en Valais.",
+      "description": "Entreprise familiale de plâtrerie, peinture et rénovation de façades depuis cinq générations (1879), une trentaine de collaborateurs ; partenaire de la société sœur Capmont SA (échafaudages). Dirigée depuis 2002 par Ludovic et Sylvain Montangero, elle forme deux apprentis et intervient de Lausanne jusqu'à Genève et en Valais.",
       "address": "",
       "postalCode": "1032",
       "city": "Romanel-sur-Lausanne",
@@ -2200,7 +2200,7 @@
     },
     {
       "slug": "transports-mbc",
-      "name": "Transports de la région Morges Bière Cossonay SA (MBC)",
+      "name": "Transports de la région Morges-Bière-Cossonay SA (MBC)",
       "sector": "Transports publics",
       "themes": [
         "mobilite"
@@ -2223,7 +2223,7 @@
     },
     {
       "slug": "tekhne",
-      "name": "TEKHNE SA",
+      "name": "Tekhne SA",
       "sector": "Planification générale et direction de projets de construction",
       "themes": [
         "architecture",

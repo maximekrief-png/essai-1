@@ -1414,7 +1414,7 @@
         "industrie"
       ],
       "description": "Entreprise fondée en 2007 à Saint-Imier, spécialisée dans l’ultra-personnalisation, la production et la décoration haut de gamme de composants horlogers. Elle combine galvanoplastie, techniques laser, céramique hybride et décorations traditionnelles, et dispose d’une station d’épuration permettant un rejet nul.",
-      "address": "Rue Des Noyes 10",
+      "address": "Rue des Noyes 10",
       "postalCode": "2610",
       "city": "Saint-Imier",
       "canton": "BE",
@@ -1568,7 +1568,7 @@
       "description": "Unité horlogère du groupe MPS créée en 2016, avec plus de 130 collaborateurs sur le site de Bonfol (JU). Spécialiste des roulements horlogers (myrox14, OneWay, Dara, ActiGir, ActiVib anti-bruit), des micro-assemblages et des composants à géométrie complexe. Certifiée ISO 9001 et ISO 14001.",
       "address": "Chemin du Long-Champ 95",
       "postalCode": "2504",
-      "city": "Biel-Bienne",
+      "city": "Biel/Bienne",
       "canton": "BE",
       "country": "Suisse",
       "phone": "+41 32 344 43 00",
@@ -1581,7 +1581,7 @@
     },
     {
       "slug": "sebal",
-      "name": "SEBAL SA",
+      "name": "Sebal SA",
       "sector": "Glaces de montres en saphir et usinage de matériaux durs",
       "themes": [
         "horlogerie",
@@ -1608,7 +1608,7 @@
     },
     {
       "slug": "timsaph",
-      "name": "TIMSAPH SA",
+      "name": "Timsaph SA",
       "sector": "Production de saphir synthétique",
       "themes": [
         "horlogerie",
@@ -1642,7 +1642,7 @@
         "industrie"
       ],
       "description": "Manufacture familiale de boîtes de montres fondée en 1933 à La Chaux-de-Fonds et reprise par la famille Vallon au début des années 1980. Une quarantaine de collaborateurs réalisent en acier, or, palladium ou platine des pièces très compliquées, du bureau technique au polissage. Locaux sécurisés pour la certification RJC et parc de CNC 5 axes.",
-      "address": "Rue Alexis-Marie Piaget 40",
+      "address": "Rue Alexis-Marie-Piaget 40",
       "postalCode": "2300",
       "city": "La Chaux-de-Fonds",
       "canton": "NE",
@@ -1848,7 +1848,7 @@
     },
     {
       "slug": "codere",
-      "name": "CODERE SA",
+      "name": "Codere SA",
       "sector": "Fours industriels pour le traitement thermique",
       "themes": [
         "industrie",
@@ -1870,7 +1870,7 @@
     },
     {
       "slug": "cyberis",
-      "name": "CYBERIS SA",
+      "name": "Cyberis SA",
       "sector": "Décolletage de précision",
       "themes": [
         "industrie",
@@ -1928,7 +1928,7 @@
     },
     {
       "slug": "decotech",
-      "name": "DÉCOTECH SA",
+      "name": "Décotech SA",
       "sector": "Décoration de mouvements horlogers",
       "themes": [
         "horlogerie",
@@ -1955,7 +1955,7 @@
     },
     {
       "slug": "erma-boecourt",
-      "name": "ERMA BOÉCOURT SA",
+      "name": "Erma Boécourt SA",
       "sector": "Façonnage de verres de montres en saphir",
       "themes": [
         "horlogerie",
@@ -1983,7 +1983,7 @@
     },
     {
       "slug": "horlyne",
-      "name": "HORLYNE SA",
+      "name": "Horlyne SA",
       "sector": "Masses oscillantes et décoration horlogère",
       "themes": [
         "horlogerie",
@@ -2036,7 +2036,7 @@
     },
     {
       "slug": "inhotec",
-      "name": "INHOTEC SA",
+      "name": "Inhotec SA",
       "sector": "Usinage de précision de composants horlogers",
       "themes": [
         "horlogerie",
@@ -2090,7 +2090,7 @@
     },
     {
       "slug": "monnier",
-      "name": "MONNIER SA",
+      "name": "Monnier SA",
       "sector": "Décoration de mouvements horlogers et galvanoplastie",
       "themes": [
         "horlogerie",
@@ -2117,7 +2117,7 @@
     },
     {
       "slug": "procolor",
-      "name": "PROCOLOR",
+      "name": "Procolor",
       "sector": "Tampographie et vernissage sur pièces horlogères",
       "themes": [
         "horlogerie",
@@ -2144,7 +2144,7 @@
     },
     {
       "slug": "cronal",
-      "name": "CRONAL SA",
+      "name": "Cronal SA",
       "sector": "Gravure de haute précision",
       "themes": [
         "horlogerie",
@@ -2171,7 +2171,7 @@
     },
     {
       "slug": "oesch",
-      "name": "OESCH GmbH",
+      "name": "Oesch GmbH",
       "sector": "Boucles, fermoirs, barrettes et charnières en acier inox",
       "themes": [
         "horlogerie",
@@ -2198,7 +2198,7 @@
     },
     {
       "slug": "kohler-electroplastie",
-      "name": "KOHLER ELECTROPLASTIE SARL",
+      "name": "Kohler Electroplastie Sàrl",
       "sector": "Électroplastie et dépôts de métaux précieux",
       "themes": [
         "horlogerie",
@@ -2251,7 +2251,7 @@
     },
     {
       "slug": "stl-swiss",
-      "name": "STL SWISS SA",
+      "name": "STL Swiss SA",
       "sector": "Bracelets de montres métalliques haut de gamme",
       "themes": [
         "horlogerie",
@@ -2273,7 +2273,7 @@
     },
     {
       "slug": "waeber-hms",
-      "name": "WAEBER HMS SA",
+      "name": "Waeber HMS SA",
       "sector": "Fabrication d’aiguilles de montres",
       "themes": [
         "horlogerie",
@@ -2357,7 +2357,7 @@
     },
     {
       "slug": "ynovatec",
-      "name": "YNOVATEC SA",
+      "name": "Ynovatec SA",
       "sector": "Distribution d’équipements d’automation et solutions d’automation",
       "themes": [
         "industrie",
@@ -2384,7 +2384,7 @@
     },
     {
       "slug": "auchlin",
-      "name": "AUCHLIN SA",
+      "name": "Auchlin SA",
       "sector": "Polissage de précision",
       "themes": [
         "horlogerie",
@@ -2411,7 +2411,7 @@
     },
     {
       "slug": "beco-precision",
-      "name": "BECO PRECISION SA",
+      "name": "Beco Precision SA",
       "sector": "Conception et fabrication de moules d’injection",
       "themes": [
         "industrie",
@@ -2433,7 +2433,7 @@
     },
     {
       "slug": "cebo-injections",
-      "name": "CEBO INJECTIONS SA",
+      "name": "Cebo Injections SA",
       "sector": "Injection plastique de précision",
       "themes": [
         "industrie",

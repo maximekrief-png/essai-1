@@ -418,7 +418,7 @@
       "type": "publireportage",
       "page": "28",
       "pdfPages": [],
-      "summary": "Société familiale fondée en 1982 à Selzach et employant une quarantaine de personnes, Hagmann Tec intervient à plusieurs étapes de la production horlogère. Elle fabrique des flux laminaires verticaux ou horizontaux atteignant la norme ISO 5, réputés silencieux grâce à une étude menée avec l'EPFZ, pilotables par écran tactile ou WI-FI, ainsi que des armoires à sec. Elle distribue des machines de lavage par aspersion ou ultrasons, conçoit en salle blanche des blisters PET-PE protégeant les pièces de l'oxydation, avec les machines de scellage associées, et dispose d'une vingtaine de centres CNC pour la sous-traitance. Une nouvelle machine réunit lavage et mise sous blister sous flux laminaire. Environ 80 % des clients sont en Suisse ; l'entreprise vise l'export dans l'emballage médical.",
+      "summary": "Société familiale fondée en 1982 à Selzach et employant une quarantaine de personnes, Hagmann Tec intervient à plusieurs étapes de la production horlogère. Elle fabrique des flux laminaires verticaux ou horizontaux atteignant la norme ISO 5, réputés silencieux grâce à une étude menée avec l'EPFZ, pilotables par écran tactile ou Wi-Fi, ainsi que des armoires à sec. Elle distribue des machines de lavage par aspersion ou ultrasons, conçoit en salle blanche des blisters PET-PE protégeant les pièces de l'oxydation, avec les machines de scellage associées, et dispose d'une vingtaine de centres CNC pour la sous-traitance. Une nouvelle machine réunit lavage et mise sous blister sous flux laminaire. Environ 80 % des clients sont en Suisse ; l'entreprise vise l'export dans l'emballage médical.",
       "quote": "",
       "themes": [
         "horlogerie",
@@ -943,7 +943,7 @@
       "type": "publireportage",
       "page": "64-65",
       "pdfPages": [],
-      "summary": "Article bilingue sur Queloz SA, fabricant de boîtes haut et très haut de gamme fondé en 1939 à Saignelégier. Avec 45 collaborateurs, l'entreprise produit 20 000 à 25 000 boîtes par an pour une quinzaine de marques et maîtrise à l'interne mécanique, étampage, tournage, fraisage, soudage, gravure et assemblage, en limitant la sous-traitance au strict minimum. Elle réalise des boîtes d'une extrême complexité en saphir, carbone, platine, or, tantale, titane ou acier, et soigne aussi les boîtes standards, des lots de plus de 500 pièces jusqu'aux pièces uniques. Réputée pour la qualité de son polissage, elle a récemment investi dans son atelier de meulage-lapidage-satinage, comme l'explique le directeur Julien Midez. Son bureau techniques et méthodes recherche en permanence de nouveaux procédés et matériaux.",
+      "summary": "Article bilingue sur Queloz SA, fabricant de boîtes haut et très haut de gamme fondé en 1939 à Saignelégier. Avec 45 collaborateurs, l'entreprise produit 20 000 à 25 000 boîtes par an pour une quinzaine de marques et maîtrise à l'interne mécanique, étampage, tournage, fraisage, soudage, gravure et assemblage, en limitant la sous-traitance au strict minimum. Elle réalise des boîtes d'une extrême complexité en saphir, carbone, platine, or, tantale, titane ou acier, et soigne aussi les boîtes standards, des lots de plus de 500 pièces jusqu'aux pièces uniques. Réputée pour la qualité de son polissage, elle a récemment investi dans son atelier de meulage-lapidage-satinage, comme l'explique le directeur Julien Midez. Son bureau technique et méthodes recherche en permanence de nouveaux procédés et matériaux.",
       "quote": "Pas de finition parfaite sans une bonne préparation avant le polissage final",
       "themes": [
         "horlogerie",
@@ -1116,7 +1116,7 @@
       "type": "publireportage",
       "page": "76",
       "pdfPages": [],
-      "summary": "Spécialiste du guillochage main depuis plus de 40 ans, Décors Guillochés SA, à Cernier, valorise la plus-value humaine d'une pièce gravée trait par trait. Apparu dans l'horlogerie au XVIIIe siècle, le guilloché main se raréfie, concurrencé par l'estampage et les machines à commande numérique ; l'entreprise plaide pour une labellisation qui aiderait marques et clients à s'y retrouver. Une dizaine de collaborateurs travaillent sur les meilleures machines à guillocher, toutes adaptées sur mesure, et décorent mouvements, masses, fonds, lunettes, platines, cadrans, ponts ou outils de frappe en métaux précieux, acier ou nacre. La bibliothèque compte des centaines de décors et l'atelier développe des motifs personnalisés avec ses clients. Il possède sa marque de bijoux GUINEL et explore d'autres domaines, comme les accessoires féminins.",
+      "summary": "Spécialiste du guillochage main depuis plus de 40 ans, Décors Guillochés SA, à Cernier, valorise la plus-value humaine d'une pièce gravée trait par trait. Apparu dans l'horlogerie au XVIIIe siècle, le guilloché main se raréfie, concurrencé par l'estampage et les machines à commande numérique ; l'entreprise plaide pour une labellisation qui aiderait marques et clients à s'y retrouver. Une dizaine de collaborateurs travaillent sur les meilleures machines à guillocher, toutes adaptées sur mesure, et décorent mouvements, masses, fonds, lunettes, platines, cadrans, ponts ou outils de frappe en métaux précieux, acier ou nacre. La bibliothèque compte des centaines de décors et l'atelier développe des motifs personnalisés avec ses clients. Il possède sa marque de bijoux Guinel et explore d'autres domaines, comme les accessoires féminins.",
       "quote": "",
       "themes": [
         "horlogerie",
@@ -1274,7 +1274,7 @@
     },
     {
       "slug": "horlogerie-2016-cejef-division-technique",
-      "title": "CEJEF - Division technique : quatre niches de formation au cœur d'une région industrielle",
+      "title": "CEJEF – Division technique : quatre niches de formation au cœur d'une région industrielle",
       "subtitle": "Centre jurassien d'enseignement et de formation, Porrentruy",
       "type": "publireportage",
       "page": "87",
@@ -1295,7 +1295,7 @@
         },
         {
           "name": "Claude Maître",
-          "role": "Responsable de l'Ecole des métiers"
+          "role": "Responsable de l'École des métiers"
         },
         {
           "name": "Aymeric Schmid",
@@ -1359,7 +1359,7 @@
     },
     {
       "slug": "horlogerie-2016-etvj",
-      "title": "Ecole technique de la Vallée de Joux - ETVJ",
+      "title": "École technique de la Vallée de Joux – ETVJ",
       "subtitle": "Une offre de formation en contact avec les réalités du terrain",
       "type": "publireportage",
       "page": "91",
@@ -1547,7 +1547,7 @@
     },
     {
       "slug": "horlogerie-2016-blosch-merusa",
-      "title": "Blösch SA - Mérusa® : le futur du cadran est en train de s'écrire",
+      "title": "Blösch SA – Mérusa® : le futur du cadran est en train de s'écrire",
       "subtitle": "Avec Peter et Erich Blösch et Patrick Blösch",
       "type": "publireportage",
       "page": "102-103",
@@ -1789,7 +1789,7 @@
       "type": "interview",
       "page": "114-115",
       "pdfPages": [],
-      "summary": "Spécialisée dans la tampographie, Procolor LCTI travaille exclusivement pour l'horlogerie et produit en moyenne quelque 250 000 pièces par mois. Son directeur Gilles Froidevaux explique la technique : un tampon reporte chiffres, logos, inscriptions ou décors à partir d'un cliché d'acier gravé chimiquement, sur des pièces en plastique comme en métaux précieux, réhauts, lunettes, boîtes, masses oscillantes, glaces, cadrans ou disques de quantième. L'entreprise réalise jusqu'à cinq couleurs en un seul passage machine, mélange ses encres sur place et dispose d'une vingtaine de machines adaptées avec son fournisseur ; sa société sœur Froidevaux SA grave les clichés, ce qui assure une grande réactivité. Elle produit des séries de 5 000 à 20 000 pièces comme des pièces uniques et lance début 2016 Cryptime, un système anti-contrefaçon fondé sur une encre codée détectable par un outil dédié.",
+      "summary": "Spécialisée dans la tampographie, Procolor LCTI travaille exclusivement pour l'horlogerie et produit en moyenne quelque 250 000 pièces par mois. Son directeur Gilles Froidevaux explique la technique : un tampon reporte chiffres, logos, inscriptions ou décors à partir d'un cliché d'acier gravé chimiquement, sur des pièces en plastique comme en métaux précieux, rehauts, lunettes, boîtes, masses oscillantes, glaces, cadrans ou disques de quantième. L'entreprise réalise jusqu'à cinq couleurs en un seul passage machine, mélange ses encres sur place et dispose d'une vingtaine de machines adaptées avec son fournisseur ; sa société sœur Froidevaux SA grave les clichés, ce qui assure une grande réactivité. Elle produit des séries de 5 000 à 20 000 pièces comme des pièces uniques et lance début 2016 Cryptime, un système anti-contrefaçon fondé sur une encre codée détectable par un outil dédié.",
       "quote": "",
       "themes": [
         "horlogerie",
@@ -2110,7 +2110,7 @@
         "economie"
       ],
       "description": "Structure zougoise créée en 2008 par Carlo Enea Naldi, qui fédère des marques horlogères et créatives indépendantes autour d'expositions communes pendant Baselworld (500 m² au Ramada Plaza en 2016), de concept stores et d'actions à l'étranger. Elle est liée à la marque d'instruments d'écriture Edelberg et au magasin Style à Zoug.",
-      "address": "NeuGasse 7",
+      "address": "Neugasse 7",
       "postalCode": "6300",
       "city": "Zug",
       "canton": "ZG",
@@ -2152,7 +2152,7 @@
     },
     {
       "slug": "surcotec",
-      "name": "SURCOTEC SA",
+      "name": "Surcotec SA",
       "sector": "Traitements de surface sous vide (PVD, CVD) et analyses MEB",
       "themes": [
         "horlogerie",
@@ -2179,7 +2179,7 @@
     },
     {
       "slug": "syvaco",
-      "name": "SYVACO Sàrl",
+      "name": "Syvaco Sàrl",
       "sector": "Revêtements DLC et machines de dépôt sous vide",
       "themes": [
         "horlogerie",
@@ -2222,7 +2222,7 @@
     },
     {
       "slug": "inhotec",
-      "name": "INHOTEC SA",
+      "name": "Inhotec SA",
       "sector": "Usinage de précision de composants horlogers",
       "themes": [
         "horlogerie",
@@ -2383,7 +2383,7 @@
       "description": "Fabricant biennois de machines-outils fort de 73 ans d'expérience et de 130 collaborateurs, dont près de 40 ingénieurs R&D. Il maîtrise quatre familles de procédés (enlèvement de copeaux, électroérosion, laser, SACE) pour l'automobile, les circuits imprimés, l'horlogerie et le médical, avec une broche à 1 million de tours par minute.",
       "address": "18, Rue F. Oppliger, P.O. Box 6075",
       "postalCode": "2500",
-      "city": "Biel-Bienne 6",
+      "city": "Biel/Bienne 6",
       "canton": "BE",
       "country": "Suisse",
       "phone": "+41 (0)32 344 75 00",
@@ -2654,7 +2654,7 @@
       "themes": [
         "horlogerie"
       ],
-      "description": "Campagne publicitaire « Le futur du cadran – L'alliance entre tradition et innovation » de Blösch SA pour sa marque de cadrans Mérusa (slogan « Building visions since 1947 »), en pleine page et en 3e de couverture ; l'index du magazine attribue la 3e de couverture à Blösch SA - Mérusa SA. Voir les fiches Blösch SA et Mérusa SA.",
+      "description": "Campagne publicitaire « Le futur du cadran – L'alliance entre tradition et innovation » de Blösch SA pour sa marque de cadrans Mérusa (slogan « Building visions since 1947 »), en pleine page et en 3e de couverture ; l'index du magazine attribue la 3e de couverture à Blösch SA – Mérusa SA. Voir les fiches Blösch SA et Mérusa SA.",
       "address": "",
       "postalCode": "",
       "city": "",
@@ -3069,7 +3069,7 @@
         "horlogerie"
       ],
       "description": "Entreprise familiale de Corseaux créée en 1974, employant 6 personnes. Elle étudie et fabrique étampes simples, progressives, de pliage, de roues ou d'anglage, et découpe roues, ressorts, appliques et prototypes pour l'horlogerie, la connectique, le médical, l'aéronautique et le dentaire.",
-      "address": "Route de Chatel-St-Denis 1bis",
+      "address": "Route de Châtel-St-Denis 1bis",
       "postalCode": "1802",
       "city": "Corseaux",
       "canton": "VD",
@@ -3090,7 +3090,7 @@
         "horlogerie",
         "industrie"
       ],
-      "description": "Atelier de Cernier spécialisé depuis plus de 40 ans dans le guillochage main, comptant une dizaine de collaborateurs. Il décore mouvements, masses, fonds, lunettes, cadrans et ponts en métaux précieux, acier ou nacre, possède une bibliothèque de centaines de décors et la marque de bijoux GUINEL.",
+      "description": "Atelier de Cernier spécialisé depuis plus de 40 ans dans le guillochage main, comptant une dizaine de collaborateurs. Il décore mouvements, masses, fonds, lunettes, cadrans et ponts en métaux précieux, acier ou nacre, possède une bibliothèque de centaines de décors et la marque de bijoux Guinel.",
       "address": "Route de la Taille 1B",
       "postalCode": "2053",
       "city": "Cernier",
@@ -3340,7 +3340,7 @@
     },
     {
       "slug": "etvj",
-      "name": "Ecole technique de la Vallée de Joux – ETVJ",
+      "name": "École technique de la Vallée de Joux – ETVJ",
       "sector": "École technique",
       "themes": [
         "formation",
@@ -3849,7 +3849,7 @@
         "horlogerie",
         "industrie"
       ],
-      "description": "Spécialiste de la tampographie pour l'horlogerie : décors et marquages jusqu'à cinq couleurs en un passage sur cadrans, réhauts, lunettes, boîtes ou masses, environ 250 000 pièces par mois, système anti-contrefaçon Cryptime.",
+      "description": "Spécialiste de la tampographie pour l'horlogerie : décors et marquages jusqu'à cinq couleurs en un passage sur cadrans, rehauts, lunettes, boîtes ou masses, environ 250 000 pièces par mois, système anti-contrefaçon Cryptime.",
       "address": "Rue des Puits 6",
       "postalCode": "2616",
       "city": "Renan",
@@ -3953,7 +3953,7 @@
       "description": "Annonce : plus de 4 000 articles disponibles en stock, conçus pour l'horlogerie.",
       "address": "Chemin du Long-Champ 110, CP 8358",
       "postalCode": "2500",
-      "city": "Biel / Bienne 8",
+      "city": "Biel/Bienne 8",
       "canton": "BE",
       "country": "Suisse",
       "phone": "+41 (0)32 341 73 73",

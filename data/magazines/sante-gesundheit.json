@@ -4,11 +4,27 @@
   "series": "Santé",
   "year": 2015,
   "region": "Suisse",
-  "languages": ["fr", "de", "it", "en"],
+  "languages": [
+    "fr",
+    "de",
+    "it",
+    "en"
+  ],
   "description": "Panorama national du système de santé suisse publié en juillet 2015 par Com Consulting SA. Responsables politiques et fédéraux (DSS tessinois, OFSP, SEFRI), faîtières (santésuisse, H+, FASMED, ARODEMS) et directeurs d'hôpitaux universitaires et cantonaux (USZ, HUG, CHUV, KSA, Inselspital, Spital Uster) y abordent coûts, pénurie de personnel, recherche et innovation. Le numéro réunit aussi de nombreux profils d'entreprises et d'institutions : biotech et pharma tessinoises, medtech, logistique hospitalière, centres de soins et départements universitaires, en quatre langues.",
-  "themes": ["sante", "collectivites", "formation", "industrie", "economie"],
+  "themes": [
+    "sante",
+    "collectivites",
+    "formation",
+    "industrie",
+    "economie"
+  ],
   "files": [
-    { "driveId": "1v9je972Ii0cIdsE7Or3P2VAZ--AqXjRV", "name": "SWISS_SANTE_GESUNDHEIT-web.pdf", "sizeMB": 12.6, "label": "Édition web" }
+    {
+      "driveId": "1v9je972Ii0cIdsE7Or3P2VAZ--AqXjRV",
+      "name": "SWISS_SANTE_GESUNDHEIT-web.pdf",
+      "sizeMB": 12.6,
+      "label": "Édition web"
+    }
   ],
   "pdfLocal": false,
   "articles": [
@@ -21,11 +37,21 @@
       "pdfPages": [],
       "summary": "Le conseiller d'État tessinois Paolo Beltraminelli rappelle que le canton consacre près de 3 milliards de francs à la santé, soit environ 12 % de son PIB. L'allongement de l'espérance de vie est une conquête, mais le vieillissement et les progrès médicaux font peser une menace sur la soutenabilité des coûts. L'État joue un rôle de régulateur, par exemple dans les négociations tarifaires ou avec le moratoire sur l'ouverture de cabinets médicaux, et doit planifier le secteur hospitalier en concentrant l'offre et en favorisant les collaborations public-privé. L'objectif est de continuer à soigner 95 % des Tessinois dans le canton. Il mise sur le futur master en médecine, la formation du personnel soignant local et la prévention dès l'école.",
       "quote": "Il nostro obiettivo è quello di continuare a curare il 95% dei pazienti ticinesi in Ticino.",
-      "themes": ["sante", "collectivites"],
+      "themes": [
+        "sante",
+        "collectivites"
+      ],
       "region": "Tessin",
       "language": "it",
-      "people": [{ "name": "Paolo Beltraminelli", "role": "Conseiller d'État, directeur du Dipartimento della sanità e della socialità" }],
-      "companies": ["dipartimento-della-sanita-e-della-socialita"]
+      "people": [
+        {
+          "name": "Paolo Beltraminelli",
+          "role": "Conseiller d'État, directeur du Dipartimento della sanità e della socialità"
+        }
+      ],
+      "companies": [
+        "dipartimento-della-sanita-e-della-socialita"
+      ]
     },
     {
       "slug": "sante-gesundheit-santesuisse-verena-nold-rebetez",
@@ -36,11 +62,21 @@
       "pdfPages": [],
       "summary": "La directrice de santésuisse présente la faîtière des assureurs-maladie, qui représente 46 des 61 caisses et 58 % des assurés. L'association suit quelque 250 objets parlementaires, élabore les positions de la branche, accompagne des projets comme la gestion électronique des réductions de primes et assure la formation des apprentis et des spécialistes. Après le rejet net de la caisse unique en septembre 2014, elle estime qu'il faut mieux expliquer le fonctionnement du système et les avantages de la concurrence, tout en luttant contre le démarchage téléphonique abusif. Pour contenir les coûts, elle cite la comparaison des prix des médicaments avec l'étranger, le contrôle d'économicité de l'ambulatoire hospitalier et un financement uniforme, et s'oppose à une séparation stricte entre assurance de base et complémentaire.",
       "quote": "Die Prämien sind das Spiegelbild der Gesundheitskosten.",
-      "themes": ["sante", "economie"],
+      "themes": [
+        "sante",
+        "economie"
+      ],
       "region": "Suisse",
       "language": "de",
-      "people": [{ "name": "Verena Nold Rebetez", "role": "Directrice de santésuisse" }],
-      "companies": ["santesuisse"]
+      "people": [
+        {
+          "name": "Verena Nold Rebetez",
+          "role": "Directrice de santésuisse"
+        }
+      ],
+      "companies": [
+        "santesuisse"
+      ]
     },
     {
       "slug": "sante-gesundheit-bag-pascal-strupler",
@@ -51,11 +87,21 @@
       "pdfPages": [],
       "summary": "Le directeur de l'Office fédéral de la santé publique détaille la stratégie « Santé2020 », qui doit préparer le système aux défis à venir tout en le gardant abordable. Le vieillissement et la hausse des maladies chroniques sont le premier défi ; quatre champs d'action et environ 80 projets sont en cours. Selon les experts, près de 20 % des coûts pourraient être économisés en évitant traitements inutiles ou inadéquats. Il attend beaucoup du dossier électronique du patient, ne constate pas de baisse de qualité depuis le nouveau financement hospitalier de 2012 et évoque le masterplan pour la médecine de famille, la stratégie nationale sur la démence et le plan d'action pour augmenter les dons d'organes.",
       "quote": "Organspender retten Leben – wir brauchen mehr Lebensretter!",
-      "themes": ["sante", "collectivites"],
+      "themes": [
+        "sante",
+        "collectivites"
+      ],
       "region": "Berne",
       "language": "de",
-      "people": [{ "name": "Pascal Strupler", "role": "Directeur de l'Office fédéral de la santé publique" }],
-      "companies": ["bundesamt-fur-gesundheit"]
+      "people": [
+        {
+          "name": "Pascal Strupler",
+          "role": "Directeur de l'Office fédéral de la santé publique"
+        }
+      ],
+      "companies": [
+        "bundesamt-fur-gesundheit"
+      ]
     },
     {
       "slug": "sante-gesundheit-sbfi",
@@ -66,11 +112,16 @@
       "pdfPages": [],
       "summary": "Présentation du Secrétariat d'État à la formation, à la recherche et à l'innovation, autorité fédérale chargée des questions nationales et internationales de politique de formation, de recherche et d'innovation. Le texte souligne que la Suisse dispose de l'un des meilleurs systèmes de santé au monde, appuyé sur un haut niveau d'enseignement et de recherche. Le SEFRI élabore la vision stratégique et la planification des ressources de la Confédération dans ce domaine, soutient un enseignement et une recherche de qualité dans les hautes écoles, coordonne l'encouragement de la recherche et de l'innovation ainsi que les activités spatiales, veille à la qualité de la formation professionnelle et assure la reconnaissance des maturités et des qualifications étrangères.",
       "quote": "",
-      "themes": ["formation", "collectivites"],
+      "themes": [
+        "formation",
+        "collectivites"
+      ],
       "region": "Berne",
       "language": "de",
       "people": [],
-      "companies": ["staatssekretariat-fur-bildung-forschung-und-innovation"]
+      "companies": [
+        "staatssekretariat-fur-bildung-forschung-und-innovation"
+      ]
     },
     {
       "slug": "sante-gesundheit-usz-rita-ziegler",
@@ -81,11 +132,21 @@
       "pdfPages": [],
       "summary": "La présidente de la direction de l'Hôpital universitaire de Zurich décrit un établissement de 43 cliniques et instituts, 8000 collaborateurs, 38 000 patients hospitalisés et plus de 134 000 traités en ambulatoire par an. Le masterplan du quartier des hautes écoles permettra d'augmenter les surfaces d'environ 40 % ; la rénovation complète prendra 20 à 25 ans, avec uniquement des chambres individuelles et une séparation de l'ambulatoire et du stationnaire. L'USZ regroupe ses forces dans des centres, dont le Centre cardiaque universitaire héritier des pionniers Ake Senning et Andreas Grüntzig, le centre tumoral et le neurocentre ouvert en 2014. Il prévoit une clinique de jour à l'aéroport, « The Circle », pour 2020 et revendique quelque 2000 publications par an.",
       "quote": "Im Neubau werden der Patient und seine Bedürfnisse während seines Aufenthalts im Spital im Mittelpunkt stehen.",
-      "themes": ["sante", "formation"],
+      "themes": [
+        "sante",
+        "formation"
+      ],
       "region": "Zurich",
       "language": "de",
-      "people": [{ "name": "Rita Ziegler", "role": "Présidente de la direction de l'hôpital" }],
-      "companies": ["universitatsspital-zurich"]
+      "people": [
+        {
+          "name": "Rita Ziegler",
+          "role": "Présidente de la direction de l'hôpital"
+        }
+      ],
+      "companies": [
+        "universitatsspital-zurich"
+      ]
     },
     {
       "slug": "sante-gesundheit-h-plus-charles-favre",
@@ -96,14 +157,25 @@
       "pdfPages": [],
       "summary": "Le président de H+, faîtière nationale des hôpitaux, cliniques et institutions de soins publics et privés, explique que l'association défend ses membres dans le processus politique fédéral et leur propose des solutions de branche exclusives : comptabilité et controlling REKOLE®, modèle de rapport qualité devenu obligatoire dans plusieurs cantons, solution de sécurité au travail certifiée par le SECO, ainsi que soutien en matière de tarifs et d'eHealth. H+ compte 236 membres actifs sur 369 sites et 170 membres partenaires, représentant environ 185 000 emplois. Elle participe aux centres de formation Espace Compétences à Cully et H+ Bildung à Aarau, ainsi qu'à OdASanté. Il juge utile le modèle bernois d'obligation de formation et rappelle que les places de formation en soins ont plus que doublé depuis 2006.",
       "quote": "Wir unterstützen unsere Mitglieder mit exklusiven Branchenlösungen.",
-      "themes": ["sante", "formation"],
+      "themes": [
+        "sante",
+        "formation"
+      ],
       "region": "Suisse",
       "language": "de",
       "people": [
-        { "name": "Charles Favre", "role": "Président de H+" },
-        { "name": "Bernhard Wegmüller", "role": "Directeur de H+" }
+        {
+          "name": "Charles Favre",
+          "role": "Président de H+"
+        },
+        {
+          "name": "Bernhard Wegmüller",
+          "role": "Directeur de H+"
+        }
       ],
-      "companies": ["h-plus-die-spitaler-der-schweiz"]
+      "companies": [
+        "h-plus-die-spitaler-der-schweiz"
+      ]
     },
     {
       "slug": "sante-gesundheit-fasmed-urs-gasche",
@@ -114,11 +186,22 @@
       "pdfPages": [],
       "summary": "Le président de FASMED, faîtière des associations de la technique médicale, présente une branche devenue une « perle » de l'économie suisse : environ 1450 PME et grands groupes, près de 52 000 emplois à plein temps, 14 milliards de valeur ajoutée et 12,8 milliards d'exportations selon le SMTI Report 2014. L'association défend des structures de marché libres et un accès rapide des patients aux innovations, prend position sur SwissDRG ou les HTA et forme ses membres. Il vante les atouts du site suisse, des hautes écoles à la densité hospitalière, et cite des innovations comme des lentilles à microcapteurs. Il identifie comme défis le franc fort, la nouvelle réglementation européenne des dispositifs médicaux, la pression sur les prix et la limitation de l'immigration.",
       "quote": "Die Medizintechnik hat sich zu einer Perle der Schweizer Wirtschaft entwickelt.",
-      "themes": ["industrie", "sante", "economie"],
+      "themes": [
+        "industrie",
+        "sante",
+        "economie"
+      ],
       "region": "Suisse",
       "language": "de",
-      "people": [{ "name": "Urs Gasche", "role": "Président de FASMED" }],
-      "companies": ["fasmed"]
+      "people": [
+        {
+          "name": "Urs Gasche",
+          "role": "Président de FASMED"
+        }
+      ],
+      "companies": [
+        "fasmed"
+      ]
     },
     {
       "slug": "sante-gesundheit-hug-bertrand-levrat",
@@ -129,16 +212,33 @@
       "pdfPages": [],
       "summary": "Le directeur général des HUG conçoit la qualité comme un engagement professionnel quotidien, fondé sur l'écoute des patients, des équipements de pointe et des compétences hors norme. Il explique comment l'hôpital attire des sommités, citant notamment Pierre-Yves Dietrich, Didier Pittet ou Claire-Anne Siegrist, grâce à des infrastructures modernes et des conditions favorables à la recherche. Parmi les quelque 250 groupes de recherche, il mentionne les vaccins thérapeutiques contre les tumeurs cérébrales, une neuroprothèse vestibulaire première mondiale et la participation au Human Brain Project. Les HUG ont signé 47 conventions internationales, sont centre collaborateur de l'OMS dans six domaines et ont testé un candidat vaccin contre Ebola. Un nouveau bâtiment des laboratoires a été inauguré, celui des lits suivra en 2016.",
       "quote": "Quand on travaille avec des êtres humains, la qualité est centrale.",
-      "themes": ["sante", "formation"],
+      "themes": [
+        "sante",
+        "formation"
+      ],
       "region": "Genève",
       "language": "fr",
       "people": [
-        { "name": "Bertrand Levrat", "role": "Directeur général des HUG" },
-        { "name": "Pierre-Yves Dietrich", "role": "Professeur, médecin-chef du service d'oncologie" },
-        { "name": "Jean-Philippe Guyot", "role": "Professeur, implants vestibulaires" },
-        { "name": "Giovanni Frisoni", "role": "Professeur, responsable de la consultation mémoire" }
+        {
+          "name": "Bertrand Levrat",
+          "role": "Directeur général des HUG"
+        },
+        {
+          "name": "Pierre-Yves Dietrich",
+          "role": "Professeur, médecin-chef du service d'oncologie"
+        },
+        {
+          "name": "Jean-Philippe Guyot",
+          "role": "Professeur, implants vestibulaires"
+        },
+        {
+          "name": "Giovanni Frisoni",
+          "role": "Professeur, responsable de la consultation mémoire"
+        }
       ],
-      "companies": ["hopitaux-universitaires-de-geneve"]
+      "companies": [
+        "hopitaux-universitaires-de-geneve"
+      ]
     },
     {
       "slug": "sante-gesundheit-arodems-pierre-rochat",
@@ -149,14 +249,26 @@
       "pdfPages": [],
       "summary": "Pierre Rochat présente l'Association romande et tessinoise des directeurs d'établissements médico-sociaux, fondée il y a une trentaine d'années et forte de 200 membres. Elle soutient les directeurs d'EMS, crée des liens de solidarité, organise des ateliers de formation avec l'AVDEMS et participe à la création d'une association nationale dans la ligne de l'adhésion romande à Curaviva. Pour lui, diriger un EMS exige des compétences en gestion mais surtout beaucoup d'humanité. La qualité passe par le soutien aux équipes confrontées à la dépendance, au deuil et à la fin de vie. Il voit l'EMS comme un complément indispensable de l'hôpital et des soins à domicile, et plaide pour des établissements ouverts, intégrés à la ville et en réseau, jamais des ghettos.",
       "quote": "Il est hors de question de faire des EMS des ghettos : les résidents doivent continuer à voir la ville se dérouler sous leurs yeux.",
-      "themes": ["sante", "collectivites"],
+      "themes": [
+        "sante",
+        "collectivites"
+      ],
       "region": "Suisse romande et Tessin",
       "language": "fr",
       "people": [
-        { "name": "Pierre Rochat", "role": "Président de l'ARODEMS, directeur de la Fondation Beau-Site" },
-        { "name": "Daniel Zufferey", "role": "Ancien secrétaire général de l'ARODEMS" }
+        {
+          "name": "Pierre Rochat",
+          "role": "Président de l'ARODEMS, directeur de la Fondation Beau-Site"
+        },
+        {
+          "name": "Daniel Zufferey",
+          "role": "Ancien secrétaire général de l'ARODEMS"
+        }
       ],
-      "companies": ["arodems", "fondation-beau-site"]
+      "companies": [
+        "arodems",
+        "fondation-beau-site"
+      ]
     },
     {
       "slug": "sante-gesundheit-chuv-pierre-francois-leyvraz",
@@ -167,11 +279,21 @@
       "pdfPages": [],
       "summary": "Le directeur général du CHUV présente un hôpital à la fois universitaire et service de l'État : 9711 collaborateurs de cent nationalités, 1463 lits, 45 000 hospitalisations par an et près de 3000 consultations ambulatoires par jour, toutes pathologies couvertes sauf l'ophtalmologie confiée à l'hôpital Jules-Gonin. Il identifie deux grands défis : former suffisamment de médecins et d'infirmières pour réduire la dépendance à l'étranger, et suivre la technologie sans déshumaniser une prise en charge devenue trop fragmentée. Le plan directeur retient six axes de recherche, dont l'oncologie et l'immunothérapie, les neurosciences avec le Human Brain Project, le cardiovasculaire et la psychiatrie. Avec l'UNIL, le CHUV veut porter le nombre de médecins diplômés de 150 à 220.",
       "quote": "",
-      "themes": ["sante", "formation"],
+      "themes": [
+        "sante",
+        "formation"
+      ],
       "region": "Lausanne",
       "language": "fr",
-      "people": [{ "name": "Pierre-François Leyvraz", "role": "Professeur, directeur général du CHUV" }],
-      "companies": ["chuv"]
+      "people": [
+        {
+          "name": "Pierre-François Leyvraz",
+          "role": "Professeur, directeur général du CHUV"
+        }
+      ],
+      "companies": [
+        "chuv"
+      ]
     },
     {
       "slug": "sante-gesundheit-cades-claude-alain-rebetez",
@@ -182,11 +304,21 @@
       "pdfPages": [],
       "summary": "Créée il y a plus de 45 ans, la CADES est une coopérative à but non lucratif qui mutualise les achats des établissements sanitaires : quinze hôpitaux romands et tessinois hors CHUV et HUG, plus de 2500 établissements de long séjour via Curaviva, environ 700 institutions pour personnes handicapées via INSOS et une succursale tessinoise. Son directeur détaille trois prestations : le référencement de plus de 250 fournisseurs avec des rabais de 5 à 40 %, les souscriptions communes par appels d'offres groupés et la délégation complète des achats. Quelque 300 millions de francs d'achats transitent chaque année par le système, soit au moins 15 millions d'économies. Il observe une professionnalisation des achats, devenus stratégiques, sur le modèle de l'industrie.",
       "quote": "De phénomène marginal, les achats deviennent stratégiques.",
-      "themes": ["sante", "economie"],
+      "themes": [
+        "sante",
+        "economie"
+      ],
       "region": "Suisse romande et Tessin",
       "language": "fr",
-      "people": [{ "name": "Claude-Alain Rebetez", "role": "Directeur de la CADES" }],
-      "companies": ["cades"]
+      "people": [
+        {
+          "name": "Claude-Alain Rebetez",
+          "role": "Directeur de la CADES"
+        }
+      ],
+      "companies": [
+        "cades"
+      ]
     },
     {
       "slug": "sante-gesundheit-kantonsspital-aarau-robert-rhiner",
@@ -197,15 +329,28 @@
       "pdfPages": [],
       "summary": "En poste depuis fin 2014, le CEO de l'Hôpital cantonal d'Aarau veut renforcer la position de ce grand hôpital central, qui assure les soins de base régionaux, la médecine spécialisée cantonale et une partie de la médecine hautement spécialisée du Mittelland, selon la devise « ne pas tout faire, mais exceller ». Il présente le nouveau Centre cardiaque d'Argovie créé avec la Hirslanden Klinik Aarau, où les cardiologues du KSA font examens et suivi tandis que les chirurgiens opèrent à la clinique privée, ainsi que la coopération avec l'Hôpital cantonal d'Olten pour le cancer du sein. Le KSA développe un centre de compétences en soins palliatifs à Zofingue et Aarau et prépare un masterplan regroupant notamment les disciplines neuromédicales.",
       "quote": "Wir müssen nicht alles machen, aber was wir machen, exzellent.",
-      "themes": ["sante"],
+      "themes": [
+        "sante"
+      ],
       "region": "Argovie",
       "language": "de",
       "people": [
-        { "name": "Robert Rhiner", "role": "CEO du Kantonsspital Aarau" },
-        { "name": "André Georges Vuilliomenet", "role": "Dr méd., Kantonsspital Aarau" },
-        { "name": "Thierry Carrel", "role": "Prof. Dr méd., Hirslanden Klinik Aarau" }
+        {
+          "name": "Robert Rhiner",
+          "role": "CEO du Kantonsspital Aarau"
+        },
+        {
+          "name": "André Georges Vuilliomenet",
+          "role": "Dr méd., Kantonsspital Aarau"
+        },
+        {
+          "name": "Thierry Carrel",
+          "role": "Prof. Dr méd., Hirslanden Klinik Aarau"
+        }
       ],
-      "companies": ["kantonsspital-aarau"]
+      "companies": [
+        "kantonsspital-aarau"
+      ]
     },
     {
       "slug": "sante-gesundheit-swiss-stem-cell-bank",
@@ -216,11 +361,22 @@
       "pdfPages": [],
       "summary": "La CEO de la Swiss Stem Cell Bank présente cette biobanque privée tessinoise qui conserve pour ses clients les cellules souches du sang de cordon ombilical, une activité pour laquelle elle cumule dix ans d'expérience. La société a été la première en Suisse à obtenir une autorisation de Swissmedic pour un procédé de séparation et de conservation des cellules souches du tissu adipeux, et propose aussi recherche et conseil sur les essais cliniques. Le prélèvement est effectué en salle d'accouchement, puis le sang est traité au laboratoire de Taverne, au sein du SIRM, et stocké dans l'azote liquide. La banque est accréditée FACT-Netcord, comme seulement 52 banques au monde. Elle développe avec la SUPSI un dispositif automatisant le prélèvement.",
       "quote": "Probabilmente non esiste un fronte della ricerca più in fermento di quello che riguarda le cellule staminali.",
-      "themes": ["sante", "formation"],
+      "themes": [
+        "sante",
+        "formation"
+      ],
       "region": "Taverne (TI)",
       "language": "it",
-      "people": [{ "name": "Patrizia Franconi", "role": "CEO" }],
-      "companies": ["swiss-stem-cell-bank", "swiss-institute-for-regenerative-medicine"]
+      "people": [
+        {
+          "name": "Patrizia Franconi",
+          "role": "CEO"
+        }
+      ],
+      "companies": [
+        "swiss-stem-cell-bank",
+        "swiss-institute-for-regenerative-medicine"
+      ]
     },
     {
       "slug": "sante-gesundheit-cardiocentro-ticino",
@@ -231,11 +387,17 @@
       "pdfPages": [],
       "summary": "Quinze ans après son inauguration, le Cardiocentro Ticino de Lugano revendique un prestige international fondé sur l'innovation, la recherche et l'attention au patient. Il pratique des interventions de pointe comme l'implantation de MitraClip ou le remplacement de la valve aortique par voie transfémorale et transapicale, grâce à des « heart teams » réunissant cardiologues, chirurgiens et anesthésistes. Sa nouvelle salle opératoire hybride complète trois salles de cathétérisme et permet de convertir une intervention mini-invasive en chirurgie classique sans déplacer le patient. L'imagerie cardiaque (IRM, scanner, échocardiographie) est regroupée en un seul service. Le centre mène sa propre recherche pharmacologique, soutient le SIRM de Taverne et a été reconnu en 2012 institut associé de l'Université de Zurich.",
       "quote": "",
-      "themes": ["sante", "formation"],
+      "themes": [
+        "sante",
+        "formation"
+      ],
       "region": "Lugano",
       "language": "it",
       "people": [],
-      "companies": ["cardiocentro-ticino", "swiss-institute-for-regenerative-medicine"]
+      "companies": [
+        "cardiocentro-ticino",
+        "swiss-institute-for-regenerative-medicine"
+      ]
     },
     {
       "slug": "sante-gesundheit-sirm-taverne",
@@ -246,11 +408,17 @@
       "pdfPages": [],
       "summary": "Pleinement opérationnel depuis 2013 à Taverne, dans l'ancien bâtiment de recherche d'un groupe pharmaceutique, le SIRM se consacre à la médecine régénérative, qui vise à réparer durablement tissus et organes grâce aux cellules souches. Ses laboratoires mènent des projets en cardiologie (cardiosphères, exosomes, cellules souches cardiaques résidentes), en neurologie et en ingénierie tissulaire. L'institut collabore avec Piero Anversa de la Harvard Medical School, Andre Terzic de la Mayo Clinic et Angelo Vescovi de l'Université de Milan, ainsi qu'avec le Neurocentro Ticino, la SUPSI, Cell Culture Technologies et le groupe Genolier. Dans une région à forte industrie pharmaceutique, il veut devenir un pôle biomédical à haute valeur ajoutée, en lien étroit avec le Cardiocentro Ticino.",
       "quote": "",
-      "themes": ["formation", "sante"],
+      "themes": [
+        "formation",
+        "sante"
+      ],
       "region": "Taverne (TI)",
       "language": "it",
       "people": [],
-      "companies": ["swiss-institute-for-regenerative-medicine", "cardiocentro-ticino"]
+      "companies": [
+        "swiss-institute-for-regenerative-medicine",
+        "cardiocentro-ticino"
+      ]
     },
     {
       "slug": "sante-gesundheit-cosanum",
@@ -261,11 +429,22 @@
       "pdfPages": [],
       "summary": "Spécialiste de la logistique de santé depuis 35 ans, Cosanum fournit les blocs opératoires, soins intensifs, anesthésie et stérilisation centrale des hôpitaux suisses depuis son centre de Schlieren, doté d'un entrepôt de 6500 emplacements pour palettes. Son directeur Bruno Schefer met en avant trois atouts : la compétence de collaborateurs en partie issus des soins, une large gamme de produits de fournisseurs de premier plan et une livraison garantie en 48 heures, jusqu'en salle d'opération si nécessaire. L'entreprise conçoit des sets opératoires sur mesure, optimise les processus et la gestion des stocks, forme le personnel et tient sur demande un stock pandémie. Elle prévoit une hausse de la pression sur les coûts et une réduction du nombre de fournisseurs hospitaliers.",
       "quote": "Wir liefern innerhalb von 48 Stunden. Garantiert.",
-      "themes": ["sante", "economie", "mobilite"],
+      "themes": [
+        "sante",
+        "economie",
+        "mobilite"
+      ],
       "region": "Schlieren (ZH)",
       "language": "de",
-      "people": [{ "name": "Bruno Schefer", "role": "Directeur (Geschäftsführer)" }],
-      "companies": ["cosanum"]
+      "people": [
+        {
+          "name": "Bruno Schefer",
+          "role": "Directeur (Geschäftsführer)"
+        }
+      ],
+      "companies": [
+        "cosanum"
+      ]
     },
     {
       "slug": "sante-gesundheit-cpma",
@@ -276,19 +455,44 @@
       "pdfPages": [],
       "summary": "Le CPMA de Lausanne assure une prise en charge globale des couples infertiles, quelle qu'en soit la cause, avec des volets gynécologique, endocrinologique, andrologique et psychologique, ainsi qu'un bloc opératoire ambulatoire. Cinq gynécologues, un urologue, deux spécialistes en psychosomatique et huit biologistes et techniciens, pour la plupart issus du CHUV, accueillent chaque année plus de 700 nouveaux couples et réalisent 1500 cycles de FIV, près de 800 inséminations et plus de 1000 interventions. Une patiente de moins de 35 ans a environ 60 % de chances d'avoir un enfant par cycle de FIV ; au-delà de 43 ans, aucun traitement n'est proposé sauf exception. Le centre participe au réseau Medisupport et à une étude nationale sur la qualité du sperme.",
       "quote": "Chaque patient a un médecin responsable mais les cas complexes sont discutés tous ensemble.",
-      "themes": ["sante"],
+      "themes": [
+        "sante"
+      ],
       "region": "Lausanne",
       "language": "fr",
       "people": [
-        { "name": "M. Germond", "role": "Dr" },
-        { "name": "D. Wirthner", "role": "Dr" },
-        { "name": "M. Emery", "role": "Dr" },
-        { "name": "D. Wunder", "role": "PD Dr" },
-        { "name": "M. Wisard", "role": "Dr" },
-        { "name": "A. Megalo", "role": "Dr" },
-        { "name": "C. Targa", "role": "Dr" }
+        {
+          "name": "M. Germond",
+          "role": "Dr"
+        },
+        {
+          "name": "D. Wirthner",
+          "role": "Dr"
+        },
+        {
+          "name": "M. Emery",
+          "role": "Dr"
+        },
+        {
+          "name": "D. Wunder",
+          "role": "PD Dr"
+        },
+        {
+          "name": "M. Wisard",
+          "role": "Dr"
+        },
+        {
+          "name": "A. Megalo",
+          "role": "Dr"
+        },
+        {
+          "name": "C. Targa",
+          "role": "Dr"
+        }
       ],
-      "companies": ["cpma"]
+      "companies": [
+        "cpma"
+      ]
     },
     {
       "slug": "sante-gesundheit-curmed",
@@ -299,11 +503,21 @@
       "pdfPages": [],
       "summary": "Fondée le 4 avril 1990, la société Curmed d'Ostermundigen fête ses 25 ans sur le marché médical suisse. Spécialisée dans les extrémités, en particulier la chirurgie de la main, elle développe de plus en plus son assortiment pour le genou. Son produit phare est la prothèse fémoro-patellaire HemiCAP Wave de son fournisseur Arthrosurface, pionnier des mini-prothèses de resurfaçage : moins invasive qu'une prothèse totale, elle permet une récupération rapide, retarde l'arthrose chez des patients souvent jeunes et reste convertible en prothèse totale. Le directeur relève la difficulté de concilier les coûts de l'innovation sur un marché de niche avec les coupes budgétaires des hôpitaux, dans un secteur dominé par des groupes américains pratiquant des acquisitions agressives.",
       "quote": "L'industrie du dispositif médical est très dynamique, et nous devons pouvoir nous adapter très vite !",
-      "themes": ["sante", "industrie"],
+      "themes": [
+        "sante",
+        "industrie"
+      ],
       "region": "Ostermundigen (BE)",
       "language": "fr",
-      "people": [{ "name": "David Perron", "role": "Directeur de Curmed AG" }],
-      "companies": ["curmed"]
+      "people": [
+        {
+          "name": "David Perron",
+          "role": "Directeur de Curmed AG"
+        }
+      ],
+      "companies": [
+        "curmed"
+      ]
     },
     {
       "slug": "sante-gesundheit-unispital-basel-geert-pagenstert",
@@ -314,11 +528,21 @@
       "pdfPages": [],
       "summary": "Le médecin-chef adjoint de la clinique universitaire d'orthopédie de Bâle attribue la réputation internationale de l'établissement à une culture de solutions individualisées pour chaque patient, au-delà des algorithmes et des contraintes économiques. Spécialisé dans la chirurgie du genou, il utilise depuis 2010 la prothèse HemiCAP Wave d'Arthrosurface, distribuée par Curmed, pour sa forme anatomique adaptable, sa fixation sans ciment et la reproductibilité de l'opération. Il décrit des résultats parfois exceptionnels, certains patients retrouvant un niveau sportif. Il y voit une option particulièrement intéressante pour l'arthrose d'instabilité liée à une dysplasie de la trochlée chez les 35-50 ans, et encourage à ne pas recourir d'emblée à la prothèse totale en cas d'arthrose fémoro-patellaire isolée.",
       "quote": "",
-      "themes": ["sante"],
+      "themes": [
+        "sante"
+      ],
       "region": "Bâle",
       "language": "de",
-      "people": [{ "name": "Geert Pagenstert", "role": "PD Dr, médecin-chef adjoint, Clinique universitaire d'orthopédie de Bâle" }],
-      "companies": ["universitatsspital-basel", "curmed"]
+      "people": [
+        {
+          "name": "Geert Pagenstert",
+          "role": "PD Dr, médecin-chef adjoint, Clinique universitaire d'orthopédie de Bâle"
+        }
+      ],
+      "companies": [
+        "universitatsspital-basel",
+        "curmed"
+      ]
     },
     {
       "slug": "sante-gesundheit-cite-generations",
@@ -329,11 +553,17 @@
       "pdfPages": [],
       "summary": "Ouverte en 2012 à Onex, Cité générations est l'aboutissement d'un projet lancé dix ans plus tôt à partir de rapports genevois sur la prise en charge des personnes âgées et le manque de coordination de la première ligne, qui estimaient évitables jusqu'à 40 % des hospitalisations. Cette maison de santé réunit partenaires publics et privés sous un même toit : urgences 7 jours sur 7, pôles enfants-adolescents, gériatrie, santé mentale, rééducation, imagerie, soins dentaires, pharmacie, laboratoire et soins infirmiers ambulatoires. Une unité d'accueil temporaire médicalisée offre des séjours de 24 heures à 15 jours suivis par le médecin traitant, en collaboration avec l'imad et les HUG. Le centre utilise la carte « MonDossierMédical » et développe un pôle prévention.",
       "quote": "",
-      "themes": ["sante", "collectivites"],
+      "themes": [
+        "sante",
+        "collectivites"
+      ],
       "region": "Onex (GE)",
       "language": "fr",
       "people": [],
-      "companies": ["cite-generations", "hopitaux-universitaires-de-geneve"]
+      "companies": [
+        "cite-generations",
+        "hopitaux-universitaires-de-geneve"
+      ]
     },
     {
       "slug": "sante-gesundheit-fondation-beau-site",
@@ -344,11 +574,21 @@
       "pdfPages": [],
       "summary": "Créée il y a plus de 50 ans, la Fondation Beau-Site gère quatre petits EMS de proximité intégrés dans leur quartier, sur la Riviera vaudoise : Beau-Site (54 lits), Montbrillant (36 lits de psychogériatrie, non fermé), Coteau-Muraz (36 lits et un centre d'accueil temporaire pour 20 à 25 personnes par jour) et Le Maillon (28 lits de court séjour). Son directeur fonde l'action sur trois valeurs : respect des résidents, des collaborateurs et des familles, chaleur humaine et professionnalisme. Le centre d'accueil temporaire permet de retarder l'entrée en institution ou d'aider au retour à domicile. La fondation prévoit de reconstruire Le Maillon et Montbrillant avec 40 lits chacun et des appartements protégés ; elle est certifiée ISO 9001 par Procert depuis 2014.",
       "quote": "Un EMS doit compenser autant que possible la perte de son chez-soi.",
-      "themes": ["sante", "collectivites"],
+      "themes": [
+        "sante",
+        "collectivites"
+      ],
       "region": "Clarens / Montreux (VD)",
       "language": "fr",
-      "people": [{ "name": "Pierre Rochat", "role": "Directeur de la Fondation Beau-Site" }],
-      "companies": ["fondation-beau-site"]
+      "people": [
+        {
+          "name": "Pierre Rochat",
+          "role": "Directeur de la Fondation Beau-Site"
+        }
+      ],
+      "companies": [
+        "fondation-beau-site"
+      ]
     },
     {
       "slug": "sante-gesundheit-departement-chemie-unibas",
@@ -359,11 +599,20 @@
       "pdfPages": [],
       "summary": "Le directeur du département de chimie de l'Université de Bâle présente des groupes de recherche couvrant les chimies organique, inorganique et physique, avec un nouveau pôle de recherche national (NCCR) en ingénierie des systèmes moléculaires obtenu avec le BSSE de l'ETH Zurich. Il souligne que la chimie est la base des sciences de la vie et cite des travaux sur les réactions de molécules individuelles, la catalyse, les enzymes artificielles, les micelles comme chambres réactionnelles ou la spectroscopie résolue en temps. En nanotechnologie, le département contribue à l'électronique moléculaire, aux expériences d'interférence quantique et aux nanoparticules métalliques fonctionnalisées. Il compte 101 étudiants en bachelor, 44 en master et 129 doctorants, dont la formation en synthèse est très recherchée.",
       "quote": "Chemie ist als Grundlage für Life Science von enormer Wichtigkeit.",
-      "themes": ["formation"],
+      "themes": [
+        "formation"
+      ],
       "region": "Bâle",
       "language": "de",
-      "people": [{ "name": "Marcel Mayor", "role": "Professeur, directeur du département de chimie" }],
-      "companies": ["departement-chemie-universitat-basel"]
+      "people": [
+        {
+          "name": "Marcel Mayor",
+          "role": "Professeur, directeur du département de chimie"
+        }
+      ],
+      "companies": [
+        "departement-chemie-universitat-basel"
+      ]
     },
     {
       "slug": "sante-gesundheit-inselspital-hno-caversaccio",
@@ -374,11 +623,21 @@
       "pdfPages": [],
       "summary": "Le directeur de la clinique universitaire ORL de l'Hôpital de l'Île à Berne présente une offre diagnostique et thérapeutique complète : environ 15 000 patients ambulatoires par an et 10 000 autres en audiologie, implants cochléaires, phoniatrie et neuro-otologie. La clinique pratique la microchirurgie de l'oreille, la chirurgie endoscopique du nez et des sinus assistée par navigation informatique, ainsi que la chirurgie des glandes salivaires et de la thyroïde, souvent au laser. Elle a posé quelque 750 implants cochléaires chez environ 500 patients. Son principal axe de recherche est l'implantation cochléaire robotisée par un trou de 1,8 mm, développée avec le centre Artorg et sur le point d'être appliquée à l'humain. Elle forme des étudiants en bachelor et en master de l'Université de Berne.",
       "quote": "",
-      "themes": ["sante", "formation"],
+      "themes": [
+        "sante",
+        "formation"
+      ],
       "region": "Berne",
       "language": "de",
-      "people": [{ "name": "Marco Domenico Caversaccio", "role": "Professeur, directeur et médecin-chef de la clinique universitaire ORL" }],
-      "companies": ["inselspital-universitatsklinik-hno"]
+      "people": [
+        {
+          "name": "Marco Domenico Caversaccio",
+          "role": "Professeur, directeur et médecin-chef de la clinique universitaire ORL"
+        }
+      ],
+      "companies": [
+        "inselspital-universitatsklinik-hno"
+      ]
     },
     {
       "slug": "sante-gesundheit-departement-physiologie-unil",
@@ -389,11 +648,22 @@
       "pdfPages": [],
       "summary": "L'étude du métabolisme est au cœur du Département de physiologie de l'Université de Lausanne, qui compte près d'une dizaine de groupes de recherche dirigés par sept professeurs, plus deux groupes menés par des cliniciens du CHUV. Ces équipes étudient le métabolisme du cancer, le système nerveux, la nutrition ou l'effet de l'activité physique sur le vieillissement. Selon son directeur Lluis Fajas Coll, un futur Centre intégratif du métabolisme sera créé avec le CHUV pour regrouper ces recherches et renforcer une démarche translationnelle allant de la cellule au patient. Le département a déjà cofondé le réseau LIMNA avec le CHUV, l'EPFL et Nestlé, et assure l'enseignement de la physiologie aux étudiants en médecine, biologie et sciences du sport.",
       "quote": "La thématique du métabolisme est très porteuse.",
-      "themes": ["formation", "sante"],
+      "themes": [
+        "formation",
+        "sante"
+      ],
       "region": "Lausanne",
       "language": "fr",
-      "people": [{ "name": "Lluis Fajas Coll", "role": "Professeur, directeur du Département de physiologie" }],
-      "companies": ["departement-de-physiologie-unil", "chuv"]
+      "people": [
+        {
+          "name": "Lluis Fajas Coll",
+          "role": "Professeur, directeur du Département de physiologie"
+        }
+      ],
+      "companies": [
+        "departement-de-physiologie-unil",
+        "chuv"
+      ]
     },
     {
       "slug": "sante-gesundheit-hug-sante-mentale-psychiatrie",
@@ -404,11 +674,21 @@
       "pdfPages": [],
       "summary": "Le chef du Département de santé mentale et psychiatrie des HUG décrit une prise en charge intégrative, à la fois psychothérapeutique, pharmacologique et biologique, répartie entre un pôle ambulatoire et un pôle hospitalier. Le département couvre psychoses, troubles de l'humeur et de la personnalité, psychiatrie de l'âgé, addictions y compris aux jeux en ligne, psychiatrie de liaison et spécialités pour les troubles résistants, l'autisme sévère ou le sommeil. La recherche s'articule autour du neurodéveloppement, de la prévention précoce et de la neurocognition, notamment au sein du pôle de recherche national Synapsy. Environ 130 personnes y sont formées chaque année. Le principal défi reste le manque de marqueurs biologiques pour des traitements plus personnalisés, et l'absence de thérapie freinant Alzheimer.",
       "quote": "La psychiatrie est encore très descriptive, elle manque de marqueurs biologiques pour affiner le diagnostic et le traitement.",
-      "themes": ["sante", "formation"],
+      "themes": [
+        "sante",
+        "formation"
+      ],
       "region": "Genève",
       "language": "fr",
-      "people": [{ "name": "Jean-Michel Aubry", "role": "Professeur, chef du Département de santé mentale et psychiatrie" }],
-      "companies": ["hopitaux-universitaires-de-geneve"]
+      "people": [
+        {
+          "name": "Jean-Michel Aubry",
+          "role": "Professeur, chef du Département de santé mentale et psychiatrie"
+        }
+      ],
+      "companies": [
+        "hopitaux-universitaires-de-geneve"
+      ]
     },
     {
       "slug": "sante-gesundheit-ensemble-hospitalier-de-la-cote",
@@ -419,11 +699,21 @@
       "pdfPages": [],
       "summary": "Groupe privé reconnu d'intérêt public, l'Ensemble Hospitalier de la Côte a bâti en quinze ans un réseau régional coordonné de sept sites, dont les hôpitaux d'Aubonne, Gilly et Morges, deux EMS et deux centres médicaux. Son directeur général explique que ce statut combine un contrat de prestations avec le canton de Vaud et la réactivité du privé. Face à la pénurie de médecins de famille, l'EHC a ouvert des cabinets de groupe à l'EPFL et à Morges. Il cite trois innovations : le Centre lémanique de neuromodulation contre la douleur chronique, un centre de cardiologie interventionnelle ouvert fin 2013 et une unité de soins aigus réservée aux seniors. L'EHC compte 1400 collaborateurs, 1300 naissances et 22 785 passages aux urgences par an.",
       "quote": "Depuis longtemps, chez nous, l'hôpital est sorti de ses murs.",
-      "themes": ["sante", "collectivites"],
+      "themes": [
+        "sante",
+        "collectivites"
+      ],
       "region": "La Côte (VD)",
       "language": "fr",
-      "people": [{ "name": "François Jacot-Descombes", "role": "Directeur général de l'EHC" }],
-      "companies": ["ensemble-hospitalier-de-la-cote"]
+      "people": [
+        {
+          "name": "François Jacot-Descombes",
+          "role": "Directeur général de l'EHC"
+        }
+      ],
+      "companies": [
+        "ensemble-hospitalier-de-la-cote"
+      ]
     },
     {
       "slug": "sante-gesundheit-h-net-michael-ziegler",
@@ -434,11 +724,21 @@
       "pdfPages": [],
       "summary": "H-Net est un prestataire eHealth neutre et indépendant qui assure l'échange électronique sécurisé de données entre acteurs de la santé : environ 300 établissements, hôpitaux et instituts, ainsi que des assureurs, autorités et cabinets reliés via des partenaires. Son directeur décrit un canal bidirectionnel pour factures et rappels entre prestataires et assureurs, le MedicalConnector utilisé surtout par les radiologies pour transmettre des études, la plateforme web MedicalShare qui remplace les CD envoyés aux médecins référents, un canal d'urgence vers les centres spécialisés et un PACS dans le cloud pour les petits cabinets. La nouvelle plateforme MedicalShare Plus implémente les profils IHE pour le dossier électronique, et plusieurs services restent gratuits pour les cabinets.",
       "quote": "Wir schaffen IT-Lösungen für Healthcare, welche genau das erledigen, was die Benutzer benötigen.",
-      "themes": ["sante", "economie"],
+      "themes": [
+        "sante",
+        "economie"
+      ],
       "region": "Zurich",
       "language": "de",
-      "people": [{ "name": "Michael Ziegler", "role": "Directeur (Geschäftsleiter)" }],
-      "companies": ["h-net"]
+      "people": [
+        {
+          "name": "Michael Ziegler",
+          "role": "Directeur (Geschäftsleiter)"
+        }
+      ],
+      "companies": [
+        "h-net"
+      ]
     },
     {
       "slug": "sante-gesundheit-helsinn-riccardo-braglia",
@@ -449,14 +749,25 @@
       "pdfPages": [],
       "summary": "Groupe pharmaceutique familial fondé en 1976 et basé à Lugano, Helsinn se consacre aux soins de support en oncologie, avec des filiales aux États-Unis et en Irlande et un bureau en Chine. Son CEO Riccardo Braglia explique un modèle de licences intégré : acquérir des molécules en phase précoce, les développer jusqu'aux homologations FDA et EMA, les produire puis les commercialiser via des partenaires, avec un taux de succès d'environ 70 %. Il cible les effets secondaires des traitements, comme nausées, cachexie ou mucite, et mise sur Akynzeo (NEPA) et sur l'anamoréline, qui pourrait devenir le premier médicament ciblé contre la cachexie cancéreuse. Environ un quart du chiffre d'affaires va à la R&D. Le groupe produit des principes actifs à Biasca et des médicaments finis à Dublin.",
       "quote": "Every year we spend in the range of approximately a quarter of revenues on R&D investment.",
-      "themes": ["sante", "industrie"],
+      "themes": [
+        "sante",
+        "industrie"
+      ],
       "region": "Lugano",
       "language": "en",
       "people": [
-        { "name": "Riccardo Braglia", "role": "CEO" },
-        { "name": "Paola Bonvicini", "role": "Head of Communication & Press Office" }
+        {
+          "name": "Riccardo Braglia",
+          "role": "CEO"
+        },
+        {
+          "name": "Paola Bonvicini",
+          "role": "Head of Communication & Press Office"
+        }
       ],
-      "companies": ["helsinn"]
+      "companies": [
+        "helsinn"
+      ]
     },
     {
       "slug": "sante-gesundheit-jp-muller",
@@ -467,11 +778,21 @@
       "pdfPages": [],
       "summary": "Fondée en 1955 par Paul Müller et ses fils comme fournisseur de systèmes d'identification du linge pour les grandes blanchisseries, l'entreprise de Horgen propose aujourd'hui des systèmes informatisés de gestion des textiles en leasing, indispensables dans le secteur médical. Elle distribue la gamme Thermopatch de marquage textile, patchs, transferts et emblèmes, ainsi qu'un service d'étiquettes nominatives. L'entreprise a ensuite développé une division de techniques d'assemblage du bois, devenue son principal segment, avec agrafeuses, cloueuses, compresseurs silencieux et outillage des marques Senco, Jun-Air ou Kress. Transformée en société anonyme familiale en 1995, elle emploie 20 collaborateurs ; son directeur Norbert Tüscher en détient la majorité depuis 2001 et ses conseillers interviennent dans toute la Suisse.",
       "quote": "",
-      "themes": ["industrie", "sante"],
+      "themes": [
+        "industrie",
+        "sante"
+      ],
       "region": "Horgen (ZH)",
       "language": "de",
-      "people": [{ "name": "Norbert Tüscher", "role": "Directeur et propriétaire (Geschäftsführender Inhaber)" }],
-      "companies": ["jp-muller"]
+      "people": [
+        {
+          "name": "Norbert Tüscher",
+          "role": "Directeur et propriétaire (Geschäftsführender Inhaber)"
+        }
+      ],
+      "companies": [
+        "jp-muller"
+      ]
     },
     {
       "slug": "sante-gesundheit-mmm-sterilisatoren",
@@ -482,11 +803,21 @@
       "pdfPages": [],
       "summary": "Filiale du groupe allemand Münchener Medizin Mechanik, fondé en 1954 par Johann Koller et dirigé par la troisième génération, MMM Sterilisatoren AG est leader suisse des systèmes de désinfection et de stérilisation pour hôpitaux, cliniques et industrie pharmaceutique. Basée à Rudolfstetten avec 21 collaborateurs, elle commercialise des stérilisateurs à vapeur fabriqués en Allemagne et en Tchéquie, désormais complétés par des laveurs d'instruments. Ses appareils sont les seuls à intégrer un test Bowie & Dick automatisé et le logiciel Ecosoft assure la traçabilité des cycles. Quelque 220 hôpitaux et cliniques suisses utilisent ses solutions, avec un service après-vente régional et des formations. Le groupe a offert des stérilisateurs à des cliniques du Togo et du Bénin et prévoit un bureau en Suisse romande.",
       "quote": "Uns reicht es nicht aus, einfach nur Geräte zu verkaufen.",
-      "themes": ["sante", "industrie"],
+      "themes": [
+        "sante",
+        "industrie"
+      ],
       "region": "Rudolfstetten (AG)",
       "language": "de",
-      "people": [{ "name": "Kamel Henni", "role": "Directeur général pour la Suisse et les pays francophones" }],
-      "companies": ["mmm-sterilisatoren"]
+      "people": [
+        {
+          "name": "Kamel Henni",
+          "role": "Directeur général pour la Suisse et les pays francophones"
+        }
+      ],
+      "companies": [
+        "mmm-sterilisatoren"
+      ]
     },
     {
       "slug": "sante-gesundheit-spital-uster-andreas-muhlemann",
@@ -497,11 +828,20 @@
       "pdfPages": [],
       "summary": "Directeur depuis 18 ans de l'hôpital d'Uster, centre de diagnostic et de traitement de l'Oberland zurichois et du Glatttal, Andreas Mühlemann anticipe une pression financière croissante sur les prestataires. L'évolution des tarifs (SwissDRG, TarMed) crée des incertitudes, les tarifs de l'assurance obligatoire sont trop bas et couvrent mal les investissements, rendant l'hôpital dépendant des patients en division privée et poussant les petits établissements aux coopérations. Uster mise sur les réseaux, comme un cabinet d'urgence commun avec les médecins de famille, et projette un campus de soins intégrés avec un centre de réadaptation. L'hôpital, fondé en 1883, compte 207 lits et 1169 collaborateurs ; il a ouvert une néonatologie en 2015 et est reconnu Swiss Olympic Medical Base.",
       "quote": "Wir setzen vermehrt auf Netzwerke und Kooperationen.",
-      "themes": ["sante"],
+      "themes": [
+        "sante"
+      ],
       "region": "Uster (ZH)",
       "language": "de",
-      "people": [{ "name": "Andreas Mühlemann", "role": "Directeur du Spital Uster" }],
-      "companies": ["spital-uster"]
+      "people": [
+        {
+          "name": "Andreas Mühlemann",
+          "role": "Directeur du Spital Uster"
+        }
+      ],
+      "companies": [
+        "spital-uster"
+      ]
     },
     {
       "slug": "sante-gesundheit-humabs-biomed",
@@ -512,14 +852,26 @@
       "pdfPages": [],
       "summary": "Spin-off créée en 2004 à Bellinzone à partir d'une technologie développée par le professeur Antonio Lanzavecchia à l'Institut de recherche en biomédecine (IRB), Humabs BioMed identifie des anticorps humains « naturels » chez des personnes ayant guéri d'infections graves pour en faire des médicaments. Son CEO Alcide Barberis, biologiste formé à Zurich et cofondateur d'ESBATech, explique que l'entreprise se concentre sur la phase préclinique puis collabore avec des groupes pharmaceutiques pour les essais cliniques : quatre contrats de licence ont été signés et deux produits sont en essais. La société emploie 16 personnes et compte profiter de l'ouverture d'AlpTransit. Son approche pourrait s'étendre aux cancers et aux maladies auto-immunes ou dégénératives.",
       "quote": "The immune system of some patients is better than others' and responds more effectively to attacks by pathogens.",
-      "themes": ["sante", "formation", "industrie"],
+      "themes": [
+        "sante",
+        "formation",
+        "industrie"
+      ],
       "region": "Bellinzone",
       "language": "en",
       "people": [
-        { "name": "Alcide Barberis", "role": "CEO" },
-        { "name": "Antonio Lanzavecchia", "role": "Professeur, Institute for Research in Biomedicine" }
+        {
+          "name": "Alcide Barberis",
+          "role": "CEO"
+        },
+        {
+          "name": "Antonio Lanzavecchia",
+          "role": "Professeur, Institute for Research in Biomedicine"
+        }
       ],
-      "companies": ["humabs-biomed"]
+      "companies": [
+        "humabs-biomed"
+      ]
     },
     {
       "slug": "sante-gesundheit-medeco-ch",
@@ -530,14 +882,25 @@
       "pdfPages": [],
       "summary": "Jeune entreprise de trois ans et demi installée à Duillier, Medeco-ch emploie une dizaine de collaborateurs et s'appuie sur quinze ans d'expérience de ses fondateurs, Cédric et Sheela Bagnoud, en orthopédie et traumatologie. Elle distribue les produits de plusieurs fabricants : prothèses de hanche ATF Implants, prothèses de genou personnalisées ConforMIS, implants Memometal et Newclip pour pieds et mains, fixateurs externes Orthofix, broches résorbables Bioretec et substituts osseux BonAlive. Parmi ses produits phares figurent le kit stérile Initial R pour fractures du radius distal et des fixateurs externes de poignet et de coude. Face à la pression sur les coûts, la plupart de ses solutions combinent implants et instruments dans des kits stériles à usage unique, éliminant les risques liés au retraitement.",
       "quote": "La pression sur les coûts est forte.",
-      "themes": ["sante", "industrie"],
+      "themes": [
+        "sante",
+        "industrie"
+      ],
       "region": "Duillier (VD)",
       "language": "fr",
       "people": [
-        { "name": "Cédric Bagnoud", "role": "Cofondateur" },
-        { "name": "Sheela Bagnoud", "role": "Cofondatrice" }
+        {
+          "name": "Cédric Bagnoud",
+          "role": "Cofondateur"
+        },
+        {
+          "name": "Sheela Bagnoud",
+          "role": "Cofondatrice"
+        }
       ],
-      "companies": ["medeco-ch"]
+      "companies": [
+        "medeco-ch"
+      ]
     },
     {
       "slug": "sante-gesundheit-pmu-lausanne",
@@ -548,11 +911,17 @@
       "pdfPages": [],
       "summary": "Institution de droit public affiliée à l'Université de Lausanne et au CHUV, la PMU jouit d'une autonomie unique qui lui vaut des sollicitations des autorités cantonales, fédérales et internationales. Elle offre des soins de qualité universitaire, produit des connaissances en médecine générale et communautaire et forme étudiants, médecins assistants et praticiens. Passée de 300 à plus de 500 collaborateurs en dix ans, elle garantit un accès équitable aux soins pour tous. Elle propose de nombreuses spécialités grâce aux spécialistes du CHUV, un centre de médecine des voyages et de vaccination (12 000 consultations par an), une pharmacie, un service dentaire et les urgences ambulatoires du CHUV. Sa recherche porte notamment sur un vaccin contre Ebola et la prévention du tabagisme.",
       "quote": "",
-      "themes": ["sante", "formation"],
+      "themes": [
+        "sante",
+        "formation"
+      ],
       "region": "Lausanne",
       "language": "fr",
       "people": [],
-      "companies": ["policlinique-medicale-universitaire-lausanne", "chuv"]
+      "companies": [
+        "policlinique-medicale-universitaire-lausanne",
+        "chuv"
+      ]
     },
     {
       "slug": "sante-gesundheit-sinomedica",
@@ -563,11 +932,20 @@
       "pdfPages": [],
       "summary": "Sinomedica réunit dans six centres, à Lugano, Locarno, Chiasso, Genève, Lausanne et Zurich, des médecins formés à la médecine occidentale et spécialisés en acupuncture et en médecine traditionnelle chinoise. Son fondateur, le Dr Massimo Fumagalli, diplômé de l'Université de Bâle puis en médecine chinoise à Pékin en 1996, a travaillé dans des centres cliniques chinois et à New York. Le groupe compte 14 médecins occidentaux spécialisés et quatre médecins de formation chinoise. La médecine chinoise considère le symptôme comme l'expression d'un déséquilibre préexistant, d'où des traitements toujours individualisés. Selon lui, l'acupuncture peut aider contre l'anxiété, l'insomnie, les douleurs, les allergies ou le surpoids, sans effets secondaires et en complément des traitements conventionnels.",
       "quote": "L'efficacia dei trattamenti di agopuntura è clinicamente testata.",
-      "themes": ["sante"],
+      "themes": [
+        "sante"
+      ],
       "region": "Tessin, Genève, Lausanne, Zurich",
       "language": "it",
-      "people": [{ "name": "Massimo Fumagalli", "role": "Fondateur du groupe" }],
-      "companies": ["sinomedica"]
+      "people": [
+        {
+          "name": "Massimo Fumagalli",
+          "role": "Fondateur du groupe"
+        }
+      ],
+      "companies": [
+        "sinomedica"
+      ]
     },
     {
       "slug": "sante-gesundheit-spitex-zurich-limmat",
@@ -578,11 +956,21 @@
       "pdfPages": [],
       "summary": "La CEO de Spitex Zürich Limmat, la plus grande des trois organisations d'aide et de soins à domicile à but non lucratif mandatées par la ville de Zurich, présente une institution qui fournit environ 313 000 heures de soins et 195 000 heures d'aide ménagère par an à 6600 clients, avec plus de 850 collaborateurs. La stratégie 2014, élaborée quand la ville comptait encore dix organisations, a apporté des standards communs, un service de nuit, un service de conseil préventif et la marque commune Spitex Zürich. La stratégie 2022 doit adapter l'offre au vieillissement et à la démence, avec des centres de compétences. Pour faire face à la pénurie, elle mise sur des conditions d'emploi attractives, les infirmières de pratique avancée et le télénursing.",
       "quote": "Wir vermitteln Sicherheit und ermöglichen unserer Kundschaft ein selbstbestimmtes Leben zu Hause.",
-      "themes": ["sante", "collectivites"],
+      "themes": [
+        "sante",
+        "collectivites"
+      ],
       "region": "Zurich",
       "language": "de",
-      "people": [{ "name": "Christina Brunnschweiler", "role": "CEO" }],
-      "companies": ["spitex-zurich-limmat"]
+      "people": [
+        {
+          "name": "Christina Brunnschweiler",
+          "role": "CEO"
+        }
+      ],
+      "companies": [
+        "spitex-zurich-limmat"
+      ]
     }
   ],
   "companies": [
@@ -590,7 +978,10 @@
       "slug": "dipartimento-della-sanita-e-della-socialita",
       "name": "Dipartimento della sanità e della socialità (Canton Ticino)",
       "sector": "Administration cantonale de la santé et des affaires sociales",
-      "themes": ["collectivites", "sante"],
+      "themes": [
+        "collectivites",
+        "sante"
+      ],
       "description": "Département cantonal tessinois chargé de la santé et de la politique sociale, dirigé en 2015 par le conseiller d'État Paolo Beltraminelli. Il régule le marché de la santé, planifie le secteur hospitalier et soutient la formation, la prévention et le futur master en médecine au Tessin.",
       "address": "Palazzo Governativo",
       "postalCode": "6500",
@@ -600,7 +991,12 @@
       "phone": "",
       "email": "",
       "website": "",
-      "contacts": [{ "name": "Paolo Beltraminelli", "role": "Conseiller d'État, directeur" }],
+      "contacts": [
+        {
+          "name": "Paolo Beltraminelli",
+          "role": "Conseiller d'État, directeur"
+        }
+      ],
       "page": "2",
       "pdfPages": [],
       "advertiserOnly": false
@@ -609,7 +1005,10 @@
       "slug": "santesuisse",
       "name": "santésuisse",
       "sector": "Faîtière des assureurs-maladie",
-      "themes": ["sante", "economie"],
+      "themes": [
+        "sante",
+        "economie"
+      ],
       "description": "Association de branche des assureurs-maladie suisses dans l'assurance sociale, représentant 46 des 61 caisses et 58 % des assurés. Elle suit les objets parlementaires, élabore les positions de la branche, participe aux tarifs et aux mesures de qualité et assure la formation professionnelle du secteur.",
       "address": "Römerstrasse 20",
       "postalCode": "4502",
@@ -619,7 +1018,12 @@
       "phone": "+41 (0)32 625 41 41",
       "email": "mail@santesuisse.ch",
       "website": "www.santesuisse.ch",
-      "contacts": [{ "name": "Verena Nold Rebetez", "role": "Directrice" }],
+      "contacts": [
+        {
+          "name": "Verena Nold Rebetez",
+          "role": "Directrice"
+        }
+      ],
       "page": "3",
       "pdfPages": [],
       "advertiserOnly": false
@@ -628,7 +1032,10 @@
       "slug": "bundesamt-fur-gesundheit",
       "name": "Bundesamt für Gesundheit (BAG)",
       "sector": "Administration fédérale de la santé publique",
-      "themes": ["collectivites", "sante"],
+      "themes": [
+        "collectivites",
+        "sante"
+      ],
       "description": "Office fédéral chargé de l'assurance-maladie et accidents, des produits thérapeutiques et chimiques, de la biosécurité, de la recherche sur l'être humain, de la transplantation, de la radioprotection et des programmes de prévention. Il pilote la stratégie Santé2020 et représente la Suisse au niveau international.",
       "address": "",
       "postalCode": "3003",
@@ -638,7 +1045,12 @@
       "phone": "+41 (0)58 462 21 11",
       "email": "info@bag.admin.ch",
       "website": "www.bag.admin.ch",
-      "contacts": [{ "name": "Pascal Strupler", "role": "Directeur" }],
+      "contacts": [
+        {
+          "name": "Pascal Strupler",
+          "role": "Directeur"
+        }
+      ],
       "page": "4",
       "pdfPages": [],
       "advertiserOnly": false
@@ -647,7 +1059,10 @@
       "slug": "staatssekretariat-fur-bildung-forschung-und-innovation",
       "name": "Staatssekretariat für Bildung, Forschung und Innovation SBFI",
       "sector": "Administration fédérale de la formation et de la recherche",
-      "themes": ["formation", "collectivites"],
+      "themes": [
+        "formation",
+        "collectivites"
+      ],
       "description": "Autorité fédérale compétente pour la formation, la recherche et l'innovation : planification stratégique, financement des EPF, réglementation des hautes écoles spécialisées et de la formation professionnelle, encouragement de la recherche et de l'innovation, activités spatiales et reconnaissance des diplômes étrangers.",
       "address": "Einsteinstrasse 2",
       "postalCode": "3003",
@@ -666,7 +1081,10 @@
       "slug": "universitatsspital-zurich",
       "name": "UniversitätsSpital Zürich (USZ)",
       "sector": "Hôpital universitaire",
-      "themes": ["sante", "formation"],
+      "themes": [
+        "sante",
+        "formation"
+      ],
       "description": "Hôpital universitaire de 43 cliniques et instituts, environ 8000 collaborateurs, 38 000 patients hospitalisés et plus de 134 000 patients ambulatoires par an. Il prépare une rénovation complète avec chambres individuelles, développe des centres (cœur, tumeurs, neurocentre) et une clinique de jour à l'aéroport, « The Circle ».",
       "address": "Rämistrasse 100",
       "postalCode": "8091",
@@ -676,7 +1094,12 @@
       "phone": "+41 44 255 11 11",
       "email": "",
       "website": "www.usz.ch",
-      "contacts": [{ "name": "Rita Ziegler", "role": "Présidente de la direction" }],
+      "contacts": [
+        {
+          "name": "Rita Ziegler",
+          "role": "Présidente de la direction"
+        }
+      ],
       "page": "6-7",
       "pdfPages": [],
       "advertiserOnly": false
@@ -685,7 +1108,10 @@
       "slug": "h-plus-die-spitaler-der-schweiz",
       "name": "H+ Die Spitäler der Schweiz",
       "sector": "Faîtière des hôpitaux, cliniques et institutions de soins",
-      "themes": ["sante", "formation"],
+      "themes": [
+        "sante",
+        "formation"
+      ],
       "description": "Association faîtière nationale des hôpitaux, cliniques et institutions de soins publics et privés, active depuis plus de 80 ans : 236 membres actifs sur 369 sites et 170 membres partenaires, environ 185 000 emplois représentés. Elle propose des solutions de branche (REKOLE®, rapport qualité, sécurité au travail) et participe à la formation du personnel.",
       "address": "Lorrainestrasse 4A",
       "postalCode": "3013",
@@ -696,8 +1122,14 @@
       "email": "geschaeftsstelle@hplus.ch",
       "website": "www.hplus.ch",
       "contacts": [
-        { "name": "Charles Favre", "role": "Président" },
-        { "name": "Bernhard Wegmüller", "role": "Directeur" }
+        {
+          "name": "Charles Favre",
+          "role": "Président"
+        },
+        {
+          "name": "Bernhard Wegmüller",
+          "role": "Directeur"
+        }
       ],
       "page": "8-9",
       "pdfPages": [],
@@ -707,7 +1139,10 @@
       "slug": "fasmed",
       "name": "FASMED – Dachverband der Schweizerischen Handels- und Industrievereinigungen der Medizintechnik",
       "sector": "Faîtière de la technique médicale",
-      "themes": ["industrie", "sante"],
+      "themes": [
+        "industrie",
+        "sante"
+      ],
       "description": "Association faîtière des associations commerciales et industrielles de la technique médicale. Elle défend les intérêts de la medtech auprès des autorités, informe et forme ses membres, organise des campagnes d'image et est membre d'economiesuisse et d'Eucomed.",
       "address": "Worbstrasse 52",
       "postalCode": "3074",
@@ -717,7 +1152,12 @@
       "phone": "+41 (0)31 380 85 95",
       "email": "fasmed@medizinprodukte.ch",
       "website": "www.fasmed.ch",
-      "contacts": [{ "name": "Urs Gasche", "role": "Président" }],
+      "contacts": [
+        {
+          "name": "Urs Gasche",
+          "role": "Président"
+        }
+      ],
       "page": "10-11",
       "pdfPages": [],
       "advertiserOnly": false
@@ -726,7 +1166,10 @@
       "slug": "hopitaux-universitaires-de-geneve",
       "name": "Hôpitaux universitaires de Genève – HUG",
       "sector": "Hôpital universitaire",
-      "themes": ["sante", "formation"],
+      "themes": [
+        "sante",
+        "formation"
+      ],
       "description": "Groupe hospitalier universitaire genevois comptant quelque 250 groupes de recherche, 47 conventions internationales de coopération et six domaines de centre collaborateur de l'OMS. Il investit dans de nouveaux bâtiments de laboratoires et de lits et dispose d'un Département de santé mentale et psychiatrie qui forme environ 130 personnes par an.",
       "address": "Gabrielle-Perret-Gentil 4",
       "postalCode": "1205",
@@ -737,8 +1180,14 @@
       "email": "",
       "website": "www.hug-ge.ch/",
       "contacts": [
-        { "name": "Bertrand Levrat", "role": "Directeur général" },
-        { "name": "Jean-Michel Aubry", "role": "Chef du Département de santé mentale et psychiatrie" }
+        {
+          "name": "Bertrand Levrat",
+          "role": "Directeur général"
+        },
+        {
+          "name": "Jean-Michel Aubry",
+          "role": "Chef du Département de santé mentale et psychiatrie"
+        }
       ],
       "page": "12, 40-41",
       "pdfPages": [],
@@ -748,7 +1197,10 @@
       "slug": "arodems",
       "name": "ARODEMS – Association romande et tessinoise des directeurs d'établissements médico-sociaux",
       "sector": "Association professionnelle des directeurs d'EMS",
-      "themes": ["sante", "collectivites"],
+      "themes": [
+        "sante",
+        "collectivites"
+      ],
       "description": "Association fondée il y a une trentaine d'années, forte de 200 membres, qui rassemble et soutient les directeurs d'EMS de Suisse romande et du Tessin, organise des ateliers de formation et participe à la création d'une association nationale des directeurs d'EMS.",
       "address": "",
       "postalCode": "",
@@ -758,7 +1210,12 @@
       "phone": "",
       "email": "",
       "website": "www.arodems.ch",
-      "contacts": [{ "name": "Pierre Rochat", "role": "Président" }],
+      "contacts": [
+        {
+          "name": "Pierre Rochat",
+          "role": "Président"
+        }
+      ],
       "page": "13",
       "pdfPages": [],
       "advertiserOnly": false
@@ -767,7 +1224,10 @@
       "slug": "chuv",
       "name": "Centre hospitalier universitaire vaudois (CHUV)",
       "sector": "Hôpital universitaire",
-      "themes": ["sante", "formation"],
+      "themes": [
+        "sante",
+        "formation"
+      ],
       "description": "Hôpital universitaire et service de l'État de Vaud : 9711 collaborateurs, 1463 lits, 45 000 hospitalisations par an et près de 3000 consultations ambulatoires par jour. Il couvre toutes les pathologies sauf l'ophtalmologie et développe six axes de recherche, de l'oncologie à la psychiatrie, en lien avec l'UNIL.",
       "address": "",
       "postalCode": "",
@@ -777,7 +1237,12 @@
       "phone": "",
       "email": "",
       "website": "",
-      "contacts": [{ "name": "Pierre-François Leyvraz", "role": "Directeur général" }],
+      "contacts": [
+        {
+          "name": "Pierre-François Leyvraz",
+          "role": "Directeur général"
+        }
+      ],
       "page": "14",
       "pdfPages": [],
       "advertiserOnly": false
@@ -786,7 +1251,10 @@
       "slug": "cades",
       "name": "Centrale d'achats des établissements sanitaires société coopérative (CADES)",
       "sector": "Centrale d'achats et logistique pour établissements de santé",
-      "themes": ["sante", "economie"],
+      "themes": [
+        "sante",
+        "economie"
+      ],
       "description": "Coopérative à but non lucratif créée il y a plus de 45 ans, qui négocie des conditions auprès de plus de 250 fournisseurs pour les hôpitaux romands et tessinois, les établissements Curaviva et INSOS. Quelque 300 millions de francs d'achats transitent chaque année par son référencement.",
       "address": "",
       "postalCode": "",
@@ -796,7 +1264,12 @@
       "phone": "",
       "email": "",
       "website": "",
-      "contacts": [{ "name": "Claude-Alain Rebetez", "role": "Directeur" }],
+      "contacts": [
+        {
+          "name": "Claude-Alain Rebetez",
+          "role": "Directeur"
+        }
+      ],
       "page": "15",
       "pdfPages": [],
       "advertiserOnly": false
@@ -805,7 +1278,9 @@
       "slug": "kantonsspital-aarau",
       "name": "Kantonsspital Aarau (KSA)",
       "sector": "Hôpital cantonal",
-      "themes": ["sante"],
+      "themes": [
+        "sante"
+      ],
       "description": "Grand hôpital central argovien assurant soins de base, médecine spécialisée et une partie de la médecine hautement spécialisée du Mittelland. Il a créé le Centre cardiaque d'Argovie avec la Hirslanden Klinik Aarau, coopère avec l'hôpital d'Olten et développe un centre de soins palliatifs à Zofingue et Aarau.",
       "address": "Tellstrasse 25",
       "postalCode": "5001",
@@ -815,7 +1290,12 @@
       "phone": "+41 62 838 41 41",
       "email": "info@ksa.ch",
       "website": "www.ksa.ch",
-      "contacts": [{ "name": "Robert Rhiner", "role": "CEO" }],
+      "contacts": [
+        {
+          "name": "Robert Rhiner",
+          "role": "CEO"
+        }
+      ],
       "page": "16-17",
       "pdfPages": [],
       "advertiserOnly": false
@@ -824,7 +1304,9 @@
       "slug": "centre-laser-victor-hugo",
       "name": "Centre Laser Victor Hugo",
       "sector": "",
-      "themes": ["sante"],
+      "themes": [
+        "sante"
+      ],
       "description": "Annonceur cité dans l'index des company profiles (pages 17 et 51) ; le contenu de ses annonces n'apparaît pas dans le texte extrait du magazine.",
       "address": "",
       "postalCode": "",
@@ -841,9 +1323,12 @@
     },
     {
       "slug": "swiss-stem-cell-bank",
-      "name": "Swiss Stem Cell Bank Sa (SSCB)",
+      "name": "Swiss Stem Cell Bank SA (SSCB)",
       "sector": "Biobanque de cellules souches",
-      "themes": ["sante", "formation"],
+      "themes": [
+        "sante",
+        "formation"
+      ],
       "description": "Biobanque privée tessinoise conservant les cellules souches du sang de cordon ombilical depuis une dizaine d'années, première en Suisse autorisée par Swissmedic pour les cellules souches du tissu adipeux. Accréditée FACT-Netcord, elle mène aussi recherche et conseil sur les essais cliniques depuis le SIRM de Taverne.",
       "address": "Via ai Söi 24",
       "postalCode": "6807",
@@ -853,7 +1338,12 @@
       "phone": "+41 91 805 38 88",
       "email": "info@stembank.ch",
       "website": "www.stembank.ch",
-      "contacts": [{ "name": "Patrizia Franconi", "role": "CEO" }],
+      "contacts": [
+        {
+          "name": "Patrizia Franconi",
+          "role": "CEO"
+        }
+      ],
       "page": "18-19",
       "pdfPages": [],
       "advertiserOnly": false
@@ -862,7 +1352,10 @@
       "slug": "cardiocentro-ticino",
       "name": "Cardiocentro Ticino",
       "sector": "Centre de cardiologie et chirurgie cardiaque",
-      "themes": ["sante", "formation"],
+      "themes": [
+        "sante",
+        "formation"
+      ],
       "description": "Centre cardiologique de Lugano inauguré il y a quinze ans, institut associé de l'Université de Zurich depuis 2012. Il dispose d'une salle opératoire hybride et de trois salles de cathétérisme, pratique des interventions percutanées de pointe et soutient la recherche du SIRM de Taverne.",
       "address": "Via Tesserete 48",
       "postalCode": "6900",
@@ -881,7 +1374,10 @@
       "slug": "swiss-institute-for-regenerative-medicine",
       "name": "Swiss Institute for Regenerative Medicine (SIRM)",
       "sector": "Recherche en médecine régénérative",
-      "themes": ["formation", "sante"],
+      "themes": [
+        "formation",
+        "sante"
+      ],
       "description": "Institut de recherche opérationnel depuis 2013 à Taverne, consacré aux cellules souches et à la médecine régénérative en cardiologie, neurologie et ingénierie tissulaire. Il collabore avec Harvard, la Mayo Clinic, l'Université de Milan, la SUPSI et le groupe Genolier.",
       "address": "Via ai Söi 24",
       "postalCode": "6807",
@@ -900,7 +1396,10 @@
       "slug": "cosanum",
       "name": "Cosanum AG",
       "sector": "Logistique de santé",
-      "themes": ["sante", "economie"],
+      "themes": [
+        "sante",
+        "economie"
+      ],
       "description": "Spécialiste de la logistique hospitalière depuis 35 ans, basé à Schlieren avec un entrepôt de 6500 emplacements pour palettes. Fournit blocs opératoires, soins intensifs, anesthésie et stérilisation, conçoit des sets opératoires sur mesure et garantit une livraison en 48 heures ; dessert aussi EMS, Spitex et industrie (EPI).",
       "address": "Brandstrasse 28",
       "postalCode": "8952",
@@ -910,16 +1409,23 @@
       "phone": "043 433 66 00",
       "email": "info@cosanum.ch",
       "website": "www.cosanum.ch",
-      "contacts": [{ "name": "Bruno Schefer", "role": "Directeur (Geschäftsführer)" }],
+      "contacts": [
+        {
+          "name": "Bruno Schefer",
+          "role": "Directeur (Geschäftsführer)"
+        }
+      ],
       "page": "24-27",
       "pdfPages": [],
       "advertiserOnly": false
     },
     {
       "slug": "cpma",
-      "name": "CPMA sa – Centre de Procréation Médicalement Assistée",
+      "name": "CPMA SA – Centre de Procréation Médicalement Assistée",
       "sector": "Procréation médicalement assistée et endocrinologie gynécologique",
-      "themes": ["sante"],
+      "themes": [
+        "sante"
+      ],
       "description": "Centre lausannois de prise en charge globale de l'infertilité, avec cinq gynécologues, un urologue, deux spécialistes en psychosomatique et huit biologistes et techniciens. Plus de 700 nouveaux couples et 1500 cycles de FIV par an ; membre du réseau Medisupport avec ses laboratoires Fertisupport et Fertas.",
       "address": "Rue de la Vigie 5",
       "postalCode": "1003",
@@ -929,7 +1435,12 @@
       "phone": "+41 (0)21 321 15 80",
       "email": "cpma@cpma.ch",
       "website": "www.cpma.ch",
-      "contacts": [{ "name": "M. Germond", "role": "Dr" }],
+      "contacts": [
+        {
+          "name": "M. Germond",
+          "role": "Dr"
+        }
+      ],
       "page": "28-29",
       "pdfPages": [],
       "advertiserOnly": false
@@ -938,7 +1449,10 @@
       "slug": "curmed",
       "name": "Curmed AG",
       "sector": "Distribution d'implants orthopédiques",
-      "themes": ["sante", "industrie"],
+      "themes": [
+        "sante",
+        "industrie"
+      ],
       "description": "Société fondée le 4 avril 1990, spécialisée dans les implants pour les extrémités, notamment la main, et de plus en plus le genou. Elle distribue en Suisse les mini-prothèses de resurfaçage d'Arthrosurface, dont la prothèse fémoro-patellaire HemiCAP Wave.",
       "address": "Untere Zollgasse",
       "postalCode": "3072",
@@ -948,7 +1462,12 @@
       "phone": "+41 31 932 44 22",
       "email": "info@curmed.ch",
       "website": "www.curmed.ch",
-      "contacts": [{ "name": "David Perron", "role": "Directeur" }],
+      "contacts": [
+        {
+          "name": "David Perron",
+          "role": "Directeur"
+        }
+      ],
       "page": "30-31",
       "pdfPages": [],
       "advertiserOnly": false
@@ -957,7 +1476,9 @@
       "slug": "universitatsspital-basel",
       "name": "Universitätsspital Basel – Orthopädische Universitätsklinik",
       "sector": "Hôpital universitaire – orthopédie et traumatologie",
-      "themes": ["sante"],
+      "themes": [
+        "sante"
+      ],
       "description": "Clinique universitaire d'orthopédie et de traumatologie de Bâle, réputée internationalement pour son approche individualisée. Son médecin-chef adjoint y utilise depuis 2010 la prothèse HemiCAP Wave pour l'arthrose fémoro-patellaire.",
       "address": "",
       "postalCode": "",
@@ -967,7 +1488,12 @@
       "phone": "",
       "email": "",
       "website": "",
-      "contacts": [{ "name": "Geert Pagenstert", "role": "PD Dr, médecin-chef adjoint" }],
+      "contacts": [
+        {
+          "name": "Geert Pagenstert",
+          "role": "PD Dr, médecin-chef adjoint"
+        }
+      ],
       "page": "31",
       "pdfPages": [],
       "advertiserOnly": false
@@ -976,7 +1502,10 @@
       "slug": "cite-generations",
       "name": "Cité générations – maison de santé",
       "sector": "Centre médical pluridisciplinaire",
-      "themes": ["sante", "collectivites"],
+      "themes": [
+        "sante",
+        "collectivites"
+      ],
       "description": "Maison de santé ouverte en 2012 à Onex, réunissant partenaires publics et privés : urgences 7 jours sur 7, gériatrie, pédiatrie, santé mentale, imagerie, laboratoire, pharmacie, soins dentaires et une unité d'accueil temporaire médicalisée, en collaboration avec l'imad et les HUG.",
       "address": "Route de Chancy 98",
       "postalCode": "1213",
@@ -995,7 +1524,10 @@
       "slug": "fondation-beau-site",
       "name": "Fondation Beau-Site",
       "sector": "Établissements médico-sociaux",
-      "themes": ["sante", "collectivites"],
+      "themes": [
+        "sante",
+        "collectivites"
+      ],
       "description": "Fondation créée il y a plus de 50 ans, gérant quatre EMS de proximité (Beau-Site, Montbrillant, Coteau-Muraz, Le Maillon) offrant hébergement de long et court séjour, psychogériatrie et accueil de jour. Certifiée ISO 9001 (Procert), elle prévoit la reconstruction de deux établissements.",
       "address": "Chemin du Crépon 32, Case postale 217",
       "postalCode": "1815",
@@ -1005,7 +1537,12 @@
       "phone": "+41 21 989 53 53",
       "email": "info@ems-fbs.ch",
       "website": "www.fondation-beau-site.ch",
-      "contacts": [{ "name": "Pierre Rochat", "role": "Directeur" }],
+      "contacts": [
+        {
+          "name": "Pierre Rochat",
+          "role": "Directeur"
+        }
+      ],
       "page": "13, 33",
       "pdfPages": [],
       "advertiserOnly": false
@@ -1014,7 +1551,9 @@
       "slug": "departement-chemie-universitat-basel",
       "name": "Departement Chemie Universität Basel",
       "sector": "Département universitaire de chimie",
-      "themes": ["formation"],
+      "themes": [
+        "formation"
+      ],
       "description": "Département couvrant les chimies organique, inorganique, physique et théorique, impliqué dans le NCCR Molecular Systems Engineering avec l'ETH Zurich et dans les nanotechnologies (électronique moléculaire). Il compte 101 étudiants en bachelor, 44 en master et 129 doctorants.",
       "address": "Spitalstrasse 51",
       "postalCode": "4056",
@@ -1024,7 +1563,12 @@
       "phone": "+41 (0)61 267 10 22",
       "email": "",
       "website": "www.chemie.unibas.ch",
-      "contacts": [{ "name": "Marcel Mayor", "role": "Professeur, directeur du département" }],
+      "contacts": [
+        {
+          "name": "Marcel Mayor",
+          "role": "Professeur, directeur du département"
+        }
+      ],
       "page": "34-35",
       "pdfPages": [],
       "advertiserOnly": false
@@ -1033,7 +1577,10 @@
       "slug": "inselspital-universitatsklinik-hno",
       "name": "Inselspital – Universitätsklinik für Hals-, Nasen- und Ohrenkrankheiten, Kopf- und Halschirurgie",
       "sector": "Clinique universitaire ORL",
-      "themes": ["sante", "formation"],
+      "themes": [
+        "sante",
+        "formation"
+      ],
       "description": "Clinique ORL de l'Hôpital de l'Île à Berne : environ 25 000 patients ambulatoires par an, chirurgie endoscopique assistée par ordinateur, quelque 750 implants cochléaires posés et recherche sur l'implantation cochléaire robotisée avec le centre Artorg.",
       "address": "",
       "postalCode": "3010",
@@ -1043,7 +1590,12 @@
       "phone": "+41 (0)31 632 29 21",
       "email": "",
       "website": "www.hno.insel.ch",
-      "contacts": [{ "name": "Marco Domenico Caversaccio", "role": "Professeur, directeur et médecin-chef" }],
+      "contacts": [
+        {
+          "name": "Marco Domenico Caversaccio",
+          "role": "Professeur, directeur et médecin-chef"
+        }
+      ],
       "page": "36-37",
       "pdfPages": [],
       "advertiserOnly": false
@@ -1052,7 +1604,10 @@
       "slug": "departement-de-physiologie-unil",
       "name": "Département de physiologie – Université de Lausanne",
       "sector": "Département universitaire de recherche en physiologie et métabolisme",
-      "themes": ["formation", "sante"],
+      "themes": [
+        "formation",
+        "sante"
+      ],
       "description": "Département regroupant une dizaine de groupes de recherche sur le métabolisme (cancer, système nerveux, nutrition, vieillissement), cofondateur du réseau LIMNA avec le CHUV, l'EPFL et Nestlé, et porteur d'un futur Centre intégratif du métabolisme avec le CHUV.",
       "address": "Rue du Bugnon 7",
       "postalCode": "1005",
@@ -1062,7 +1617,12 @@
       "phone": "4121 692 5500",
       "email": "",
       "website": "www.unil.ch/physiologie",
-      "contacts": [{ "name": "Lluis Fajas Coll", "role": "Professeur, directeur du département" }],
+      "contacts": [
+        {
+          "name": "Lluis Fajas Coll",
+          "role": "Professeur, directeur du département"
+        }
+      ],
       "page": "38-39",
       "pdfPages": [],
       "advertiserOnly": false
@@ -1071,7 +1631,10 @@
       "slug": "ensemble-hospitalier-de-la-cote",
       "name": "Ensemble Hospitalier de la Côte (EHC)",
       "sector": "Groupe hospitalier régional",
-      "themes": ["sante", "collectivites"],
+      "themes": [
+        "sante",
+        "collectivites"
+      ],
       "description": "Groupe privé reconnu d'intérêt public créé en juillet 2000, réunissant sept sites (hôpitaux d'Aubonne, Gilly et Morges, EMS, centres médicaux) pour 197 lits de soins aigus, 81 de réadaptation et 152 d'hébergement, avec 1400 collaborateurs. Il abrite le Centre lémanique de neuromodulation.",
       "address": "Ch. du Crêt 2",
       "postalCode": "1110",
@@ -1081,7 +1644,12 @@
       "phone": "021 804 22 11",
       "email": "",
       "website": "www.ehc-vd.ch",
-      "contacts": [{ "name": "François Jacot-Descombes", "role": "Directeur général" }],
+      "contacts": [
+        {
+          "name": "François Jacot-Descombes",
+          "role": "Directeur général"
+        }
+      ],
       "page": "42-43",
       "pdfPages": [],
       "advertiserOnly": false
@@ -1090,7 +1658,10 @@
       "slug": "h-net",
       "name": "H-Net AG",
       "sector": "Logiciels eHealth et échange de données médicales",
-      "themes": ["sante", "economie"],
+      "themes": [
+        "sante",
+        "economie"
+      ],
       "description": "Prestataire eHealth neutre reliant environ 300 établissements de santé, assureurs et cabinets. Ses produits MedicalConnector, MedicalShare et MedicalShare Plus (plateforme IHE) assurent l'échange sécurisé de factures, images radiologiques et documents médicaux, avec une offre de PACS dans le cloud.",
       "address": "Stampfenbachstrasse 40",
       "postalCode": "8006",
@@ -1100,7 +1671,12 @@
       "phone": "+41 (0)43 222 61 90",
       "email": "info@h-net.ch",
       "website": "www.h-net.ch",
-      "contacts": [{ "name": "Michael Ziegler", "role": "Directeur (Geschäftsleiter)" }],
+      "contacts": [
+        {
+          "name": "Michael Ziegler",
+          "role": "Directeur (Geschäftsleiter)"
+        }
+      ],
       "page": "44-45",
       "pdfPages": [],
       "advertiserOnly": false
@@ -1109,7 +1685,10 @@
       "slug": "helsinn",
       "name": "Helsinn Group",
       "sector": "Groupe pharmaceutique – soins de support en oncologie",
-      "themes": ["sante", "industrie"],
+      "themes": [
+        "sante",
+        "industrie"
+      ],
       "description": "Groupe pharmaceutique familial fondé en 1976 à Lugano, spécialisé dans les soins de support en oncologie selon un modèle de licences intégré. Filiales aux États-Unis et en Irlande, bureau en Chine, usine chimique dans le sud de la Suisse (Biasca) et usine de médicaments finis à Dublin.",
       "address": "",
       "postalCode": "",
@@ -1120,8 +1699,14 @@
       "email": "info-hhc@helsinn.com",
       "website": "www.helsinn.com",
       "contacts": [
-        { "name": "Riccardo Braglia", "role": "CEO" },
-        { "name": "Paola Bonvicini", "role": "Head of Communication & Press Office" }
+        {
+          "name": "Riccardo Braglia",
+          "role": "CEO"
+        },
+        {
+          "name": "Paola Bonvicini",
+          "role": "Head of Communication & Press Office"
+        }
       ],
       "page": "46-50, 4e de couv.",
       "pdfPages": [],
@@ -1131,7 +1716,10 @@
       "slug": "jp-muller",
       "name": "J.P. Müller AG",
       "sector": "Systèmes de marquage textile et techniques d'assemblage du bois",
-      "themes": ["industrie", "sante"],
+      "themes": [
+        "industrie",
+        "sante"
+      ],
       "description": "Entreprise familiale fondée en 1955, distributrice des systèmes de marquage textile Thermopatch pour la gestion du linge en leasing, notamment hospitalier, et d'outillage pour l'assemblage du bois (Senco, Jun-Air, Kress). Elle emploie 20 collaborateurs.",
       "address": "Tödistrasse 48, Postfach",
       "postalCode": "8810",
@@ -1141,7 +1729,12 @@
       "phone": "+41 (0)43 244 10 50",
       "email": "info@jpmuellerag.ch",
       "website": "jpmuellerag.ch",
-      "contacts": [{ "name": "Norbert Tüscher", "role": "Directeur et propriétaire" }],
+      "contacts": [
+        {
+          "name": "Norbert Tüscher",
+          "role": "Directeur et propriétaire"
+        }
+      ],
       "page": "52-53",
       "pdfPages": [],
       "advertiserOnly": false
@@ -1150,7 +1743,10 @@
       "slug": "mmm-sterilisatoren",
       "name": "MMM Sterilisatoren AG",
       "sector": "Systèmes de stérilisation et de désinfection",
-      "themes": ["sante", "industrie"],
+      "themes": [
+        "sante",
+        "industrie"
+      ],
       "description": "Filiale suisse du groupe allemand MMM (plus de 1000 collaborateurs, présent dans plus de 60 pays), leader suisse des stérilisateurs pour hôpitaux, cliniques et pharma. 21 collaborateurs à Rudolfstetten, bureaux de maintenance à Morges, Yverdon, Uster et Bellinzone, 220 hôpitaux et cliniques clients.",
       "address": "Grossmattstrasse 14",
       "postalCode": "8964",
@@ -1160,7 +1756,12 @@
       "phone": "+41 (0)56 204 22 20",
       "email": "",
       "website": "www.mmmgroup.ch",
-      "contacts": [{ "name": "Kamel Henni", "role": "Directeur général pour la Suisse et les pays francophones" }],
+      "contacts": [
+        {
+          "name": "Kamel Henni",
+          "role": "Directeur général pour la Suisse et les pays francophones"
+        }
+      ],
       "page": "54-55",
       "pdfPages": [],
       "advertiserOnly": false
@@ -1169,7 +1770,9 @@
       "slug": "spital-uster",
       "name": "Spital Uster",
       "sector": "Hôpital régional",
-      "themes": ["sante"],
+      "themes": [
+        "sante"
+      ],
       "description": "Hôpital fondé en 1883, centre de diagnostic et de traitement de l'Oberland zurichois et du Glatttal : 207 lits, 1169 collaborateurs, 876 naissances (chiffres 2014). Chirurgie, orthopédie, urologie, néonatologie depuis 2015 et Swiss Olympic Medical Base ; projet de campus de soins intégrés.",
       "address": "Brunnenstrasse 42",
       "postalCode": "8610",
@@ -1179,7 +1782,12 @@
       "phone": "+41 (0)44 911 11 11",
       "email": "info@spitaluster.ch",
       "website": "www.spitaluster.ch",
-      "contacts": [{ "name": "Andreas Mühlemann", "role": "Directeur" }],
+      "contacts": [
+        {
+          "name": "Andreas Mühlemann",
+          "role": "Directeur"
+        }
+      ],
       "page": "56-57",
       "pdfPages": [],
       "advertiserOnly": false
@@ -1188,7 +1796,11 @@
       "slug": "humabs-biomed",
       "name": "Humabs BioMed SA",
       "sector": "Biotechnologie – anticorps thérapeutiques",
-      "themes": ["sante", "industrie", "formation"],
+      "themes": [
+        "sante",
+        "industrie",
+        "formation"
+      ],
       "description": "Spin-off de l'Institute for Research in Biomedicine créée en 2004 à Bellinzone, qui développe en phase préclinique des anticorps humains contre les infections graves. 16 collaborateurs, quatre contrats de licence avec des groupes pharmaceutiques et deux produits en essais cliniques.",
       "address": "Via Mirasole, 1",
       "postalCode": "6500",
@@ -1198,7 +1810,12 @@
       "phone": "+41 (0)91 825 63 80",
       "email": "info@humabs.com",
       "website": "www.humabs.com",
-      "contacts": [{ "name": "Alcide Barberis", "role": "CEO" }],
+      "contacts": [
+        {
+          "name": "Alcide Barberis",
+          "role": "CEO"
+        }
+      ],
       "page": "58",
       "pdfPages": [],
       "advertiserOnly": false
@@ -1207,7 +1824,10 @@
       "slug": "medeco-ch",
       "name": "Medeco-ch Sàrl",
       "sector": "Distribution d'implants d'orthopédie et de traumatologie",
-      "themes": ["sante", "industrie"],
+      "themes": [
+        "sante",
+        "industrie"
+      ],
       "description": "Jeune entreprise d'une dizaine de collaborateurs à Duillier, distribuant implants et fixateurs (ATF Implants, ConforMIS, Memometal, Newclip, Orthofix, Bioretec, BonAlive), majoritairement sous forme de kits stériles à usage unique.",
       "address": "Route de Trélex 8",
       "postalCode": "1266",
@@ -1218,8 +1838,14 @@
       "email": "info@medeco-ch.com",
       "website": "www.medeco-ch.com",
       "contacts": [
-        { "name": "Cédric Bagnoud", "role": "Cofondateur" },
-        { "name": "Sheela Bagnoud", "role": "Cofondatrice" }
+        {
+          "name": "Cédric Bagnoud",
+          "role": "Cofondateur"
+        },
+        {
+          "name": "Sheela Bagnoud",
+          "role": "Cofondatrice"
+        }
       ],
       "page": "59",
       "pdfPages": [],
@@ -1229,7 +1855,10 @@
       "slug": "policlinique-medicale-universitaire-lausanne",
       "name": "Policlinique médicale universitaire Lausanne (PMU)",
       "sector": "Médecine générale et communautaire universitaire",
-      "themes": ["sante", "formation"],
+      "themes": [
+        "sante",
+        "formation"
+      ],
       "description": "Institution de droit public affiliée à l'UNIL et au CHUV, passée de 300 à plus de 500 collaborateurs en dix ans. Soins de premier recours et spécialisés, médecine des voyages, pharmacie, service dentaire, urgences ambulatoires du CHUV, recherche en prévention et santé communautaire.",
       "address": "Rue du Bugnon 44",
       "postalCode": "1011",
@@ -1246,9 +1875,11 @@
     },
     {
       "slug": "sinomedica",
-      "name": "Sinomedica Sa",
+      "name": "Sinomedica SA",
       "sector": "Centres médicaux d'acupuncture et de médecine traditionnelle chinoise",
-      "themes": ["sante"],
+      "themes": [
+        "sante"
+      ],
       "description": "Société tessinoise exploitant six centres médicaux spécialisés en acupuncture (Lugano, Locarno, Chiasso, Genève, Lausanne, Zurich), avec 14 médecins de formation occidentale spécialisés et quatre médecins de formation chinoise.",
       "address": "Corso Elvezia 4",
       "postalCode": "6900",
@@ -1258,7 +1889,12 @@
       "phone": "+41 (0)91 921 48 43",
       "email": "info@sinomedica.ch",
       "website": "www.sinomedica.ch",
-      "contacts": [{ "name": "Massimo Fumagalli", "role": "Fondateur" }],
+      "contacts": [
+        {
+          "name": "Massimo Fumagalli",
+          "role": "Fondateur"
+        }
+      ],
       "page": "61",
       "pdfPages": [],
       "advertiserOnly": false
@@ -1267,7 +1903,10 @@
       "slug": "spitex-zurich-limmat",
       "name": "Spitex Zürich Limmat",
       "sector": "Aide et soins à domicile",
-      "themes": ["sante", "collectivites"],
+      "themes": [
+        "sante",
+        "collectivites"
+      ],
       "description": "Plus grande des trois organisations Spitex à but non lucratif mandatées par la ville de Zurich : environ 313 000 heures de soins et 195 000 heures d'aide ménagère par an pour 6600 clients, plus de 850 collaborateurs et 58 millions de francs de recettes.",
       "address": "Nordstrasse 20, Postfach 434",
       "postalCode": "8042",
@@ -1277,7 +1916,12 @@
       "phone": "+41 58 404 36 36",
       "email": "",
       "website": "www.spitex-zuerich.ch",
-      "contacts": [{ "name": "Christina Brunnschweiler", "role": "CEO" }],
+      "contacts": [
+        {
+          "name": "Christina Brunnschweiler",
+          "role": "CEO"
+        }
+      ],
       "page": "62",
       "pdfPages": [],
       "advertiserOnly": false

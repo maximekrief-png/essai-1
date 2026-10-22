@@ -319,7 +319,7 @@
     },
     {
       "slug": "zurich-dr-j-grob-partner",
-      "title": "Dr. Bauingenieure J. Grob & Partner SIA/USIC AG",
+      "title": "Dr. J. Grob & Partner AG, Bauingenieure SIA/USIC",
       "subtitle": "Interview mit Dr. Josef Grob, Geschäftsleiter",
       "type": "interview",
       "page": "24-25",
@@ -672,12 +672,12 @@
     },
     {
       "slug": "zurich-luzi",
-      "title": "LUZI AG",
+      "title": "Luzi AG",
       "subtitle": "Im Gespräch mit Geschäftsführer Jürg Koller",
       "type": "interview",
       "page": "58-59",
       "pdfPages": [],
-      "summary": "La société LUZI à Dietlikon crée, produit et exporte des compositions parfumées pour parfums, cosmétiques, produits ménagers et parfums d'ambiance. Son directeur insiste sur la créativité des parfumeurs, les contrôles qualité menés par des chimistes et une production automatisée entièrement traçable (ISO 9001). Il décrit la collaboration avec les clients à partir d'un briefing et de la base non parfumée, les exigences techniques des parfums pour lessives et l'importance du bien-être procuré. L'entreprise développe plus de 900 nouvelles compositions par an.",
+      "summary": "La société Luzi à Dietlikon crée, produit et exporte des compositions parfumées pour parfums, cosmétiques, produits ménagers et parfums d'ambiance. Son directeur insiste sur la créativité des parfumeurs, les contrôles qualité menés par des chimistes et une production automatisée entièrement traçable (ISO 9001). Il décrit la collaboration avec les clients à partir d'un briefing et de la base non parfumée, les exigences techniques des parfums pour lessives et l'importance du bien-être procuré. L'entreprise développe plus de 900 nouvelles compositions par an.",
       "quote": "",
       "themes": [
         "industrie"
@@ -1474,7 +1474,7 @@
     },
     {
       "slug": "luzi",
-      "name": "LUZI AG",
+      "name": "Luzi AG",
       "sector": "Compositions parfumées",
       "themes": [
         "industrie"

@@ -173,14 +173,14 @@
     },
     {
       "slug": "region-bernoise-wirtschaft-thun-oberland",
-      "title": "Verband WIRTSCHAFT THUN OBERLAND – « Im Raum Thun hat sich einer der bedeutendsten Industriecluster herausgebildet »",
+      "title": "Verband Wirtschaft Thun Oberland – « Im Raum Thun hat sich einer der bedeutendsten Industriecluster herausgebildet »",
       "subtitle": "Interview mit Reto Heiz, Präsident",
       "type": "interview",
       "page": "07",
       "pdfPages": [
         6
       ],
-      "summary": "Le président de WIRTSCHAFT THUN OBERLAND, née en 2017 de la fusion de la section de Thoune de l'association du commerce et de l'industrie et de l'association patronale régionale, décrit une région forte dans l'industrie autour de Thoune et dans le tourisme dans l'Oberland. L'emploi progresse depuis 2016 et 90 % des entreprises interrogées en 2018 attendaient des ventes stables ou en hausse. Il critique la fiscalité bernoise et la lenteur des procédures d'autorisation. L'association compte environ 350 membres. Il souligne enfin la qualité de vie de la région, entre ville, lac et montagnes.",
+      "summary": "Le président de Wirtschaft Thun Oberland, née en 2017 de la fusion de la section de Thoune de l'association du commerce et de l'industrie et de l'association patronale régionale, décrit une région forte dans l'industrie autour de Thoune et dans le tourisme dans l'Oberland. L'emploi progresse depuis 2016 et 90 % des entreprises interrogées en 2018 attendaient des ventes stables ou en hausse. Il critique la fiscalité bernoise et la lenteur des procédures d'autorisation. L'association compte environ 350 membres. Il souligne enfin la qualité de vie de la région, entre ville, lac et montagnes.",
       "quote": "",
       "themes": [
         "economie",
@@ -356,7 +356,7 @@
     {
       "slug": "region-bernoise-etameca",
       "title": "Précision et qualité",
-      "subtitle": "ETAMECA SA",
+      "subtitle": "Etameca SA",
       "type": "publireportage",
       "page": "14",
       "pdfPages": [
@@ -384,14 +384,14 @@
     },
     {
       "slug": "region-bernoise-harting",
-      "title": "« Der Standort Biel/Bienne ist sehr interessant für HARTING »",
+      "title": "« Der Standort Biel/Bienne ist sehr interessant für Harting »",
       "subtitle": "Interview mit Susanne Giehl, Geschäftsführerin",
       "type": "interview",
       "page": "15",
       "pdfPages": [
         10
       ],
-      "summary": "Filiale autonome du groupe technologique allemand HARTING d'Espelkamp, HARTING AG produit à Bienne des connecteurs et des composants 3D-MID (circuits injectés tridimensionnels) et réalise des traitements de surface galvaniques. Sa business unit HARTING Mitronics développe des solutions de miniaturisation pour l'automobile, la medtech, l'industrie et les capteurs. La directrice explique que Bienne offre, grâce à l'horlogerie, des compétences en mécanique fine, du personnel qualifié et des fournisseurs, tout en bénéficiant des ressources du groupe (R&D, outillage, laboratoires). Elle se présente comme un guichet unique pour les projets MID.",
+      "summary": "Filiale autonome du groupe technologique allemand Harting d'Espelkamp, Harting AG produit à Bienne des connecteurs et des composants 3D-MID (circuits injectés tridimensionnels) et réalise des traitements de surface galvaniques. Sa business unit Harting Mitronics développe des solutions de miniaturisation pour l'automobile, la medtech, l'industrie et les capteurs. La directrice explique que Bienne offre, grâce à l'horlogerie, des compétences en mécanique fine, du personnel qualifié et des fournisseurs, tout en bénéficiant des ressources du groupe (R&D, outillage, laboratoires). Elle se présente comme un guichet unique pour les projets MID.",
       "quote": "",
       "themes": [
         "industrie"
@@ -672,7 +672,7 @@
     },
     {
       "slug": "wirtschaft-thun-oberland",
-      "name": "Verband WIRTSCHAFT THUN OBERLAND",
+      "name": "Verband Wirtschaft Thun Oberland",
       "sector": "Association économique",
       "themes": [
         "economie"
@@ -895,12 +895,12 @@
     },
     {
       "slug": "harting",
-      "name": "HARTING AG",
+      "name": "Harting AG",
       "sector": "Connectique et composants 3D-MID",
       "themes": [
         "industrie"
       ],
-      "description": "Filiale biennoise du groupe technologique HARTING (Espelkamp) : production de connecteurs et de composants 3D-MID, traitements de surface galvaniques, business unit HARTING Mitronics. Elle bénéficie des ressources du groupe en recherche, outillage et laboratoires d'essai, et sert l'automobile, la medtech, l'industrie et la sensorique.",
+      "description": "Filiale biennoise du groupe technologique Harting (Espelkamp) : production de connecteurs et de composants 3D-MID, traitements de surface galvaniques, business unit Harting Mitronics. Elle bénéficie des ressources du groupe en recherche, outillage et laboratoires d'essai, et sert l'automobile, la medtech, l'industrie et la sensorique.",
       "address": "Leugenestrasse 10",
       "postalCode": "2504",
       "city": "Biel",
@@ -1015,7 +1015,7 @@
     },
     {
       "slug": "revisia",
-      "name": "REVISIA AG – Treuhandgesellschaft",
+      "name": "Revisia AG – Treuhandgesellschaft",
       "sector": "Fiduciaire et révision",
       "themes": [
         "economie"
@@ -1044,7 +1044,7 @@
     },
     {
       "slug": "aiguilla",
-      "name": "AIGUILLA SA",
+      "name": "Aiguilla SA",
       "sector": "Non précisé",
       "themes": [],
       "description": "Annonceur répertorié dans l'index en 2e de couverture ; la page correspondante ne contient pas de texte exploitable.",

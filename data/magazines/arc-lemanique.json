@@ -400,7 +400,7 @@
     },
     {
       "slug": "arc-lemanique-nstcm",
-      "title": "Chemin de fer Nyon - St-Cergue - Morez à un tournant de son histoire",
+      "title": "Chemin de fer Nyon-St-Cergue-Morez à un tournant de son histoire",
       "subtitle": "",
       "type": "publireportage",
       "page": "18",
@@ -713,7 +713,7 @@
     },
     {
       "slug": "arc-lemanique-mbc",
-      "title": "Transports de la région Morges Bière Cossonay – MBC : des échappées touristiques aux voyages sur mesure",
+      "title": "Transports de la région Morges-Bière-Cossonay – MBC : des échappées touristiques aux voyages sur mesure",
       "subtitle": "",
       "type": "publireportage",
       "page": "35",
@@ -957,7 +957,7 @@
     },
     {
       "slug": "nstcm",
-      "name": "NStCM – Chemin de fer Nyon - St-Cergue - Morez",
+      "name": "NStCM – Chemin de fer Nyon-St-Cergue-Morez",
       "sector": "Transport ferroviaire",
       "themes": [
         "mobilite"
@@ -1124,7 +1124,7 @@
       "themes": [
         "formation"
       ],
-      "description": "Organisation experte suisse de la formation professionnelle, présente à Zollikofen, Lausanne et Lugano. Elle forme enseignants et formateurs, délivre bachelor et master en formation professionnelle, mène des recherches et pilote l'Observatoire suisse de la formation professionnelle. Son siège principal est à Zollikofen ; il conduit le programme trans:formation consacré à la numérisation des écoles professionnelles.",
+      "description": "Organisation experte suisse de la formation professionnelle, présente à Zollikofen, Lausanne et Lugano. Elle forme enseignants et formateurs, délivre bachelor et master en formation professionnelle, mène des recherches et pilote l'Observatoire suisse de la formation professionnelle. Son siège principal est à Zollikofen ; elle conduit le programme trans:formation consacré à la numérisation des écoles professionnelles.",
       "address": "Case postale 192",
       "postalCode": "1000",
       "city": "Lausanne 16 Malley",
@@ -1313,7 +1313,7 @@
     },
     {
       "slug": "mbc",
-      "name": "Transports de la région Morges Bière Cossonay – MBC",
+      "name": "Transports de la région Morges-Bière-Cossonay – MBC",
       "sector": "Transports publics",
       "themes": [
         "mobilite",
