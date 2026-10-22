@@ -1,0 +1,3395 @@
+{
+  "slug": "arc-jurassien-2013",
+  "title": "Swiss Knowhow – Arc jurassien 2013",
+  "series": "Économie régionale",
+  "year": 2013,
+  "region": "Arc jurassien franco-suisse",
+  "languages": [
+    "fr",
+    "de",
+    "en"
+  ],
+  "description": "Numéro de juillet 2013 du magazine Swiss Knowhow consacré à l'Arc jurassien, région à cheval sur les cantons de Berne, Vaud, Neuchâtel et Jura et liée à la Franche-Comté par une communauté de destin. Il donne la parole aux acteurs institutionnels du développement régional et transfrontalier (arcjurassien.ch, RVAJ, CTJ, OSTAJ, Minnovarc, Parc du Doubs), à des conseillers d'Etat, maires et syndics de Berne, Bienne, La Chaux-de-Fonds, Yverdon-les-Bains, Sainte-Croix ou Pontarlier. La seconde partie réunit des publireportages bilingues d'entreprises de la région, de l'horlogerie et de la microtechnique à l'ingénierie, la construction, l'énergie et la santé. Edité par COM Consulting SA à La Chaux-de-Fonds.",
+  "themes": [
+    "collectivites",
+    "territoire",
+    "economie",
+    "industrie",
+    "horlogerie",
+    "formation",
+    "energie",
+    "construction",
+    "architecture",
+    "sante",
+    "mobilite"
+  ],
+  "files": [
+    {
+      "driveId": "1X_EQ6QZZ_egB__JjoUZMhS3WqMoV_bWT",
+      "name": "arc-jurassien-2013-reconstruction-IA-complete.pdf",
+      "sizeMB": 245,
+      "label": "Reconstruction IA complète"
+    }
+  ],
+  "pdfLocal": true,
+  "articles": [
+    {
+      "slug": "arc-jurassien-2013-interview-mireille-gasser",
+      "title": "arcjurassien.ch – Au centre du dialogue et des projets",
+      "subtitle": "Interview de Madame Mireille Gasser, secrétaire générale d'arcjurassien.ch",
+      "type": "interview",
+      "page": "04-05",
+      "imagePdf": "aj2013-arcjurassien-ch-mireille-gasser",
+      "pdfPages": [
+        1,
+        2
+      ],
+      "summary": "Créée en 2008 pour succéder à la CTJ-Suisse, l'association arcjurassien.ch réunit les cantons de Berne, Vaud, Neuchâtel et Jura. Sa secrétaire générale Mireille Gasser détaille ses missions : défendre l'Arc jurassien suisse aux niveaux fédéral, intercantonal et transfrontalier, coordonner les cantons au sein de la Conférence transjurassienne, mettre en œuvre le programme Interreg France-Suisse pour l'Arc jurassien et animer la concertation, tout en assurant le secrétariat du Réseau des villes de l'Arc jurassien. Elle explique le fonctionnement de la CTJ, coprésidée par le préfet de région, la présidente de la Franche-Comté et le président d'arcjurassien.ch, et cite les projets Minnovarc et covoiturage, dont elle est cheffe de file. Avec un budget d'environ 450 000 francs et trois collaborateurs, l'association constate qu'il manque encore une vision rassembleuse. Un encadré présente la campagne de covoiturage auprès de plus de 50 entreprises.",
+      "quote": "Il manque sans doute une véritable vision, un discours véritablement rassembleur.",
+      "themes": [
+        "collectivites",
+        "territoire",
+        "mobilite"
+      ],
+      "region": "Arc jurassien",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Mireille Gasser",
+          "role": "Secrétaire générale d'arcjurassien.ch"
+        }
+      ],
+      "companies": [
+        "arcjurassien-ch"
+      ]
+    },
+    {
+      "slug": "arc-jurassien-2013-interview-pierre-alain-rumley",
+      "title": "L'Arc jurassien, une vue de l'esprit ?",
+      "subtitle": "Pierre-Alain Rumley en toute franchise – Interview du professeur d'aménagement du territoire et d'urbanisme à l'Université de Neuchâtel",
+      "type": "interview",
+      "page": "06-07",
+      "imagePdf": "aj2013-pierre-alain-rumley-unine",
+      "pdfPages": [
+        1,
+        2
+      ],
+      "summary": "Ancien directeur de l'Office fédéral du développement territorial (ARE) de 2000 à 2008, ancien conseiller communal à Val-de-Travers et professeur à l'Université de Neuchâtel, Pierre-Alain Rumley décrit l'Arc jurassien comme un territoire de moyenne montagne de 22 000 km² morcelé par les frontières, réunissant la Franche-Comté et quatre cantons suisses. Il constate le peu de collaboration transfrontalière concrète hors travail frontalier et achats. Il explique le Projet de territoire Suisse, qui définit douze territoires de projet dont l'Arc jurassien, retenu sur l'hypothèse d'une solidarité jurassienne encore à vérifier : selon lui, le gros du travail reste à faire, le RVAJ et arcjurassien.ch ne menant que des actions ponctuelles. Il défend enfin l'idée d'un canton de l'Arc jurassien réunissant Neuchâtel, Jura et Jura bernois, gage d'économies et de poids politique.",
+      "quote": "Le gros du travail reste à faire.",
+      "themes": [
+        "territoire",
+        "formation",
+        "collectivites"
+      ],
+      "region": "Arc jurassien",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Pierre-Alain Rumley",
+          "role": "Professeur d'aménagement du territoire et d'urbanisme, Université de Neuchâtel"
+        }
+      ],
+      "companies": [
+        "universite-de-neuchatel"
+      ]
+    },
+    {
+      "slug": "arc-jurassien-2013-interview-pascal-broulis",
+      "title": "« Les différences sont moins importantes que les ressemblances »",
+      "subtitle": "Interview de Monsieur Pascal Broulis, président volontariste d'arcjurassien.ch",
+      "type": "interview",
+      "page": "08-09",
+      "imagePdf": "aj2013-pascal-broulis-arcjurassien",
+      "pdfPages": [
+        1,
+        2
+      ],
+      "summary": "Conseiller d'Etat vaudois chargé des finances et des relations extérieures depuis 2002 et président d'arcjurassien.ch depuis 2008, Pascal Broulis, originaire de Sainte-Croix, défend une coopération transfrontalière volontariste, l'Arc jurassien ne reposant pas sur des réalités territoriales aussi fortes que Genève ou Bâle. Il salue le saut qualitatif de la Conférence transjurassienne, qui soutient des projets structurants comme le Schéma des mobilités transfrontalières, l'étude de co-développement économique, Minnovarc ou le covoiturage. Il décrit une région à géométrie variable, reconnue comme l'un des douze territoires du Projet de territoire Suisse, et la politique d'ouverture du canton de Vaud. Parmi les défis : appliquer le schéma des mobilités, renforcer l'identité régionale par une marque « Arc jurassien », mettre en œuvre le programme de politique régionale et resserrer les liens avec la Franche-Comté et le Doubs, sous peine de marginalisation.",
+      "quote": "Les différences sont moins importantes que les ressemblances, les intérêts communs plus nombreux que les sujets qui fâchent.",
+      "themes": [
+        "collectivites",
+        "territoire",
+        "mobilite"
+      ],
+      "region": "Arc jurassien / Canton de Vaud",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Pascal Broulis",
+          "role": "Conseiller d'Etat vaudois, président d'arcjurassien.ch"
+        },
+        {
+          "name": "Norbert Zufferey",
+          "role": "Office des Affaires extérieures (contact)"
+        }
+      ],
+      "companies": [
+        "canton-de-vaud-affaires-exterieures",
+        "arcjurassien-ch"
+      ]
+    },
+    {
+      "slug": "arc-jurassien-2013-interview-thierry-grosjean",
+      "title": "Neuchâtel, au cœur de l'Arc jurassien – Trois axes de développement",
+      "subtitle": "Interview avec Monsieur Thierry Grosjean, chef du Département de l'économie canton de Neuchâtel",
+      "type": "interview",
+      "page": "10",
+      "imagePdf": "aj2013-thierry-grosjean-ne",
+      "pdfPages": [
+        1
+      ],
+      "summary": "Interrogé peu avant les élections cantonales, l'ex-conseiller d'Etat Thierry Grosjean explique que Neuchâtel, pôle urbain entièrement situé dans l'Arc jurassien, doit articuler son développement autour de trois axes : transfrontalier, Arc jurassien suisse et Suisse occidentale. Il décrit une économie fondée sur la précision (horlogerie, microtechnique, nanotechnologies, medtech), une main-d'œuvre très qualifiée et un tissu mêlant multinationales et sous-traitants innovants ; le canton concentre un tiers des emplois horlogers suisses. Il analyse l'« effet frontière », source de déséquilibres et d'opportunités, que la coopération franco-suisse s'efforce d'encadrer depuis 1985. Il présente le programme intercantonal Arc jurassien 2012-2015 de la politique régionale, doté de 3,2 millions de francs et confié à arcjurassien.ch. Se disant toujours eurosceptique, il défend la voie bilatérale tout en soutenant fortement les projets transfrontaliers.",
+      "quote": "Un tiers des emplois nationaux dans l'horlogerie sont concentrés dans le canton de Neuchâtel.",
+      "themes": [
+        "economie",
+        "collectivites",
+        "horlogerie"
+      ],
+      "region": "Canton de Neuchâtel",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Thierry Grosjean",
+          "role": "Ex-conseiller d'Etat, chef du Département de l'économie du canton de Neuchâtel"
+        }
+      ],
+      "companies": [
+        "departement-de-l-economie-neuchatel"
+      ]
+    },
+    {
+      "slug": "arc-jurassien-2013-interview-elisabeth-baume-schneider",
+      "title": "Le canton du Jura dans l'Arc jurassien – Une fenêtre ouverte sur Bâle",
+      "subtitle": "Interview de Madame Elisabeth Baume-Schneider, Ministre jurassienne de la Formation, de la Culture et des Sports",
+      "type": "interview",
+      "page": "11",
+      "imagePdf": "aj2013-elisabeth-baume-schneider-ju",
+      "pdfPages": [
+        1
+      ],
+      "summary": "Pour la ministre jurassienne Elisabeth Baume-Schneider, l'appartenance du Jura à l'Arc jurassien va de soi : elle ancre le canton en Suisse romande et passe par la HES-SO, la Haute Ecole Arc BEJUNE, la CIIP ou arcjurassien.ch. Cela n'empêche pas une ouverture volontariste vers Bâle, à 35 minutes de Delémont, pour améliorer la maîtrise de l'allemand et ouvrir aux jeunes un vaste bassin d'emplois et de formation. Elle cite la 11e année scolaire dans des écoles de Bâle-Campagne, menant par exemple à des apprentissages chez Novartis, le projet de lycée bilingue Laufon-Porrentruy, des cours d'allemand et une classe bilingue à Delémont. Les chiffres montrent toutefois que Neuchâtel, Lausanne ou la HES-SO restent bien plus attractifs que Bâle. Elle évoque enfin la valorisation des métiers techniques, notamment auprès des filles et des parents.",
+      "quote": "Les élèves ne sortiront jamais bilingues de l'école, soyons réalistes ! Mais il est important qu'ils disposent de compétences assez fortes.",
+      "themes": [
+        "collectivites",
+        "formation"
+      ],
+      "region": "Canton du Jura",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Elisabeth Baume-Schneider",
+          "role": "Ministre de la Formation, de la Culture et des Sports, canton du Jura"
+        }
+      ],
+      "companies": [
+        "republique-et-canton-du-jura-dfcs"
+      ]
+    },
+    {
+      "slug": "arc-jurassien-2013-interview-philippe-perrenoud",
+      "title": "Le canton de Berne, acteur à part entière – « Ce n'est pas la surface qui compte »",
+      "subtitle": "Interview avec Monsieur Philippe Perrenoud, conseiller d'Etat bernois francophone",
+      "type": "interview",
+      "page": "12",
+      "imagePdf": "aj2013-philippe-perrenoud-be",
+      "pdfPages": [
+        1
+      ],
+      "summary": "Psychiatre, ancien directeur de la clinique de Bellelay et conseiller d'Etat bernois francophone depuis 2006 à la tête de la santé publique et de la prévoyance sociale, Philippe Perrenoud présente Berne comme un pont entre les régions linguistiques, limitrophe de tous les cantons romands sauf Genève et actif dans arcjurassien.ch. Il souligne le poids du Jura bernois : 52 000 habitants, 2500 entreprises, quelque 23 000 emplois et 10 % des exportations cantonales. Il évoque le vote du 24 novembre sur l'avenir institutionnel interjurassien, que le gouvernement veut voir se dérouler sereinement. Ses priorités pour l'Arc jurassien : emplois d'avenir dans l'horlogerie, la microtechnique et l'efficience énergétique, citant les difficultés de Tornos, des conditions-cadres définies à l'échelle régionale, les transports et la formation. Il plaide enfin pour une mise en réseau des hôpitaux de l'Arc jurassien afin qu'ils ne deviennent pas des satellites des grands centres.",
+      "quote": "Ce n'est pas la surface du territoire qui est significative, mais le volume et l'intensité des échanges.",
+      "themes": [
+        "collectivites",
+        "sante",
+        "economie"
+      ],
+      "region": "Canton de Berne / Jura bernois",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Philippe Perrenoud",
+          "role": "Conseiller d'Etat bernois, directeur de la santé publique et de la prévoyance sociale"
+        }
+      ],
+      "companies": [
+        "canton-de-berne-affaires-jurassiennes"
+      ]
+    },
+    {
+      "slug": "arc-jurassien-2013-interview-laurent-kurth",
+      "title": "L'Arc jurassien, terre promise ?",
+      "subtitle": "Les convictions de Laurent Kurth – Interview avec Monsieur Laurent Kurth, conseiller d'Etat neuchâtelois",
+      "type": "interview",
+      "page": "14-15",
+      "imagePdf": "aj2013-laurent-kurth-ne",
+      "pdfPages": [
+        1,
+        2
+      ],
+      "summary": "Interrogé peu avant son entrée au Conseil d'Etat neuchâtelois, l'ancien conseiller communal chaux-de-fonnier Laurent Kurth, artisan de la place de la Gare, du quartier Le Corbusier et de l'inscription de la ville à l'UNESCO, a présidé le Réseau des villes de l'Arc jurassien de 2011 à 2012. Il y voit d'abord un lieu de concertation, avec des réussites en tourisme et en énergie, un projet de mise en réseau des cinémas associatifs et l'extension du vélo en libre-service Velospot. Il regrette un faible sentiment d'appartenance régional, entretenu par des gouvernements cantonaux installés hors des territoires jurassiens, et plaide pour une décentralisation administrative, voire un canton de l'Arc jurassien. Il explique la création à La Chaux-de-Fonds d'un service des relations régionales et extérieures, et présente l'Agglomération urbaine du Doubs avec Morteau, Villers-le-Lac et Le Locle, ainsi que l'essor d'échanges transfrontaliers dépassant l'emploi et les achats.",
+      "quote": "Nous ne ferons rien d'intelligent durablement, dans cette région, si nous ne stimulons pas le sentiment d'appartenance.",
+      "themes": [
+        "collectivites",
+        "territoire"
+      ],
+      "region": "La Chaux-de-Fonds / Arc jurassien",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Laurent Kurth",
+          "role": "Conseiller d'Etat neuchâtelois, chef des Finances et de la Santé"
+        },
+        {
+          "name": "Jean-Daniel Jeanneret",
+          "role": "Chef du Service des relations régionales et des affaires extérieures"
+        }
+      ],
+      "companies": [
+        "ville-de-la-chaux-de-fonds"
+      ]
+    },
+    {
+      "slug": "arc-jurassien-2013-interview-erich-fehr",
+      "title": "Bienne, prospère et dynamique – Au carrefour des langues et des régions",
+      "subtitle": "Interview de Monsieur Erich Fehr, maire de la ville de Bienne",
+      "type": "interview",
+      "page": "16",
+      "imagePdf": "aj2013-erich-fehr-ville-de-bienne",
+      "pdfPages": [
+        1
+      ],
+      "summary": "Maire de Bienne, ville bilingue (60 % d'Alémaniques, 40 % de Romands) et successeur de Laurent Kurth à la présidence du Réseau des villes de l'Arc jurassien, Erich Fehr décrit les identités multiples de sa cité : bernoise, lacustre et liée à l'Arc jurassien par l'horlogerie et la micromécanique, en position de neutralité active dans la Question jurassienne. Il souligne la prospérité économique de la ville avec la nouvelle manufacture Rolex, les projets Omega et Swatch, Sputnik Engineering et ses 300 emplois, ainsi que l'Ofcom, Orange et des centres d'appels. Bienne veut devenir « ville de la formation » grâce au futur campus technique de la Haute école spécialisée bernoise, complémentaire de la HE-Arc, à la HEP-BEJUNE, au SANU ou à l'Institut littéraire suisse. Un encadré présente Velospot, réseau de vélos en libre-service lancé en 2012 et appelé à s'étendre aux villes du RVAJ.",
+      "quote": "Bienne est économiquement plus proche de l'Arc jurassien que du canton de Berne.",
+      "themes": [
+        "collectivites",
+        "economie",
+        "formation",
+        "mobilite"
+      ],
+      "region": "Bienne",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Erich Fehr",
+          "role": "Maire de la ville de Bienne, président du RVAJ"
+        }
+      ],
+      "companies": [
+        "ville-de-bienne"
+      ]
+    },
+    {
+      "slug": "arc-jurassien-2013-interview-franklin-thevenaz",
+      "title": "« Viendra un jour où la frontière n'existera plus dans nos têtes »",
+      "subtitle": "Commune de Sainte-Croix – Interview avec Monsieur Franklin Thévenaz, Syndic de Sainte-Croix",
+      "type": "interview",
+      "page": "17",
+      "imagePdf": "aj2013-franklin-thevenaz-sainte-croix",
+      "pdfPages": [
+        1
+      ],
+      "summary": "Sainte-Croix, ville industrielle et touristique de 4700 habitants située à 1000 mètres d'altitude entre Yverdon-les-Bains, Pontarlier et Fleurier, se présente comme l'une des rares villes suisses vivant au cœur de l'Arc jurassien. Son syndic depuis 2011, l'économiste Franklin Thévenaz, passé par l'humanitaire, détaille le maillage de collaborations de la commune : voisins suisses et français, associations régionales, Réseau des villes de l'Arc jurassien, Conférence transjurassienne, aire de proximité Chasseron/Mont d'Or, ainsi que contacts réguliers avec les élus et administrations à Lausanne et Berne. Il souligne les liens étroits avec Val-de-Travers (route, santé, mobilité, culture) et Yverdon-les-Bains (train, scolarité, économie). Jugeant le RVAJ utile pour mutualiser expériences et réseaux, il se dit très optimiste quant au potentiel d'une région encore en construction.",
+      "quote": "Viendra un jour où la frontière n'existera plus dans nos têtes.",
+      "themes": [
+        "collectivites",
+        "territoire"
+      ],
+      "region": "Sainte-Croix (VD)",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Franklin Thévenaz",
+          "role": "Syndic de Sainte-Croix"
+        },
+        {
+          "name": "Michel Staffoni",
+          "role": "Secrétaire municipal"
+        }
+      ],
+      "companies": [
+        "commune-de-sainte-croix"
+      ]
+    },
+    {
+      "slug": "arc-jurassien-2013-interview-pierre-brulhart",
+      "title": "Vers une société à 2000 watts – Un projet des villes pour l'Arc jurassien",
+      "subtitle": "Interview de Monsieur Pierre Brulhart, conseiller communal à Delémont (directeur du Département de l'énergie et des eaux)",
+      "type": "interview",
+      "page": "18",
+      "imagePdf": "aj2013-pierre-brulhart-delemont-rvaj",
+      "pdfPages": [
+        1
+      ],
+      "summary": "Fondé en 1993, le Réseau des villes de l'Arc jurassien (RVAJ) regroupe dix-huit communes de quatre cantons. Pierre Brulhart, conseiller communal delémontain qui pilote la commission politique du projet Energie, explique la démarche « Vers une société à 2000 watts » à l'horizon 2050, menée par onze communes partenaires, de Bienne à Porrentruy en passant par La Chaux-de-Fonds ou Sainte-Croix. Les villes partagent des règles communes pour gérer leurs bâtiments, gros consommateurs d'énergie : 80 % des bâtiments communaux ont déjà reçu une étiquette énergétique, et un outil développé à Neuchâtel aide à prioriser les assainissements. Le réseau sensibilise aussi les propriétaires privés par des conférences « Je rénove mon bâtiment » et l'exposition itinérante « Mission possible », adaptée d'une création zurichoise et proposée avec l'Association Ecoparc. Prochaine étape : lier urbanisme et énergie.",
+      "quote": "C'est un objectif à long terme. […] L'essentiel, c'est d'y aller !",
+      "themes": [
+        "energie",
+        "collectivites"
+      ],
+      "region": "Arc jurassien / Delémont",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Pierre Brulhart",
+          "role": "Conseiller communal à Delémont, directeur du Département de l'énergie et des eaux"
+        }
+      ],
+      "companies": [
+        "services-industriels-de-delemont",
+        "reseau-des-villes-de-l-arc-jurassien",
+        "association-ecoparc"
+      ]
+    },
+    {
+      "slug": "arc-jurassien-2013-interview-patrick-genre",
+      "title": "Les communes, moteur de la coopération transfrontalière",
+      "subtitle": "Interview de M. Patrick Genre, Maire de Pontarlier",
+      "type": "interview",
+      "page": "19",
+      "imagePdf": "aj2013-patrick-genre-pontarlier",
+      "pdfPages": [
+        1
+      ],
+      "summary": "Maire de Pontarlier et coprésident de l'aire de proximité Mont d'Or-Chasseron, Patrick Genre estime que les élus locaux sont la locomotive du rapprochement transfrontalier, car c'est autour des collectivités que se fédèrent acteurs économiques, culturels et associatifs. Il présente cette aire, l'une des rares actives dans le cadre de la CTJ, qui relie le Pays du Haut-Doubs (six communautés de communes, 85 000 habitants) à la région d'Yverdon-les-Bains : réunions thématiques, groupes de travail et lancement d'un covoiturage transfrontalier. Il dresse un bilan nuancé du phénomène frontalier, source de richesse mais aussi de tensions foncières, de pénurie de main-d'œuvre qualifiée et de bouchons. Il mentionne la coopération avec Val-de-Travers et la relance de la charte d'amitié avec Yverdon, et prône la consolidation de l'existant plutôt que de nouveaux projets.",
+      "quote": "Les collectivités sont donc la locomotive de ce rapprochement transfrontalier.",
+      "themes": [
+        "collectivites",
+        "territoire"
+      ],
+      "region": "Pontarlier / Haut-Doubs",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Patrick Genre",
+          "role": "Maire de Pontarlier, président de la Communauté de communes du Larmont"
+        }
+      ],
+      "companies": [
+        "mairie-de-pontarlier"
+      ]
+    },
+    {
+      "slug": "arc-jurassien-2013-interview-pierre-rossel",
+      "title": "Minnovarc en quête d'innovation – Des microtechniques pour demain",
+      "subtitle": "Interview avec Monsieur Pierre Rossel, chef de projet de Minnovarc – Innovation franco-suisse dans les microtechniques",
+      "type": "interview",
+      "page": "20",
+      "imagePdf": "aj2013-pierre-rossel-minnovarc",
+      "pdfPages": [
+        1
+      ],
+      "summary": "Maître d'enseignement et de recherche en prospective technologique à l'EPFL, Pierre Rossel est chef de projet de Minnovarc, projet Interreg 2009-2013 porté par la CCI territoriale du Doubs et arcjurassien.ch avec six autres partenaires. L'objectif : renforcer l'innovation des entreprises microtechniques de l'Arc jurassien pour réduire leur dépendance à l'horlogerie, en ouvrant des pistes de diversification vers la medtech, les greentech, les transports et la sécurité. Minnovarc s'appuie sur un think tank et des ateliers « Microtechniques & Innovation » réunissant quelque 35 entreprises et laboratoires, qui ont fait émerger une cinquantaine de pistes dont cinq projets avancés, par exemple en assistance aux personnes âgées ou en réalité augmentée. Pierre Rossel plaide pour une alliance transfrontalière pragmatique, sans mythe de « communauté de destin », face au risque de satellisation par les grands pôles, et évoque l'avenir du projet après 2013.",
+      "quote": "Il ne faut pas se laisser aveugler par son succès et trouver d'autres marchés pour les microtechniques.",
+      "themes": [
+        "formation",
+        "industrie",
+        "horlogerie"
+      ],
+      "region": "Arc jurassien franco-suisse",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Pierre Rossel",
+          "role": "Chef de projet de Minnovarc"
+        },
+        {
+          "name": "Alexandre Gabus",
+          "role": "Minnovarc Suisse"
+        },
+        {
+          "name": "Cécile Mascaro",
+          "role": "Minnovarc France"
+        }
+      ],
+      "companies": [
+        "minnovarc",
+        "cci-du-doubs",
+        "arcjurassien-ch"
+      ]
+    },
+    {
+      "slug": "arc-jurassien-2013-interview-gerard-geiser",
+      "title": "Dans le miroir des statistiques – Un observatoire transfrontalier",
+      "subtitle": "Interview de Monsieur Gérard Geiser, chef du Service de statistique du canton de Neuchâtel, qui coordonne les activités de l'OSTAJ du côté suisse",
+      "type": "interview",
+      "page": "22-23",
+      "imagePdf": "aj2013-gerard-geiser-ostaj",
+      "pdfPages": [
+        1,
+        2
+      ],
+      "summary": "Créé en 2005, l'Observatoire statistique transfrontalier de l'Arc jurassien (OSTAJ) réunit la Région Franche-Comté, l'Etat et l'INSEE côté français, arcjurassien.ch et les services statistiques de Neuchâtel, Jura, Berne et Vaud côté suisse. Gérard Geiser, qui le coordonne pour la Suisse, y voit un véritable outil supranational tendant un miroir à la région, malgré des nomenclatures différentes, financé seul par les partenaires depuis la fin des fonds Interreg en 2012. Les données montrent une crise de 2008-2009 durement ressentie, suivie d'une forte reprise de l'emploi côté suisse ; 28 500 des 30 500 emplois horlogers de l'Arc jurassien sont en Suisse ; un frontalier gagne 46 % de plus qu'en Franche-Comté ; la population croît de 0,6 % par an. L'OSTAJ prévoit des fiches thématiques, des diagnostics locaux et des études sur la formation. Une carte des autorisations frontalières illustre l'article.",
+      "quote": "Le cliché d'une région qui se dépeuple est démenti par les chiffres.",
+      "themes": [
+        "economie",
+        "territoire",
+        "collectivites"
+      ],
+      "region": "Arc jurassien franco-suisse",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Gérard Geiser",
+          "role": "Chef du Service de statistique du canton de Neuchâtel"
+        }
+      ],
+      "companies": [
+        "ostaj"
+      ]
+    },
+    {
+      "slug": "arc-jurassien-2013-interview-anne-girardet",
+      "title": "Un parc transfrontalier pour une communauté de destin",
+      "subtitle": "Interview de Mme Anne Girardet, Chargée de mission transfrontalière pour le Pays Horloger et le Parc naturel régional du Doubs",
+      "type": "interview",
+      "page": "24-25",
+      "imagePdf": "aj2013-anne-girardet-parc-du-doubs",
+      "pdfPages": [
+        1,
+        2
+      ],
+      "summary": "Chargée de mission transfrontalière depuis mai 2011, employée par le Pays Horloger mais travaillant aussi pour l'association du Parc naturel régional du Doubs (APNRD), Anne Girardet présente le projet de parc transfrontalier du Doubs : 16 communes suisses de trois cantons et 91 communes françaises du Pays Horloger, soit 110 000 habitants sur 1273 km², unies pour préserver et valoriser la vallée du Doubs. Côté suisse, le parc est labellisé parc d'importance nationale depuis le 1er janvier 2013 ; côté français, la candidature prendra encore plusieurs années. Née en 1999, l'APNRD met en œuvre quinze projets, dont quatre centres d'interprétation (Doubs, cheval, énergies renouvelables, produits du terroir). Une analyse socio-économique commandée à l'OSTAJ révèle l'attraction du pôle Le Locle-La Chaux-de-Fonds sur les frontaliers, avec pression foncière et engorgement du trafic, d'où l'urgence d'une politique concertée.",
+      "quote": "Je suis donc bien placée pour faire comprendre aux acteurs locaux qu'ils ont affaire à un même bassin de vie.",
+      "themes": [
+        "territoire",
+        "energie",
+        "collectivites"
+      ],
+      "region": "Vallée du Doubs (JU, NE, BE / Pays Horloger)",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Anne Girardet",
+          "role": "Chargée de mission transfrontalière"
+        }
+      ],
+      "companies": [
+        "parc-naturel-regional-du-doubs",
+        "pays-horloger"
+      ]
+    },
+    {
+      "slug": "arc-jurassien-2013-interview-andreas-gross",
+      "title": "Atelier für Direkte Demokratie St Ursanne – \"Der Jura – eine geniale Region!\"",
+      "subtitle": "Interview mit Andreas Gross, Leiter des Ateliers für Direkte Demokratie / « Le Jura : une région qui a du génie ! »",
+      "type": "interview",
+      "page": "26-29",
+      "pdfPages": [],
+      "summary": "Conseiller national socialiste zurichois, membre du Conseil de l'Europe et politologue, Andreas Gross raconte comment, élevé entre le Japon et la région bâloise, il s'est installé il y a quinze ans à Saint-Ursanne, au centre de ses lieux d'activité politique et où les locaux restent abordables. Il décrit la diversité des paysages jurassiens et surtout leur « génie industriel rural », un savoir-faire bâti en deux siècles et porteur d'une conscience politique libertaire et solidaire, unique en Europe. Il présente l'Atelier pour la démocratie directe, installé depuis 1998 à Saint-Ursanne : une vaste bibliothèque sur la démocratie directe, l'utopie et l'Europe, et les Editions le Doubs, qui publient sans subvention en allemand et en français. Il évoque un projet avec arcjurassien.ch pour valoriser cette culture industrielle et juge peut-être prématuré le vote de novembre sur la Question jurassienne. Interview en allemand et en français.",
+      "quote": "Für viele Deutschschweizer ist die gefühlte Distanz zum Jura grösser als die real geografische.",
+      "themes": [
+        "territoire",
+        "collectivites"
+      ],
+      "region": "Saint-Ursanne (JU)",
+      "language": "de",
+      "people": [
+        {
+          "name": "Andreas Gross",
+          "role": "Leiter des Ateliers für Direkte Demokratie, Nationalrat, Europaparlamentarier"
+        }
+      ],
+      "companies": [
+        "atelier-pour-la-democratie-directe"
+      ]
+    },
+    {
+      "slug": "arc-jurassien-2013-interview-philippe-gnaegi",
+      "title": "Neuchâtel, un pôle de formation – Mieux orienter les jeunes",
+      "subtitle": "Interview avec Monsieur Philippe Gnaegi, directeur du Département de l'Éducation, de la Culture et des Sports (DECS)",
+      "type": "interview",
+      "page": "30",
+      "imagePdf": "aj2013-philippe-gnaegi-ne",
+      "pdfPages": [
+        1
+      ],
+      "summary": "Conseiller d'Etat neuchâtelois de 2009 à 2013, interrogé peu avant sa non-réélection, Philippe Gnaegi défend une vision de la formation à l'échelle de l'Arc jurassien, portée par la HE-Arc, la HEP-BEJUNE, une offre coordonnée d'écoles supérieures (dont des formations uniques en restauration et design horlogers) et des classes intercantonales pour les métiers à petits effectifs. Il cite la refonte des filières d'ingénierie de la HE-Arc, le nouveau Bachelor en Business Law de la HEG et une Université de Neuchâtel appelée à devenir celle de l'Arc jurassien. Côté transfrontalier, il évoque la formation d'opérateur en horlogerie avec le Greta du Haut-Doubs et le CIFOM, ainsi qu'un projet Interreg. Constatant que plus de la moitié des chômeurs de longue durée n'ont pas de diplôme du secondaire II, il veut porter le taux de certification de 89 à 95 % et valoriser l'apprentissage.",
+      "quote": "Plus les gens sont formés, plus ils s'intègrent dans le marché du travail.",
+      "themes": [
+        "formation",
+        "collectivites"
+      ],
+      "region": "Canton de Neuchâtel",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Philippe Gnaegi",
+          "role": "Conseiller d'Etat, directeur du DECS (jusqu'en 2013)"
+        }
+      ],
+      "companies": [
+        "republique-et-canton-de-neuchatel-decs"
+      ]
+    },
+    {
+      "slug": "arc-jurassien-2013-interview-denis-grisel",
+      "title": "Standortförderung Kanton Bern",
+      "subtitle": "Interview mit Denis Grisel, Leiter der Standortförderung des Kantons Bern (SF BE)",
+      "type": "interview",
+      "page": "32-33",
+      "imagePdf": "aj2013-denis-grisel-standortfoerderung-be",
+      "pdfPages": [
+        1,
+        2
+      ],
+      "summary": "Denis Grisel, chef de la promotion économique du canton de Berne, détaille les prestations offertes aux entreprises nouvelles, existantes ou en cours d'implantation : conseil, mise en relation, cautionnements, recherche de locaux et de terrains industriels, aides financières, allègements fiscaux et bonus pour une première participation à un salon à l'étranger. Il rappelle que Berne, avec quelque 35 000 PME et 133 300 emplois industriels, est le premier canton industriel de Suisse. Le Jura bernois et le Seeland se distinguent par la mécanique de précision et l'horlogerie, la région Bienne-Seeland générant 34 % des exportations cantonales. Le savoir-faire horloger irrigue aussi la medtech, les TIC et les technologies environnementales. Il évoque le transfert de technologie avec l'Université et la Haute école spécialisée bernoises, innoBE, les clusters cantonaux et le réseau Greater Geneva Berne area.",
+      "quote": "Die Region Biel-Seeland ist die exportstärkste Region im Kanton.",
+      "themes": [
+        "economie",
+        "industrie",
+        "horlogerie"
+      ],
+      "region": "Canton de Berne",
+      "language": "de",
+      "people": [
+        {
+          "name": "Denis Grisel",
+          "role": "Leiter der Standortförderung des Kantons Bern"
+        }
+      ],
+      "companies": [
+        "standortfoerderung-kanton-bern"
+      ]
+    },
+    {
+      "slug": "arc-jurassien-2013-interview-alain-barbal",
+      "title": "La promotion économique neuchâteloise – L'Arc jurassien en tant que creuset d'innovation",
+      "subtitle": "Interview de Monsieur Alain Barbal, directeur de la promotion économique du canton de Neuchâtel (DEN Sàrl)",
+      "type": "interview",
+      "page": "34",
+      "imagePdf": "aj2013-alain-barbal-den-neuchatel",
+      "pdfPages": [
+        1
+      ],
+      "summary": "Ingénieur-mécanicien originaire du Sud-Ouest de la France, installé dans le canton depuis 1986 et à la tête de l'Office de promotion économique de Neuchâtel (OPEN) depuis 2008, Alain Barbal compare la reconstruction du tissu économique après la crise horlogère des années 1970 à un reboisement réussi. La promotion économique est passée d'une stratégie de repeuplement par des entreprises exogènes à la préservation et l'enrichissement de la diversité, en faisant connaître à l'étranger les savoir-faire du canton en horlogerie, machines, électronique, dispositifs médicaux et agroalimentaire. Il tire un bilan encourageant du réseau Greater Geneva Berne area, où la concurrence entre cantons reste saine, et juge qu'une promotion économique intercantonale et transfrontalière de l'Arc jurassien aurait tout son sens. Il salue enfin le projet franco-suisse Minnovarc, tout en soulignant les obstacles liés au morcellement politique.",
+      "quote": "Nous sommes donc plus près du jeu de Go, dont l'objectif est de conquérir des territoires, que du jeu d'échecs.",
+      "themes": [
+        "economie",
+        "collectivites",
+        "horlogerie"
+      ],
+      "region": "Canton de Neuchâtel",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Alain Barbal",
+          "role": "Directeur de la promotion économique du canton de Neuchâtel"
+        }
+      ],
+      "companies": [
+        "office-de-promotion-economique-neuchatel"
+      ]
+    },
+    {
+      "slug": "arc-jurassien-2013-interview-alexander-tschaeppaet",
+      "title": "Stadt Bern – \"Politik ist die Kunst, zur richtigen Zeit die richtigen Rahmenbedingungen zu setzen\"",
+      "subtitle": "Interview mit Alexander Tschäppät, Stadtpräsident von Bern / « La politique est l'art de réunir les bonnes conditions au moment idoine »",
+      "type": "interview",
+      "page": "36-39",
+      "pdfPages": [],
+      "summary": "Réélu à l'automne 2012 pour un troisième mandat, le maire socialiste de Berne Alexander Tschäppät dresse le bilan d'une ville qui a gagné environ 8000 habitants pour atteindre 135 000 et qui compte davantage d'emplois (154 000) que d'habitants, un cas unique parmi les grandes villes suisses. D'ici 2016, il veut investir dans la qualité de vie (extension du tram vers Köniz et Ostermundigen, rénovation du théâtre municipal, nouvelle piscine), poursuivre la construction de logements abordables pour viser 140 000 habitants en 2020 (Brünnen, Saali, Viererfeld) et développer les pôles du Wankdorf, d'Ausserholligen et de l'Hôpital de l'Ile. Il déplore que le Grand Conseil freine régulièrement la ville, réclame un second axe de tram au centre, évoque la culture, la gestion de la vieille ville classée à l'UNESCO et l'objectif de 35 % de femmes dans les cadres municipaux. Interview en allemand et en français.",
+      "quote": "Politik ist die Kunst, zur richtigen Zeit die richtigen Rahmenbedingungen zu setzen.",
+      "themes": [
+        "collectivites",
+        "territoire",
+        "mobilite"
+      ],
+      "region": "Ville de Berne",
+      "language": "de",
+      "people": [
+        {
+          "name": "Alexander Tschäppät",
+          "role": "Stadtpräsident von Bern"
+        }
+      ],
+      "companies": [
+        "stadt-bern-praesidialdirektion"
+      ]
+    },
+    {
+      "slug": "arc-jurassien-2013-interview-hans-peter-wyss",
+      "title": "Tiefbauamt der Stadt Bern – \"Wir bewirtschaften den öffentlichen Raum\"",
+      "subtitle": "Interview mit Hans-Peter Wyss, Stadtingenieur Bern / Office des ponts et chaussées de la ville de Berne – « Nous gérons l'espace public »",
+      "type": "interview",
+      "page": "40-41",
+      "imagePdf": "aj2013-hans-peter-wyss-tiefbauamt-bern",
+      "pdfPages": [
+        1,
+        2
+      ],
+      "summary": "L'ingénieur municipal Hans-Peter Wyss dirige l'office des ponts et chaussées de la ville de Berne, fort d'environ 350 collaborateurs, chargé de construire, exploiter et entretenir l'infrastructure de base : nettoyage et déneigement de 320 km de rues et 650 km de trottoirs, 120 carrefours à feux, 11 000 emplacements de signalisation et quelque 300 km de canalisations. Il présente l'assainissement complet de la Marktgasse, avec remplacement des voies de tram et repavage lors d'une phase intensive d'avril à septembre 2013, le crédit d'étude voté en mars 2013 pour protéger les quartiers riverains de l'Aar contre les crues (murs, parois étanches, drainages, pompes) et le projet Tram Région Berne, qui convertira la ligne de bus 10 en tram et prolongera la ligne 9 jusqu'à Kleinwabern, avec un début des travaux visé fin 2014 ou début 2015. Interview en allemand et en français.",
+      "quote": "Wir bewirtschaften den öffentlichen Raum.",
+      "themes": [
+        "construction",
+        "mobilite",
+        "collectivites"
+      ],
+      "region": "Ville de Berne",
+      "language": "de",
+      "people": [
+        {
+          "name": "Hans-Peter Wyss",
+          "role": "Stadtingenieur Bern"
+        }
+      ],
+      "companies": [
+        "tiefbauamt-stadt-bern"
+      ]
+    },
+    {
+      "slug": "arc-jurassien-2013-interview-martin-baumann",
+      "title": "Stadt Bern – Interview mit Martin Baumann, Stadtbauinspektor der Stadt Bern",
+      "subtitle": "Bauinspektorat: Baubewilligungen, Baupolizei und Wohnraumschutz",
+      "type": "interview",
+      "page": "42",
+      "imagePdf": "aj2013-martin-baumann-stadtbauinspektor-bern",
+      "pdfPages": [
+        1
+      ],
+      "summary": "Inspecteur des constructions de la ville de Berne, Martin Baumann explique le rôle de son service : conduire la procédure cantonale de permis de construire, faire office de police des constructions et de service de protection incendie, et rétablir l'état légal en cas d'infraction. Il conseille aux maîtres d'ouvrage de prendre contact tôt pour les grands projets et propose une demande préalable écrite pour les dossiers complexes, afin d'éviter retards et surcoûts. Il rappelle que l'obligation de permis relève du droit cantonal et cite des pièges fréquents, comme les capteurs solaires non conformes aux directives ou le changement de chauffage du mazout au gaz. Depuis 2009, le contrôle repose sur l'autodéclaration, la ville se concentrant sur la sécurité des personnes, le feu et les nuisances. Face à un taux de logements vacants inférieur à 0,5 %, il détaille la protection du logement et les nouveaux quartiers prévus.",
+      "quote": "Bei grösseren Bauvorhaben empfiehlt es sich, rechtzeitig mit uns Kontakt aufzunehmen.",
+      "themes": [
+        "construction",
+        "architecture",
+        "collectivites"
+      ],
+      "region": "Ville de Berne",
+      "language": "de",
+      "people": [
+        {
+          "name": "Martin Baumann",
+          "role": "Stadtbauinspektor der Stadt Bern"
+        }
+      ],
+      "companies": [
+        "bauinspektorat-stadt-bern"
+      ]
+    },
+    {
+      "slug": "arc-jurassien-2013-interview-daniel-von-siebenthal",
+      "title": "Des problématiques et des ambitions communes",
+      "subtitle": "Interview de M. Daniel von Siebenthal, Syndic d'Yverdon-les-Bains",
+      "type": "interview",
+      "page": "43",
+      "imagePdf": "aj2013-daniel-von-siebenthal-yverdon",
+      "pdfPages": [
+        1
+      ],
+      "summary": "Le syndic Daniel von Siebenthal situe Yverdon-les-Bains en marge sud de l'Arc jurassien, mais aussi comme tête de pont vers le reste du canton de Vaud. Membre de la Conférence transjurassienne, la ville a resserré ses liens avec les autres villes de l'Arc jurassien grâce à Expo.02, avec des projets culturels, touristiques et historiques reposant beaucoup sur les relations personnelles. La dimension transfrontalière s'est affirmée en 2003 avec la charte d'amitié signée avec Pontarlier, que les deux villes veulent relancer pour son dixième anniversaire. Il juge le tourisme le domaine le plus facile pour coopérer, cite les échanges de bonnes pratiques énergétiques du Réseau des villes de l'Arc jurassien, le passeport cinéma et le projet sur les lieux de mémoire, et plaide pour des coproductions culturelles durables.",
+      "quote": "Finalement c'est grâce à Expo.02 que les liens entre les différentes villes de l'Arc jurassien se sont resserrés.",
+      "themes": [
+        "collectivites",
+        "territoire"
+      ],
+      "region": "Yverdon-les-Bains",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Daniel von Siebenthal",
+          "role": "Syndic d'Yverdon-les-Bains"
+        }
+      ],
+      "companies": [
+        "ville-d-yverdon-les-bains"
+      ]
+    },
+    {
+      "slug": "arc-jurassien-2013-interview-hans-juerg-gerber",
+      "title": "WIRTSCHAFTSRAUM BERN – \"Beispielhaftes Zusammenwirken von Stadt und Land\"",
+      "subtitle": "Interview mit Hans-Jürg Gerber, Leiter WIRTSCHAFTSRAUM BERN / « Une synergie exemplaire entre ruralité et urbanité »",
+      "type": "interview",
+      "page": "44-47",
+      "pdfPages": [],
+      "summary": "Directeur depuis mars 2011 du WIRTSCHAFTSRAUM BERN, centre de compétence pour la promotion économique de la région de Berne qui réunit 36 communes, Hans-Jürg Gerber présente ses services aux PME et grandes entreprises : recherche de sites, événements de réseautage, conseil et base de données des terrains et locaux disponibles. Avec la promotion économique cantonale, la région a accueilli notamment Walgreens, Boots, Longchamp et le Swiss Energy and Climate Summit. Il vante une région capitale proche du pouvoir politique, à la qualité de vie reconnue et aux infrastructures de transport denses, liste les sites prioritaires (Ausserholligen, Wankdorf, Gümligenfeld, Worbboden…) et les clusters consulting, ICT, medtech et cleantech, la ville étant labellisée Energiestadt Gold. Il expose la Stratégie 2020 adoptée en 2012. Interview en allemand, suivie de sa version française (dont la fin figure en page 47).",
+      "quote": "Nur, wenn wir vom \"Gärtlidenken\" wegkommen, können wir im immer härter werdenden Markt erfolgreich auftreten.",
+      "themes": [
+        "economie",
+        "collectivites",
+        "energie"
+      ],
+      "region": "Région de Berne",
+      "language": "de",
+      "people": [
+        {
+          "name": "Hans-Jürg Gerber",
+          "role": "Leiter WIRTSCHAFTSRAUM BERN"
+        }
+      ],
+      "companies": [
+        "wirtschaftsraum-bern"
+      ]
+    },
+    {
+      "slug": "arc-jurassien-2013-interview-thomas-gfeller",
+      "title": "Stadt Biel",
+      "subtitle": "Interview mit Thomas Gfeller, Delegierter für Wirtschaft Stadt Biel",
+      "type": "interview",
+      "page": "48-49",
+      "pdfPages": [],
+      "summary": "Délégué à l'économie de la Ville de Bienne, Thomas Gfeller présente la métropole mondiale de l'horlogerie, siège de Swatch, Omega, Rolex ou Movado. Les entreprises y trouvent une main-d'œuvre très qualifiée héritière du savoir-faire de précision du Pied du Jura, un réseau dense de sociétés high-tech et d'écoles, ainsi que le bilinguisme et l'ouverture internationale. Outre l'horlogerie, la ville attire sous-traitants de la medtech et de l'automobile et entreprises de services et de communication. Il détaille les pôles de développement : zone industrielle du Bözingenfeld (nouveaux bâtiments de Sputnik Engineering et de la manufacture Rolex), secteur Masterplan-Gare avec le futur Campus Technique, Esplanade, Gurzelen avec les nouveaux sièges d'Omega et Swatch, et la vision AGGLOlac au bord du lac. Le principal outil de promotion reste le terrain à bâtir communal, complété par des prêts, face à une image publique souvent négative.",
+      "quote": "Informieren, informieren, informieren – und zwar intern und extern.",
+      "themes": [
+        "economie",
+        "collectivites",
+        "horlogerie"
+      ],
+      "region": "Bienne",
+      "language": "de",
+      "people": [
+        {
+          "name": "Thomas Gfeller",
+          "role": "Delegierter für Wirtschaft Stadt Biel"
+        }
+      ],
+      "companies": [
+        "stadt-biel-stadtmarketing"
+      ]
+    },
+    {
+      "slug": "arc-jurassien-2013-interview-etienne-roy",
+      "title": "La coopération transfrontalière, une évidence",
+      "subtitle": "Interview de M. Etienne Roy, Préfet du Jura-Nord vaudois",
+      "type": "interview",
+      "page": "50",
+      "imagePdf": "aj2013-etienne-roy-prefet-jnv",
+      "pdfPages": [
+        1
+      ],
+      "summary": "De retour dans le Jura-Nord vaudois après cinq ans à la tête du district de l'Ouest lausannois, le préfet Etienne Roy reconnaît ne pas être un spécialiste du transfrontalier, mais juge cette coopération vitale pour les deux pays. Il plaide pour une collaboration globale qui dépasse l'économie : transports publics et covoiturage pour les frontaliers, culture, tourisme et sport, citant en exemple un magazine nordique français qui ignore la frontière. Il évoque la possible transposition dans son district du passeport-vacances de découverte des métiers expérimenté dans l'Ouest lausannois, à condition d'une volonté intercommunale et d'un financement. Ses autres chantiers : le plan directeur régional et le dossier sensible des fusions de communes, pour lequel l'expérience française de l'intercommunalité, relayée par la CTJ, pourrait être précieuse.",
+      "quote": "Elle est absolument évidente et vitale pour les deux côtés. Les gens doivent se rencontrer, partager.",
+      "themes": [
+        "collectivites",
+        "territoire"
+      ],
+      "region": "Jura-Nord vaudois",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Etienne Roy",
+          "role": "Préfet du Jura-Nord vaudois"
+        }
+      ],
+      "companies": [
+        "district-du-jura-nord-vaudois"
+      ]
+    },
+    {
+      "slug": "arc-jurassien-2013-interview-esther-thahabi",
+      "title": "Wirtschaftskammer Biel-Seeland (WIBS) – \"Vernetzen. Beleben. Unterstützen. In Biel und im Seeland.\"",
+      "subtitle": "Interview mit Esther Thahabi, Geschäftsführerin WIBS",
+      "type": "interview",
+      "page": "52-53",
+      "imagePdf": "aj2013-esther-thahabi-wibs",
+      "pdfPages": [
+        1,
+        2
+      ],
+      "summary": "Directrice de la Chambre économique Bienne-Seeland (WIBS), qui fédère plus de 900 membres – entreprises, syndicats, communes, écoles, organisations à but non lucratif et membres VIP –, Esther Thahabi présente la stratégie 2011-2014. Contre la pénurie de main-d'œuvre qualifiée, le projet Fokus Technik fait découvrir aux jeunes et aux enseignants les métiers techniques lors d'ateliers, suivis de stages d'observation en entreprise ; le pilote de 2012 a été un succès et sera étendu. Le projet work&home aide les employeurs à concilier vie professionnelle et familiale, avec la carte wibsmaps et des check-up en entreprise. La WIBS anime le réseautage (Treffpunkt Wirtschaft avec la HIV, Entrepreneur Forum Seeland, conférences Input) et a piloté le lobbying ayant conduit le Grand Conseil bernois à attribuer à Bienne, en 2012, le campus technique de la Haute école spécialisée bernoise près de la gare.",
+      "quote": "Vernetzen. Beleben. Unterstützen. In Biel und im Seeland.",
+      "themes": [
+        "economie",
+        "formation"
+      ],
+      "region": "Bienne / Seeland",
+      "language": "de",
+      "people": [
+        {
+          "name": "Esther Thahabi",
+          "role": "Geschäftsführerin WIBS"
+        }
+      ],
+      "companies": [
+        "wirtschaftskammer-biel-seeland"
+      ]
+    },
+    {
+      "slug": "arc-jurassien-2013-adax",
+      "title": "Adax SA décolletage à forte technicité – Petit, précis, complexe",
+      "subtitle": "Entretien avec M. Urs Kamber, directeur général",
+      "type": "publireportage",
+      "page": "54-55",
+      "imagePdf": "aj2013-adax",
+      "pdfPages": [
+        1,
+        2
+      ],
+      "summary": "D'origine horlogère, Adax s'est reconvertie entre 1975 et 1990 pour mettre son savoir-faire au service d'autres industries et emploie aujourd'hui 55 personnes à Bevaix. Son directeur général Urs Kamber, qui a repris l'entreprise en 2006, explique que l'horlogerie ne pèse plus que 2 à 3 % du chiffre d'affaires : l'essentiel va à l'aéronautique, notamment des galets de tonneau équipant les volets d'ailes de presque tous les Airbus sortant de Toulouse, et à l'automobile, jusqu'en Formule 1, ainsi qu'aux instruments médicaux, micromoteurs et roulements de haute précision. Adax décollette des pièces de 0,15 à 20 mm, en séries de mille à plusieurs millions, avec 75 machines dont 25 CNC. Son atout : livrer un produit fini en réalisant à l'interne décolletage, roulage, rodage, rectification centerless et polissage. Toute la production reste à Bevaix, avec des représentations commerciales en Europe et aux Etats-Unis.",
+      "quote": "Je peine à imaginer une Suisse ne vendant plus que des services.",
+      "themes": [
+        "industrie",
+        "horlogerie",
+        "mobilite"
+      ],
+      "region": "Bevaix (NE)",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Urs Kamber",
+          "role": "Directeur général"
+        }
+      ],
+      "companies": [
+        "adax"
+      ]
+    },
+    {
+      "slug": "arc-jurassien-2013-annax-schweiz",
+      "title": "ANNAX Schweiz AG",
+      "subtitle": "Interview mit Martin Jaeggi, Unternehmensleiter / ANNAX Suisse S.A. – Entretien avec Martin Jaeggi, directeur de l'entreprise",
+      "type": "publireportage",
+      "page": "56-57",
+      "imagePdf": "aj2013-annax-schweiz",
+      "pdfPages": [
+        1,
+        2
+      ],
+      "summary": "Martin Jaeggi dirige ANNAX Schweiz AG à Berne, branche d'un groupe parmi les leaders mondiaux des systèmes mobiles d'information voyageurs installés dans les trains, métros et tramways. Il explique que ces systèmes deviennent des applications informatiques complexes où le logiciel domine, tandis que le matériel tend vers des composants standard adaptés au ferroviaire et que les afficheurs restent conçus sur mesure pour chaque projet. Pour garantir pièces de rechange et réparations sur des cycles de vie de plus de vingt ans, le groupe maîtrise l'essentiel de la chaîne de valeur, avec une usine en Chine et une fabrication mécanique en Allemagne. Parmi les innovations : un système entièrement basé sur IP, le pilotage de l'information et des annonces par les contrôleurs depuis leur téléphone mobile et un guidage indiquant les places libres avant l'embarquement. Interview en allemand et en français.",
+      "quote": "Il est important pour nous de prendre en charge nous-mêmes une grande partie de la chaîne de valeur.",
+      "themes": [
+        "mobilite",
+        "industrie"
+      ],
+      "region": "Berne",
+      "language": "de",
+      "people": [
+        {
+          "name": "Martin Jaeggi",
+          "role": "Unternehmensleiter"
+        }
+      ],
+      "companies": [
+        "annax-schweiz"
+      ]
+    },
+    {
+      "slug": "arc-jurassien-2013-bawaco",
+      "title": "bawaco ag – Engineering, Automation und komplette Systemlösungen in der Molkerei- und Früchteverarbeitenden Industrie",
+      "subtitle": "Ingénierie, automatisation et solutions systèmes complètes pour les industries laitière et de transformation des fruits",
+      "type": "publireportage",
+      "page": "58-59",
+      "imagePdf": "aj2013-bawaco",
+      "pdfPages": [
+        1,
+        2
+      ],
+      "summary": "Fondée à Berne en 2003, bawaco ag s'est imposée dans la planification et la construction d'installations sur mesure pour la transformation des aliments liquides, principalement dans l'industrie laitière et la transformation des fruits. Ses spécialistes, forts de plus de cinquante ans d'expérience cumulée, mènent les projets de la conception à la mise en service, automatisation et montage compris : de la simple réception du lait à la laiterie complète pour yaourts et lait frais, des lignes aseptiques aux pasteurisateurs pour jus et au remplissage aseptique de préparations de fruits. Le CEO Walter Bartlomé souligne l'indépendance de l'entreprise vis-à-vis des fournisseurs, qui évite les solutions isolées, ainsi qu'un support en ligne 24 heures sur 24, 365 jours par an. La Suisse représente environ la moitié des affaires ; un bureau en Allemagne a ouvert en 2005 et un site à Moscou vise l'Europe de l'Est. Texte en allemand et en français.",
+      "quote": "Wir können unseren Kunden vom Engineering, der Montage, der Steuerung bis hin zur Generalübernahme des Projektes alles anbieten.",
+      "themes": [
+        "industrie"
+      ],
+      "region": "Berne",
+      "language": "de",
+      "people": [
+        {
+          "name": "Walter Bartlomé",
+          "role": "CEO"
+        }
+      ],
+      "companies": [
+        "bawaco"
+      ]
+    },
+    {
+      "slug": "arc-jurassien-2013-cendres-metaux",
+      "title": "Cendres+Métaux – Le savoir-faire au cœur de la matière",
+      "subtitle": "Horlogerie et bijouterie, médical et dentaire, refining",
+      "type": "publireportage",
+      "page": "61",
+      "imagePdf": "aj2013-cendres-metaux",
+      "pdfPages": [
+        1
+      ],
+      "summary": "Fondé à Bienne en 1885, le groupe Cendres+Métaux transforme les métaux précieux en produits haut de gamme et emploie quelque 430 collaborateurs, principalement dans sa maison mère biennoise, ainsi qu'une quinzaine à La Chaux-de-Fonds chez Cendres+Métaux Galétan SA, rachetée en 2008 pour renforcer l'horlogerie. Sa solidité repose sur trois piliers liés par la maîtrise de l'affinage : horlogerie et bijouterie, médical et dentaire, et refining. Le médical pèse environ 35 % de l'activité, le dentaire 30 %, l'horlogerie 25 % et la bijouterie 10 %. Le CEO Freddy Lei souligne que tous les produits sont développés et fabriqués en Suisse. La division Watches produit notamment des masses oscillantes et des alliages très homogènes, comme un platine 950 amélioré. Pour développer le luxe, l'entreprise agrandit son site de Bienne depuis novembre 2012 et a engagé le métallurgiste Claudio Penna à la tête des divisions horlogerie, bijouterie et refining.",
+      "quote": "Nous sommes un vrai soutien pour les porteurs d'image de la qualité suisse.",
+      "themes": [
+        "horlogerie",
+        "sante",
+        "industrie"
+      ],
+      "region": "Bienne / La Chaux-de-Fonds",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Freddy Lei",
+          "role": "CEO du groupe"
+        },
+        {
+          "name": "Claudio Penna",
+          "role": "Responsable des divisions Horlogerie et Bijouterie, et Refining"
+        }
+      ],
+      "companies": [
+        "cendres-metaux",
+        "cendres-metaux-galetan"
+      ]
+    },
+    {
+      "slug": "arc-jurassien-2013-bovard",
+      "title": "BOVARD AG – Patent- und Markenanwälte",
+      "subtitle": "Im Gespräch mit Tarik Kapic, Mitglied der Geschäftsleitung / BOVARD SA – Conseils en brevets et en marques",
+      "type": "publireportage",
+      "page": "62-63",
+      "imagePdf": "aj2013-bovard",
+      "pdfPages": [
+        1,
+        2
+      ],
+      "summary": "Dans cet entretien bilingue allemand-français, Tarik Kapic, membre de la direction de BOVARD, présente les services de ce cabinet de conseils en brevets et en marques : vérification de la brevetabilité ou d'atteintes aux droits de tiers, obtention, défense et gestion des droits, mais aussi protection des designs, droit d'auteur et logiciels. Ses spécialistes connaissent particulièrement la construction de machines, l'horlogerie, l'électrotechnique et les télécoms. Il rappelle ce qui peut être protégé, la rétroactivité de la protection à la date de dépôt et l'existence de procédures internationales. Il constate que seule une PME sur dix dépose un brevet, alors que la Suisse est numéro un mondial par habitant, et signale le réseau de conseil gratuit de l'IPI. Fondé en 1888 à La Chaux-de-Fonds puis installé à Berne, le cabinet a ouvert en 2012 une agence à Bienne pour se rapprocher de ses clients horlogers.",
+      "quote": "Seulement une PME sur dix dépose un brevet.",
+      "themes": [
+        "economie",
+        "horlogerie",
+        "industrie"
+      ],
+      "region": "Berne / Bienne",
+      "language": "de",
+      "people": [
+        {
+          "name": "Tarik Kapic",
+          "role": "Membre de la direction"
+        }
+      ],
+      "companies": [
+        "bovard"
+      ]
+    },
+    {
+      "slug": "arc-jurassien-2013-neroxis",
+      "title": "Neroxis – Pour la préservation de l'environnement",
+      "subtitle": "Neroxis – Protecting the environment",
+      "type": "publireportage",
+      "page": "64",
+      "imagePdf": "aj2013-neroxis",
+      "pdfPages": [
+        1
+      ],
+      "summary": "PME neuchâteloise appartenant au groupe français Veolia Eau Solutions & Technologies, Neroxis SA conçoit des outils de préservation de l'environnement. Son CEO Yves de Coulon explique qu'il ne suffit plus de fournir une eau de qualité : il faut gérer la demande, préserver la ressource et optimiser la distribution en économisant énergie et produits chimiques, l'eau devant être gérée localement. Issue des technologies du CSEM, l'entreprise développe, produit et distribue des capteurs intégrés en silicium mesurant le chlore dissous ainsi que des capteurs du taux de méthane dans le gaz naturel et le biogaz, utilisés aussi dans le médical et les biotechnologies. Elle propose un système complet de surveillance in situ des réseaux d'eau, mesurant jusqu'à quatre paramètres en temps réel avec transmission automatique des alarmes, et dont les produits sont réutilisés en fin de vie. Texte en français et en anglais.",
+      "quote": "Il ne suffit plus de fournir une eau de qualité, mais il faut également gérer la demande, préserver la ressource et optimiser sa distribution.",
+      "themes": [
+        "energie",
+        "horlogerie",
+        "formation"
+      ],
+      "region": "Neuchâtel",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Yves de Coulon",
+          "role": "CEO"
+        }
+      ],
+      "companies": [
+        "neroxis"
+      ]
+    },
+    {
+      "slug": "arc-jurassien-2013-manufacture-cartier-horlogerie",
+      "title": "Manufacture Cartier Horlogerie La Chaux-de-Fonds",
+      "subtitle": "Interview avec Jean-Kley Tulli, Directeur Manufacture Cartier Horlogerie",
+      "type": "publireportage",
+      "page": "65",
+      "imagePdf": "aj2013-manufacture-cartier-horlogerie",
+      "pdfPages": [
+        1
+      ],
+      "summary": "Installée à La Chaux-de-Fonds dans un bâtiment de verre de 33 000 m², la Manufacture Cartier Horlogerie compte parmi les plus grandes manufactures intégrées de Suisse, avec plus de 1000 collaborateurs de 37 nationalités et 175 métiers répartis entre développement, production et service client. Elle conçoit, produit et entretient ses montres et mouvements, simples ou compliqués, fabriquant boîtes, bracelets, aiguilles, glaces, platines et ponts. La qualité y repose sur l'amélioration continue et la démarche « Made in Cartier » lancée en 2005. L'Institut Horlogerie Cartier forme des horlogers CFC avec l'école du Locle, les métiers d'art comme l'émaillage et le sertissage sont intégrés, et l'Atelier Tradition garantit la réparation de toute montre Cartier quel que soit son âge. Le projet Think Tank, né en 2007, réunit la recherche et développement en un lieu, tandis que la production s'organise en îlots.",
+      "quote": "Les montres Cartier sont éternelles et réparables à vie.",
+      "themes": [
+        "horlogerie",
+        "formation"
+      ],
+      "region": "La Chaux-de-Fonds",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Jean-Kley Tulli",
+          "role": "Directeur Manufacture Cartier Horlogerie"
+        }
+      ],
+      "companies": [
+        "manufacture-cartier-horlogerie"
+      ]
+    },
+    {
+      "slug": "arc-jurassien-2013-corum",
+      "title": "Corum – Célèbre et revisite deux collections, piliers de son histoire",
+      "subtitle": "50e anniversaire de l'Admiral's Cup - 30e anniversaire de la Golden Bridge",
+      "type": "publireportage",
+      "page": "66-67",
+      "imagePdf": "aj2013-corum",
+      "pdfPages": [
+        1,
+        2
+      ],
+      "summary": "Ce publireportage bilingue français-anglais, rédigé pour l'année 2010, présente la manufacture chaux-de-fonnière Corum, fondée en 1955 par René Bannwart et dirigée depuis 2005 par Antonio Calce, qui a recentré la marque sur ses quatre piliers : Admiral's Cup, Corum Bridges, Romvlvs et Artisans. Pour les 50 ans de l'Admiral's Cup, Corum dévoile l'Admiral's Cup Minute Repeater Tourbillon 45, dont le calibre CO 010 associe tourbillon et répétition minutes après deux ans de développement, avec des timbres accordés en la et do dièse et douze exemplaires seulement. Pour les 30 ans de la Golden Bridge et de son mouvement baguette de 140 composants, la marque lance la Miss Golden Bridge, première version féminine limitée à 456 pièces par an, et une Golden Bridge 2010 au cadran placé derrière le mouvement, avec une ouverture en forme de serrure rappelant la clé emblème de la marque.",
+      "quote": "",
+      "themes": [
+        "horlogerie"
+      ],
+      "region": "La Chaux-de-Fonds",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Antonio Calce",
+          "role": "CEO"
+        },
+        {
+          "name": "René Bannwart",
+          "role": "Fondateur"
+        }
+      ],
+      "companies": [
+        "corum"
+      ]
+    },
+    {
+      "slug": "arc-jurassien-2013-emch-berger-bern",
+      "title": "Emch+Berger AG Bern – Gesamtlösungen in den Bereichen Bau, Umwelt, Mobilität und Energie",
+      "subtitle": "Interview mit Kurt E. Wagner, VR-Delegierter und CEO, und Mirko Feller, Stv. CEO / Solutions globales dans les domaines de la construction, de l'environnement, de la mobilité et de l'énergie",
+      "type": "publireportage",
+      "page": "68-71",
+      "pdfPages": [],
+      "summary": "Kurt E. Wagner, administrateur délégué et CEO, et Mirko Feller, CEO adjoint et responsable des ouvrages d'art, présentent Emch+Berger AG Bern, la plus grande société d'un groupe d'ingénierie, de planification et de conseil comptant plus de 500 collaborateurs sur plus de 20 sites suisses. Forte d'environ 200 collaborateurs et apprentis, elle développe des infrastructures de transport, d'énergie et de communication, et intervient en génie civil, systèmes ferroviaires, sécurité et conseil. Deux grands projets illustrent son approche interdisciplinaire : le réaménagement de la place Wankdorf à Berne avec le déplacement de la jonction autoroutière et le remplacement d'un pont à dix voies au-dessus de la ligne CFF Berne-Thoune, et le tunnel du Büttenberg sur le contournement est de Bienne par l'A5, creusé sous la ligne du Pied-du-Jura. Sa filiale de Copenhague participe au déploiement de l'ETCS niveau 2 sur tout le réseau ferroviaire danois. L'entreprise fête ses 60 ans en septembre 2013. Texte en allemand et en français.",
+      "quote": "Beständig ist und bleibt die Begeisterung für unsere Arbeit.",
+      "themes": [
+        "construction",
+        "mobilite",
+        "architecture"
+      ],
+      "region": "Berne / Bienne",
+      "language": "de",
+      "people": [
+        {
+          "name": "Kurt E. Wagner",
+          "role": "VR-Delegierter und CEO"
+        },
+        {
+          "name": "Mirko Feller",
+          "role": "Stv. CEO, Bereichsleiter Kunstbauten"
+        }
+      ],
+      "companies": [
+        "emch-berger-bern"
+      ]
+    },
+    {
+      "slug": "arc-jurassien-2013-energie-service-biel-bienne",
+      "title": "Energie Service Biel/Bienne (ESB) – Energie für die Stadt Biel und die Region Seeland",
+      "subtitle": "Interview mit Heinz Binggeli, Direktor ESB / De l'énergie pour la ville de Bienne et la région du Seeland",
+      "type": "publireportage",
+      "page": "72-73",
+      "imagePdf": "aj2013-energie-service-biel-bienne",
+      "pdfPages": [
+        1,
+        2
+      ],
+      "summary": "Heinz Binggeli dirige Energie Service Biel/Bienne (ESB), entreprise communale autonome d'environ 150 collaborateurs qui fournit électricité, gaz naturel, eau et télécommunications à Bienne et au Seeland. Dans la ligne de la stratégie énergétique fédérale 2050, ESB livre depuis janvier 2012 un produit « Standard » issu à 100 % de centrales hydroélectriques suisses, les clients pouvant encore choisir un mix moins cher. La demande de courant écologique certifié a bondi après Fukushima avant de retomber. ESB mise sur l'efficacité énergétique avec une hotline pilote de conseil, a réalisé avec Bienne, Cité de l'énergie, un cadastre solaire utile aux particuliers comme aux investisseurs, et propose du contracting : il planifie, finance et exploite des installations de chauffage au gaz naturel combinables avec le solaire, le biogaz ou le couplage chaleur-force. Texte en allemand et en français.",
+      "quote": "L'homme oublie vite et seule une petite partie de notre clientèle opte pour l'énergie écologique certifiée.",
+      "themes": [
+        "energie",
+        "collectivites"
+      ],
+      "region": "Bienne / Seeland",
+      "language": "de",
+      "people": [
+        {
+          "name": "Heinz Binggeli",
+          "role": "Direktor ESB"
+        }
+      ],
+      "companies": [
+        "energie-service-biel-bienne"
+      ]
+    },
+    {
+      "slug": "arc-jurassien-2013-ernst-young-bern",
+      "title": "Ernst & Young AG – Starker lokaler Partner mit hervorragender internationaler Vernetzung",
+      "subtitle": "Interview mit Thomas Nösberger, Leiter Ernst & Young Bern / Un partenaire local fort avec un réseau international d'exception",
+      "type": "publireportage",
+      "page": "74-75",
+      "imagePdf": "aj2013-ernst-young-bern",
+      "pdfPages": [
+        1,
+        2
+      ],
+      "summary": "Responsable du site bernois d'Ernst & Young depuis le 1er février 2012, Thomas Nösberger présente les quatre métiers du cabinet : audit, fiscalité, transactions et conseil, l'audit et la fiscalité restant les piliers de l'activité dans le Mittelland. Avec quelque 280 collaborateurs à Berne, le bureau dépasse largement ses concurrents et veut renforcer son rôle de partenaire local doté d'un réseau international. Numéro un de l'audit des sociétés du SMI avec 35 % de parts de marché, Ernst & Young se dit aussi très ancré auprès des entreprises de taille moyenne, qu'il accompagne dans leur croissance et à l'international. Thomas Nösberger insiste sur l'éthique, qui implique parfois de refuser un mandat, sur la formation des jeunes diplômés recrutés dans les hautes écoles et sur le rôle d'école de carrière du cabinet pour de nombreux dirigeants régionaux. Interview en allemand et en français.",
+      "quote": "Se comporter de manière éthique signifie aussi savoir dire non !",
+      "themes": [
+        "economie"
+      ],
+      "region": "Berne / Mittelland",
+      "language": "de",
+      "people": [
+        {
+          "name": "Thomas Nösberger",
+          "role": "Leiter Ernst & Young Bern"
+        }
+      ],
+      "companies": [
+        "ernst-young-bern"
+      ]
+    },
+    {
+      "slug": "arc-jurassien-2013-fafco",
+      "title": "FAFCO souffle le chaud et le froid – Pour le bâtiment et l'industrie",
+      "subtitle": "Eisspeicher und Solarheizsysteme von FAFCO – Für Gebäudetechnik und Industrie",
+      "type": "publireportage",
+      "page": "76",
+      "imagePdf": "aj2013-fafco",
+      "pdfPages": [
+        1
+      ],
+      "summary": "Installée à Bienne depuis 1981, FAFCO SA fabriquait à l'origine des capteurs solaires pour chauffer les piscines ; elle est aujourd'hui leader mondial des accumulateurs de glace, qui stockent le froid de climatisation et de réfrigération dans le bâtiment et l'industrie. Sa technologie repose sur l'assemblage de tubes en plastique très fins dont les additifs convertissent 95 % du rayonnement solaire en chaleur, résistent aux agressions chimiques et durent plus de trente ans. Associés à une pompe à chaleur, ses capteurs légers et souples, posés en toiture, en pare-soleil ou en façade, fournissent de l'eau chaude même par temps couvert. Un nouvel accumulateur hybride produit instantanément de grandes puissances de froid proches de 0 °C pour les procédés industriels, laiteries ou pharma, en les protégeant des coupures. Ses installations équipent notamment l'aéroport de Genève, des centres commerciaux au Vietnam, une centrale sud-africaine et l'usine Rolex de Bienne. Texte en français et en allemand.",
+      "quote": "",
+      "themes": [
+        "energie",
+        "industrie"
+      ],
+      "region": "Bienne",
+      "language": "fr",
+      "people": [],
+      "companies": [
+        "fafco"
+      ]
+    },
+    {
+      "slug": "arc-jurassien-2013-j-baertschi",
+      "title": "J. Baertschi SA – Un grand parc de machines multibroches",
+      "subtitle": "Ein umfangreicher Mehrspindelmaschinenpark",
+      "type": "publireportage",
+      "page": "77",
+      "imagePdf": "aj2013-j-baertschi",
+      "pdfPages": [
+        1
+      ],
+      "summary": "Fondée en 1968 par Jean Baertschi à Crémines, près de Moutier, et reprise par son fils Alain, fort d'une vingtaine d'années d'expérience en production, la fabrique de décolletage J. Baertschi SA dispose d'une quarantaine de machines multibroches à six broches, présentées comme le plus grand parc de ce type en Suisse. Cette capacité sert surtout l'industrie automobile, qui absorbe 70 % de la production en séries de centaines de milliers à millions de pièces pour les systèmes de freinage, d'injection ou de sécurité. Un parc de machines monobroches complète l'outil pour les petites séries. L'entreprise, qui compte une quarantaine de collaborateurs sur 2700 m² et prévoit de s'agrandir en 2013-2014, sert aussi l'électroménager, la connectique, l'aéronautique et l'armement, pour des clients suisses et européens. Elle est certifiée ISO 9001 et ISO/TS 16949, une première en Suisse romande, et prépare l'ISO 14001. Texte en français et en allemand.",
+      "quote": "",
+      "themes": [
+        "industrie",
+        "mobilite"
+      ],
+      "region": "Crémines / Moutier",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Jean Baertschi",
+          "role": "Fondateur"
+        },
+        {
+          "name": "Alain Baertschi",
+          "role": "Successeur"
+        }
+      ],
+      "companies": [
+        "j-baertschi"
+      ]
+    },
+    {
+      "slug": "arc-jurassien-2013-fondation-bartimee",
+      "title": "Fondation Bartimée",
+      "subtitle": "Traitement, réinsertion sociale et professionnelle des personnes dépendantes",
+      "type": "publireportage",
+      "page": "78",
+      "imagePdf": "aj2013-fondation-bartimee",
+      "pdfPages": [
+        1
+      ],
+      "summary": "Installée à Grandson, la Fondation Bartimée est une institution résidentielle de traitement et de réinsertion sociale et professionnelle pour les personnes dépendantes aux substances illégales qui ont choisi de reconstruire leur vie hors des addictions. Elle propose 24 places, dont une étape extérieure avec des studios en ville et des appartements communautaires. Une équipe pluridisciplinaire d'infirmiers, d'éducateurs, de moniteurs socioprofessionnels, d'une assistante sociale et de psychothérapeutes assure la prise en charge et le lien avec le réseau ambulatoire. Pour favoriser la réinsertion, la fondation exploite des ateliers en prise directe avec l'économie privée : menuiserie et construction de meubles, vente de produits artisanaux (miel, pesto, confitures), magasin de revalorisation d'objets « La Ressourcerie », laverie industrielle de vaisselle et service traiteur.",
+      "quote": "",
+      "themes": [
+        "sante",
+        "collectivites"
+      ],
+      "region": "Grandson (VD)",
+      "language": "fr",
+      "people": [],
+      "companies": [
+        "fondation-bartimee"
+      ]
+    },
+    {
+      "slug": "arc-jurassien-2013-geotest",
+      "title": "GEOTEST AG, Zollikofen",
+      "subtitle": "Geschäftsleitung: R. Brinkmann, Dr. Ch. Meyer / GEOTEST SA – Géologie, géotechnique, géophysique, environnement",
+      "type": "publireportage",
+      "page": "80-83",
+      "pdfPages": [],
+      "summary": "Fondé en 1962, le bureau GEOTEST, dirigé par R. Brinkmann et Ch. Meyer, se consacre aux questions du sous-sol et de l'environnement avec environ 120 collaborateurs : géologues, ingénieurs géotechniciens et en construction, géographes, spécialistes de l'environnement, géophysiciens, laborantins. Basé à Zollikofen, il dispose de succursales à Davos, Zurich, Horw, Fribourg et Le Mont-sur-Lausanne. Ses domaines couvrent l'étude des sols de fondation, la protection des eaux souterraines, les sites contaminés et polluants du bâtiment, la pédologie, les dangers naturels, la stabilité rocheuse et les tunnels, l'instrumentation, la géophysique et un laboratoire d'essais. Deux projets sont détaillés : le contournement H20 du Locle et de La Chaux-de-Fonds, avec coupes géologiques des tunnels, études géotechniques, forages et protection contre les chutes de pierres au Col des Roches, et l'assainissement de la décharge de Lischenweg sur la branche Est de l'A5 à Bienne (150 000 à 200 000 m³, 20 millions de francs). Texte en allemand et en français.",
+      "quote": "",
+      "themes": [
+        "construction",
+        "energie",
+        "mobilite"
+      ],
+      "region": "Zollikofen / Le Locle / Bienne",
+      "language": "de",
+      "people": [
+        {
+          "name": "R. Brinkmann",
+          "role": "Geschäftsleitung"
+        },
+        {
+          "name": "Ch. Meyer",
+          "role": "Geschäftsleitung"
+        }
+      ],
+      "companies": [
+        "geotest"
+      ]
+    },
+    {
+      "slug": "arc-jurassien-2013-hopital-du-jura-bernois",
+      "title": "Hôpital du Jura bernois SA – Proximité et qualité",
+      "subtitle": "Hôpital du Jura bernois SA – Nähe und Qualität",
+      "type": "publireportage",
+      "page": "84-85",
+      "imagePdf": "aj2013-hopital-du-jura-bernois",
+      "pdfPages": [
+        1,
+        2
+      ],
+      "summary": "L'Hôpital du Jura bernois (HJB), établissement de proximité présent à Moutier et Saint-Imier, propose médecine interne, chirurgie générale et spécialisée et gériatrie, avec des spécialités propres à chaque site : dialyse et chirurgie de la main à Moutier, gynécologie-obstétrique à Saint-Imier. La forte hausse du nombre de patients et la rapidité de prise en charge aux urgences confirment la pertinence de ce modèle. Un centre de dialyse dirigé par le néphrologue Pierre-Alain Triverio a ouvert en août 2012 à Moutier pour les insuffisants rénaux chroniques de la région. Le service de sauvetage, réparti sur trois bases (Saint-Imier, Moutier, Tramelan), est désormais assuré par des ambulanciers professionnels. La maternité de Saint-Imier a battu un record avec 300 naissances en 2012. Enfin, le texte présente le nouveau directeur général Dominique Sartori, en poste depuis le 1er octobre 2012. Texte en français et en allemand.",
+      "quote": "Le nombre de patients augmente graduellement, ce qui démontre l'utilité de ce centre et la confiance des patients.",
+      "themes": [
+        "sante"
+      ],
+      "region": "Jura bernois (Moutier, Saint-Imier)",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Dominique Sartori",
+          "role": "Directeur général"
+        },
+        {
+          "name": "Pierre-Alain Triverio",
+          "role": "Médecin-chef en médecine interne, néphrologue"
+        }
+      ],
+      "companies": [
+        "hopital-du-jura-bernois"
+      ]
+    },
+    {
+      "slug": "arc-jurassien-2013-hrs-real-estate",
+      "title": "HRS Real Estate AG",
+      "subtitle": "Im Gespräch mit Martin Kull, VR-Delegierter, CEO und Inhaber / Entretien avec Martin Kull, délégué du conseil d'administration, CEO et propriétaire",
+      "type": "publireportage",
+      "page": "86-89",
+      "pdfPages": [],
+      "summary": "Martin Kull, CEO et propriétaire de HRS Real Estate AG, présente les Stades de Bienne, dont le premier coup de pioche a été donné en décembre 2012 après une longue procédure et plusieurs votations. Développeur et entreprise totale du projet, HRS réalise un complexe inédit en Suisse : un stade de hockey de 7000 places, un stade de football de 6000 places, une halle de curling, trois terrains extérieurs, des surfaces commerciales et un parking, avec une mise en service visée à l'été 2015 pour le FC et l'EHC Bienne. L'entreprise s'appuie sur son expérience des stades et centres commerciaux et cite d'autres grands projets : Messe Basel, siège de PostFinance et PostFinance-Arena à Berne, dock B de l'aéroport de Zurich, Swiss Tech Convention Center de l'EPFL, stade de la Maladière et centre de recherche Philip Morris à Neuchâtel. Martin Kull plaide pour un logement abordable et une densification de qualité. Texte en allemand et en français.",
+      "quote": "La qualité prime cependant sur la quantité. L'espace est toujours présent mais il doit être utilisé avec intelligence.",
+      "themes": [
+        "construction",
+        "architecture"
+      ],
+      "region": "Bienne",
+      "language": "de",
+      "people": [
+        {
+          "name": "Martin Kull",
+          "role": "VR-Delegierter, CEO und Inhaber"
+        }
+      ],
+      "companies": [
+        "hrs-real-estate"
+      ]
+    },
+    {
+      "slug": "arc-jurassien-2013-itten-brechbuhl",
+      "title": "Itten+Brechbühl AG – Architekten und Generalplaner",
+      "subtitle": "Fragen an Herrn Christoph Arpagaus, Vorsitzender der Geschäftsleitung / Itten+Brechbühl SA – Architectes et planification générale",
+      "type": "publireportage",
+      "page": "90-94",
+      "pdfPages": [],
+      "summary": "Président de la direction d'Itten+Brechbühl, Christoph Arpagaus revient sur les 90 ans du bureau fondé par Otto Rudolf Salvisberg, dont la culture du travail en réseau perdure depuis cinq générations d'architectes. En 2012, il a repris l'actionnariat avec cinq cadres, succédant à Nick Gartenmann qui avait fait passer l'entreprise de 50 à 250 collaborateurs, pour un chiffre d'affaires de 70 millions de francs. Le bureau couvre la gestion de projet, la conception, la planification, la direction des travaux et l'assistance au maître d'ouvrage. Il présente des réalisations comme le centre INO de l'Hôpital de l'Ile à Berne, premier bâtiment suisse conçu selon la séparation des systèmes, la multiclinique de l'hôpital cantonal d'Aarau, le terminal Skylink de l'aéroport de Vienne et, à Bienne, le nouveau siège de Swatch et les bâtiments d'Omega conçus par Shigeru Ban, dont il assure la planification générale et la direction des travaux. Texte en allemand et en français, suivi d'une page de références.",
+      "quote": "Unsere Unternehmenskultur hat sich über fünf Architektengenerationen erhalten und weiterentwickelt.",
+      "themes": [
+        "architecture",
+        "construction",
+        "sante"
+      ],
+      "region": "Berne / Bienne",
+      "language": "de",
+      "people": [
+        {
+          "name": "Christoph Arpagaus",
+          "role": "Vorsitzender der Geschäftsleitung"
+        }
+      ],
+      "companies": [
+        "itten-brechbuhl"
+      ]
+    },
+    {
+      "slug": "arc-jurassien-2013-voser-treuhand",
+      "title": "Die Voser Treuhand AG – \"Klein aber fein\"",
+      "subtitle": "Christian Voser, Gründer und Geschäftsführer / « Petite mais efficace »",
+      "type": "publireportage",
+      "page": "95",
+      "imagePdf": "aj2013-voser-treuhand",
+      "pdfPages": [
+        1
+      ],
+      "summary": "Fondée en 1994 à Nidau par Christian Voser, la fiduciaire Voser Treuhand AG compte sept collaborateurs qui conseillent aussi bien les entreprises que les particuliers. Son fondateur, employé de banque de formation et expert fiduciaire, met en avant une culture d'équipe laissant de l'autonomie à chacun et une relation de confiance et de proximité avec la clientèle. L'entreprise accompagne les PME dans les domaines financier et de gestion et se distingue par sa connaissance des autorités et des tribunaux, qui en fait un interlocuteur reconnu en droit de l'assainissement : plusieurs sociétés ont déjà été redressées durablement. Son offre couvre la comptabilité, les salaires, les assurances sociales et la TVA, la création, l'achat ou la vente d'entreprises, les successions, les financements et la fiscalité. Texte en allemand et en français.",
+      "quote": "Nous voulons offrir à nos clients des services sérieux, soignés et individuels.",
+      "themes": [
+        "economie"
+      ],
+      "region": "Nidau",
+      "language": "de",
+      "people": [
+        {
+          "name": "Christian Voser",
+          "role": "Fondateur et directeur général"
+        }
+      ],
+      "companies": [
+        "voser-treuhand"
+      ]
+    },
+    {
+      "slug": "arc-jurassien-2013-l-klein",
+      "title": "L. Klein AG, Biel – Edelstähle und Metalle für Kunden in der ganzen Welt",
+      "subtitle": "Interview mit Olivier und Philippe Schiess, Geschäftsleiter / Aciers fins et métaux pour nos clients du monde entier",
+      "type": "publireportage",
+      "page": "96-99",
+      "pdfPages": [],
+      "summary": "Olivier et Philippe Schiess dirigent L. Klein AG, entreprise familiale biennoise fondée en 1946, stockiste et négociant d'aciers fins et de métaux devenue un fournisseur international, filiale de la Schiess Holding AG présidée par Rudolf Schiess. Elle livre aciers inoxydables spéciaux, aciers au carbone, aciers au chrome trempables, alliages de titane et de cobalt-chrome, sous forme de barres de 3 m, profilés et couronnes de 0,20 à 30 mm pour le décolletage. Ses clients appartiennent surtout à l'horlogerie, au médical et dentaire, à l'automobile et à la micromécanique ; 40 % du chiffre d'affaires est réalisé à l'export, de l'Europe à l'Asie et aux Etats-Unis. Avec le métallurgiste Pierre Marechal, l'entreprise a lancé des aciers issus de la métallurgie des poudres, LAW 100 X et CHRONIFER M-15 X, à la structure plus fine et homogène. Son bâtiment combine photovoltaïque, chaudière à bois, couplage chaleur-force et capteurs solaires. Texte en allemand et en français.",
+      "quote": "Jedes Pulverkorn enthält die von uns vorgegebene Analyse.",
+      "themes": [
+        "industrie",
+        "horlogerie",
+        "sante"
+      ],
+      "region": "Bienne",
+      "language": "de",
+      "people": [
+        {
+          "name": "Olivier Schiess",
+          "role": "Geschäftsleiter"
+        },
+        {
+          "name": "Philippe Schiess",
+          "role": "Geschäftsleiter"
+        },
+        {
+          "name": "Rudolf Schiess",
+          "role": "Verwaltungsratspräsident der Schiess Holding AG"
+        },
+        {
+          "name": "Pierre Marechal",
+          "role": "Metallurge"
+        }
+      ],
+      "companies": [
+        "l-klein"
+      ]
+    },
+    {
+      "slug": "arc-jurassien-2013-meyer-sintermetall",
+      "title": "Meyer Sintermetall AG, Studen – Wenn bei Formteilen Qualität, Präzision und Wirtschaftlichkeit zählt",
+      "subtitle": "Interview mit Christoph Meyer, Direktor / L'importance de la qualité, de la précision et de la rentabilité dans le domaine des pièces moulées",
+      "type": "publireportage",
+      "page": "100-103",
+      "pdfPages": [],
+      "summary": "Christoph Meyer, troisième génération à la tête de Meyer Sintermetall à Studen, explique le frittage pratiqué par l'entreprise depuis plus de soixante ans : des poudres métalliques mélangées à un lubrifiant sont pressées à froid dans des moules en acier puis chauffées sous vide ou gaz protecteur jusqu'à soudure des particules, donnant directement la forme et les propriétés finales. Engrenages, crémaillères, pignons, rotors, masses oscillantes pour montres mécaniques, filtres poreux en bronze ou inox et silencieux PorSilent sont produits pour les industries des machines, de l'horlogerie, de l'électronique, de l'automobile et de l'armement. Le parc compte notamment 28 presses de 3 à 150 tonnes et six fours de frittage. Le procédé offre une microstructure homogène, des tolérances serrées, une utilisation de matière proche de 100 % et une faible consommation d'énergie, et l'entreprise accompagne ses clients dans l'adaptation de leurs pièces. Interview en allemand et en français.",
+      "quote": "Die Materialausnützung beträgt beinahe 100% und somit fällt kaum Abfall an.",
+      "themes": [
+        "industrie",
+        "horlogerie"
+      ],
+      "region": "Studen (Seeland)",
+      "language": "de",
+      "people": [
+        {
+          "name": "Christoph Meyer",
+          "role": "Direktor"
+        }
+      ],
+      "companies": [
+        "meyer-sintermetall"
+      ]
+    },
+    {
+      "slug": "arc-jurassien-2013-nms-bern",
+      "title": "NMS Bern – \"Bei uns stehen die Lernenden im Zentrum\"",
+      "subtitle": "Interview mit Annette Geissbühler, Direktorin NMS / « L'élève est au centre de nos préoccupations »",
+      "type": "publireportage",
+      "page": "104-107",
+      "pdfPages": [],
+      "summary": "Annette Geissbühler, directrice de la NMS Bern, présente cette institution privée de formation qui se veut un complément aux écoles publiques, fondée sur des principes éthiques et pédagogiques exigeants et sur l'apprentissage autonome. L'offre couvre tous les degrés : école obligatoire, plusieurs dixièmes années, école de culture générale avec maturité spécialisée, gymnase et formation des enseignants du préscolaire et du primaire, avec un Bachelor reconnu de la PHBern. Parmi les innovations : langues étrangères dès la première année, atelier d'apprentissage accompagné au secondaire, enseignement religieux intégré aux autres branches au gymnase, « modèle Weissenstein » préparant aux examens de type haute école et formation en emploi « 30+ » pour les plus de 30 ans. La qualité est suivie selon les modèles QuES et EFQM, et l'école intègre l'éducation au développement durable jusqu'au standard Minergie de son dernier bâtiment. Texte en allemand et en français.",
+      "quote": "L'élève est au centre de nos préoccupations.",
+      "themes": [
+        "formation"
+      ],
+      "region": "Berne",
+      "language": "de",
+      "people": [
+        {
+          "name": "Annette Geissbühler",
+          "role": "Direktorin NMS"
+        }
+      ],
+      "companies": [
+        "nms-bern"
+      ]
+    },
+    {
+      "slug": "arc-jurassien-2013-notz-plastics",
+      "title": "Notz Plastics SA – Livraisons rapides - conseil expert",
+      "subtitle": "Notz Plastics AG – Rasche Lieferung - fachkundige Beratung",
+      "type": "publireportage",
+      "page": "108",
+      "imagePdf": "aj2013-notz-plastics",
+      "pdfPages": [
+        1
+      ],
+      "summary": "Filiale du groupe allemand ThyssenKrupp forte de plus de soixante ans d'expérience, Notz Plastics SA se présente comme le seul fournisseur du marché suisse à proposer à la fois des plastiques semi-finis et des granulés, importés du monde entier dans toutes les qualités. Plaques massives ou alvéolaires, tubes, joncs, pièces de forme et profils servent l'industrie, la construction, la décoration et le design, tandis que quelque 6000 tonnes de granulés par an alimentent les injecteurs suisses. L'entreprise mise sur la rapidité, avec une livraison le lendemain de la commande, et sur le conseil : des spécialistes de l'injection accompagnent les clients pour le réglage des machines, le choix des matières et les tests de production. En 2013, elle déménage de Bienne à Brügg, où sa surface de stockage passera de 3300 à près de 5000 m². Texte bilingue français-allemand.",
+      "quote": "Commande de matière le matin, livraison le lendemain.",
+      "themes": [
+        "industrie"
+      ],
+      "region": "Bienne",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Jean-Pierre Besançon",
+          "role": "Directeur"
+        }
+      ],
+      "companies": [
+        "notz-plastics"
+      ]
+    },
+    {
+      "slug": "arc-jurassien-2013-parli",
+      "title": "Pärli AG, chauffage et sanitaire – Le partenaire pour tous les temps",
+      "subtitle": "Entretien avec M. Michel Pasche, directeur administratif",
+      "type": "publireportage",
+      "page": "109",
+      "imagePdf": "aj2013-parli",
+      "pdfPages": [
+        1
+      ],
+      "summary": "Forte de 120 ans d'expérience et de 65 collaborateurs, l'entreprise biennoise Pärli AG est active dans le chauffage et le sanitaire et se positionne à la pointe des énergies renouvelables. Son directeur administratif Michel Pasche décrit une offre clé en main, du conseil à la réalisation : remplacement d'une chaudière à mazout par une pompe à chaleur avec évacuation et recyclage de l'ancienne installation, solaire thermique et photovoltaïque, chaudières à pellets, sans négliger le gaz et le mazout, ainsi que la rénovation de salles de bains en immeubles locatifs. Une équipe de neuf dépanneurs intervient 24 heures sur 24, toute l'année, et l'entreprise propose des contrats de maintenance avec visite annuelle, souvent assurée par le même monteur. Sa clientèle se partage entre particuliers et clients industriels ou institutionnels, comme la Ville de Bienne, avec des chantiers jusqu'à Soleure, Granges, Neuchâtel et le Jura.",
+      "quote": "Des fuites de robinet aux installations de chauffage les plus complexes, Pärli AG est un partenaire fiable et réactif.",
+      "themes": [
+        "construction",
+        "energie"
+      ],
+      "region": "Bienne / Seeland",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Michel Pasche",
+          "role": "Directeur administratif"
+        }
+      ],
+      "companies": [
+        "parli"
+      ]
+    },
+    {
+      "slug": "arc-jurassien-2013-posalux",
+      "title": "Posalux AG, Biel/Bienne – «Hightech alleine genügt nicht»",
+      "subtitle": "Interview mit René Stössel, CEO Posalux / « Le high-tech ne se suffit pas à lui-même »",
+      "type": "publireportage",
+      "page": "110-111",
+      "imagePdf": "aj2013-posalux",
+      "pdfPages": [
+        1,
+        2
+      ],
+      "summary": "René Stössel, CEO de Posalux, présente ce fabricant biennois de machines-outils automatiques de haute précision : électroérosion par enfonçage pour réaliser sans bavure les trous coniques des injecteurs diesel, machine laser pour les injecteurs essence à injection directe, et perçage mécanique de circuits imprimés multicouches avec des trous jusqu'à 75 µm. L'entreprise emploie 140 personnes à Bienne et 180 avec ses filiales de vente et de service en Allemagne, à Taiwan et en Corée, surtout des ingénieurs, informaticiens et constructeurs, et profite du bilinguisme de la ville. Elle exporte 99 % de sa production, principalement vers l'Europe, l'Asie et la Russie. Misant sur les niches, le service après-vente et le savoir-faire applicatif, Posalux annonce quatre nouvelles technologies au salon EMO de Hanovre. Interview en allemand et en français.",
+      "quote": "Le high-tech ne suffit pas à lui-même. Au contraire, il faut un service après-vente exemplaire.",
+      "themes": [
+        "industrie"
+      ],
+      "region": "Bienne",
+      "language": "de",
+      "people": [
+        {
+          "name": "René Stössel",
+          "role": "CEO"
+        }
+      ],
+      "companies": [
+        "posalux"
+      ]
+    },
+    {
+      "slug": "arc-jurassien-2013-saphirwerk",
+      "title": "SWIP Saphirwerk Industrieprodukte AG, Brügg – \"The Swiss Spirit of Precision\"",
+      "subtitle": "Interview mit Thomas Jordi, Geschäftsleiter Saphirwerk / « L'esprit suisse de la précision »",
+      "type": "publireportage",
+      "page": "112-113",
+      "imagePdf": "aj2013-saphirwerk-industrieprodukte",
+      "pdfPages": [
+        1,
+        2
+      ],
+      "summary": "Thomas Jordi, directeur général de SWIP Saphirwerk Industrieprodukte AG à Brügg, explique la spécialité de l'entreprise : l'usinage de précision des matériaux les plus durs, principalement des céramiques comme le saphir, le rubis, les oxydes de zirconium ou d'aluminium et le nitrure de silicium, appréciées pour leur dureté, leur stabilité et leur résistance à la chaleur et aux produits chimiques. Sa spécialité phare est la bille de très haute précision, utilisée dans les roulements, les palpeurs et billes de référence d'appareils de mesure, ce qui en fait un fournisseur des grands fabricants d'instruments de métrologie. Elle produit aussi des couples piston-cylindre et bille-soupape pour le dosage de liquides, dont la micropompe doseuse mdp+ capable de doser 0,5 microlitre, ainsi que des têtes fémorales en céramique pour la medtech. Contrôles réguliers et rigueur des procédés incarnent son « Swiss spirit of precision ». Texte en allemand et en français.",
+      "quote": "Nous sommes en mesure de fabriquer les billes les plus précises en touchant aux limites des possibilités de mesure.",
+      "themes": [
+        "industrie",
+        "sante"
+      ],
+      "region": "Brügg (Seeland)",
+      "language": "de",
+      "people": [
+        {
+          "name": "Thomas Jordi",
+          "role": "Geschäftsleiter"
+        }
+      ],
+      "companies": [
+        "saphirwerk-industrieprodukte"
+      ]
+    },
+    {
+      "slug": "arc-jurassien-2013-vigier-beton-seeland-jura",
+      "title": "Vigier Beton Seeland Jura",
+      "subtitle": "Im Gespräch mit Erich Wälti, Unternehmensleiter / Entretien avec Erich Wälti, dirigeant de Vigier Beton Seeland Jura",
+      "type": "publireportage",
+      "page": "114-115",
+      "imagePdf": "aj2013-vigier-beton-seeland-jura",
+      "pdfPages": [
+        1,
+        2
+      ],
+      "summary": "Erich Wälti, directeur de Vigier Beton Seeland Jura, présente ce producteur de matériaux de construction leader dans la région. L'entreprise extrait graviers et roches, livre sable, gravier et ballast pour le béton et l'enrobé, ainsi que gravier et pierres du Jura pour routes, jardins et cours d'eau. Elle évacue matériaux d'excavation et de démolition pour les recycler et propose, outre une large gamme de bétons, des mortiers, bétons spéciaux et recyclés, avec camions malaxeurs, pompes et béton projeté. Elle mise sur des solutions complètes, le conseil technique, la recherche et la réduction du CO2. Ses sites se trouvent à Safnern, Lyss, Vorberg Bienne, Granges, Finsterhennen, Bettlach, Loveresse, Sorvilier, Belprahon et Péry. Accompagnés par la fondation Paysage et Gravier, ses sites d'extraction créent des milieux naturels, comme les 85 000 m² de la gravière du Chrützwald à Lyss. Texte en allemand et en français.",
+      "quote": "Des solutions complètes : c'est ce qui fait la force de Vigier Beton.",
+      "themes": [
+        "construction",
+        "energie"
+      ],
+      "region": "Seeland / Jura bernois",
+      "language": "de",
+      "people": [
+        {
+          "name": "Erich Wälti",
+          "role": "Unternehmensleiter"
+        }
+      ],
+      "companies": [
+        "vigier-beton-seeland-jura"
+      ]
+    }
+  ],
+  "companies": [
+    {
+      "slug": "district-du-jura-nord-vaudois",
+      "name": "District du Jura-Nord Vaudois (Préfecture)",
+      "sector": "Administration publique – préfecture",
+      "themes": [
+        "collectivites"
+      ],
+      "description": "La préfecture du district du Jura-Nord vaudois, basée à Yverdon-les-Bains, représente l'Etat de Vaud dans ce vaste district. Son préfet y suit notamment l'aménagement du territoire, le plan directeur régional et les projets de fusion de communes, tout en soutenant la coopération transfrontalière avec la France voisine.",
+      "address": "Moulins 10 - CP 1094",
+      "postalCode": "1401",
+      "city": "Yverdon-les-Bains",
+      "canton": "VD",
+      "country": "Suisse",
+      "phone": "+41 (0) 24 557 77 77",
+      "email": "etienne.roy@vd.ch",
+      "website": "",
+      "contacts": [
+        {
+          "name": "Etienne Roy",
+          "role": "Préfet"
+        }
+      ],
+      "page": "50",
+      "imagePdf": "aj2013-etienne-roy-prefet-jnv",
+      "pdfPages": [
+        1
+      ],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "mairie-de-pontarlier",
+      "name": "Mairie de Pontarlier",
+      "sector": "Collectivité locale (France)",
+      "themes": [
+        "collectivites"
+      ],
+      "description": "La Ville de Pontarlier, dans le Haut-Doubs, est fortement concernée par le phénomène frontalier. Son maire copréside l'aire de proximité transfrontalière Mont d'Or-Chasseron avec Yverdon-les-Bains et la commune entretient des collaborations avec Val-de-Travers et une charte d'amitié avec Yverdon.",
+      "address": "56, rue de la République - B.P. 259",
+      "postalCode": "25304",
+      "city": "Pontarlier Cedex",
+      "canton": "",
+      "country": "France",
+      "phone": "03 81 38 81 38",
+      "email": "mairie.pontarlier@ville-pontarlier.com",
+      "website": "",
+      "contacts": [
+        {
+          "name": "Patrick Genre",
+          "role": "Maire"
+        }
+      ],
+      "page": "19",
+      "imagePdf": "aj2013-patrick-genre-pontarlier",
+      "pdfPages": [
+        1
+      ],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "commune-de-sainte-croix",
+      "name": "Commune de Sainte-Croix",
+      "sector": "Commune",
+      "themes": [
+        "collectivites",
+        "territoire"
+      ],
+      "description": "Ville industrielle et touristique vaudoise de 4700 habitants perchée à 1000 mètres d'altitude, entre Yverdon-les-Bains, Pontarlier et Fleurier. La commune s'investit dans de nombreuses structures régionales et transfrontalières (RVAJ, Conférence transjurassienne, aire de proximité Chasseron/Mont d'Or, Jura & Trois Lacs) et cultive des liens étroits avec Val-de-Travers et Yverdon-les-Bains. La commune publie aussi des annonces avec le Technopole Sainte-Croix (page 79 et 3e de couverture).",
+      "address": "Rue Neuve 10",
+      "postalCode": "1450",
+      "city": "Sainte-Croix",
+      "canton": "VD",
+      "country": "Suisse",
+      "phone": "+41 (0)24 455 41 41",
+      "email": "commune@sainte-croix.ch",
+      "website": "www.sainte-croix.ch",
+      "contacts": [
+        {
+          "name": "Franklin Thévenaz",
+          "role": "Syndic"
+        },
+        {
+          "name": "Michel Staffoni",
+          "role": "Secrétaire municipal"
+        }
+      ],
+      "page": "17, 79, 3e de couverture",
+      "imagePdf": "aj2013-franklin-thevenaz-sainte-croix",
+      "pdfPages": [
+        1
+      ],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "republique-et-canton-du-jura-dfcs",
+      "name": "République et canton du Jura – Département de la Formation, de la Culture et des Sports",
+      "sector": "Administration cantonale – formation",
+      "themes": [
+        "collectivites",
+        "formation"
+      ],
+      "description": "Département cantonal jurassien chargé de la formation, de la culture et des sports, basé à Delémont. Il développe l'apprentissage de l'allemand (11e année à Bâle-Campagne, lycée bilingue avec Laufon, classe bilingue à Delémont) et participe au projet Arc jurassien de valorisation des métiers techniques.",
+      "address": "2, rue du 24-Septembre",
+      "postalCode": "2800",
+      "city": "Delémont",
+      "canton": "JU",
+      "country": "Suisse",
+      "phone": "+41 (0)32 420 54 03",
+      "email": "marie-christine.saner@jura.ch",
+      "website": "www.jura.ch",
+      "contacts": [
+        {
+          "name": "Elisabeth Baume-Schneider",
+          "role": "Ministre"
+        }
+      ],
+      "page": "11",
+      "imagePdf": "aj2013-elisabeth-baume-schneider-ju",
+      "pdfPages": [
+        1
+      ],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "universite-de-neuchatel",
+      "name": "Université de Neuchâtel – Faculté de droit, Centre en aménagement du territoire et urbanisme",
+      "sector": "Enseignement supérieur et recherche",
+      "themes": [
+        "formation",
+        "territoire"
+      ],
+      "description": "Le Centre en aménagement du territoire et urbanisme de la Faculté de droit de l'Université de Neuchâtel (unine) enseigne l'aménagement du territoire et l'urbanisme. Le professeur Pierre-Alain Rumley, ancien directeur de l'Office fédéral du développement territorial, y enseigne.",
+      "address": "Avenue du 1 Mars 28",
+      "postalCode": "2000",
+      "city": "Neuchâtel",
+      "canton": "NE",
+      "country": "Suisse",
+      "phone": "+41 (0)32 718 12 83",
+      "email": "pierre-alain.rumley@unine.ch",
+      "website": "",
+      "contacts": [
+        {
+          "name": "Pierre-Alain Rumley",
+          "role": "Professeur"
+        }
+      ],
+      "page": "06-07",
+      "imagePdf": "aj2013-pierre-alain-rumley-unine",
+      "pdfPages": [
+        1,
+        2
+      ],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "notz-plastics",
+      "name": "Notz Plastics SA",
+      "sector": "Distribution de plastiques semi-finis et de granulés",
+      "themes": [
+        "industrie"
+      ],
+      "description": "Propriété de ThyssenKrupp et active depuis plus de 60 ans, Notz Plastics SA est l'unique fournisseur suisse proposant à la fois des semi-produits plastiques (plaques, tubes, joncs, profils) et des granulés pour l'injection, dont environ 6000 tonnes importées par an. Elle offre livraison rapide et conseil technique en injection, et s'installe en 2013 à Brügg sur près de 5000 m² de stockage.",
+      "address": "20b, rue de Gottstatt",
+      "postalCode": "2504",
+      "city": "Bienne",
+      "canton": "BE",
+      "country": "Suisse",
+      "phone": "+41 (0)32 366 74 00",
+      "email": "info@notz-plastics.ch",
+      "website": "www.notz-plastics.ch",
+      "contacts": [
+        {
+          "name": "Jean-Pierre Besançon",
+          "role": "Directeur"
+        }
+      ],
+      "page": "108",
+      "imagePdf": "aj2013-notz-plastics",
+      "pdfPages": [
+        1
+      ],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "neroxis",
+      "name": "Neroxis SA",
+      "sector": "Capteurs pour la qualité de l'eau et du gaz",
+      "themes": [
+        "energie",
+        "industrie"
+      ],
+      "description": "PME du groupe Veolia Eau Solutions & Technologies issue des technologies du CSEM, Neroxis SA développe et produit des capteurs en silicium pour la mesure du chlore dissous et du méthane dans le gaz naturel ou le biogaz, ainsi qu'un système de surveillance en temps réel de la qualité de l'eau dans les réseaux de distribution, avec réutilisation des produits en fin de vie.",
+      "address": "Rue Jaquet-Droz 7",
+      "postalCode": "2002",
+      "city": "Neuchâtel",
+      "canton": "NE",
+      "country": "Suisse",
+      "phone": "+41 (0)32 720 53 85",
+      "email": "info@neroxis.ch",
+      "website": "",
+      "contacts": [
+        {
+          "name": "Yves de Coulon",
+          "role": "CEO"
+        }
+      ],
+      "page": "64",
+      "imagePdf": "aj2013-neroxis",
+      "pdfPages": [
+        1
+      ],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "bovard",
+      "name": "BOVARD AG / BOVARD SA",
+      "sector": "Conseils en brevets et en marques (propriété intellectuelle)",
+      "themes": [
+        "economie",
+        "horlogerie"
+      ],
+      "description": "Cabinet de conseils en propriété intellectuelle fondé en 1888 à La Chaux-de-Fonds et aujourd'hui basé à Berne, BOVARD accompagne ses clients pour les brevets, marques, designs, droits d'auteur et logiciels, avec une forte expertise en mécanique, horlogerie, électrotechnique et télécoms. Une agence a été ouverte à Bienne en 2012 (rue du Général-Dufour 4, 2502 Biel/Bienne, tél. +41 (0)32 322 32 82).",
+      "address": "Optingenstrasse 16",
+      "postalCode": "3000",
+      "city": "Bern 25",
+      "canton": "BE",
+      "country": "Suisse",
+      "phone": "+41 (0)31 335 20 00",
+      "email": "info@bovard.ch",
+      "website": "www.bovard.ch",
+      "contacts": [
+        {
+          "name": "Tarik Kapic",
+          "role": "Membre de la direction"
+        }
+      ],
+      "page": "62-63",
+      "imagePdf": "aj2013-bovard",
+      "pdfPages": [
+        1,
+        2
+      ],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "fondation-bartimee",
+      "name": "Fondation Bartimée",
+      "sector": "Institution de traitement et de réinsertion des personnes dépendantes",
+      "themes": [
+        "sante",
+        "collectivites"
+      ],
+      "description": "Institution résidentielle de Grandson offrant 24 places de traitement et de réinsertion sociale et professionnelle aux personnes dépendantes aux substances illégales. Elle s'appuie sur une équipe pluridisciplinaire et des ateliers ouverts sur l'économie : menuiserie, produits artisanaux, magasin « La Ressourcerie », laverie industrielle de vaisselle et service traiteur.",
+      "address": "Corcelettes 11",
+      "postalCode": "1422",
+      "city": "Grandson",
+      "canton": "VD",
+      "country": "Suisse",
+      "phone": "+41 (0)24 447 40 30",
+      "email": "info@fondation-bartimee.ch",
+      "website": "www.fondation-bartimee.ch",
+      "contacts": [],
+      "page": "78",
+      "imagePdf": "aj2013-fondation-bartimee",
+      "pdfPages": [
+        1
+      ],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "wirtschaftsraum-bern",
+      "name": "WIRTSCHAFTSRAUM BERN (Espace économique bernois)",
+      "sector": "Promotion économique régionale",
+      "themes": [
+        "economie",
+        "collectivites"
+      ],
+      "description": "Centre de compétence pour la promotion économique de la région de Berne, regroupant 36 communes et rattaché à la Conférence régionale Berne-Mittelland. Il aide entreprises et institutions à s'implanter, gère une base de données de terrains et locaux, anime des réseaux et clusters (consulting, ICT, medtech, cleantech) et met en œuvre la Stratégie 2020 adoptée mi-2012.",
+      "address": "Predigergasse 5, Postfach 669",
+      "postalCode": "3000",
+      "city": "Bern 7",
+      "canton": "BE",
+      "country": "Suisse",
+      "phone": "+41 (0)31 321 77 00",
+      "email": "wirtschaftsraum@bern.ch",
+      "website": "www.wirtschaftsraum.bern.ch",
+      "contacts": [
+        {
+          "name": "Hans-Jürg Gerber",
+          "role": "Leiter / directeur"
+        }
+      ],
+      "page": "44-47",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "ville-d-yverdon-les-bains",
+      "name": "Ville d'Yverdon-les-Bains",
+      "sector": "Commune",
+      "themes": [
+        "collectivites",
+        "territoire"
+      ],
+      "description": "Ville vaudoise du sud de l'Arc jurassien, au bord du lac de Neuchâtel et réputée pour son centre thermal. Membre de la Conférence transjurassienne et du Réseau des villes de l'Arc jurassien, elle est liée à Pontarlier par une charte d'amitié depuis 2003 et s'implique dans la promotion du Pays des Trois-Lacs et du Jura.",
+      "address": "Hôtel de Ville, Place Pestalozzi, Case postale 355",
+      "postalCode": "1401",
+      "city": "Yverdon-les-Bains",
+      "canton": "VD",
+      "country": "Suisse",
+      "phone": "+41 (0)24 423 62 23",
+      "email": "greffe@yverdon-les-bains.ch",
+      "website": "",
+      "contacts": [
+        {
+          "name": "Daniel von Siebenthal",
+          "role": "Syndic"
+        }
+      ],
+      "page": "43",
+      "imagePdf": "aj2013-daniel-von-siebenthal-yverdon",
+      "pdfPages": [
+        1
+      ],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "office-de-promotion-economique-neuchatel",
+      "name": "République et Canton de Neuchâtel – Département de l'économie, Office de promotion économique (OPEN)",
+      "sector": "Promotion économique cantonale",
+      "themes": [
+        "economie",
+        "collectivites"
+      ],
+      "description": "Office cantonal chargé de faire connaître hors des frontières les compétences neuchâteloises en horlogerie, machines, électronique, dispositifs médicaux et agroalimentaire, d'attirer investisseurs et talents et de soutenir la diversité du tissu économique. Le canton participe au réseau de prospection Greater Geneva Berne area.",
+      "address": "Rue de la Gare 2",
+      "postalCode": "2000",
+      "city": "Neuchâtel",
+      "canton": "NE",
+      "country": "Suisse",
+      "phone": "+41 (0)32 889 68 23",
+      "email": "NECO@ne.ch",
+      "website": "www.neuchateleconomie.ch",
+      "contacts": [
+        {
+          "name": "Alain Barbal",
+          "role": "Directeur"
+        }
+      ],
+      "page": "34",
+      "imagePdf": "aj2013-alain-barbal-den-neuchatel",
+      "pdfPages": [
+        1
+      ],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "standortfoerderung-kanton-bern",
+      "name": "Standortförderung Kanton Bern (SF BE)",
+      "sector": "Promotion économique cantonale",
+      "themes": [
+        "economie",
+        "collectivites"
+      ],
+      "description": "Service de promotion économique du canton de Berne, guichet pour les PME : conseil initial, mise en relation, cautionnements, immobilier et terrains industriels, aides à l'innovation et bonus salons, allègements fiscaux. Il promeut le canton à l'étranger via la Greater Geneva Berne area et anime des clusters (précision, médical, ICT, énergie, consulting).",
+      "address": "Münsterplatz 3",
+      "postalCode": "3011",
+      "city": "Bern",
+      "canton": "BE",
+      "country": "Suisse",
+      "phone": "+41 (0)31 633 41 20",
+      "email": "info@berneinvest.com",
+      "website": "www.berneinvest.com",
+      "contacts": [
+        {
+          "name": "Denis Grisel",
+          "role": "Leiter"
+        }
+      ],
+      "page": "32-33",
+      "imagePdf": "aj2013-denis-grisel-standortfoerderung-be",
+      "pdfPages": [
+        1,
+        2
+      ],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "services-industriels-de-delemont",
+      "name": "SID – Services industriels de Delémont",
+      "sector": "Services industriels communaux (énergie, eaux)",
+      "themes": [
+        "energie",
+        "collectivites"
+      ],
+      "description": "Services industriels de la Ville de Delémont, rattachés au Département de l'énergie et des eaux dirigé par le conseiller communal Pierre Brulhart, qui pilote la commission politique du projet Energie « Vers une société à 2000 watts » du Réseau des villes de l'Arc jurassien.",
+      "address": "Route de Bâle 1 - Case postale 2261",
+      "postalCode": "2800",
+      "city": "Delémont 2",
+      "canton": "JU",
+      "country": "Suisse",
+      "phone": "+41 (0)32 421 92 00",
+      "email": "sid@delemont.ch",
+      "website": "",
+      "contacts": [
+        {
+          "name": "Pierre Brulhart",
+          "role": "Conseiller communal, directeur du Département de l'énergie et des eaux"
+        }
+      ],
+      "page": "18",
+      "imagePdf": "aj2013-pierre-brulhart-delemont-rvaj",
+      "pdfPages": [
+        1
+      ],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "reseau-des-villes-de-l-arc-jurassien",
+      "name": "Réseau des villes de l'Arc jurassien (RVAJ)",
+      "sector": "Réseau intercommunal",
+      "themes": [
+        "collectivites",
+        "territoire",
+        "energie"
+      ],
+      "description": "Réseau fondé en 1993 regroupant dix-huit communes de Vaud, Neuchâtel, Jura et Berne. Actif surtout dans le tourisme, il mène aussi le projet Energie « Vers une société à 2000 watts », un passeport cinéma et un projet sur les lieux de mémoire de l'Arc jurassien.",
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "canton": "",
+      "country": "Suisse",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "contacts": [],
+      "page": "18",
+      "imagePdf": "aj2013-pierre-brulhart-delemont-rvaj",
+      "pdfPages": [
+        1
+      ],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "association-ecoparc",
+      "name": "Association Ecoparc",
+      "sector": "Association – développement durable",
+      "themes": [
+        "energie"
+      ],
+      "description": "Association neuchâteloise partenaire de l'exposition itinérante « Mission possible, l'habitat de la société à 2000 watts », gratuite pour ses membres et ceux du RVAJ et de l'Association Cité de l'énergie, et louable par d'autres communes pour 1000 francs.",
+      "address": "Faubourg du Lac 3/CP 2206",
+      "postalCode": "2001",
+      "city": "Neuchâtel",
+      "canton": "NE",
+      "country": "Suisse",
+      "phone": "",
+      "email": "info@ecoparc.ch",
+      "website": "",
+      "contacts": [],
+      "page": "18",
+      "imagePdf": "aj2013-pierre-brulhart-delemont-rvaj",
+      "pdfPages": [
+        1
+      ],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "departement-de-l-economie-neuchatel",
+      "name": "République et canton de Neuchâtel – Département de l'économie, Secrétariat général",
+      "sector": "Administration cantonale – économie",
+      "themes": [
+        "collectivites",
+        "economie"
+      ],
+      "description": "Département cantonal neuchâtelois responsable de l'économie. Le canton porte vis-à-vis de la Confédération le programme intercantonal Arc jurassien 2012-2015 de la politique régionale (3,2 millions de francs), dont la mise en œuvre est déléguée à arcjurassien.ch.",
+      "address": "Château",
+      "postalCode": "2001",
+      "city": "Neuchâtel",
+      "canton": "NE",
+      "country": "Suisse",
+      "phone": "+41 (0)32 889 68 00",
+      "email": "secretariat.dec@ne.ch",
+      "website": "",
+      "contacts": [
+        {
+          "name": "Thierry Grosjean",
+          "role": "Ex-chef du Département"
+        }
+      ],
+      "page": "10",
+      "imagePdf": "aj2013-thierry-grosjean-ne",
+      "pdfPages": [
+        1
+      ],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "posalux",
+      "name": "Posalux AG",
+      "sector": "Machines-outils de micro-usinage (perçage, fraisage, électroérosion)",
+      "themes": [
+        "industrie"
+      ],
+      "description": "Fabricant biennois de machines-outils automatiques de haute précision pour le perçage et le fraisage de circuits imprimés et de matériaux non ferreux, et pour l'usinage par électroérosion ou laser d'injecteurs diesel et essence. 140 collaborateurs à Bienne, 180 avec les filiales d'Allemagne, Taiwan et Corée ; 99 % de la production est exportée.",
+      "address": "Rue Fritz-Oppliger 18",
+      "postalCode": "2500",
+      "city": "Biel/Bienne 6",
+      "canton": "BE",
+      "country": "Suisse",
+      "phone": "+41 (0)32 344 75 00",
+      "email": "info@posalux.net",
+      "website": "www.posalux.net",
+      "contacts": [
+        {
+          "name": "René Stössel",
+          "role": "CEO"
+        }
+      ],
+      "page": "110-111",
+      "imagePdf": "aj2013-posalux",
+      "pdfPages": [
+        1,
+        2
+      ],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "meyer-sintermetall",
+      "name": "Meyer Sintermetall AG",
+      "sector": "Métallurgie des poudres – pièces frittées",
+      "themes": [
+        "industrie",
+        "horlogerie"
+      ],
+      "description": "Entreprise familiale de Studen produisant depuis plus de 60 ans des pièces frittées en fer, inox, tungstène ou alliages spéciaux (engrenages, pignons, rotors, masses pour montres mécaniques), des filtres poreux et les silencieux PorSilent. Elle dispose de 28 presses, six fours de frittage et d'automates CNC, et sert les secteurs machines, horlogerie, électronique, automobile et armement.",
+      "address": "Worbenstrasse 20",
+      "postalCode": "2557",
+      "city": "Studen",
+      "canton": "BE",
+      "country": "Suisse",
+      "phone": "+41 (0)32 373 11 11",
+      "email": "",
+      "website": "www.sintermetall.ch",
+      "contacts": [
+        {
+          "name": "Christoph Meyer",
+          "role": "Direktor"
+        }
+      ],
+      "page": "100-103",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "voser-treuhand",
+      "name": "Voser Treuhand AG",
+      "sector": "Fiduciaire – comptabilité, fiscalité, assainissement",
+      "themes": [
+        "economie"
+      ],
+      "description": "Fiduciaire fondée en 1994 à Nidau par Christian Voser, avec sept collaborateurs. Elle offre comptabilité, salaires, assurances sociales, TVA, fiscalité, accompagnement de créations, transmissions et financements d'entreprises, et se distingue dans le redressement d'entreprises grâce à sa connaissance des autorités et des tribunaux.",
+      "address": "Mittelstrasse 24",
+      "postalCode": "2560",
+      "city": "Nidau",
+      "canton": "BE",
+      "country": "Suisse",
+      "phone": "032 331 29 55",
+      "email": "info@voser-treuhand.ch",
+      "website": "www.voser-treuhand.ch",
+      "contacts": [
+        {
+          "name": "Christian Voser",
+          "role": "Gründer und Geschäftsführer"
+        }
+      ],
+      "page": "95",
+      "imagePdf": "aj2013-voser-treuhand",
+      "pdfPages": [
+        1
+      ],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "hopital-du-jura-bernois",
+      "name": "Hôpital du Jura bernois SA",
+      "sector": "Hôpital régional",
+      "themes": [
+        "sante"
+      ],
+      "description": "Hôpital de proximité sur deux sites, Moutier et Saint-Imier : médecine interne, chirurgie, gériatrie, centre de dialyse et chirurgie de la main à Moutier, maternité à Saint-Imier (record de 300 naissances en 2012). Il exploite un service de sauvetage sur trois bases (Saint-Imier, Moutier, Tramelan). Site de Saint-Imier : Fontenayes 17, 2610 Saint-Imier, tél. +41 (0)32 942 24 22.",
+      "address": "Beausite 49",
+      "postalCode": "2740",
+      "city": "Moutier",
+      "canton": "BE",
+      "country": "Suisse",
+      "phone": "+41 (0)32 494 39 43",
+      "email": "direction@hjbe.ch",
+      "website": "www.hjbe.ch",
+      "contacts": [
+        {
+          "name": "Dominique Sartori",
+          "role": "Directeur général"
+        },
+        {
+          "name": "Pierre-Alain Triverio",
+          "role": "Médecin-chef en médecine interne"
+        }
+      ],
+      "page": "84-85",
+      "imagePdf": "aj2013-hopital-du-jura-bernois",
+      "pdfPages": [
+        1,
+        2
+      ],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "ernst-young-bern",
+      "name": "Ernst & Young AG (Bern)",
+      "sector": "Audit, fiscalité, transactions et conseil",
+      "themes": [
+        "economie"
+      ],
+      "description": "Siège bernois du réseau international Ernst & Young, avec environ 280 collaborateurs, actif en audit, conseil fiscal, transactions et advisory. Numéro un de l'audit des sociétés du SMI (35 % de parts de marché), il est fortement implanté auprès des entreprises moyennes du Mittelland et forme de nombreux jeunes diplômés.",
+      "address": "Belpstrasse 23",
+      "postalCode": "3001",
+      "city": "Bern",
+      "canton": "BE",
+      "country": "Suisse",
+      "phone": "+41 (0)58 286 6111",
+      "email": "",
+      "website": "www.ey.com/CH",
+      "contacts": [
+        {
+          "name": "Thomas Nösberger",
+          "role": "Leiter Ernst & Young Bern"
+        }
+      ],
+      "page": "74-75",
+      "imagePdf": "aj2013-ernst-young-bern",
+      "pdfPages": [
+        1,
+        2
+      ],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "emch-berger-bern",
+      "name": "Emch+Berger AG Bern",
+      "sector": "Ingénierie, planification et conseil (infrastructures)",
+      "themes": [
+        "construction",
+        "mobilite",
+        "energie"
+      ],
+      "description": "Principale société du groupe Emch+Berger (plus de 500 collaborateurs, plus de 20 sites en Suisse), avec environ 200 collaborateurs et apprentis. Elle planifie infrastructures de transport, d'énergie et de communication, ouvrages d'art et systèmes ferroviaires : place Wankdorf à Berne, tunnel du Büttenberg sur l'A5 à Bienne, ETCS niveau 2 au Danemark via sa succursale de Copenhague. Fondée il y a 60 ans (1953).",
+      "address": "Schlösslistrasse 23, Postfach 6025",
+      "postalCode": "3001",
+      "city": "Bern",
+      "canton": "BE",
+      "country": "Suisse",
+      "phone": "+41 (0)31 385 61 11",
+      "email": "bern@emchberger.ch",
+      "website": "www.emchberger.ch",
+      "contacts": [
+        {
+          "name": "Kurt E. Wagner",
+          "role": "VR-Delegierter und CEO"
+        },
+        {
+          "name": "Mirko Feller",
+          "role": "Stv. CEO"
+        }
+      ],
+      "page": "68-71",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "annax-schweiz",
+      "name": "ANNAX Schweiz AG / ANNAX Suisse S.A.",
+      "sector": "Systèmes d'information voyageurs pour le ferroviaire",
+      "themes": [
+        "mobilite",
+        "industrie"
+      ],
+      "description": "Filiale bernoise du groupe ANNAX, l'un des leaders mondiaux des systèmes mobiles d'information voyageurs pour trains, métros et tramways. Elle maîtrise développement, production, montage, service et vente, avec une usine en Chine et une fabrication mécanique en Allemagne, et propose des solutions IP, des applications mobiles pour le personnel et le guidage des passagers vers les places libres.",
+      "address": "Zentweg 9",
+      "postalCode": "3006",
+      "city": "Bern",
+      "canton": "BE",
+      "country": "Suisse",
+      "phone": "+41 (0)31 950 86 00",
+      "email": "sales@annax.com",
+      "website": "www.annax.com",
+      "contacts": [
+        {
+          "name": "Martin Jaeggi",
+          "role": "Unternehmensleiter"
+        }
+      ],
+      "page": "56-57",
+      "imagePdf": "aj2013-annax-schweiz",
+      "pdfPages": [
+        1,
+        2
+      ],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "bawaco",
+      "name": "bawaco ag",
+      "sector": "Ingénierie et construction d'installations pour l'industrie alimentaire liquide",
+      "themes": [
+        "industrie"
+      ],
+      "description": "Entreprise bernoise fondée en 2003, spécialisée dans la planification, l'automatisation et la construction d'installations pour l'industrie laitière et la transformation des fruits (laiteries complètes, lignes aseptiques, pasteurisation de jus). Constructeur indépendant offrant un support en ligne permanent, elle réalise environ 50 % de ses affaires en Suisse et dispose de bureaux en Allemagne et à Moscou.",
+      "address": "Stauffacherstrasse 77",
+      "postalCode": "3014",
+      "city": "Bern",
+      "canton": "BE",
+      "country": "Suisse",
+      "phone": "+41 (0)31 961 68 61",
+      "email": "bawaco@bawaco.ch",
+      "website": "www.bawaco.ch",
+      "contacts": [
+        {
+          "name": "Walter Bartlomé",
+          "role": "CEO"
+        }
+      ],
+      "page": "58-59",
+      "imagePdf": "aj2013-bawaco",
+      "pdfPages": [
+        1,
+        2
+      ],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "stadt-biel-stadtmarketing",
+      "name": "Stadt Biel – Stadtmarketing / Wirtschaftsförderung",
+      "sector": "Promotion économique communale",
+      "themes": [
+        "economie",
+        "collectivites"
+      ],
+      "description": "Service de promotion économique et de marketing urbain de la Ville de Bienne, métropole horlogère (Swatch, Omega, Rolex, Movado). Il valorise le terrain à bâtir communal pour des projets à forte valeur ajoutée (Bözingenfeld, Masterplan-Gare, Gurzelen, AGGLOlac), aide à la recherche de locaux et peut accorder des prêts pour des investissements créateurs d'emplois.",
+      "address": "Zentralstrasse 49",
+      "postalCode": "2501",
+      "city": "Biel",
+      "canton": "BE",
+      "country": "Suisse",
+      "phone": "+41 (0)32 326 13 21",
+      "email": "marketing@biel-bienne.ch",
+      "website": "www.biel-bienne.ch",
+      "contacts": [
+        {
+          "name": "Thomas Gfeller",
+          "role": "Delegierter für Wirtschaft"
+        }
+      ],
+      "page": "48-49",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "tiefbauamt-stadt-bern",
+      "name": "Tiefbauamt der Stadt Bern (Office des ponts et chaussées de la ville de Berne)",
+      "sector": "Administration communale – génie civil et espace public",
+      "themes": [
+        "construction",
+        "mobilite",
+        "collectivites"
+      ],
+      "description": "Office de la Direction du génie civil, des transports et des espaces verts de la ville de Berne, avec environ 350 collaborateurs. Il construit, exploite et entretient rues, places, ponts, chemins, ouvrages hydrauliques et réseau d'assainissement, gère le trafic urbain et pilote des projets comme l'assainissement de la Marktgasse, la protection contre les crues de l'Aar et Tram Région Berne.",
+      "address": "Bundesgasse 38 - Postfach",
+      "postalCode": "3001",
+      "city": "Bern",
+      "canton": "BE",
+      "country": "Suisse",
+      "phone": "+41 (0)31 321 64 75",
+      "email": "tiefbauamt@bern.ch",
+      "website": "www.bern.ch/tiefbauamt",
+      "contacts": [
+        {
+          "name": "Hans-Peter Wyss",
+          "role": "Stadtingenieur"
+        }
+      ],
+      "page": "40-41",
+      "imagePdf": "aj2013-hans-peter-wyss-tiefbauamt-bern",
+      "pdfPages": [
+        1,
+        2
+      ],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "bauinspektorat-stadt-bern",
+      "name": "Stadt Bern – Bauinspektorat",
+      "sector": "Administration communale – permis de construire et police des constructions",
+      "themes": [
+        "construction",
+        "collectivites"
+      ],
+      "description": "Inspection des constructions de la ville de Berne : conduite de la procédure de permis de construire, police des constructions, contrôle et police du feu. Elle conseille entreprises et particuliers, notamment via des demandes préalables écrites, et veille au respect de la protection du logement dans une ville où le taux de vacance est inférieur à 0,5 %.",
+      "address": "Bundesgasse 38 - Postfach",
+      "postalCode": "3001",
+      "city": "Bern",
+      "canton": "BE",
+      "country": "Suisse",
+      "phone": "+41 (0)31 321 65 65",
+      "email": "bauinspektorat@bern.ch",
+      "website": "www.bern.ch",
+      "contacts": [
+        {
+          "name": "Martin Baumann",
+          "role": "Stadtbauinspektor"
+        }
+      ],
+      "page": "42",
+      "imagePdf": "aj2013-martin-baumann-stadtbauinspektor-bern",
+      "pdfPages": [
+        1
+      ],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "republique-et-canton-de-neuchatel-decs",
+      "name": "République et canton de Neuchâtel – Département de l'éducation, de la culture et des sports (DECS)",
+      "sector": "Administration cantonale – formation",
+      "themes": [
+        "formation",
+        "collectivites"
+      ],
+      "description": "Département cantonal neuchâtelois chargé de l'éducation, de la culture et des sports. Il a engagé des réformes pour revaloriser la formation duale, collabore avec la HE-Arc, la HEP-BEJUNE et le CIFOM et vise à porter à 95 % la part de la population titulaire d'un diplôme du secondaire II.",
+      "address": "Le Château / Case postale",
+      "postalCode": "2000",
+      "city": "Neuchâtel",
+      "canton": "NE",
+      "country": "Suisse",
+      "phone": "+41 (0)32 889 69 00",
+      "email": "secretariat.DECS@ne.ch",
+      "website": "www.ne.ch",
+      "contacts": [
+        {
+          "name": "Philippe Gnaegi",
+          "role": "Ancien chef du département"
+        }
+      ],
+      "page": "30",
+      "imagePdf": "aj2013-philippe-gnaegi-ne",
+      "pdfPages": [
+        1
+      ],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "atelier-pour-la-democratie-directe",
+      "name": "Atelier für Direkte Demokratie / Atelier pour la démocratie directe",
+      "sector": "Atelier de réflexion et maison d'édition (démocratie directe)",
+      "themes": [
+        "territoire",
+        "formation"
+      ],
+      "description": "Installé depuis 1998 à Saint-Ursanne et dirigé par Andreas Gross, l'atelier abrite l'une des bibliothèques les plus riches de Suisse sur la démocratie directe, l'utopie et l'Europe. Il édite sans subvention, en allemand et en français, les ouvrages des Editions le Doubs, notamment la collection « Service public », avec trois collaborateurs.",
+      "address": "Postfach / Case postale",
+      "postalCode": "2882",
+      "city": "St-Ursanne",
+      "canton": "JU",
+      "country": "Suisse",
+      "phone": "",
+      "email": "info@andigross.ch",
+      "website": "www.andigross.ch",
+      "contacts": [
+        {
+          "name": "Andreas Gross",
+          "role": "Leiter / directeur"
+        }
+      ],
+      "page": "26-29",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "ostaj",
+      "name": "OSTAJ – Observatoire statistique transfrontalier de l'Arc jurassien",
+      "sector": "Statistique publique transfrontalière",
+      "themes": [
+        "economie",
+        "territoire",
+        "collectivites"
+      ],
+      "description": "Observatoire créé en 2005 réunissant la Région Franche-Comté, l'Etat et l'INSEE avec arcjurassien.ch et les services statistiques de Neuchâtel, Jura, Berne et Vaud. Coordonné côté suisse par le service statistique neuchâtelois, il publie analyses et cartographie sur l'économie, le travail frontalier, la démographie et la formation. Antenne française : Rue Louis Garnier 8 - BP 1997, F-25010 Besançon Cedex, tél. +33 (3)81 41 61 61, ostaj-franche-comte@insee.fr.",
+      "address": "Rue du Château 19",
+      "postalCode": "2001",
+      "city": "Neuchâtel",
+      "canton": "NE",
+      "country": "Suisse",
+      "phone": "+41 (0)32 889 44 09",
+      "email": "ostaj@ne.ch",
+      "website": "",
+      "contacts": [
+        {
+          "name": "Gérard Geiser",
+          "role": "Coordinateur côté suisse"
+        }
+      ],
+      "page": "22-23",
+      "imagePdf": "aj2013-gerard-geiser-ostaj",
+      "pdfPages": [
+        1,
+        2
+      ],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "vigier-beton-seeland-jura",
+      "name": "Vigier Beton Seeland Jura AG",
+      "sector": "Béton, granulats et recyclage de matériaux de construction",
+      "themes": [
+        "construction",
+        "energie"
+      ],
+      "description": "Producteur régional de béton, mortiers, granulats et pierres du Jura, actif aussi dans l'évacuation et le recyclage des matériaux de démolition, avec flotte de malaxeurs, pompes à béton et béton projeté. Sites à Safnern, Lyss, Vorberg Bienne, Granges, Finsterhennen, Bettlach, Loveresse, Sorvilier, Belprahon et Péry ; ses gravières font l'objet d'un suivi écologique.",
+      "address": "Werkstrasse 12",
+      "postalCode": "2553",
+      "city": "Safnern",
+      "canton": "BE",
+      "country": "Suisse",
+      "phone": "+41 (0)32 355 25 25",
+      "email": "Seeland-jura@vigier-beton.ch",
+      "website": "www.vigier-beton-seeland-jura.ch",
+      "contacts": [
+        {
+          "name": "Erich Wälti",
+          "role": "Unternehmensleiter"
+        }
+      ],
+      "page": "114-115",
+      "imagePdf": "aj2013-vigier-beton-seeland-jura",
+      "pdfPages": [
+        1,
+        2
+      ],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "nms-bern",
+      "name": "NMS Bern",
+      "sector": "Institution privée de formation (école obligatoire à formation des enseignants)",
+      "themes": [
+        "formation"
+      ],
+      "description": "Ecole privée bernoise proposant école obligatoire, dixièmes années, école de culture générale, gymnase et formation des enseignants du préscolaire et du primaire (Bachelor PHBern). Elle mise sur l'apprentissage autonome, des concepts pédagogiques innovants, la gestion de la qualité QuES/EFQM et l'éducation au développement durable. Siège au Waisenhausplatz à Berne.",
+      "address": "Waisenhausplatz 29",
+      "postalCode": "3011",
+      "city": "Bern",
+      "canton": "BE",
+      "country": "Suisse",
+      "phone": "+41 (0)31 310 85 85",
+      "email": "info@nmsbern.ch",
+      "website": "www.nmsbern.ch",
+      "contacts": [
+        {
+          "name": "Annette Geissbühler",
+          "role": "Direktorin"
+        }
+      ],
+      "page": "104-107",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "l-klein",
+      "name": "L. Klein AG / L. Klein SA",
+      "sector": "Stockage et négoce d'aciers fins et de métaux",
+      "themes": [
+        "industrie",
+        "horlogerie",
+        "sante"
+      ],
+      "description": "Entreprise familiale fondée en 1946 à Bienne, stockiste et négociant d'aciers inoxydables spéciaux, aciers trempables, alliages de titane et de cobalt-chrome et aciers issus de la métallurgie des poudres (LAW 100 X, CHRONIFER M-15 X) pour le décolletage horloger, médical, dentaire et automobile. Elle réalise 40 % de son chiffre d'affaires à l'export.",
+      "address": "Chemin du Long-Champ 110, Postfach 8358",
+      "postalCode": "2500",
+      "city": "Biel/Bienne 8",
+      "canton": "BE",
+      "country": "Suisse",
+      "phone": "+41 (0)32 341 73 73",
+      "email": "info@kleinmetals.ch",
+      "website": "www.kleinmetals.ch",
+      "contacts": [
+        {
+          "name": "Olivier Schiess",
+          "role": "Geschäftsleiter"
+        },
+        {
+          "name": "Philippe Schiess",
+          "role": "Geschäftsleiter"
+        }
+      ],
+      "page": "96-99",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "itten-brechbuhl",
+      "name": "Itten+Brechbühl AG / SA",
+      "sector": "Architecture et planification générale",
+      "themes": [
+        "architecture",
+        "construction"
+      ],
+      "description": "Bureau d'architecture et de planification générale bernois fondé il y a 90 ans par Otto Rudolf Salvisberg, avec 250 collaborateurs et 70 millions de francs de chiffre d'affaires. Références : centre INO de l'Inselspital, hôpital cantonal d'Aarau, terminal Skylink de Vienne, The Dolder Grand à Zurich, Lyssbachpark à Lyss et nouveaux bâtiments de Swatch et Omega à Bienne avec Shigeru Ban.",
+      "address": "Nordring 4A, Postfach 608",
+      "postalCode": "3000",
+      "city": "Bern 25",
+      "canton": "BE",
+      "country": "Suisse",
+      "phone": "+41 (0)31 340 81 11",
+      "email": "architects@ittenbrechbuehl.ch",
+      "website": "www.ittenbrechbuehl.ch",
+      "contacts": [
+        {
+          "name": "Christoph Arpagaus",
+          "role": "Vorsitzender der Geschäftsleitung"
+        }
+      ],
+      "page": "90-94",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "hrs-real-estate",
+      "name": "HRS Real Estate AG",
+      "sector": "Développement immobilier et entreprise totale",
+      "themes": [
+        "construction",
+        "architecture"
+      ],
+      "description": "Développeur immobilier et entreprise totale basé à Frauenfeld, spécialiste des stades et centres commerciaux. Il réalise les Stades de Bienne (hockey 7000 places, football 6000 places, curling, commerces) et a mené des projets comme Messe Basel, PostFinance à Berne, le dock B de l'aéroport de Zurich, le Swiss Tech Convention Center de l'EPFL et le stade de la Maladière.",
+      "address": "Walzmühlestrasse 48",
+      "postalCode": "8501",
+      "city": "Frauenfeld",
+      "canton": "TG",
+      "country": "Suisse",
+      "phone": "+41 (0)52 728 80 80",
+      "email": "frauenfeld@hrs.ch",
+      "website": "www.hrs.ch",
+      "contacts": [
+        {
+          "name": "Martin Kull",
+          "role": "VR-Delegierter, CEO und Inhaber"
+        }
+      ],
+      "page": "86-89",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "energie-service-biel-bienne",
+      "name": "Energie Service Biel/Bienne (ESB)",
+      "sector": "Services industriels – électricité, gaz, eau, télécommunications",
+      "themes": [
+        "energie",
+        "collectivites"
+      ],
+      "description": "Entreprise communale autonome d'environ 150 collaborateurs assurant l'approvisionnement de Bienne et du Seeland en électricité, gaz naturel, eau et télécommunications. Elle fournit depuis 2012 un courant standard 100 % hydraulique suisse, propose du courant écologique certifié, une hotline énergie, un cadastre solaire et des contrats de chauffage (contracting).",
+      "address": "Gottstattstrasse 4, Postfach 4263",
+      "postalCode": "2500",
+      "city": "Biel 4",
+      "canton": "BE",
+      "country": "Suisse",
+      "phone": "+41 (0)32 321 12 11",
+      "email": "info@esb.ch",
+      "website": "www.esb.ch",
+      "contacts": [
+        {
+          "name": "Heinz Binggeli",
+          "role": "Direktor"
+        }
+      ],
+      "page": "72-73",
+      "imagePdf": "aj2013-energie-service-biel-bienne",
+      "pdfPages": [
+        1,
+        2
+      ],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "corum",
+      "name": "Montres Corum Sàrl",
+      "sector": "Haute horlogerie",
+      "themes": [
+        "horlogerie"
+      ],
+      "description": "Manufacture horlogère fondée en 1955 à La Chaux-de-Fonds par René Bannwart, dirigée depuis 2005 par Antonio Calce. Ses collections phares sont l'Admiral's Cup, les Corum Bridges (Golden Bridge et son mouvement baguette, Ti-Bridge), Romvlvs et Artisans ; la clé est l'emblème de la marque. Corum figure aussi en 4e de couverture du magazine.",
+      "address": "Rue du Petit-Château 1, Case postale 374",
+      "postalCode": "2301",
+      "city": "La Chaux-de-Fonds",
+      "canton": "NE",
+      "country": "Suisse",
+      "phone": "+41 (0)32 967 06 70",
+      "email": "info@corum.ch",
+      "website": "www.corum.ch",
+      "contacts": [
+        {
+          "name": "Antonio Calce",
+          "role": "CEO"
+        }
+      ],
+      "page": "66-67, 4e de couverture",
+      "imagePdf": "aj2013-corum",
+      "pdfPages": [
+        1,
+        2
+      ],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "cendres-metaux",
+      "name": "Cendres+Métaux SA",
+      "sector": "Métaux précieux – horlogerie, bijouterie, médical, dentaire, affinage",
+      "themes": [
+        "horlogerie",
+        "sante",
+        "industrie"
+      ],
+      "description": "Groupe biennois fondé en 1885, d'environ 430 collaborateurs, qui transforme les métaux précieux en produits haut de gamme : masses oscillantes et alliages pour l'horlogerie et la bijouterie, produits médicaux et dentaires, affinage et expertise. Médical 35 %, dentaire 30 %, horlogerie 25 %, bijouterie 10 % ; agrandissement du site de Bienne lancé en 2012.",
+      "address": "Rue de Boujean 122 / P.O. Box",
+      "postalCode": "2501",
+      "city": "Bienne",
+      "canton": "BE",
+      "country": "Suisse",
+      "phone": "+41 (0)58 360 20 00",
+      "email": "info@cmsa.ch",
+      "website": "www.cmsa.ch",
+      "contacts": [
+        {
+          "name": "Freddy Lei",
+          "role": "CEO"
+        },
+        {
+          "name": "Claudio Penna",
+          "role": "Responsable Horlogerie, Bijouterie et Refining"
+        }
+      ],
+      "page": "61",
+      "imagePdf": "aj2013-cendres-metaux",
+      "pdfPages": [
+        1
+      ],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "cendres-metaux-galetan",
+      "name": "Cendres+Métaux Galétan SA",
+      "sector": "Composants horlogers en métaux précieux",
+      "themes": [
+        "horlogerie"
+      ],
+      "description": "Filiale chaux-de-fonnière du groupe biennois Cendres+Métaux, acquise en 2008 dans le but de renforcer les activités horlogères du groupe. Elle emploie une quinzaine de personnes et s'inscrit dans la division horlogerie et bijouterie, qui produit masses oscillantes et composants en alliages de métaux précieux.",
+      "address": "Boulevard des Eplatures 46d",
+      "postalCode": "2300",
+      "city": "La Chaux-de-Fonds",
+      "canton": "NE",
+      "country": "Suisse",
+      "phone": "+41 (0)58 360 21 20",
+      "email": "galetan@cmsa.ch",
+      "website": "www.cmsa.ch",
+      "contacts": [],
+      "page": "61",
+      "imagePdf": "aj2013-cendres-metaux",
+      "pdfPages": [
+        1
+      ],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "adax",
+      "name": "Adax SA",
+      "sector": "Décolletage de haute précision",
+      "themes": [
+        "industrie",
+        "mobilite"
+      ],
+      "description": "Décolleteur de Bevaix (55 collaborateurs) d'origine horlogère, spécialiste des très petites pièces (0,15 à 20 mm) : axes, goupilles, aiguilles et rouleaux de précision pour l'aéronautique (Airbus), l'automobile, le médical et les micromoteurs. Parc de 75 machines, dont 25 CNC, et finition complète à l'interne (roulage, rodage, rectification centerless, polissage).",
+      "address": "Ch. Chapons-des-Prés 1",
+      "postalCode": "2022",
+      "city": "Bevaix",
+      "canton": "NE",
+      "country": "Suisse",
+      "phone": "+41 (0)32 847 96 00",
+      "email": "info@adax.ch",
+      "website": "www.adax.ch",
+      "contacts": [
+        {
+          "name": "Urs Kamber",
+          "role": "Directeur général"
+        }
+      ],
+      "page": "54-55",
+      "imagePdf": "aj2013-adax",
+      "pdfPages": [
+        1,
+        2
+      ],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "j-baertschi",
+      "name": "Fabrique de décolletage J. Baertschi SA",
+      "sector": "Décolletage de précision sur multibroches",
+      "themes": [
+        "industrie",
+        "mobilite"
+      ],
+      "description": "Entreprise familiale fondée en 1968 à Crémines, spécialiste du décolletage sur multibroches (capacité 2 à 20 mm) avec une quarantaine de machines à six broches et un parc monobroche. 70 % de sa production va à l'automobile ; elle sert aussi l'électroménager, la connectique, l'aéronautique et l'armement. Certifiée ISO 9001 et ISO/TS 16949, environ 40 collaborateurs sur 2700 m².",
+      "address": "",
+      "postalCode": "2746",
+      "city": "Crémines / Moutier",
+      "canton": "BE",
+      "country": "Suisse",
+      "phone": "032 499 81 81",
+      "email": "jean.baertschi@bluewin.ch",
+      "website": "http://www.jeanbaertschisa.ch",
+      "contacts": [
+        {
+          "name": "Jean Baertschi",
+          "role": "Fondateur"
+        },
+        {
+          "name": "Alain Baertschi",
+          "role": ""
+        }
+      ],
+      "page": "77",
+      "imagePdf": "aj2013-j-baertschi",
+      "pdfPages": [
+        1
+      ],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "manufacture-cartier-horlogerie",
+      "name": "Manufacture Cartier Horlogerie",
+      "sector": "Manufacture horlogère intégrée",
+      "themes": [
+        "horlogerie",
+        "formation"
+      ],
+      "description": "Manufacture de La Chaux-de-Fonds de 33 000 m² réunissant plus de 1000 collaborateurs et 175 métiers. Elle développe, produit et entretient les montres et mouvements Cartier, fabrique la plupart des composants, forme des horlogers via l'Institut Horlogerie Cartier et garantit la réparation de toutes ses créations grâce à l'Atelier Tradition.",
+      "address": "",
+      "postalCode": "",
+      "city": "La Chaux-de-Fonds",
+      "canton": "NE",
+      "country": "Suisse",
+      "phone": "+41 (0)32 927 72 77",
+      "email": "",
+      "website": "",
+      "contacts": [
+        {
+          "name": "Jean-Kley Tulli",
+          "role": "Directeur"
+        }
+      ],
+      "page": "65",
+      "imagePdf": "aj2013-manufacture-cartier-horlogerie",
+      "pdfPages": [
+        1
+      ],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "wirtschaftskammer-biel-seeland",
+      "name": "Wirtschaftskammer Biel-Seeland (WIBS) / Chambre économique Bienne-Seeland",
+      "sector": "Chambre économique régionale",
+      "themes": [
+        "economie",
+        "formation"
+      ],
+      "description": "Chambre économique de plus de 900 membres réunissant entreprises, syndicats, communes, écoles et organisations de la région Bienne-Seeland. Elle mène les projets Fokus Technik (promotion des métiers techniques) et work&home (conciliation travail-famille), organise des événements de réseautage et a porté le lobbying pour le campus technique de la BFH à Bienne.",
+      "address": "Communication Center - Robert-Walser-Platz 7 - Postfach 1340",
+      "postalCode": "2501",
+      "city": "Biel-Bienne",
+      "canton": "BE",
+      "country": "Suisse",
+      "phone": "+41 (0)32 321 94 94",
+      "email": "info@wibs.ch",
+      "website": "www.wibs.ch",
+      "contacts": [
+        {
+          "name": "Esther Thahabi",
+          "role": "Geschäftsführerin"
+        }
+      ],
+      "page": "52-53",
+      "imagePdf": "aj2013-esther-thahabi-wibs",
+      "pdfPages": [
+        1,
+        2
+      ],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "stadt-bern-praesidialdirektion",
+      "name": "Stadt Bern – Präsidialdirektion (Ville de Berne – Mairie)",
+      "sector": "Administration communale",
+      "themes": [
+        "collectivites",
+        "territoire"
+      ],
+      "description": "Direction présidentielle de la ville de Berne, capitale fédérale de quelque 135 000 habitants et 154 000 emplois, chargée notamment du développement urbain et de la culture. Ses priorités : logement abordable, Tram Région Berne, pôles économiques du Wankdorf et d'Ausserholligen, centre médical de l'Ile et préservation de la vieille ville classée à l'UNESCO.",
+      "address": "Junkerngasse 49 - Postfach",
+      "postalCode": "3000",
+      "city": "Bern 8",
+      "canton": "BE",
+      "country": "Suisse",
+      "phone": "",
+      "email": "info@bern.ch",
+      "website": "www.bern.ch",
+      "contacts": [
+        {
+          "name": "Alexander Tschäppät",
+          "role": "Stadtpräsident"
+        }
+      ],
+      "page": "36-39",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "parc-naturel-regional-du-doubs",
+      "name": "Parc naturel régional du Doubs (APNRD)",
+      "sector": "Parc naturel régional",
+      "themes": [
+        "territoire",
+        "energie"
+      ],
+      "description": "Association créée en 1999 réunissant 16 communes du Jura, de Neuchâtel et de Berne, labellisée parc naturel régional d'importance nationale pour dix ans dès le 1er janvier 2013. Elle mène quinze projets de développement durable, dont quatre centres d'interprétation, en partenariat systématique avec le Pays Horloger français.",
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "canton": "",
+      "country": "Suisse",
+      "phone": "+41 (0)32 420 46 70",
+      "email": "anne.girardet@parcdoubs.ch",
+      "website": "parcdoubs.ch",
+      "contacts": [
+        {
+          "name": "Anne Girardet",
+          "role": "Chargée de mission transfrontalière"
+        }
+      ],
+      "page": "24-25",
+      "imagePdf": "aj2013-anne-girardet-parc-du-doubs",
+      "pdfPages": [
+        1,
+        2
+      ],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "pays-horloger",
+      "name": "Pays Horloger",
+      "sector": "Pays (collectivités territoriales françaises) – projet de PNR",
+      "themes": [
+        "territoire",
+        "collectivites"
+      ],
+      "description": "Territoire français de 91 communes du Haut-Doubs qui prépare sa candidature au label de parc naturel régional et collabore avec le Parc du Doubs suisse sur la qualité du Doubs, le tourisme (Chemins de la contrebande) et un comité stratégique transfrontalier.",
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "canton": "",
+      "country": "France",
+      "phone": "+33(0) 381 68 53 54",
+      "email": "anne.girardet@pays-horloger.com",
+      "website": "",
+      "contacts": [
+        {
+          "name": "Anne Girardet",
+          "role": "Chargée de mission transfrontalière"
+        }
+      ],
+      "page": "24-25",
+      "imagePdf": "aj2013-anne-girardet-parc-du-doubs",
+      "pdfPages": [
+        1,
+        2
+      ],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "ville-de-la-chaux-de-fonds",
+      "name": "Ville de La Chaux-de-Fonds – Service des relations régionales et des affaires extérieures",
+      "sector": "Commune",
+      "themes": [
+        "collectivites",
+        "territoire",
+        "horlogerie"
+      ],
+      "description": "Troisième ville de Suisse romande et métropole horlogère inscrite au patrimoine mondial de l'UNESCO. Son service des relations régionales et des affaires extérieures, dirigé par Jean-Daniel Jeanneret, entretient les liens avec les partenaires suisses et la France voisine, notamment au sein de l'Agglomération urbaine du Doubs.",
+      "address": "Passage Léopold-Robert 3",
+      "postalCode": "2300",
+      "city": "La Chaux-de-Fonds",
+      "canton": "NE",
+      "country": "Suisse",
+      "phone": "+41 32 967 64 62",
+      "email": "jean-daniel.jeanneret@ne.ch",
+      "website": "www.chaux-de-fonds.ch",
+      "contacts": [
+        {
+          "name": "Jean-Daniel Jeanneret",
+          "role": "Chef du service"
+        }
+      ],
+      "page": "14-15",
+      "imagePdf": "aj2013-laurent-kurth-ne",
+      "pdfPages": [
+        1,
+        2
+      ],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "ville-de-bienne",
+      "name": "Ville de Bienne – Mairie (Stadt Biel)",
+      "sector": "Commune",
+      "themes": [
+        "collectivites",
+        "economie",
+        "formation"
+      ],
+      "description": "Deuxième ville du canton de Berne, bilingue, siège de grands noms de l'horlogerie (Swatch Group, Rolex, Omega) et d'acteurs de la communication et des technologies vertes. Elle développe un pôle de formation autour du futur campus technique de la BFH et a créé le système de vélos en libre-service Velospot.",
+      "address": "Pont-du-Moulin 5 / Case postale",
+      "postalCode": "2501",
+      "city": "Biel/Bienne",
+      "canton": "BE",
+      "country": "Suisse",
+      "phone": "+41 32 326 11 01",
+      "email": "info.mai@biel-bienne.ch",
+      "website": "www.biel-bienne.ch",
+      "contacts": [
+        {
+          "name": "Erich Fehr",
+          "role": "Maire"
+        }
+      ],
+      "page": "16",
+      "imagePdf": "aj2013-erich-fehr-ville-de-bienne",
+      "pdfPages": [
+        1
+      ],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "canton-de-vaud-affaires-exterieures",
+      "name": "Canton de Vaud – Département des Finances et des Relations extérieures, Office des Affaires extérieures",
+      "sector": "Administration cantonale – relations extérieures",
+      "themes": [
+        "collectivites"
+      ],
+      "description": "Office vaudois chargé des affaires extérieures au sein du département dirigé par Pascal Broulis. Le canton, présent sur l'Arc lémanique et l'Arc jurassien, mène une politique d'ouverture s'appuyant sur les programmes Interreg, le Conseil du Léman et la Conférence transjurassienne.",
+      "address": "Rue de la Paix 6",
+      "postalCode": "1014",
+      "city": "Lausanne",
+      "canton": "VD",
+      "country": "Suisse",
+      "phone": "021 316 44 11",
+      "email": "norbert.zufferey@vd.ch",
+      "website": "www.vd.ch/autorites/departements/dfire/affaires-exterieures/",
+      "contacts": [
+        {
+          "name": "Pascal Broulis",
+          "role": "Conseiller d'Etat, chef du département"
+        },
+        {
+          "name": "Norbert Zufferey",
+          "role": ""
+        }
+      ],
+      "page": "08-09",
+      "imagePdf": "aj2013-pascal-broulis-arcjurassien",
+      "pdfPages": [
+        1,
+        2
+      ],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "arcjurassien-ch",
+      "name": "arcjurassien.ch",
+      "sector": "Association intercantonale de développement régional",
+      "themes": [
+        "collectivites",
+        "territoire"
+      ],
+      "description": "Association créée en 2008 par les cantons de Berne, Vaud, Neuchâtel et Jura, présidée par Pascal Broulis. Elle coordonne les cantons au sein de la Conférence transjurassienne, met en œuvre Interreg France-Suisse pour l'Arc jurassien, assure le secrétariat du RVAJ, pilote les projets Minnovarc et covoiturage et gère le programme de politique régionale 2012-2015. Budget d'environ 450 000 francs, trois collaborateurs.",
+      "address": "Rue de la Paix 13 / Passage Léopold-Robert 3",
+      "postalCode": "2300",
+      "city": "La Chaux-de-Fonds",
+      "canton": "NE",
+      "country": "Suisse",
+      "phone": "+41 (0)32 889 76 05",
+      "email": "info@arcjurassien.ch",
+      "website": "www.arcjurassien.ch",
+      "contacts": [
+        {
+          "name": "Mireille Gasser",
+          "role": "Secrétaire générale"
+        },
+        {
+          "name": "Pascal Broulis",
+          "role": "Président"
+        }
+      ],
+      "page": "04-05",
+      "imagePdf": "aj2013-arcjurassien-ch-mireille-gasser",
+      "pdfPages": [
+        1,
+        2
+      ],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "canton-de-berne-affaires-jurassiennes",
+      "name": "Canton de Berne – Délégation du Conseil-exécutif pour les affaires jurassiennes, Chancellerie d'État",
+      "sector": "Administration cantonale",
+      "themes": [
+        "collectivites"
+      ],
+      "description": "Délégation du gouvernement bernois chargée des affaires jurassiennes, rattachée à la Chancellerie d'Etat. Elle suit notamment le processus de l'Assemblée interjurassienne et le vote sur l'avenir institutionnel du Jura bernois.",
+      "address": "Postgasse 68",
+      "postalCode": "3000",
+      "city": "Berne 8",
+      "canton": "BE",
+      "country": "Suisse",
+      "phone": "+41 (0)31 633 75 20",
+      "email": "info.asr@sta.be.ch",
+      "website": "",
+      "contacts": [
+        {
+          "name": "Philippe Perrenoud",
+          "role": "Conseiller d'Etat"
+        }
+      ],
+      "page": "12",
+      "imagePdf": "aj2013-philippe-perrenoud-be",
+      "pdfPages": [
+        1
+      ],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "saphirwerk-industrieprodukte",
+      "name": "SWIP Saphirwerk Industrieprodukte AG",
+      "sector": "Usinage de céramiques techniques, saphir et rubis",
+      "themes": [
+        "industrie",
+        "sante"
+      ],
+      "description": "Entreprise de Brügg spécialisée dans l'usinage de précision des matériaux les plus durs (saphir, rubis, céramiques oxydes et nitrures) : billes de très haute précision pour roulements et métrologie, couples piston-cylindre et bille-soupape pour le dosage, micropompe mdp+ (0,5 microlitre) et têtes fémorales en céramique pour l'orthopédie.",
+      "address": "Erlenstrasse 36",
+      "postalCode": "2555",
+      "city": "Brügg",
+      "canton": "BE",
+      "country": "Suisse",
+      "phone": "+41 (0)32 374 25 85",
+      "email": "",
+      "website": "",
+      "contacts": [
+        {
+          "name": "Thomas Jordi",
+          "role": "Geschäftsleiter"
+        }
+      ],
+      "page": "112-113",
+      "imagePdf": "aj2013-saphirwerk-industrieprodukte",
+      "pdfPages": [
+        1,
+        2
+      ],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "parli",
+      "name": "Pärli AG",
+      "sector": "Technique du bâtiment – chauffage et sanitaire",
+      "themes": [
+        "construction",
+        "energie"
+      ],
+      "description": "Entreprise biennoise de chauffage et sanitaire forte de 120 ans d'expérience et de 65 collaborateurs, parmi les plus grandes du Seeland en technique du bâtiment. Elle installe pompes à chaleur, solaire, photovoltaïque et chaudières à pellets, rénove des salles de bains, assure un dépannage 24h/24 et propose des contrats de maintenance.",
+      "address": "Renferstrasse 4",
+      "postalCode": "2500",
+      "city": "Bienne 8",
+      "canton": "BE",
+      "country": "Suisse",
+      "phone": "+41 (0)32 344 05 05",
+      "email": "info@paerli.ch",
+      "website": "www.paerli.ch",
+      "contacts": [
+        {
+          "name": "Michel Pasche",
+          "role": "Directeur administratif"
+        }
+      ],
+      "page": "109",
+      "imagePdf": "aj2013-parli",
+      "pdfPages": [
+        1
+      ],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "geotest",
+      "name": "GEOTEST AG / GEOTEST SA",
+      "sector": "Géologie, géotechnique, géophysique et environnement",
+      "themes": [
+        "construction",
+        "energie"
+      ],
+      "description": "Bureau fondé en 1962, d'environ 120 collaborateurs, siège à Zollikofen et succursales à Davos, Zurich, Horw, Fribourg et Le Mont-sur-Lausanne. Il intervient en géotechnique, hydrogéologie, sites contaminés, dangers naturels, tunnels, géophysique et essais de matériaux, notamment pour le contournement H20 du Locle et l'assainissement de la décharge de Lischenweg à Bienne.",
+      "address": "Birkenstrasse 15",
+      "postalCode": "3052",
+      "city": "Zollikofen",
+      "canton": "BE",
+      "country": "Suisse",
+      "phone": "+41 (0)31 910 01 01",
+      "email": "Zollikofen@geotest.ch",
+      "website": "www.geotest.ch",
+      "contacts": [
+        {
+          "name": "R. Brinkmann",
+          "role": "Geschäftsleitung"
+        },
+        {
+          "name": "Ch. Meyer",
+          "role": "Geschäftsleitung"
+        }
+      ],
+      "page": "80-83",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "fafco",
+      "name": "FAFCO S.A.",
+      "sector": "Accumulateurs de glace et capteurs solaires",
+      "themes": [
+        "energie",
+        "industrie"
+      ],
+      "description": "Entreprise biennoise fondée en 1981, leader mondial des accumulateurs de glace pour la climatisation et la réfrigération, et fabricant de capteurs solaires en tubes plastiques convertissant 95 % du rayonnement en chaleur. Ses installations équipent l'aéroport de Genève, des centres commerciaux au Vietnam, une centrale en Afrique du Sud et l'usine Rolex de Bienne.",
+      "address": "Johann-Renfer 4-6",
+      "postalCode": "2504",
+      "city": "Biel/Bienne",
+      "canton": "BE",
+      "country": "Suisse",
+      "phone": "+41 (0)32 342 33 52",
+      "email": "info@fafco.ch",
+      "website": "www.fafco.ch",
+      "contacts": [],
+      "page": "76",
+      "imagePdf": "aj2013-fafco",
+      "pdfPages": [
+        1
+      ],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "minnovarc",
+      "name": "Minnovarc – Innovation franco-suisse dans les microtechniques",
+      "sector": "Programme Interreg d'innovation",
+      "themes": [
+        "formation",
+        "industrie"
+      ],
+      "description": "Projet Interreg 2009-2013 porté par arcjurassien.ch et la CCI du Doubs pour renforcer l'innovation et la diversification des entreprises microtechniques de l'Arc jurassien (medtech, greentech, transports, sécurité), via un think tank et des ateliers réunissant entreprises et laboratoires. Antenne suisse hébergée par arcjurassien.ch à La Chaux-de-Fonds.",
+      "address": "Rue de la Paix 13",
+      "postalCode": "2300",
+      "city": "La Chaux-de-Fonds",
+      "canton": "NE",
+      "country": "Suisse",
+      "phone": "+41 (0)32 889 76 76",
+      "email": "agabus@minnovarc.eu",
+      "website": "www.minnovarc.eu",
+      "contacts": [
+        {
+          "name": "Pierre Rossel",
+          "role": "Chef de projet"
+        },
+        {
+          "name": "Alexandre Gabus",
+          "role": "Minnovarc Suisse"
+        }
+      ],
+      "page": "20",
+      "imagePdf": "aj2013-pierre-rossel-minnovarc",
+      "pdfPages": [
+        1
+      ],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "cci-du-doubs",
+      "name": "CCI – Chambre de commerce et d'industrie du Doubs",
+      "sector": "Chambre consulaire (France)",
+      "themes": [
+        "economie"
+      ],
+      "description": "Chambre de commerce et d'industrie territoriale du Doubs, à Besançon, porteuse côté français du projet Interreg Minnovarc aux côtés d'arcjurassien.ch. Elle coordonne avec son partenaire suisse les ateliers « Microtechniques & Innovation » destinés à diversifier les entreprises microtechniques de l'Arc jurassien franco-suisse.",
+      "address": "46, avenue Villarceau",
+      "postalCode": "25042",
+      "city": "Besançon",
+      "canton": "",
+      "country": "France",
+      "phone": "+33 (3)81 25 25 76",
+      "email": "cmascaro@minnovarc.eu",
+      "website": "",
+      "contacts": [
+        {
+          "name": "Cécile Mascaro",
+          "role": "Minnovarc France"
+        }
+      ],
+      "page": "20",
+      "imagePdf": "aj2013-pierre-rossel-minnovarc",
+      "pdfPages": [
+        1
+      ],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "besancon-electricite",
+      "name": "Besançon électricité – Eric Besançon",
+      "sector": "Installations électriques",
+      "themes": [
+        "construction"
+      ],
+      "description": "Entreprise d'installations électriques établie à Chavornay, dans le Nord vaudois, dirigée par Eric Besançon. Elle apparaît dans le magazine uniquement par une annonce publicitaire partagée avec l'agence Rêve Immob en page 60, qui indique ses numéros de téléphone, de fax et de portable.",
+      "address": "Grand-Rue 37",
+      "postalCode": "1373",
+      "city": "Chavornay",
+      "canton": "VD",
+      "country": "Suisse",
+      "phone": "+41 (0)24 441 49 01",
+      "email": "",
+      "website": "",
+      "contacts": [
+        {
+          "name": "Eric Besançon",
+          "role": ""
+        }
+      ],
+      "page": "60",
+      "imagePdf": "aj2013-besancon-electricite-et-reve-immob",
+      "pdfPages": [
+        1
+      ],
+      "advertiserOnly": true
+    },
+    {
+      "slug": "reve-immob",
+      "name": "Rêve Immob Sàrl",
+      "sector": "Immobilier – gérance, courtage, construction, promotion",
+      "themes": [
+        "architecture"
+      ],
+      "description": "Agence immobilière d'Orbe active dans la gérance, le courtage, la construction, la promotion, l'achat, la vente, la location et l'estimation de biens, présente par une annonce au slogan « …osez rêver en couleur ! ».",
+      "address": "Av. de Thienne 13",
+      "postalCode": "1350",
+      "city": "Orbe",
+      "canton": "VD",
+      "country": "Suisse",
+      "phone": "024 442 85 00",
+      "email": "",
+      "website": "www.reve-immob.com",
+      "contacts": [],
+      "page": "60",
+      "imagePdf": "aj2013-besancon-electricite-et-reve-immob",
+      "pdfPages": [
+        1
+      ],
+      "advertiserOnly": true
+    },
+    {
+      "slug": "technopole-sainte-croix",
+      "name": "Technopole Sainte-Croix",
+      "sector": "Promotion économique – technopôle",
+      "themes": [
+        "economie",
+        "industrie"
+      ],
+      "description": "Technopôle de Sainte-Croix promu conjointement avec la commune dans les annonces « Ville de Sainte-Croix – proche de tout, proche de vous » publiées en page 79 et en 3e de couverture du magazine.",
+      "address": "",
+      "postalCode": "1450",
+      "city": "Sainte-Croix",
+      "canton": "VD",
+      "country": "Suisse",
+      "phone": "+41 (0)24 455 41 41",
+      "email": "",
+      "website": "www.technopole1450.ch",
+      "contacts": [],
+      "page": "79, 3e de couverture",
+      "imagePdf": "aj2013-ville-de-sainte-croix",
+      "pdfPages": [
+        1,
+        2
+      ],
+      "advertiserOnly": true
+    }
+  ]
+}
