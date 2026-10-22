@@ -14,7 +14,7 @@ import sys
 import tempfile
 from pathlib import Path
 
-from PIL import Image, ImageStat
+from PIL import Image, ImageFilter, ImageStat
 
 Image.MAX_IMAGE_PIXELS = 200_000_000
 
@@ -37,7 +37,26 @@ def good(w, h, small):
         return False
     if st.mean[0] > 242:  # page quasi blanche (texte)
         return False
+    # Dégradés et masques de transparence : très peu de contours
+    t = small.copy()
+    t.thumbnail((128, 128))
+    if ImageStat.Stat(t.filter(ImageFilter.FIND_EDGES)).mean[0] < 12:
+        return False
     return True
+
+
+def listed(pdf, page):
+    """num -> (couleur, taux de compression %) d'après pdfimages -list."""
+    out = subprocess.run(["pdfimages", "-list", "-f", str(page), "-l", str(page), str(pdf)], capture_output=True, text=True).stdout
+    info = {}
+    for line in out.splitlines()[2:]:
+        c = line.split()
+        if len(c) >= 15 and c[2] == "image":
+            try:
+                info[int(c[1])] = (c[5], float(c[-1].rstrip("%")))
+            except ValueError:
+                pass
+    return info
 
 
 def page_images(pdf_slug, page):
@@ -51,7 +70,12 @@ def page_images(pdf_slug, page):
         with tempfile.TemporaryDirectory(dir=WORK) as tmp:
             subprocess.run(["pdfimages", "-q", "-f", str(page), "-l", str(page), "-png", str(pdf), f"{tmp}/i"], check=False)
             cands = []
+            info = listed(pdf, page)
             for f in sorted(Path(tmp).glob("i-*.png")):
+                color, ratio = info.get(int(f.stem.split("-")[1]), ("", 100.0))
+                # palettes indexées et images ultra-compressibles = graphismes, pas des photos
+                if color == "index" or ratio < 2.5:
+                    continue
                 try:
                     with Image.open(f) as im:
                         w, h = im.size
@@ -63,7 +87,7 @@ def page_images(pdf_slug, page):
                 except Exception:
                     continue
                 if good(w, h, small):
-                    fp = hashlib.md5(bytes(p // 32 for p in small.resize((12, 12)).getdata())).hexdigest()[:12]
+                    fp = hashlib.md5(small.resize((12, 12)).point(lambda v: v // 32).tobytes()).hexdigest()[:12]
                     cands.append((w * h, f, fp))
             cands.sort(reverse=True)
             seen = set()

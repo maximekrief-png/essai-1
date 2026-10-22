@@ -40,8 +40,16 @@
   const TYPE_LABEL = { e: 'Entreprises', a: 'Articles', m: 'Magazines', t: 'Thèmes' };
   const TYPE_ORDER = ['t', 'e', 'a', 'm'];
 
+  // Mots vides ignorés dès que la requête contient d'autres mots
+  const STOP = new Set(['de', 'du', 'des', 'la', 'le', 'les', 'l', 'd', 'et', 'a', 'au', 'aux', 'en', 'un', 'une', 'sa', 'ag', 'der', 'die', 'das', 'und', 'von', 'the', 'of']);
+  const queryTerms = (q) => {
+    const all = fold(q).split(/[\s,;/'’-]+/).filter((t) => t.length > 0);
+    const useful = all.filter((t) => !STOP.has(t));
+    return useful.length ? useful : all;
+  };
+
   function search(q, limit = 40) {
-    const terms = fold(q).split(/[\s,;/]+/).filter((t) => t.length > 0);
+    const terms = queryTerms(q);
     if (!terms.length || !index) return [];
     const out = [];
     for (const d of index) {
@@ -68,11 +76,11 @@
 
   const highlight = (text, q) => {
     let html = esc(text);
-    const terms = fold(q).split(/\s+/).filter((t) => t.length > 1);
+    const terms = queryTerms(q).filter((t) => t.length > 1);
     if (!terms.length) return html;
     const f = fold(text);
     const marks = [];
-    for (const t of terms) { let i = f.indexOf(t); if (i >= 0) marks.push([i, i + t.length]); }
+    for (const t of terms) { let i = f.indexOf(t); while (i >= 0) { marks.push([i, i + t.length]); i = f.indexOf(t, i + t.length); } }
     if (!marks.length) return html;
     marks.sort((a, b) => a[0] - b[0]);
     let res = '', pos = 0;

@@ -2315,6 +2315,205 @@
     82
    ]
   },
+  "horlogerie-2016:horlogerie-2016-maitre-freres": {
+   "pdf": "web-horlogerie-2016",
+   "pages": [
+    81,
+    83
+   ]
+  },
+  "horlogerie-2016:horlogerie-2016-ceff-industrie": {
+   "pdf": "web-horlogerie-2016",
+   "pages": [
+    85,
+    86
+   ]
+  },
+  "horlogerie-2016:horlogerie-2016-cefna": {
+   "pdf": "web-horlogerie-2016",
+   "pages": [
+    10,
+    85,
+    87
+   ]
+  },
+  "horlogerie-2016:horlogerie-2016-cip-tramelan": {
+   "pdf": "web-horlogerie-2016",
+   "pages": [
+    10,
+    88
+   ]
+  },
+  "horlogerie-2016:horlogerie-2016-cejef-division-technique": {
+   "pdf": "web-horlogerie-2016",
+   "pages": [
+    10,
+    89
+   ]
+  },
+  "horlogerie-2016:horlogerie-2016-cfh-geneve": {
+   "pdf": "web-horlogerie-2016",
+   "pages": [
+    90,
+    91
+   ]
+  },
+  "horlogerie-2016:horlogerie-2016-cifom": {
+   "pdf": "web-horlogerie-2016",
+   "pages": [
+    85,
+    87,
+    92
+   ]
+  },
+  "horlogerie-2016:horlogerie-2016-etvj": {
+   "pdf": "web-horlogerie-2016",
+   "pages": [
+    93,
+    112
+   ]
+  },
+  "horlogerie-2016:horlogerie-2016-he-arc-ingenierie": {
+   "pdf": "web-horlogerie-2016",
+   "pages": [
+    94
+   ]
+  },
+  "horlogerie-2016:horlogerie-2016-wostep": {
+   "pdf": "web-horlogerie-2016",
+   "pages": [
+    96
+   ]
+  },
+  "horlogerie-2016:horlogerie-2016-roudhor": {
+   "pdf": "web-horlogerie-2016",
+   "pages": [
+    97,
+    98
+   ]
+  },
+  "horlogerie-2016:horlogerie-2016-sts-saulcy": {
+   "pdf": "web-horlogerie-2016",
+   "pages": [
+    100
+   ]
+  },
+  "horlogerie-2016:horlogerie-2016-tsm-assurances": {
+   "pdf": "web-horlogerie-2016",
+   "pages": [
+    101,
+    102
+   ]
+  },
+  "horlogerie-2016:horlogerie-2016-altmann-casting": {
+   "pdf": "web-horlogerie-2016",
+   "pages": [
+    103
+   ]
+  },
+  "horlogerie-2016:horlogerie-2016-blosch-merusa": {
+   "pdf": "web-horlogerie-2016",
+   "pages": [
+    104,
+    105,
+    123
+   ]
+  },
+  "horlogerie-2016:horlogerie-2016-decotech": {
+   "pdf": "web-horlogerie-2016",
+   "pages": [
+    106
+   ]
+  },
+  "horlogerie-2016:horlogerie-2016-kyburz-placor": {
+   "pdf": "web-horlogerie-2016",
+   "pages": [
+    107
+   ]
+  },
+  "horlogerie-2016:horlogerie-2016-econorm": {
+   "pdf": "web-horlogerie-2016",
+   "pages": [
+    108
+   ]
+  },
+  "horlogerie-2016:horlogerie-2016-serge-meister": {
+   "pdf": "web-horlogerie-2016",
+   "pages": [
+    109
+   ]
+  },
+  "horlogerie-2016:horlogerie-2016-demhosa": {
+   "pdf": "web-horlogerie-2016",
+   "pages": [
+    110
+   ]
+  },
+  "horlogerie-2016:horlogerie-2016-kif-parechoc": {
+   "pdf": "web-horlogerie-2016",
+   "pages": [
+    100,
+    112
+   ]
+  },
+  "horlogerie-2016:horlogerie-2016-safed-suisse": {
+   "pdf": "web-horlogerie-2016",
+   "pages": [
+    113
+   ]
+  },
+  "horlogerie-2016:horlogerie-2016-imh": {
+   "pdf": "web-horlogerie-2016",
+   "pages": [
+    114
+   ]
+  },
+  "horlogerie-2016:horlogerie-2016-tci-engineering": {
+   "pdf": "web-horlogerie-2016",
+   "pages": [
+    115
+   ]
+  },
+  "horlogerie-2016:horlogerie-2016-procolor-lcti": {
+   "pdf": "web-horlogerie-2016",
+   "pages": [
+    116,
+    117
+   ]
+  },
+  "horlogerie-2016:horlogerie-2016-meylan-freres": {
+   "pdf": "web-horlogerie-2016",
+   "pages": [
+    118
+   ]
+  },
+  "horlogerie-2016:horlogerie-2016-bryek-horlogerie": {
+   "pdf": "web-horlogerie-2016",
+   "pages": [
+    119
+   ]
+  },
+  "horlogerie-2016:horlogerie-2016-rofin-lasag": {
+   "pdf": "web-horlogerie-2016",
+   "pages": [
+    120,
+    122
+   ]
+  },
+  "horlogerie-2016:horlogerie-2016-diafin": {
+   "pdf": "web-horlogerie-2016",
+   "pages": [
+    121,
+    122
+   ]
+  },
+  "horlogerie-2016:horlogerie-2016-gmg-composants": {
+   "pdf": "web-horlogerie-2016",
+   "pages": [
+    121,
+    122
+   ]
+  },
   "horlogerie-2017:horlogerie-2017-interview-jean-daniel-pasche-fh": {
    "pdf": "web-horlogerie-2017",
    "pages": [
@@ -8343,6 +8542,228 @@
    "pages": [
     81,
     82
+   ]
+  },
+  "horlogerie-2016:maitre-freres": {
+   "pdf": "web-horlogerie-2016",
+   "pages": [
+    81,
+    83
+   ]
+  },
+  "horlogerie-2016:ceff-industrie": {
+   "pdf": "web-horlogerie-2016",
+   "pages": [
+    85,
+    86
+   ]
+  },
+  "horlogerie-2016:cefna": {
+   "pdf": "web-horlogerie-2016",
+   "pages": [
+    85,
+    87
+   ]
+  },
+  "horlogerie-2016:cip-tramelan": {
+   "pdf": "web-horlogerie-2016",
+   "pages": [
+    88
+   ]
+  },
+  "horlogerie-2016:cejef-division-technique": {
+   "pdf": "web-horlogerie-2016",
+   "pages": [
+    89
+   ]
+  },
+  "horlogerie-2016:cfh-geneve": {
+   "pdf": "web-horlogerie-2016",
+   "pages": [
+    90,
+    91
+   ]
+  },
+  "horlogerie-2016:cifom": {
+   "pdf": "web-horlogerie-2016",
+   "pages": [
+    92
+   ]
+  },
+  "horlogerie-2016:etvj": {
+   "pdf": "web-horlogerie-2016",
+   "pages": [
+    93
+   ]
+  },
+  "horlogerie-2016:he-arc-ingenierie": {
+   "pdf": "web-horlogerie-2016",
+   "pages": [
+    94
+   ]
+  },
+  "horlogerie-2016:wostep": {
+   "pdf": "web-horlogerie-2016",
+   "pages": [
+    96
+   ]
+  },
+  "horlogerie-2016:roudhor": {
+   "pdf": "web-horlogerie-2016",
+   "pages": [
+    97,
+    98
+   ]
+  },
+  "horlogerie-2016:sts-saulcy": {
+   "pdf": "web-horlogerie-2016",
+   "pages": [
+    100
+   ]
+  },
+  "horlogerie-2016:tsm-assurances": {
+   "pdf": "web-horlogerie-2016",
+   "pages": [
+    101,
+    102
+   ]
+  },
+  "horlogerie-2016:altmann-casting": {
+   "pdf": "web-horlogerie-2016",
+   "pages": [
+    103
+   ]
+  },
+  "horlogerie-2016:blosch": {
+   "pdf": "web-horlogerie-2016",
+   "pages": [
+    104,
+    105
+   ]
+  },
+  "horlogerie-2016:merusa": {
+   "pdf": "web-horlogerie-2016",
+   "pages": [
+    104,
+    105
+   ]
+  },
+  "horlogerie-2016:decotech": {
+   "pdf": "web-horlogerie-2016",
+   "pages": [
+    106
+   ]
+  },
+  "horlogerie-2016:kyburz": {
+   "pdf": "web-horlogerie-2016",
+   "pages": [
+    107
+   ]
+  },
+  "horlogerie-2016:placor": {
+   "pdf": "web-horlogerie-2016",
+   "pages": [
+    107
+   ]
+  },
+  "horlogerie-2016:econorm": {
+   "pdf": "web-horlogerie-2016",
+   "pages": [
+    108
+   ]
+  },
+  "horlogerie-2016:serge-meister": {
+   "pdf": "web-horlogerie-2016",
+   "pages": [
+    109
+   ]
+  },
+  "horlogerie-2016:demhosa": {
+   "pdf": "web-horlogerie-2016",
+   "pages": [
+    110
+   ]
+  },
+  "horlogerie-2016:incabloc": {
+   "pdf": "web-horlogerie-2016",
+   "pages": [
+    110
+   ]
+  },
+  "horlogerie-2016:kif-parechoc": {
+   "pdf": "web-horlogerie-2016",
+   "pages": [
+    112
+   ]
+  },
+  "horlogerie-2016:safed-suisse": {
+   "pdf": "web-horlogerie-2016",
+   "pages": [
+    113
+   ]
+  },
+  "horlogerie-2016:imh": {
+   "pdf": "web-horlogerie-2016",
+   "pages": [
+    114
+   ]
+  },
+  "horlogerie-2016:tci-engineering": {
+   "pdf": "web-horlogerie-2016",
+   "pages": [
+    115
+   ]
+  },
+  "horlogerie-2016:procolor-lcti": {
+   "pdf": "web-horlogerie-2016",
+   "pages": [
+    116,
+    117
+   ]
+  },
+  "horlogerie-2016:froidevaux": {
+   "pdf": "web-horlogerie-2016",
+   "pages": [
+    116
+   ]
+  },
+  "horlogerie-2016:meylan-freres": {
+   "pdf": "web-horlogerie-2016",
+   "pages": [
+    118
+   ]
+  },
+  "horlogerie-2016:bryek-horlogerie": {
+   "pdf": "web-horlogerie-2016",
+   "pages": [
+    119
+   ]
+  },
+  "horlogerie-2016:l-klein": {
+   "pdf": "web-horlogerie-2016",
+   "pages": [
+    119
+   ]
+  },
+  "horlogerie-2016:rofin-lasag": {
+   "pdf": "web-horlogerie-2016",
+   "pages": [
+    120,
+    122
+   ]
+  },
+  "horlogerie-2016:diafin": {
+   "pdf": "web-horlogerie-2016",
+   "pages": [
+    121,
+    122
+   ]
+  },
+  "horlogerie-2016:gmg-composants": {
+   "pdf": "web-horlogerie-2016",
+   "pages": [
+    121,
+    122
    ]
   },
   "horlogerie-2017:fh": {

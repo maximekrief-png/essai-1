@@ -373,3 +373,14 @@ blockquote cite { display: block; margin-top: 10px; font: 500 .9rem var(--sans);
 .theme-hero.has-photo::before { content: ''; position: absolute; inset: 0; z-index: -1; background: linear-gradient(100deg, rgba(17, 24, 39, .88) 0%, color-mix(in srgb, var(--c) 55%, rgba(17, 24, 39, .4)) 100%); }
 .theme-hero.has-photo .lead, .theme-hero.has-photo .crumbs, .theme-hero.has-photo .crumbs span[aria-current] { color: rgba(255, 255, 255, .85); }
 .theme-hero.has-photo .theme-ico { color: #fff; background: rgba(255, 255, 255, .14); }
+
+/* Filtre de collections : défilement horizontal plutôt que retour à la ligne */
+.seg { flex-wrap: nowrap; overflow-x: auto; max-width: 100%; scrollbar-width: none; }
+.seg::-webkit-scrollbar { display: none; }
+.seg button { flex: none; white-space: nowrap; }
+@media (max-width: 620px) {
+  .filters select { flex: 1 1 45%; }
+  .letters { flex-wrap: nowrap; overflow-x: auto; scrollbar-width: none; padding-bottom: 4px; }
+  .letters button { flex: none; }
+}
+input[type="search"]::-webkit-search-cancel-button { -webkit-appearance: none; display: none; }
