@@ -1034,12 +1034,12 @@
     },
     {
       "slug": "uvs-valais-neuchatel-hybrid",
-      "title": "HYBRID SA – La microélectronique à votre service !",
+      "title": "Hybrid SA – La microélectronique à votre service !",
       "subtitle": "Assemblage de circuits électroniques miniaturisés",
       "type": "publireportage",
       "page": "54-55",
       "pdfPages": [],
-      "summary": "Fondée en 1989 avec deux collaborateurs, HYBRID SA, à Chez-le-Bart, s'est spécialisée dans la sérigraphie couche épaisse et le montage et câblage de composants en silicium. Reprise par son équipe de direction en 2005, elle a acquis fin 2009 Microbonding SA pour élargir sa clientèle aux petites séries et prototypes. Certifiée ISO 9001 depuis 2007 et ISO 13485 depuis 2010, elle emploie 55 personnes et réalise un chiffre d'affaires de 11 millions de francs. Sous-traitante, elle maîtrise le montage CMS, le chip on board, le wedge et ball bonding, le glob-top et la conception de bancs de test, pour des séries allant jusqu'à 150 000 pièces par an. Ses clients se trouvent dans l'industrie, le médical, l'aéronautique, la sécurité ou l'horlogerie, et elle collabore avec le CSEM, l'IMT et l'EPFL.",
+      "summary": "Fondée en 1989 avec deux collaborateurs, Hybrid SA, à Chez-le-Bart, s'est spécialisée dans la sérigraphie couche épaisse et le montage et câblage de composants en silicium. Reprise par son équipe de direction en 2005, elle a acquis fin 2009 Microbonding SA pour élargir sa clientèle aux petites séries et prototypes. Certifiée ISO 9001 depuis 2007 et ISO 13485 depuis 2010, elle emploie 55 personnes et réalise un chiffre d'affaires de 11 millions de francs. Sous-traitante, elle maîtrise le montage CMS, le chip on board, le wedge et ball bonding, le glob-top et la conception de bancs de test, pour des séries allant jusqu'à 150 000 pièces par an. Ses clients se trouvent dans l'industrie, le médical, l'aéronautique, la sécurité ou l'horlogerie, et elle collabore avec le CSEM, l'IMT et l'EPFL.",
       "quote": "",
       "themes": [
         "industrie",
@@ -1078,12 +1078,12 @@
     },
     {
       "slug": "uvs-valais-neuchatel-endetec-neroxis",
-      "title": "ENDETEC – NEROXIS : de la source à l'utilisateur, deux outils pour garantir une eau de haute qualité",
+      "title": "Endetec – Neroxis : de la source à l'utilisateur, deux outils pour garantir une eau de haute qualité",
       "subtitle": "Monitoring des réseaux d'eau potable",
       "type": "publireportage",
       "page": "58",
       "pdfPages": [],
-      "summary": "Neroxis SA est une entité d'ENDETEC, filiale de Veolia Environnement spécialisée dans le monitoring environnemental, établie à Neuchâtel. Elle propose deux produits pour sécuriser les réseaux d'eau potable et prévenir les risques sanitaires. La sonde KAPTA, fabriquée à Neuchâtel, s'installe directement dans les canalisations et mesure en continu le chlore, la pression, la conductivité et la température. Placé en fin de réseau, TECTA est un système automatisé de détection microbiologique qui fournit sur site, très rapidement, des résultats de qualité laboratoire ; ce laboratoire portatif sert aussi à surveiller les eaux de baignade. En cas de problème, ENDETEC offre un service de conseil pour y remédier.",
+      "summary": "Neroxis SA est une entité d'Endetec, filiale de Veolia Environnement spécialisée dans le monitoring environnemental, établie à Neuchâtel. Elle propose deux produits pour sécuriser les réseaux d'eau potable et prévenir les risques sanitaires. La sonde KAPTA, fabriquée à Neuchâtel, s'installe directement dans les canalisations et mesure en continu le chlore, la pression, la conductivité et la température. Placé en fin de réseau, TECTA est un système automatisé de détection microbiologique qui fournit sur site, très rapidement, des résultats de qualité laboratoire ; ce laboratoire portatif sert aussi à surveiller les eaux de baignade. En cas de problème, Endetec offre un service de conseil pour y remédier.",
       "quote": "",
       "themes": [
         "energie",
@@ -1350,7 +1350,7 @@
         "economie"
       ],
       "description": "Société sédunoise indépendante de tout établissement financier, active dans la gestion de fortune sur mesure sans rétrocessions, la régularisation fiscale, les assurances-vie de droit luxembourgeois, la comptabilité, l'aide à l'installation en Suisse et l'accompagnement administratif des seniors. Clientèle fidèle depuis 1989.",
-      "address": "Rue du Vieux Moulin 39, CP1432",
+      "address": "Rue du Vieux Moulin 39, CP 1432",
       "postalCode": "1951",
       "city": "Sion",
       "canton": "VS",
@@ -1882,7 +1882,7 @@
     },
     {
       "slug": "hybrid",
-      "name": "HYBRID SA",
+      "name": "Hybrid SA",
       "sector": "Assemblage microélectronique",
       "themes": [
         "industrie"
@@ -1929,13 +1929,13 @@
     },
     {
       "slug": "endetec-neroxis",
-      "name": "ENDETEC – Neroxis SA",
+      "name": "Endetec – Neroxis SA",
       "sector": "Monitoring de la qualité de l'eau",
       "themes": [
         "energie",
         "sante"
       ],
-      "description": "Entité d'ENDETEC, filiale de Veolia Environnement spécialisée dans le monitoring environnemental. Elle développe la sonde KAPTA, fabriquée à Neuchâtel, qui mesure en continu chlore, pression, conductivité et température dans les réseaux d'eau potable, et le laboratoire automatisé TECTA de détection microbiologique sur site.",
+      "description": "Entité d'Endetec, filiale de Veolia Environnement spécialisée dans le monitoring environnemental. Elle développe la sonde KAPTA, fabriquée à Neuchâtel, qui mesure en continu chlore, pression, conductivité et température dans les réseaux d'eau potable, et le laboratoire automatisé TECTA de détection microbiologique sur site.",
       "address": "Jaquet-Droz 1",
       "postalCode": "2002",
       "city": "Neuchâtel",

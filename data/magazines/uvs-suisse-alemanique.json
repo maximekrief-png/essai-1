@@ -4,11 +4,27 @@
   "series": "Collectivités",
   "year": 2014,
   "region": "Suisse alémanique (Soleure, Zurich, Winterthour, Aarau, Baden)",
-  "languages": ["de", "en", "fr"],
+  "languages": [
+    "de",
+    "en",
+    "fr"
+  ],
   "description": "Numéro réalisé avec le Schweizerischer Städteverband (Union des villes suisses), consacré aux villes de Suisse alémanique. Il réunit des entretiens avec les présidents de ville et les responsables de l'urbanisme, de l'école, du développement économique et du tourisme de Soleure, Zurich, Winterthour, Aarau et Baden, complétés par les chambres de commerce et les agences de promotion. La seconde partie présente des entreprises et institutions de la région (énergie, construction, informatique, formation), plusieurs interviews étant traduites en anglais ou en français.",
-  "themes": ["collectivites", "economie", "architecture", "energie", "formation", "territoire"],
+  "themes": [
+    "collectivites",
+    "economie",
+    "architecture",
+    "energie",
+    "formation",
+    "territoire"
+  ],
   "files": [
-    { "driveId": "1kPBmDxbVxUm6JH937r8zAuF7zeZKMXY4", "name": "SWISS_UVS_ALEMAN-web.pdf", "sizeMB": 19.7, "label": "Édition web" }
+    {
+      "driveId": "1kPBmDxbVxUm6JH937r8zAuF7zeZKMXY4",
+      "name": "SWISS_UVS_ALEMAN-web.pdf",
+      "sizeMB": 19.7,
+      "label": "Édition web"
+    }
   ],
   "pdfLocal": false,
   "articles": [
@@ -21,11 +37,21 @@
       "pdfPages": [],
       "summary": "Kurt Fluri, conseiller national, président de la ville de Soleure et, depuis août 2013, de l'Union des villes suisses (SSV), dresse le bilan d'une décennie favorable : des comptes positifs entre 2000 et 2012 ont permis de constituer environ 30 millions de francs de fonds propres et de développer la ville comme centre de congrès, pôle culturel et lieu de vie. La population est remontée à 17 000 habitants, mais le territoire de 629 hectares limite la croissance, qui passera surtout par la densification et trois zones à l'ouest et au nord. La culture, soutenue à hauteur d'environ 600 francs par habitant, s'appuie sur les musées, le théâtre, les Journées de Soleure et les Journées littéraires. Il évoque aussi la révision du plan d'aménagement, le projet de fusion avec Biberist, Derendingen, Luterbach et Zuchwil, ainsi que le rôle de l'Union des villes comme voix de la Suisse urbaine.",
       "quote": "Solothurn schaut auf eine äusserst erfreuliche Dekade zurück.",
-      "themes": ["collectivites", "territoire"],
+      "themes": [
+        "collectivites",
+        "territoire"
+      ],
       "region": "Soleure",
       "language": "de",
-      "people": [{ "name": "Kurt Fluri", "role": "Stadtpräsident von Solothurn, Nationalrat, Präsident Schweizerischer Städteverband SSV" }],
-      "companies": ["stadt-solothurn"]
+      "people": [
+        {
+          "name": "Kurt Fluri",
+          "role": "Stadtpräsident von Solothurn, Nationalrat, Präsident Schweizerischer Städteverband SSV"
+        }
+      ],
+      "companies": [
+        "stadt-solothurn"
+      ]
     },
     {
       "slug": "uvs-suisse-alemanique-solothurner-handelskammer",
@@ -36,11 +62,22 @@
       "pdfPages": [],
       "summary": "Daniel Probst, directeur de la Chambre de commerce soleuroise (SOHK), met en avant la position centrale du canton sur les grands axes autoroutiers et ferroviaires et la proximité des aéroports. La chambre défend les intérêts des entreprises en matière de formation, d'infrastructures, de finances et d'administration. Pour l'exportation, elle délivre certificats d'origine, légalisations et carnets ATA et conseille les exportateurs. Elle soutient l'innovation de l'industrie MEM, de précision et medtech par l'information, la mise en réseau avec les hautes écoles et un centre de création d'entreprises. Face à la pénurie de spécialistes, le projet « SO talentiert! », mené avec l'association cantonale des arts et métiers, vise à revaloriser les métiers techniques. Probst présente aussi la « SOHK Praxis-Akademie » lancée en 2013, au format d'échange entre praticiens, et le travail politique de la chambre en faveur d'un ordre économique libéral.",
       "quote": "Als zentrale Organisation und Kompetenzzentrum für die Solothurner Wirtschaft sorgen wir für optimale Standortbedingungen.",
-      "themes": ["economie", "industrie", "formation"],
+      "themes": [
+        "economie",
+        "industrie",
+        "formation"
+      ],
       "region": "Canton de Soleure",
       "language": "de",
-      "people": [{ "name": "Daniel Probst", "role": "Direktor" }],
-      "companies": ["solothurner-handelskammer"]
+      "people": [
+        {
+          "name": "Daniel Probst",
+          "role": "Direktor"
+        }
+      ],
+      "companies": [
+        "solothurner-handelskammer"
+      ]
     },
     {
       "slug": "uvs-suisse-alemanique-region-solothurn-tourismus",
@@ -51,11 +88,20 @@
       "pdfPages": [],
       "summary": "Jürgen Hofer, directeur de Region Solothurn Tourismus, présente Soleure comme la plus belle ville baroque du pays, marquée par la présence des ambassadeurs de France du XVIe au XVIIIe siècle. L'office organise environ 1500 visites guidées par an pour plus de 23 000 participants, avec une quarantaine de guides. Il recommande la vieille ville piétonne, les activités sur le Weissenstein et la première chaîne du Jura, ainsi que la navigation sur l'Aar jusqu'à Bienne et les trois lacs. La coopération avec la région Jura Trois-Lacs renforce la visibilité en Suisse, en Allemagne et en France ; environ 20 % des hôtes viennent d'Allemagne et 8 à 10 % de France. Les Journées cinématographiques et littéraires remplissent les hôtels, et la nouvelle télécabine du Weissenstein doit relancer tout le Jura soleurois.",
       "quote": "Solothurn ist die schönste Barockstadt der Schweiz. Sie ist aber nicht einfach ein Museum.",
-      "themes": ["territoire"],
+      "themes": [
+        "territoire"
+      ],
       "region": "Soleure",
       "language": "de",
-      "people": [{ "name": "Jürgen Hofer", "role": "Tourismus-Direktor" }],
-      "companies": ["region-solothurn-tourismus"]
+      "people": [
+        {
+          "name": "Jürgen Hofer",
+          "role": "Tourismus-Direktor"
+        }
+      ],
+      "companies": [
+        "region-solothurn-tourismus"
+      ]
     },
     {
       "slug": "uvs-suisse-alemanique-hybridwerk-aarmatt",
@@ -66,11 +112,20 @@
       "pdfPages": [],
       "summary": "Sur le site de l'Aarmatt, entre Soleure et Zuchwil, Regio Energie Solothurn construit depuis l'été 2013 un « Hybridwerk » qui relie entre eux les réseaux d'électricité, de gaz, de chaleur et d'eau afin de tirer parti des synergies entre agents énergétiques. Le cœur du dispositif est un électrolyseur qui transforme l'électricité excédentaire, notamment éolienne et solaire, en hydrogène puis en méthane selon le principe « Power-to-Gas », le réseau de gaz servant alors de stockage. La centrale de chauffe et l'accumulateur de chaleur sont en service depuis mai 2014, une seconde étape ayant démarré au printemps. Présenté comme un projet phare unique en Suisse et en Europe, il a reçu un prix de l'innovation en novembre 2013 et sert aussi de laboratoire pour la stratégie énergétique 2050.",
       "quote": "",
-      "themes": ["energie"],
+      "themes": [
+        "energie"
+      ],
       "region": "Soleure / Zuchwil",
       "language": "de",
-      "people": [{ "name": "Felix Strässle", "role": "Direktor Regio Energie Solothurn" }],
-      "companies": ["regio-energie-solothurn"]
+      "people": [
+        {
+          "name": "Felix Strässle",
+          "role": "Direktor Regio Energie Solothurn"
+        }
+      ],
+      "companies": [
+        "regio-energie-solothurn"
+      ]
     },
     {
       "slug": "uvs-suisse-alemanique-schuldirektion-solothurn",
@@ -81,11 +136,21 @@
       "pdfPages": [],
       "summary": "La directrice des écoles Irène Schori décrit l'offre des Stadtschulen de Soleure : deux ans d'école enfantine, six ans de primaire et le secondaire I sur deux niveaux, la filière prégymnasiale relevant de l'école cantonale. Sur 1565 élèves, 1210 fréquentent sept sites scolaires répartis en 70 classes, encadrés par quelque 180 enseignants. L'école de musique offre une initiation gratuite aux deux premières années et des cours d'instrument payants ; des camps sont organisés dans la maison de vacances de Saanenmöser. Des écoles de jour facultatives assurent l'accueil hors temps scolaire sur trois sites. Une classe de promotion des talents permet aux jeunes sportifs, musiciens et artistes de concilier études et entraînement, avec l'objectif d'une reconnaissance Swiss Olympic. L'entretien aborde aussi la suppression de la 10e année facultative et l'introduction de l'anglais précoce.",
       "quote": "",
-      "themes": ["formation", "collectivites"],
+      "themes": [
+        "formation",
+        "collectivites"
+      ],
       "region": "Soleure",
       "language": "de",
-      "people": [{ "name": "Irène Schori", "role": "Schuldirektorin" }],
-      "companies": ["schuldirektion-stadt-solothurn"]
+      "people": [
+        {
+          "name": "Irène Schori",
+          "role": "Schuldirektorin"
+        }
+      ],
+      "companies": [
+        "schuldirektion-stadt-solothurn"
+      ]
     },
     {
       "slug": "uvs-suisse-alemanique-stadtbauamt-solothurn",
@@ -96,11 +161,22 @@
       "pdfPages": [],
       "summary": "Andrea Lenggenhager, cheffe de l'office des constructions de Soleure, décrit une petite ville vivante dont les habitants sont très attachés à leur cadre de vie. Elle souligne la richesse du patrimoine bâti, de la cathédrale Saint-Ours aux réalisations modernes d'après-guerre, et la nécessité de préserver l'ancien tout en laissant place au nouveau. Son service, organisé en quatre divisions, gère l'aménagement, le génie civil, les bâtiments et l'énergie ainsi que la voirie. La ville prépare la révision de son plan d'aménagement et un concept de développement « Solothurn 2030 » axé sur la densification qualitative. Les 17 hectares achetés en 2009 dans le secteur Weitblick doivent accueillir environ 1300 habitants et autant d'emplois sur 45 ans, tandis que le projet Wasserstadt dépend encore de l'assainissement de sites pollués.",
       "quote": "Es ist eine Daueraufgabe und eine Verpflichtung, behutsam mit Altem umzugehen, das Neue zuzulassen.",
-      "themes": ["architecture", "collectivites", "territoire"],
+      "themes": [
+        "architecture",
+        "collectivites",
+        "territoire"
+      ],
       "region": "Soleure",
       "language": "de",
-      "people": [{ "name": "Andrea Lenggenhager", "role": "Leiterin des Stadtbauamtes" }],
-      "companies": ["stadtbauamt-solothurn"]
+      "people": [
+        {
+          "name": "Andrea Lenggenhager",
+          "role": "Leiterin des Stadtbauamtes"
+        }
+      ],
+      "companies": [
+        "stadtbauamt-solothurn"
+      ]
     },
     {
       "slug": "uvs-suisse-alemanique-stadt-zuerich-corine-mauch",
@@ -111,11 +187,22 @@
       "pdfPages": [],
       "summary": "La présidente de la ville de Zurich, Corine Mauch, explique pourquoi la population a de nouveau franchi le seuil de 400 000 habitants : ouverture sur le monde, diversité de l'offre culturelle, qualité de la formation et des transports. La révision partielle du règlement des constructions laisse encore de la place pour 115 000 habitants et 160 000 emplois supplémentaires. Elle présente les quartiers en mutation comme Neu-Oerlikon et son parc MFO, Zurich-Ouest ou la Manegg, conçue selon la société à 2000 watts, ainsi que les procédures de planification coopératives avec les propriétaires. Le logement d'utilité publique doit atteindre un tiers du parc locatif, contre environ un quart aujourd'hui. Elle plaide pour une densification soignée et une mobilité pensée comme un système global, tandis que 97 % des habitants disent aimer vivre à Zurich.",
       "quote": "Was Zürich heute ganz besonders auszeichnet, sind seine Weltoffenheit und die Vielfalt der Menschen und der Angebote.",
-      "themes": ["collectivites", "territoire", "architecture"],
+      "themes": [
+        "collectivites",
+        "territoire",
+        "architecture"
+      ],
       "region": "Zurich",
       "language": "de",
-      "people": [{ "name": "Corine Mauch", "role": "Stadtpräsidentin" }],
-      "companies": ["stadt-zuerich-praesidialdepartement"]
+      "people": [
+        {
+          "name": "Corine Mauch",
+          "role": "Stadtpräsidentin"
+        }
+      ],
+      "companies": [
+        "stadt-zuerich-praesidialdepartement"
+      ]
     },
     {
       "slug": "uvs-suisse-alemanique-amt-fuer-staedtebau-zuerich",
@@ -126,11 +213,21 @@
       "pdfPages": [],
       "summary": "Patrick Gmür, directeur de l'office de l'urbanisme de Zurich, explique comment piloter le développement bâti d'une ville qui pourrait gagner 40 000 à 70 000 habitants d'ici 2030 sans pouvoir s'étendre. La densification vers l'intérieur est la principale réponse, encadrée par la stratégie de développement spatial issue des « Strategien 2025 », le plan directeur régional, le règlement des constructions et l'inventaire des objets protégés. Il insiste sur la qualité architecturale, les espaces publics et les processus de planification coopératifs, indispensables pour obtenir des majorités. Environ 20 000 logements sont autorisés, en chantier ou en projet ; les grands secteurs de développement sont le quartier des hautes écoles, Leutschenbach, le Zollfreilager et Zurich-Ouest. Il cite aussi des densifications réussies comme la Kalkbreite ou la tour de la Weststrasse.",
       "quote": "Identität und Heimat sind uns wichtig. Aber auch das Wachstum und die innere Verdichtung müssen Platz haben.",
-      "themes": ["architecture", "collectivites"],
+      "themes": [
+        "architecture",
+        "collectivites"
+      ],
       "region": "Zurich",
       "language": "de",
-      "people": [{ "name": "Patrick Gmür", "role": "Direktor Amt für Städtebau" }],
-      "companies": ["amt-fuer-staedtebau-zuerich"]
+      "people": [
+        {
+          "name": "Patrick Gmür",
+          "role": "Direktor Amt für Städtebau"
+        }
+      ],
+      "companies": [
+        "amt-fuer-staedtebau-zuerich"
+      ]
     },
     {
       "slug": "uvs-suisse-alemanique-stadtentwicklung-zuerich-benno-seiler",
@@ -141,11 +238,21 @@
       "pdfPages": [],
       "summary": "Benno Seiler, directeur adjoint du développement urbain et responsable de la promotion économique de Zurich, présente son service comme le premier interlocuteur des entreprises établies, nouvelles ou en création. La stratégie de clusters se concentre sur les services financiers, l'économie créative, les cleantech et les sciences de la vie, en partenariat avec la promotion cantonale. Une enquête montre la satisfaction des entreprises industrielles et productives, même si les surfaces abordables se raréfient. La ville oriente les candidats à l'implantation, finance un Startzentrum pour les créateurs, propose un service ImmoMail relié à 80 acteurs immobiliers et un guichet pour les PME. Le marketing international passe par la Greater Zurich Area, et un Film Office facilite depuis 2011 les tournages, comme celui de « Girl with a Dragon Tattoo ».",
       "quote": "Die Wirtschaftsförderung ist die erste Anlaufstelle für bestehende, neu zuziehende und neu entstehende Unternehmen.",
-      "themes": ["economie", "collectivites"],
+      "themes": [
+        "economie",
+        "collectivites"
+      ],
       "region": "Zurich",
       "language": "de",
-      "people": [{ "name": "Benno Seiler", "role": "stv. Direktor Stadtentwicklung und Leiter Wirtschaftsförderung" }],
-      "companies": ["stadtentwicklung-stadt-zuerich"]
+      "people": [
+        {
+          "name": "Benno Seiler",
+          "role": "stv. Direktor Stadtentwicklung und Leiter Wirtschaftsförderung"
+        }
+      ],
+      "companies": [
+        "stadtentwicklung-stadt-zuerich"
+      ]
     },
     {
       "slug": "uvs-suisse-alemanique-greater-zurich-area",
@@ -156,11 +263,20 @@
       "pdfPages": [],
       "summary": "Sonja Wollkopf Walt, directrice de la Greater Zurich Area AG, présente ce partenariat public-privé chargé d'attirer des entreprises étrangères dans la région métropolitaine zurichoise. Elle en souligne les atouts : près de 1,5 million d'actifs multilingues, un PIB de 76 000 francs par habitant, un accès à plus de 500 millions de consommateurs, des hautes écoles comme l'EPFZ, l'Empa, l'Université de Zurich ou la ZHAW, une fiscalité attractive et une grande qualité de vie. Chaque canton membre développe ses propres clusters, des sciences de la vie à la finance en passant par les cleantech et la mécanique. La GZA conseille gratuitement les entreprises, avec un accent sur les technologies de précision, les TIC et les sièges européens, en ciblant les États-Unis, la Chine et l'Europe. Elle évoque aussi la concurrence entre métropoles et l'incertitude née du vote sur l'immigration de masse.",
       "quote": "Die Schweiz mit der Metropolitanregion Zürich als Wirtschafts- und Innovationsmotor belegt im Ranking des WEF 2013 den ersten Platz.",
-      "themes": ["economie"],
+      "themes": [
+        "economie"
+      ],
       "region": "Région métropolitaine de Zurich",
       "language": "de",
-      "people": [{ "name": "Sonja Wollkopf Walt", "role": "Geschäftsführerin" }],
-      "companies": ["greater-zurich-area"]
+      "people": [
+        {
+          "name": "Sonja Wollkopf Walt",
+          "role": "Geschäftsführerin"
+        }
+      ],
+      "companies": [
+        "greater-zurich-area"
+      ]
     },
     {
       "slug": "uvs-suisse-alemanique-stadt-winterthur-michael-kuenzle",
@@ -171,11 +287,21 @@
       "pdfPages": [],
       "summary": "Michael Künzle, président de Winterthour, décrit la mutation d'une cité industrielle en centre de services, de formation, de culture et de loisirs. Selon l'enquête de 2011, 77 % des habitants aiment beaucoup vivre dans leur ville et 84 % jugent leur qualité de vie bonne ou très bonne. Pour la législature 2014-2018, il veut assainir les finances, créer les conditions pour 10 000 emplois en dix ans, résoudre les problèmes de circulation et miser sur les énergies renouvelables. Le concept global de transport élaboré avec le canton privilégie les transports publics et le vélo, avec une nouvelle route pour desservir Neuhegi-Grüze. Malgré les économies, la culture reste une force, et 2014 est marqué par les 750 ans du droit de cité, célébrés par quelque 70 projets autour du thème « hier – aujourd'hui – demain ».",
       "quote": "Das reiche Kulturleben von Winterthur gehört zu den grossen Stärken der Stadt, die wir unbedingt erhalten wollen.",
-      "themes": ["collectivites", "territoire"],
+      "themes": [
+        "collectivites",
+        "territoire"
+      ],
       "region": "Winterthour",
       "language": "de",
-      "people": [{ "name": "Michael Künzle", "role": "Stadtpräsident" }],
-      "companies": ["stadt-winterthur"]
+      "people": [
+        {
+          "name": "Michael Künzle",
+          "role": "Stadtpräsident"
+        }
+      ],
+      "companies": [
+        "stadt-winterthur"
+      ]
     },
     {
       "slug": "uvs-suisse-alemanique-amt-fuer-staedtebau-winterthur",
@@ -186,11 +312,21 @@
       "pdfPages": [],
       "summary": "Michael Hauser, architecte EPF et chef de l'office de l'urbanisme de Winterthour, explique que son service, fort d'une cinquantaine de collaborateurs, traite environ 200 demandes de permis par an, déclenchant quelque 1 milliard de francs de travaux, et investit environ 70 millions dans les bâtiments municipaux. La ville voit naître près de 1000 logements par an. Les grands secteurs de développement sont Sulzer-Stadtmitte et Neuhegi-Grüze, appelé à devenir un second centre, complétés par les nouveaux bâtiments de la ZHAW, le masterplan de la gare et la surélévation d'une halle par la fondation Abendrot sur le Lagerplatz. Il défend la réaffectation des friches industrielles, la qualité des espaces publics, les concours et un prix d'architecture. Le principal défi reste de concilier croissance et finances publiques tendues.",
       "quote": "Die grösste Herausforderung liegt in der Verbindung von Wachstum und den angespannten öffentlichen Finanzen.",
-      "themes": ["architecture", "collectivites"],
+      "themes": [
+        "architecture",
+        "collectivites"
+      ],
       "region": "Winterthour",
       "language": "de",
-      "people": [{ "name": "Michael Hauser", "role": "Leiter des Amts für Städtebau" }],
-      "companies": ["amt-fuer-staedtebau-winterthur"]
+      "people": [
+        {
+          "name": "Michael Hauser",
+          "role": "Leiter des Amts für Städtebau"
+        }
+      ],
+      "companies": [
+        "amt-fuer-staedtebau-winterthur"
+      ]
     },
     {
       "slug": "uvs-suisse-alemanique-stadtentwicklung-winterthur-mark-wuerth",
@@ -201,11 +337,22 @@
       "pdfPages": [],
       "summary": "Mark Würth, responsable du développement urbain de Winterthour, analyse dix ans de forte croissance. La ville combine les qualités d'une cité-jardin et d'une grande ville, accueille la ZHAW et ses quelque 8000 étudiants ainsi que le Technopark, tout en restant un site industriel important avec Rieter, Sulzer, Zimmer, Autoneum ou Burckhardt Compression. Le site Sulzer-Stadtmitte se transforme en nouveau quartier animé, tandis que Neuhegi-Grüze doit encore se forger une identité, aidé par la Halle 710 ouverte en 2012. Le masterplan de la gare vise à mieux relier les deux moitiés du centre. La densification passe par les deux nouveaux centres et par les changements d'affectation. Il évoque aussi le réaménagement partiel de la Zürcherstrasse, empruntée par 28 000 véhicules par jour, et la modération du trafic dans les quartiers.",
       "quote": "",
-      "themes": ["collectivites", "architecture", "mobilite"],
+      "themes": [
+        "collectivites",
+        "architecture",
+        "mobilite"
+      ],
       "region": "Winterthour",
       "language": "de",
-      "people": [{ "name": "Mark Würth", "role": "Leiter Stadtentwicklung" }],
-      "companies": ["stadtentwicklung-winterthur"]
+      "people": [
+        {
+          "name": "Mark Würth",
+          "role": "Leiter Stadtentwicklung"
+        }
+      ],
+      "companies": [
+        "stadtentwicklung-winterthur"
+      ]
     },
     {
       "slug": "uvs-suisse-alemanique-stadt-aarau-jolanda-urech",
@@ -216,11 +363,21 @@
       "pdfPages": [],
       "summary": "Jolanda Urech, présidente de la ville d'Aarau depuis début 2014, veut être une présidente pour tous et dirige une administration de 695 collaborateurs. Elle décrit une ville charmante comme un village et vivante comme une grande ville, située dans le triangle Zurich-Bâle-Berne et offrant environ 30 000 emplois. Elle recommande la vieille ville, le parc animalier de Roggenhausen, les rives de l'Aar et l'Aargauer Kunsthaus agrandi par Herzog & de Meuron. Aarau a reçu le prix Wakker 2014 pour une densification de qualité au bon endroit. Elle évoque les projets de logements (Aarenau, Telli, Torfeld Süd), le futur stade du FC Aarau, la gestion du trafic, les cinq initiatives du plan de développement et l'objectif de la société à 2000 watts, avant d'imaginer l'agglomération en 2050.",
       "quote": "Mir gefällt, dass Aarau einerseits so charmant wie ein Dorf ist und gleichzeitig auch so lebhaft wie eine Grossstadt.",
-      "themes": ["collectivites", "territoire"],
+      "themes": [
+        "collectivites",
+        "territoire"
+      ],
       "region": "Aarau",
       "language": "de",
-      "people": [{ "name": "Jolanda Urech", "role": "Stadtpräsidentin" }],
-      "companies": ["stadt-aarau"]
+      "people": [
+        {
+          "name": "Jolanda Urech",
+          "role": "Stadtpräsidentin"
+        }
+      ],
+      "companies": [
+        "stadt-aarau"
+      ]
     },
     {
       "slug": "uvs-suisse-alemanique-wirtschaftsfachstelle-aarau",
@@ -231,11 +388,21 @@
       "pdfPages": [],
       "summary": "Andreas Burri, responsable du service économique de la ville d'Aarau, présente une capitale cantonale au cœur d'une agglomération d'environ 65 000 emplois, bien reliée au réseau national, à la fiscalité modérée et à la qualité de vie élevée. L'an dernier, 32 entreprises se sont installées sur le territoire communal et 94 y ont été créées. Son service accompagne les entreprises dans leurs démarches avec l'administration, propose un guichet unique pour les projets complexes et suit les implantations de l'évaluation jusqu'au démarrage. Il aide à trouver locaux et terrains et collabore avec Aargau Services et la Haute école spécialisée du Nord-Ouest pour les start-up. L'« initiative 4 » du plan de développement fait des entreprises des partenaires de la ville, grâce à des visites régulières et à un groupe de travail réunissant personnalités locales et représentants communaux.",
       "quote": "In Aarau wurden im vergangenen Jahr 94 Firmen neu gegründet.",
-      "themes": ["economie", "collectivites"],
+      "themes": [
+        "economie",
+        "collectivites"
+      ],
       "region": "Aarau",
       "language": "de",
-      "people": [{ "name": "Andreas Burri", "role": "Leiter Wirtschaftsfachstelle" }],
-      "companies": ["wirtschaftsfachstelle-stadt-aarau"]
+      "people": [
+        {
+          "name": "Andreas Burri",
+          "role": "Leiter Wirtschaftsfachstelle"
+        }
+      ],
+      "companies": [
+        "wirtschaftsfachstelle-stadt-aarau"
+      ]
     },
     {
       "slug": "uvs-suisse-alemanique-schule-aarau",
@@ -246,11 +413,21 @@
       "pdfPages": [],
       "summary": "Remi Bürgi, directeur général de l'école d'Aarau, présente une offre couvrant tous les degrés de l'école obligatoire argovienne : école enfantine, primaire et secondaire en trois filières, auxquels s'ajoutent des classes d'intégration régionales, une année de choix professionnel et l'école de musique. Quelque 1650 élèves sont encadrés par 230 enseignants. La commission scolaire élue par le peuple assure la conduite stratégique, tandis qu'une direction à deux niveaux gère l'opérationnel. Depuis 2010, le modèle intégratif maintient les élèves en difficulté dans les classes ordinaires avec l'appui de pédagogues spécialisés, sans petites classes, et le bilan est positif. Les classes d'intégration accueillent les jeunes récemment arrivés en Suisse. Un concept de gestion de la qualité fondé sur les valeurs définies en 2005 complète le dispositif.",
       "quote": "Das Modell integrative Schule bewährt sich.",
-      "themes": ["formation", "collectivites"],
+      "themes": [
+        "formation",
+        "collectivites"
+      ],
       "region": "Aarau",
       "language": "de",
-      "people": [{ "name": "Remi Bürgi", "role": "Geschäftsleiter" }],
-      "companies": ["schule-aarau"]
+      "people": [
+        {
+          "name": "Remi Bürgi",
+          "role": "Geschäftsleiter"
+        }
+      ],
+      "companies": [
+        "schule-aarau"
+      ]
     },
     {
       "slug": "uvs-suisse-alemanique-aihk-peter-luescher",
@@ -261,11 +438,25 @@
       "pdfPages": [],
       "summary": "Peter Lüscher, directeur de la Chambre argovienne de l'industrie et du commerce (AIHK), vante un canton central, bien desservi, doté d'espace, de main-d'œuvre qualifiée, de la haute école spécialisée et de l'Institut Paul Scherrer. Les régions de Baden-Brugg et du bas Fricktal sont particulièrement dynamiques, portées par la stratégie Hightech Aargau et l'industrie pharmaceutique. Issue en 1976 de la fusion de la chambre de commerce et de l'association patronale, l'AIHK, vieille de 140 ans, offre un large éventail de services : conseil juridique, export, caisse de compensation AVS et caisse d'allocations familiales. Elle compte plus de 1600 membres employant environ 40 % des actifs du canton. Le centre FITT, dirigé par Markus Krack, fait le lien avec la haute école. L'interview, publiée en allemand puis en anglais, insiste aussi sur le lobbying politique et l'engagement de milice des entrepreneurs.",
       "quote": "Der Aargau ist ein starker Industriestandort mit einer branchen- und grössenmässig breit gefächerten Unternehmensstruktur.",
-      "themes": ["economie", "industrie"],
+      "themes": [
+        "economie",
+        "industrie"
+      ],
       "region": "Canton d'Argovie",
       "language": "de",
-      "people": [{ "name": "Peter Lüscher", "role": "Geschäftsleiter" }, { "name": "Markus Krack", "role": "Leiter FITT" }],
-      "companies": ["aargauische-industrie-und-handelskammer"]
+      "people": [
+        {
+          "name": "Peter Lüscher",
+          "role": "Geschäftsleiter"
+        },
+        {
+          "name": "Markus Krack",
+          "role": "Leiter FITT"
+        }
+      ],
+      "companies": [
+        "aargauische-industrie-und-handelskammer"
+      ]
     },
     {
       "slug": "uvs-suisse-alemanique-aarau-info",
@@ -276,11 +467,20 @@
       "pdfPages": [],
       "summary": "Esther Schmid dirige « aarau info », bureau d'information touristique central d'Aarau et de sa région, rattaché au marketing territorial. Le bureau est la principale plateforme de prévente de billets de spectacles et de transports publics, réserve chambres d'hôtel et logements privés et organise plus de 600 visites guidées par an avec 13 guides formés. De nouveaux circuits ont été créés en 2014, l'un lié au prix Wakker, l'autre au tournage de la série de la SRF « Der Bestatter ». Aarau accueille de nombreux événements, comme la foire argovienne, le festival Jazzaar, les courses hippiques du Schachen, le Rüeblimärt, ainsi que la Fête fédérale de musique populaire en 2015 et la Fête fédérale de gymnastique en 2019. Elle recommande la vieille ville aux pignons peints, le musée municipal, le Kunsthaus et le Naturama.",
       "quote": "",
-      "themes": ["territoire"],
+      "themes": [
+        "territoire"
+      ],
       "region": "Aarau",
       "language": "de",
-      "people": [{ "name": "Esther Schmid", "role": "Leiterin «aarau info»" }],
-      "companies": ["aarau-info"]
+      "people": [
+        {
+          "name": "Esther Schmid",
+          "role": "Leiterin «aarau info»"
+        }
+      ],
+      "companies": [
+        "aarau-info"
+      ]
     },
     {
       "slug": "uvs-suisse-alemanique-stadt-baden-standortmarketing",
@@ -291,11 +491,22 @@
       "pdfPages": [],
       "summary": "Thomas Lütolf, responsable du marketing territorial de Baden depuis la création du service en 2005, décrit une petite ville au tempérament ouvert sur le monde, portée par une population engagée. La marque « Baden ist. » vise à renforcer la conscience des particularités de la ville, en reliant économie, habitants et hôtes. Deux organes d'accompagnement, l'un local, l'autre composé de représentants externes de l'économie, servent de caisse de résonance. Dominée par ABB et Alstom, l'économie locale compte plus de 1800 entreprises, avec une scène TIC dynamique autour de Brother, BBP, BSI, Open Text ou Oracle et des acteurs de niche comme Dectris ou Varian. La ville communique par un guide annuel, un agenda culturel, son Stadtbüro et Facebook. Le centre de congrès Trafo 2 dès 2015 et le futur bain thermal de Mario Botta offrent un fort potentiel.",
       "quote": "Baden eine temperamentvolle und weltoffene Kleinstadt, die sich durch eine sehr engagierte Bevölkerung auszeichnet.",
-      "themes": ["economie", "collectivites", "territoire"],
+      "themes": [
+        "economie",
+        "collectivites",
+        "territoire"
+      ],
       "region": "Baden",
       "language": "de",
-      "people": [{ "name": "Thomas Lütolf", "role": "Leiter Standortmarketing" }],
-      "companies": ["stadt-baden-standortmarketing"]
+      "people": [
+        {
+          "name": "Thomas Lütolf",
+          "role": "Leiter Standortmarketing"
+        }
+      ],
+      "companies": [
+        "stadt-baden-standortmarketing"
+      ]
     },
     {
       "slug": "uvs-suisse-alemanique-stadt-baden-bildung-ruth-mueri",
@@ -306,11 +517,21 @@
       "pdfPages": [],
       "summary": "Ruth Müri, conseillère municipale chargée de la formation à Baden, est responsable de l'école obligatoire, préside les instances de l'école professionnelle BBB et de la commission de l'école cantonale, et s'occupe aussi du sport. L'école obligatoire, de l'école enfantine à la 9e année, est dirigée stratégiquement par la commission scolaire et opérationnellement par une direction réunissant les responsables des degrés. Les parents apprécient l'engagement des enseignants et les horaires blocs en place depuis 2007. La ville propose une école de jour publique et un accueil modulaire dans tous les collèges de quartier. Hormis les hautes écoles, tous les niveaux de formation sont présents : école cantonale, écoles professionnelles zB. et BBB, école de technique ABB et nombreux prestataires privés. Elle veut faire de Baden un centre de formation continue et promouvoir un développement durable.",
       "quote": "Die Eltern schätzen, dass sich Lehrpersonen und Schulleitung in hohem Masse für die Schülerinnen und Schüler engagieren.",
-      "themes": ["formation", "collectivites"],
+      "themes": [
+        "formation",
+        "collectivites"
+      ],
       "region": "Baden",
       "language": "de",
-      "people": [{ "name": "Ruth Müri", "role": "Stadträtin, Vorsteherin Ressort Bildung" }],
-      "companies": ["stadtbuero-stadt-baden"]
+      "people": [
+        {
+          "name": "Ruth Müri",
+          "role": "Stadträtin, Vorsteherin Ressort Bildung"
+        }
+      ],
+      "companies": [
+        "stadtbuero-stadt-baden"
+      ]
     },
     {
       "slug": "uvs-suisse-alemanique-schweizerische-bauschule-aarau",
@@ -321,11 +542,21 @@
       "pdfPages": [],
       "summary": "Erina Guzzi, directrice de la Schweizerische Bauschule Aarau, présente cette école supérieure portée par le canton d'Argovie, l'une des plus grandes du pays, qui forme des techniciens ES en conduite de travaux et en planification. Les formations de trois ans, à plein temps ou en emploi, s'adressent à des professionnels titulaires d'un CFC (maçon, constructeur de routes, charpentier) et sont coordonnées avec la Société suisse des entrepreneurs, la SIA ou Holzbau Schweiz. Les orientations comprennent le bâtiment et génie civil, la construction en bois, le génie civil, l'architecture et l'architecture d'intérieur ; un postdiplôme en gestion d'entreprise de construction complète l'offre. Les enseignants sont issus de la pratique. Sur environ 350 étudiants, les femmes représentent moins de 10 %. L'école a été la première du canton certifiée ISO 29990, en décembre 2012.",
       "quote": "Die Bauwirtschaft benötigt Schulungsmöglichkeiten für das Kader mit Fokus auf die Praxis.",
-      "themes": ["formation", "construction"],
+      "themes": [
+        "formation",
+        "construction"
+      ],
       "region": "Unterentfelden (AG)",
       "language": "de",
-      "people": [{ "name": "Erina Guzzi", "role": "Direktorin" }],
-      "companies": ["schweizerische-bauschule-aarau"]
+      "people": [
+        {
+          "name": "Erina Guzzi",
+          "role": "Direktorin"
+        }
+      ],
+      "companies": [
+        "schweizerische-bauschule-aarau"
+      ]
     },
     {
       "slug": "uvs-suisse-alemanique-bbp-per-trifunovic",
@@ -336,11 +567,20 @@
       "pdfPages": [],
       "summary": "Per Trifunovic, CEO de BBP AG, présente cette PME de Baden peu connue localement mais leader dans sa niche : 75 collaborateurs à Baden, 70 autres à Genève, Francfort et Londres, et plus de 500 clients dans le monde. L'entreprise développe des logiciels pour les échanges entre banques et grandes entreprises : trafic des paiements, règlement de titres, opérations boursières et contrôle des transactions électroniques. Proposant ses solutions en « cloud » depuis 18 ans, elle est devenue le plus grand fournisseur mondial de services SWIFT Service Bureau et la première en Europe à obtenir le « SWIFT Premier Operational Label ». Lors d'un déménagement, les employés ont voté pour rester à Baden ; l'entreprise occupe l'ancienne dépendance de l'Hôtel Bären dans le quartier des bains. L'interview est reproduite en allemand et en anglais.",
       "quote": "Wir sind der weltweit grösste Anbieter von SWIFT ServiceBureau-Dienstleistungen.",
-      "themes": ["economie"],
+      "themes": [
+        "economie"
+      ],
       "region": "Baden",
       "language": "de",
-      "people": [{ "name": "Per Trifunovic", "role": "CEO" }],
-      "companies": ["bbp"]
+      "people": [
+        {
+          "name": "Per Trifunovic",
+          "role": "CEO"
+        }
+      ],
+      "companies": [
+        "bbp"
+      ]
     },
     {
       "slug": "uvs-suisse-alemanique-centris-patrick-progin",
@@ -351,11 +591,21 @@
       "pdfPages": [],
       "summary": "Patrick Progin, CEO de Centris AG à Soleure, décrit un prestataire informatique qui gère l'ensemble de l'informatique de nombreux assureurs maladie et accidents suisses. Sa plateforme sectorielle modulaire « Swiss Health Platform » (SHP) permet aux clients d'externaliser toute l'exploitation ou seulement l'infrastructure. Le slogan « more than IT » traduit la combinaison de compétences informatiques et d'expérience du métier de l'assurance. La sécurité des données sensibles repose sur un centre de calcul moderne à Soleure et des certifications régulières. Le programme de transformation « Way to Excellence » et le projet « organisation apprenante » accompagnent la croissance. Classée 50e des 100 premières entreprises soleuroises, Centris est le principal employeur informatique régional, avec un taux de rotation de 5,4 % et 185 collaborateurs prévus fin 2014. L'entretien paraît en allemand et en français.",
       "quote": "Professionell, effizient, sicher: Das sind Werte, die wir als Unternehmen unseren Kunden versprechen.",
-      "themes": ["economie", "sante"],
+      "themes": [
+        "economie",
+        "sante"
+      ],
       "region": "Soleure",
       "language": "de",
-      "people": [{ "name": "Patrick Progin", "role": "CEO" }],
-      "companies": ["centris"]
+      "people": [
+        {
+          "name": "Patrick Progin",
+          "role": "CEO"
+        }
+      ],
+      "companies": [
+        "centris"
+      ]
     },
     {
       "slug": "uvs-suisse-alemanique-eberhard-bau-heinz-eberhard",
@@ -366,26 +616,46 @@
       "pdfPages": [],
       "summary": "Heinz Eberhard, président du conseil d'administration d'Eberhard Bau AG, revient sur les 60 ans de l'entreprise familiale fondée comme entreprise de terrassement. Elle couvre aujourd'hui génie civil, déconstruction, assainissement de sites pollués et production de matériaux. Elle a participé aux grandes reconversions zurichoises, notamment les 61 hectares de Zurich-Nord, où les emplois sont passés de 4400 à 12 000, Zurich-Ouest, Sihl City, le Zollfreilager et la déconstruction de la gare aux marchandises. Pionnière du recyclage depuis 30 ans, elle exploite l'installation de lavage des sols ESAR (1993), le centre de recyclage Ebirec (1999), le centre de traitement BAZO (2011) et l'installation supersort (2013). La logistique combinant route, rail et gravière de Weiach limite les nuisances. L'entretien est publié en allemand et en anglais.",
       "quote": "Urban mining ist das Gebot der Stunde.",
-      "themes": ["construction", "energie"],
+      "themes": [
+        "construction",
+        "energie"
+      ],
       "region": "Kloten / Zurich",
       "language": "de",
-      "people": [{ "name": "Heinz Eberhard", "role": "VR-Präsident" }],
-      "companies": ["eberhard-bau"]
+      "people": [
+        {
+          "name": "Heinz Eberhard",
+          "role": "VR-Präsident"
+        }
+      ],
+      "companies": [
+        "eberhard-bau"
+      ]
     },
     {
       "slug": "uvs-suisse-alemanique-elex-peter-studer",
-      "title": "ELEX AG – Im Gespräch mit Geschäftsführer Peter Studer",
+      "title": "Elex AG – Im Gespräch mit Geschäftsführer Peter Studer",
       "subtitle": "Électrofiltres et épuration des fumées",
       "type": "interview",
       "page": "50-51",
       "pdfPages": [],
-      "summary": "Peter Studer, directeur d'ELEX AG à Schwerzenbach, présente l'un des leaders mondiaux de l'épuration des gaz de fumée. Depuis sa fondation en 1934, l'entreprise construit des électrofiltres, auxquels se sont ajoutés tours de refroidissement par évaporation, installations de dénitrification catalytique et filtres hybrides. Il explique le principe de l'ionisation des poussières et les atouts de l'électrode ELEX-RS, réputée incassable. Les clients appartiennent surtout aux secteurs du ciment et de la chaux, des minéraux et de la métallurgie, et de l'énergie (centrales, usines d'incinération, raffineries). Pour la dénitrification catalytique dans les cimenteries, ELEX a formé une coentreprise avec ThyssenKrupp Industrial Solutions. Active partout sauf en Amérique du Nord, elle a construit son plus grand filtre en Arabie saoudite. La famille fondatrice Meyerhofer détient toujours la majorité.",
+      "summary": "Peter Studer, directeur d'Elex AG à Schwerzenbach, présente l'un des leaders mondiaux de l'épuration des gaz de fumée. Depuis sa fondation en 1934, l'entreprise construit des électrofiltres, auxquels se sont ajoutés tours de refroidissement par évaporation, installations de dénitrification catalytique et filtres hybrides. Il explique le principe de l'ionisation des poussières et les atouts de l'électrode ELEX-RS, réputée incassable. Les clients appartiennent surtout aux secteurs du ciment et de la chaux, des minéraux et de la métallurgie, et de l'énergie (centrales, usines d'incinération, raffineries). Pour la dénitrification catalytique dans les cimenteries, Elex a formé une coentreprise avec ThyssenKrupp Industrial Solutions. Active partout sauf en Amérique du Nord, elle a construit son plus grand filtre en Arabie saoudite. La famille fondatrice Meyerhofer détient toujours la majorité.",
       "quote": "",
-      "themes": ["energie", "industrie"],
+      "themes": [
+        "energie",
+        "industrie"
+      ],
       "region": "Schwerzenbach (ZH)",
       "language": "de",
-      "people": [{ "name": "Peter Studer", "role": "Geschäftsführer" }],
-      "companies": ["elex"]
+      "people": [
+        {
+          "name": "Peter Studer",
+          "role": "Geschäftsführer"
+        }
+      ],
+      "companies": [
+        "elex"
+      ]
     },
     {
       "slug": "uvs-suisse-alemanique-hardturm-vincent-albers",
@@ -396,11 +666,21 @@
       "pdfPages": [],
       "summary": "Vincent Albers, président du conseil d'administration de Hardturm AG, société du groupe Albers, détaille le Hard Turm Park construit sur les anciens terrains d'entraînement des Grasshoppers. La pierre angulaire de la quatrième et dernière étape a été posée en mai 2014 : un immeuble de 108 logements, moitié en location, moitié en vente, et un immeuble de bureaux loué à SIX, livrés en 2016. La tour de 81 mètres et 23 étages compte 121 appartements en propriété, dont 107 déjà vendus. Conçus par Gmür & Geschwentner Architekten, les logements bénéficient de loggias sur deux niveaux. Le concept mixte, l'îlot fermé et l'espace vert continu rencontrent un vif succès. Présente depuis plus de 100 ans à Zurich-Ouest, la famille Albers soutient aussi la culture et offre trois sculptures à la ville. Texte en allemand et en anglais.",
       "quote": "Für uns als Entwickler ist der Hard Turm Park eine veritable Erfolgsstory.",
-      "themes": ["architecture", "construction"],
+      "themes": [
+        "architecture",
+        "construction"
+      ],
       "region": "Zurich-Ouest",
       "language": "de",
-      "people": [{ "name": "Vincent Albers", "role": "Verwaltungsratspräsident" }],
-      "companies": ["hardturm"]
+      "people": [
+        {
+          "name": "Vincent Albers",
+          "role": "Verwaltungsratspräsident"
+        }
+      ],
+      "companies": [
+        "hardturm"
+      ]
     },
     {
       "slug": "uvs-suisse-alemanique-h-net-michael-ziegler",
@@ -411,11 +691,21 @@
       "pdfPages": [],
       "summary": "Michael Ziegler, directeur de H-Net AG à Zurich, présente un prestataire eHealth neutre et indépendant spécialisé dans l'échange sécurisé de données, le cloud, le centre de données et la sécurité, avec son propre framework de sécurité sans composants étrangers. Près de 300 grands clients (hôpitaux, médecins, instituts) et environ 400 cabinets utilisent ses services. L'entreprise fournit une solution complète ou des modules pour le dossier électronique du patient selon IHE, dans le cadre de la stratégie fédérale « Santé 2020 ». Son MedicalConnector constitue le plus grand réseau suisse d'échange de données médicales ; MedicalShare permet l'envoi à des destinataires externes ; la H-Box interroge les cartes d'assuré. H-Net est aussi un intermédiaire majeur de facturation électronique et propose HealthTalk, le logiciel de cabinet E-Medicus et un PACS dans le cloud.",
       "quote": "Wir liefern zum elektronischen Patientendossier eine Komplettlösung oder auch einzelne Module dazu.",
-      "themes": ["sante", "economie"],
+      "themes": [
+        "sante",
+        "economie"
+      ],
       "region": "Zurich",
       "language": "de",
-      "people": [{ "name": "Michael Ziegler", "role": "Geschäftsführer" }],
-      "companies": ["h-net"]
+      "people": [
+        {
+          "name": "Michael Ziegler",
+          "role": "Geschäftsführer"
+        }
+      ],
+      "companies": [
+        "h-net"
+      ]
     },
     {
       "slug": "uvs-suisse-alemanique-hoermann-andreas-breschan",
@@ -426,11 +716,21 @@
       "pdfPages": [],
       "summary": "Andreas Breschan, à la tête de Hörmann Schweiz AG depuis fin 2013, dirige le plus grand fournisseur de solutions de portes et portails du pays, basé à Oensingen. Il veut préserver les acquis, développer de nouveaux segments et enthousiasmer les clients par la qualité du service. Le groupe développe et fabrique ses produits dans 27 usines spécialisées et réinvestit ses bénéfices dans la recherche. La porte d'entrée ThermoCarbon affiche une valeur UD de 0,47 W/(m²·K), présentée comme la meilleure au monde, et les portes existent en classes anti-effraction RC2 à RC4 ; la « série 67 » de portes sectionnelles industrielles a été lancée en 2014. Les motorisations utilisent le système radio bidirectionnel breveté BiSecur. Des conseillers dédiés accompagnent les architectes, et l'entreprise est certifiée ISO 14001. L'interview paraît en allemand et en français.",
       "quote": "Nicht nur zufriedene, sondern begeisterte Kunden sind die beste Visitenkarte.",
-      "themes": ["construction", "industrie"],
+      "themes": [
+        "construction",
+        "industrie"
+      ],
       "region": "Oensingen (SO)",
       "language": "de",
-      "people": [{ "name": "Andreas Breschan", "role": "CEO" }],
-      "companies": ["hoermann-schweiz"]
+      "people": [
+        {
+          "name": "Andreas Breschan",
+          "role": "CEO"
+        }
+      ],
+      "companies": [
+        "hoermann-schweiz"
+      ]
     },
     {
       "slug": "uvs-suisse-alemanique-ibaarau-hans-kaspar-scherrer",
@@ -441,11 +741,20 @@
       "pdfPages": [],
       "summary": "Hans-Kaspar Scherrer, président de la direction d'IBAarau, présente un groupe actif dans l'électricité, le gaz naturel et le biogaz, l'eau potable, le chauffage et le froid à distance, ainsi que les installations électriques, la communication et le service de transformateurs et moteurs. La holding réunit plusieurs filiales, dont IBAarau Strom, Wärme, Trinkwasser, Kraftwerk, Elektro et Wynagas. Fin 2013, le groupe employait 247 personnes et 49 apprentis. Il dessert Aarau et une vingtaine de communes, y compris trois soleuroises. La centrale au fil de l'Aar produit environ 20 % de l'électricité vendue, avec une hausse visée de 17 % à 125 millions de kWh. Les réseaux de chaleur et de froid exploitent la nappe de l'Aar avec des pompes à chaleur à ammoniac. Un nouveau site de 420 postes est prévu à Buchs pour fin 2017. Texte en allemand et en anglais.",
       "quote": "Die IBAarau produziert mit dem Aare-Kraftwerk rund 20% der abgesetzten Strommenge selbst.",
-      "themes": ["energie"],
+      "themes": [
+        "energie"
+      ],
       "region": "Aarau",
       "language": "de",
-      "people": [{ "name": "Hans-Kaspar Scherrer", "role": "Vorsitzender der Geschäftsleitung" }],
-      "companies": ["ibaarau"]
+      "people": [
+        {
+          "name": "Hans-Kaspar Scherrer",
+          "role": "Vorsitzender der Geschäftsleitung"
+        }
+      ],
+      "companies": [
+        "ibaarau"
+      ]
     },
     {
       "slug": "uvs-suisse-alemanique-imp-bautest",
@@ -456,26 +765,45 @@
       "pdfPages": [],
       "summary": "Ce publireportage présente IMP Bautest AG, institut d'essais de matériaux, de conseil en construction et d'analyse basé à Oberbuchsiten, qui se présente comme le principal laboratoire privé de Suisse dans son domaine. Fidèle à sa devise « neutralité, compétence, innovation », indépendant des fournisseurs et des maîtres d'ouvrage, il fut en 1992 le premier laboratoire de matériaux accrédité du pays et dispose de succursales à Morat, Bâle, Lausanne et sur le chantier de Nant de Drance. Son équipe interdisciplinaire de 80 personnes contrôle routes, bétons, granulats, marquages et étanchéités pour les offices publics, l'OFROU, la Poste, les CFF ou les bureaux d'ingénieurs. IMP Analytik réalise des analyses chimiques de matériaux, de déchets, d'eau potable et d'eau de baignade, et IMP Bauwissen forme environ 1300 participants par an.",
       "quote": "",
-      "themes": ["construction", "formation"],
+      "themes": [
+        "construction",
+        "formation"
+      ],
       "region": "Oberbuchsiten (SO)",
       "language": "de",
-      "people": [{ "name": "Christian Angst", "role": "" }],
-      "companies": ["imp-bautest"]
+      "people": [
+        {
+          "name": "Christian Angst",
+          "role": ""
+        }
+      ],
+      "companies": [
+        "imp-bautest"
+      ]
     },
     {
       "slug": "uvs-suisse-alemanique-impuls-mittelschule",
       "title": "Die Zürcher Mittelschulen – Interview mit Alexandra Siegrist-Tsakanakis",
-      "subtitle": "IMPULS MITTELSCHULE (version française incluse)",
+      "subtitle": "Impuls Mittelschule (version française incluse)",
       "type": "interview",
       "page": "66-68",
       "pdfPages": [],
-      "summary": "Alexandra Siegrist-Tsakanakis dirige IMPULS MITTELSCHULE, service de relations publiques créé en 2001 par la conférence des directeurs pour donner une voix commune aux 20 gymnases cantonaux zurichois. Le service organise notamment l'exposition des meilleurs travaux de maturité, participe aux salons de l'emploi pour recruter des enseignants, formule des positions communes et répond aux médias. Elle décrit le gymnase comme une école de la réflexion et de la personnalité, qui développe aussi les compétences sociales et artistiques. Cinq profils de maturité sont proposés ; le gymnase long est offert par 12 écoles, l'enseignement par immersion par 18, et deux établissements permettent d'obtenir aussi le baccalauréat international. Depuis 2002, le travail de maturité est devenu un élément central de la formation. L'entretien est publié en allemand et en français.",
+      "summary": "Alexandra Siegrist-Tsakanakis dirige Impuls Mittelschule, service de relations publiques créé en 2001 par la conférence des directeurs pour donner une voix commune aux 20 gymnases cantonaux zurichois. Le service organise notamment l'exposition des meilleurs travaux de maturité, participe aux salons de l'emploi pour recruter des enseignants, formule des positions communes et répond aux médias. Elle décrit le gymnase comme une école de la réflexion et de la personnalité, qui développe aussi les compétences sociales et artistiques. Cinq profils de maturité sont proposés ; le gymnase long est offert par 12 écoles, l'enseignement par immersion par 18, et deux établissements permettent d'obtenir aussi le baccalauréat international. Depuis 2002, le travail de maturité est devenu un élément central de la formation. L'entretien est publié en allemand et en français.",
       "quote": "Das Gymnasium ist eine Denk- und Persönlichkeitsschule.",
-      "themes": ["formation"],
+      "themes": [
+        "formation"
+      ],
       "region": "Canton de Zurich",
       "language": "de",
-      "people": [{ "name": "Alexandra Siegrist-Tsakanakis", "role": "Leiterin IMPULS MITTELSCHULE" }],
-      "companies": ["impuls-mittelschule"]
+      "people": [
+        {
+          "name": "Alexandra Siegrist-Tsakanakis",
+          "role": "Leiterin Impuls Mittelschule"
+        }
+      ],
+      "companies": [
+        "impuls-mittelschule"
+      ]
     },
     {
       "slug": "uvs-suisse-alemanique-jura-materials-hastag",
@@ -486,26 +814,46 @@
       "pdfPages": [],
       "summary": "André Germann, responsable des ventes chez Jura Materials, présente ce groupe de matériaux de construction domicilié à Aarau, actif dans le ciment, le gravier et le béton. Sa filiale du nord-est HASTAG (Zürich) AG produit, transporte et recycle gravier, sable, béton et enrobés, et gère des décharges ainsi que le conseil en sites pollués. Le gravier est extrait à Wil (ZH) et Volketswil, les centrales à béton se trouvent à Birmensdorf, Winterthour, Embrach, Uetikon et Volketswil. Le laboratoire central TCC de Wildegg favorise l'innovation, notamment pour les bétons recyclés. Fondée en 2006 avec Bereuter et KIBAG, la société RZO exploite à Volketswil une installation de 22 000 m² de production de matériaux de déconstruction, tandis que la décharge PARINAG de Schlatt accueille plus de 60 000 m³ de matériaux inertes par an. HASTAG compte 18 sites et 85 collaborateurs.",
       "quote": "",
-      "themes": ["construction", "industrie"],
+      "themes": [
+        "construction",
+        "industrie"
+      ],
       "region": "Zurich / Argovie",
       "language": "de",
-      "people": [{ "name": "André Germann", "role": "Bereichsleiter Verkauf" }],
-      "companies": ["jura-management", "hastag-zuerich"]
+      "people": [
+        {
+          "name": "André Germann",
+          "role": "Bereichsleiter Verkauf"
+        }
+      ],
+      "companies": [
+        "jura-management",
+        "hastag-zuerich"
+      ]
     },
     {
       "slug": "uvs-suisse-alemanique-meworla-michael-baumer",
-      "title": "MEWORLA GmbH – Interview mit Geschäftsführer Michael Baumer",
+      "title": "Meworla GmbH – Interview mit Geschäftsführer Michael Baumer",
       "subtitle": "CRM pour associations et gestion des affaires parlementaires",
       "type": "interview",
       "page": "70-71",
       "pdfPages": [],
       "summary": "Michael Baumer, directeur de Meworla GmbH à Zurich, conseille entreprises et associations dans l'usage de systèmes d'information et de bases de données et développe des applications sur des logiciels standard. Fondée en 2006, la société a créé le CRM Addressix, utilisé par de nombreuses associations dont certaines gèrent près de 200 000 personnes, et Kontoria, outil de gestion des affaires pour les groupes parlementaires, employé par les groupes du Conseil communal de Zurich depuis 2009. Il insiste sur la représentation fine des liens entre membres et organisation, la participation des contacts à la mise à jour de leurs données et la méthode de migration de données en une seule étape. Les données sont hébergées dans des centres certifiés en Suisse ; l'interface est en PHP avec une base PostgreSQL. L'entreprise a aussi développé une application pour la clearing biogaz de l'industrie gazière.",
       "quote": "",
-      "themes": ["economie"],
+      "themes": [
+        "economie"
+      ],
       "region": "Zurich",
       "language": "de",
-      "people": [{ "name": "Michael Baumer", "role": "Geschäftsführer" }],
-      "companies": ["meworla"]
+      "people": [
+        {
+          "name": "Michael Baumer",
+          "role": "Geschäftsführer"
+        }
+      ],
+      "companies": [
+        "meworla"
+      ]
     },
     {
       "slug": "uvs-suisse-alemanique-neosys-juerg-liechti",
@@ -516,26 +864,46 @@
       "pdfPages": [],
       "summary": "Jürg Liechti, directeur de Neosys AG, dont le siège est à Gerlafingen avec des bureaux à Berne et Lausanne, présente une palette de services liés à la durabilité. En environnement, la société réalise études d'impact, assainissements de sites pollués, concepts de déchets et d'épuration de l'air, gestion du CO2, mesures de bruit et écobilans. En sécurité, elle traite la prévention des accidents majeurs, la sécurité au travail et les marchandises dangereuses, complétées par l'analyse des risques d'entreprise. Elle accompagne aussi la responsabilité sociale, les rapports de durabilité, un service de conformité légale et l'introduction des normes ISO 14001, 50001 et 31000. Une trentaine à une quarantaine de projets sont menés en parallèle, de l'huile de friture usagée en Belgique aux projets de réduction de CO2 certifiés, valorisés environ 100 francs la tonne. Texte en allemand et en français.",
       "quote": "",
-      "themes": ["energie", "economie"],
+      "themes": [
+        "energie",
+        "economie"
+      ],
       "region": "Gerlafingen (SO)",
       "language": "de",
-      "people": [{ "name": "Jürg Liechti", "role": "Geschäftsführer" }],
-      "companies": ["neosys"]
+      "people": [
+        {
+          "name": "Jürg Liechti",
+          "role": "Geschäftsführer"
+        }
+      ],
+      "companies": [
+        "neosys"
+      ]
     },
     {
       "slug": "uvs-suisse-alemanique-regio-energie-solothurn-felix-straessle",
       "title": "Regio Energie Solothurn – Interview mit Felix Strässle, Direktor",
-      "subtitle": "« Energie-service public – so nah, so gut »",
+      "subtitle": "« Energieservice public – so nah, so gut »",
       "type": "interview",
       "page": "74-76",
       "pdfPages": [],
       "summary": "Felix Strässle, directeur de Regio Energie Solothurn, entreprise appartenant à la commune de Soleure, décrit trois piliers : l'approvisionnement en électricité, chaleur à distance, gaz, biogaz et eau, le conseil en efficacité énergétique et les installations électriques, sanitaires et de chauffage. Le réseau dessert 22 communes autour de Soleure, avec environ 160 collaborateurs et plus de 20 apprentis dans 11 métiers. En 2013, l'électricité fournie provenait à 100 % de sources renouvelables suisses : 64 % d'hydraulique, plus de 33 % de biomasse et 0,5 % de solaire. Les « SOnnen-Scheine », rémunérés à 2 %, financent avec la coopérative OptimaSolar de nouvelles toitures photovoltaïques. Le réseau de chaleur alimenté par l'usine d'incinération KEBAG atteint environ 17 km et plus de 100 clients. Il présente aussi le contracting, les prestations « Negawatt » et le prix Regio Energie.",
       "quote": "Unsere Kunden mit sinnvollen Lösungen in eine nachhaltige Energiezukunft begleiten.",
-      "themes": ["energie", "collectivites"],
+      "themes": [
+        "energie",
+        "collectivites"
+      ],
       "region": "Soleure",
       "language": "de",
-      "people": [{ "name": "Felix Strässle", "role": "Direktor" }],
-      "companies": ["regio-energie-solothurn"]
+      "people": [
+        {
+          "name": "Felix Strässle",
+          "role": "Direktor"
+        }
+      ],
+      "companies": [
+        "regio-energie-solothurn"
+      ]
     },
     {
       "slug": "uvs-suisse-alemanique-amt-fuer-kultur-und-sport-solothurn",
@@ -546,11 +914,29 @@
       "pdfPages": [],
       "summary": "Cäsar Eberlin, chef de l'Office de la culture et du sport du canton de Soleure, explique l'organisation de son service en trois divisions : conservation du patrimoine, avec trois musées et une histoire cantonale en sept volumes d'ici 2017 ; office des sports, chargé de Jeunesse+Sport et de la promotion de l'activité physique ; encouragement de la culture. Le canton enrichit un inventaire artistique d'environ 4000 œuvres et soutient des projets culturels financés par le fonds de loterie, sur préavis du Kuratorium für Kulturförderung, actif depuis 1972 avec six commissions. Il présente le château de Waldegg, le musée de l'Ancien Arsenal et le château de Wartenfels, les critères d'attribution des prix et bourses, ainsi que les lauréats 2015 de l'atelier parisien, Isabelle Ryf et Christoph Hess. Le programme « SOkultur und Schule » et le label « so.fit » complètent l'action.",
       "quote": "Der Kanton kauft regelmässig Werke Solothurner Kunstschaffender, um das kulturelle Schaffen zu dokumentieren.",
-      "themes": ["territoire", "collectivites"],
+      "themes": [
+        "territoire",
+        "collectivites"
+      ],
       "region": "Canton de Soleure",
       "language": "de",
-      "people": [{ "name": "Cäsar Eberlin", "role": "Leiter des Amtes für Kultur und Sport" }, { "name": "Isabelle Ryf", "role": "Autorin" }, { "name": "Christoph Hess", "role": "Musiker und Performer" }],
-      "companies": ["amt-fuer-kultur-und-sport-solothurn"]
+      "people": [
+        {
+          "name": "Cäsar Eberlin",
+          "role": "Leiter des Amtes für Kultur und Sport"
+        },
+        {
+          "name": "Isabelle Ryf",
+          "role": "Autorin"
+        },
+        {
+          "name": "Christoph Hess",
+          "role": "Musiker und Performer"
+        }
+      ],
+      "companies": [
+        "amt-fuer-kultur-und-sport-solothurn"
+      ]
     },
     {
       "slug": "uvs-suisse-alemanique-swissmill",
@@ -561,11 +947,21 @@
       "pdfPages": [],
       "summary": "Ce publireportage présente Swissmill, division de la coopérative Coop installée au Sihlquai à Zurich depuis 1843 et plus grand moulin du pays. Elle transforme environ 30 % des céréales destinées à l'alimentation en Suisse, jusqu'à 1000 tonnes par jour, soit plus de 200 000 tonnes par an, en plus de 100 farines, semoules et flocons. Ses 75 collaborateurs, dont 25 meuniers et six apprentis, disposent d'un laboratoire et d'une boulangerie d'essai. Toutes les céréales arrivent par le rail. Le CEO Romeo Sciaranetti souligne que près de 90 % des céréales panifiables sont suisses, que la part bio dépasse 15 % et que l'entreprise vise la neutralité carbone. Approuvée par les Zurichois en 2011, la surélévation du silo à 118 mètres doit entrer en service durant l'hiver 2015/2016. Un résumé en anglais complète le texte.",
       "quote": "Das neue Kornhaus von Swissmill ist mehr als ein Lagersilo.",
-      "themes": ["industrie", "economie"],
+      "themes": [
+        "industrie",
+        "economie"
+      ],
       "region": "Zurich",
       "language": "de",
-      "people": [{ "name": "Romeo Sciaranetti", "role": "CEO" }],
-      "companies": ["swissmill"]
+      "people": [
+        {
+          "name": "Romeo Sciaranetti",
+          "role": "CEO"
+        }
+      ],
+      "companies": [
+        "swissmill"
+      ]
     },
     {
       "slug": "uvs-suisse-alemanique-hochschule-fuer-wirtschaft-fhnw",
@@ -576,11 +972,21 @@
       "pdfPages": [],
       "summary": "Ruedi Nützi, directeur de la Haute école d'économie de la FHNW, rappelle la mission des hautes écoles spécialisées : formation, formation continue, recherche appliquée, prestations et coopération internationale. L'école propose des bachelors en économie d'entreprise, business administration, international business management trinational, informatique de gestion et business information technology, ainsi que des masters en management international et en systèmes d'information. Ses diplômés sont très recherchés, comme le confirme une étude d'economiesuisse plaçant la FHNW parmi les meilleures. Grâce à des semestres à l'étranger auprès de plus de 130 universités partenaires et à de nombreux étudiants d'échange, ses étudiants ont la plus grande expérience internationale. L'école gère aussi le Swiss SME Research Center China et dispose de sites à Bâle, Brugg-Windisch et Olten, tous proches de la gare. Le texte disponible s'interrompt à ce stade.",
       "quote": "Absolventinnen und Absolventen unserer Hochschule sind sehr begehrt auf dem Arbeitsmarkt.",
-      "themes": ["formation", "economie"],
+      "themes": [
+        "formation",
+        "economie"
+      ],
       "region": "Nord-Ouest de la Suisse",
       "language": "de",
-      "people": [{ "name": "Ruedi Nützi", "role": "Prof. Dr., Direktor" }],
-      "companies": ["hochschule-fuer-wirtschaft-fhnw"]
+      "people": [
+        {
+          "name": "Ruedi Nützi",
+          "role": "Prof. Dr., Direktor"
+        }
+      ],
+      "companies": [
+        "hochschule-fuer-wirtschaft-fhnw"
+      ]
     }
   ],
   "companies": [
@@ -588,7 +994,9 @@
       "slug": "stadt-solothurn",
       "name": "Stadt Solothurn – Stadtpräsidium",
       "sector": "Administration communale",
-      "themes": ["collectivites"],
+      "themes": [
+        "collectivites"
+      ],
       "description": "Présidence de la ville de Soleure, capitale cantonale de quelque 17 000 habitants sur 629 hectares. La ville se profile comme centre de congrès, pôle culturel (environ 600 francs de dépenses culturelles par habitant) et site économique bien desservi par les autoroutes A1 et A5 et l'axe ferroviaire Zurich-Genève. Elle étudie une fusion avec Biberist, Derendingen, Luterbach et Zuchwil.",
       "address": "Baselstrasse 7, Postfach 460",
       "postalCode": "4502",
@@ -598,7 +1006,12 @@
       "phone": "+41 (0)32 626 92 01",
       "email": "stadtpraesidium@solothurn.ch",
       "website": "www.stadt-solothurn.ch",
-      "contacts": [{ "name": "Kurt Fluri", "role": "Stadtpräsident" }],
+      "contacts": [
+        {
+          "name": "Kurt Fluri",
+          "role": "Stadtpräsident"
+        }
+      ],
       "page": "02-03",
       "pdfPages": [],
       "advertiserOnly": false
@@ -607,7 +1020,9 @@
       "slug": "solothurner-handelskammer",
       "name": "Solothurner Handelskammer (SOHK)",
       "sector": "Chambre de commerce",
-      "themes": ["economie"],
+      "themes": [
+        "economie"
+      ],
       "description": "Organisation centrale et centre de compétences de l'économie soleuroise. Elle défend des conditions-cadres libérales, délivre documents d'exportation et carnets ATA, conseille les exportateurs, relaie l'innovation vers les hautes écoles, gère un centre de création d'entreprises et a lancé en 2013 la SOHK Praxis-Akademie. Elle mène avec les arts et métiers le projet « SO talentiert! » contre la pénurie de spécialistes.",
       "address": "Grabackerstrasse 6, Postfach 1554",
       "postalCode": "4502",
@@ -617,7 +1032,12 @@
       "phone": "+41 (0)32 626 24 24",
       "email": "",
       "website": "www.sohk.ch",
-      "contacts": [{ "name": "Daniel Probst", "role": "Direktor" }],
+      "contacts": [
+        {
+          "name": "Daniel Probst",
+          "role": "Direktor"
+        }
+      ],
       "page": "04-05",
       "pdfPages": [],
       "advertiserOnly": false
@@ -626,7 +1046,9 @@
       "slug": "region-solothurn-tourismus",
       "name": "Region Solothurn Tourismus",
       "sector": "Office du tourisme",
-      "themes": ["territoire"],
+      "themes": [
+        "territoire"
+      ],
       "description": "Organisation touristique de la région de Soleure, qui promeut la ville baroque, le Weissenstein et le Jura soleurois ainsi que la navigation sur l'Aar. Elle organise environ 1500 visites guidées par an pour plus de 23 000 participants avec une quarantaine de guides et coopère avec la région Jura Trois-Lacs pour les marchés suisse, allemand et français.",
       "address": "Hauptgasse 69",
       "postalCode": "4500",
@@ -636,7 +1058,12 @@
       "phone": "+41 (0)32 626 46 46",
       "email": "info@solothurn-city.ch",
       "website": "www.solothurn-city.ch",
-      "contacts": [{ "name": "Jürgen Hofer", "role": "Tourismus-Direktor" }],
+      "contacts": [
+        {
+          "name": "Jürgen Hofer",
+          "role": "Tourismus-Direktor"
+        }
+      ],
       "page": "06-07",
       "pdfPages": [],
       "advertiserOnly": false
@@ -645,7 +1072,10 @@
       "slug": "regio-energie-solothurn",
       "name": "Regio Energie Solothurn (RES)",
       "sector": "Fourniture d'énergie et d'eau",
-      "themes": ["energie", "collectivites"],
+      "themes": [
+        "energie",
+        "collectivites"
+      ],
       "description": "Entreprise énergétique appartenant à la commune de Soleure, qui fournit électricité, chaleur à distance, gaz, biogaz et eau à 22 communes et offre conseil en efficacité énergétique, contracting et installations techniques. Environ 160 collaborateurs et plus de 20 apprentis. Électricité 100 % renouvelable suisse, réseau de chaleur d'environ 17 km alimenté par la KEBAG et projet pilote « Hybridwerk Aarmatt » (Power-to-Gas), primé en 2013.",
       "address": "Rötistrasse 17, Postfach",
       "postalCode": "4502",
@@ -655,7 +1085,12 @@
       "phone": "+41 (0)32 626 94 94",
       "email": "info@regioenergie.ch",
       "website": "www.regioenergie.ch",
-      "contacts": [{ "name": "Felix Strässle", "role": "Direktor" }],
+      "contacts": [
+        {
+          "name": "Felix Strässle",
+          "role": "Direktor"
+        }
+      ],
       "page": "08-09, 74-76",
       "pdfPages": [],
       "advertiserOnly": false
@@ -664,7 +1099,10 @@
       "slug": "schuldirektion-stadt-solothurn",
       "name": "Schuldirektion der Stadt Solothurn",
       "sector": "Écoles communales",
-      "themes": ["formation", "collectivites"],
+      "themes": [
+        "formation",
+        "collectivites"
+      ],
       "description": "Direction des écoles de la ville de Soleure (école enfantine, primaire et secondaire I), avec école de musique et écoles de jour facultatives sur trois sites. Sur 1565 élèves, 1210 sont scolarisés sur sept sites en 70 classes par environ 180 enseignants. Une classe de promotion des talents accueille les jeunes sportifs, musiciens et artistes.",
       "address": "Postfach 460",
       "postalCode": "4502",
@@ -674,7 +1112,12 @@
       "phone": "+41 (0)32 626 96 02",
       "email": "schuldirektion@solothurn.ch",
       "website": "www.stadtschulen-solothurn.ch",
-      "contacts": [{ "name": "Irène Schori", "role": "Schuldirektorin" }],
+      "contacts": [
+        {
+          "name": "Irène Schori",
+          "role": "Schuldirektorin"
+        }
+      ],
       "page": "10-11",
       "pdfPages": [],
       "advertiserOnly": false
@@ -683,7 +1126,10 @@
       "slug": "stadtbauamt-solothurn",
       "name": "Stadtbauamt Solothurn",
       "sector": "Urbanisme et constructions publiques",
-      "themes": ["architecture", "collectivites"],
+      "themes": [
+        "architecture",
+        "collectivites"
+      ],
       "description": "Office des constructions de la ville de Soleure, organisé en quatre divisions (planification, inspection des constructions et environnement ; génie civil ; bâtiments et énergie ; voirie). Il pilote la révision du plan d'aménagement, le concept « Solothurn 2030 » et le développement du secteur Weitblick (17 hectares achetés en 2009, environ 1300 habitants et autant d'emplois à terme).",
       "address": "Baselstrasse 7, Postfach 460",
       "postalCode": "4502",
@@ -693,7 +1139,12 @@
       "phone": "+41 (0)32 626 92 92",
       "email": "stadtbauamt@solothurn.ch",
       "website": "www.stadt-solothurn.ch",
-      "contacts": [{ "name": "Andrea Lenggenhager", "role": "Leiterin des Stadtbauamtes" }],
+      "contacts": [
+        {
+          "name": "Andrea Lenggenhager",
+          "role": "Leiterin des Stadtbauamtes"
+        }
+      ],
       "page": "12-13",
       "pdfPages": [],
       "advertiserOnly": false
@@ -702,7 +1153,9 @@
       "slug": "stadt-zuerich-praesidialdepartement",
       "name": "Stadt Zürich – Präsidialdepartement",
       "sector": "Administration communale",
-      "themes": ["collectivites"],
+      "themes": [
+        "collectivites"
+      ],
       "description": "Département présidentiel de la ville de Zurich, qui a franchi en 2014 le cap de 400 000 habitants. La révision partielle du règlement des constructions offre encore de la place pour 115 000 habitants et 160 000 emplois. La ville vise un tiers de logements d'utilité publique et accompagne la mutation de quartiers comme Neu-Oerlikon, Zurich-Ouest ou la Manegg.",
       "address": "Stadthausquai 17, Stadthaus, Postfach",
       "postalCode": "8022",
@@ -712,7 +1165,12 @@
       "phone": "(+41) (0)44 412 11 11",
       "email": "",
       "website": "https://www.stadt-zuerich.ch",
-      "contacts": [{ "name": "Corine Mauch", "role": "Stadtpräsidentin" }],
+      "contacts": [
+        {
+          "name": "Corine Mauch",
+          "role": "Stadtpräsidentin"
+        }
+      ],
       "page": "14-15",
       "pdfPages": [],
       "advertiserOnly": false
@@ -721,7 +1179,10 @@
       "slug": "amt-fuer-staedtebau-zuerich",
       "name": "Stadt Zürich – Amt für Städtebau",
       "sector": "Urbanisme",
-      "themes": ["architecture", "collectivites"],
+      "themes": [
+        "architecture",
+        "collectivites"
+      ],
       "description": "Office de l'urbanisme de la ville de Zurich, qui pilote la densification vers l'intérieur à partir de la stratégie de développement spatial, des plans directeurs et de l'inventaire du patrimoine. Il accompagne quelque 20 000 logements autorisés, en chantier ou en projet, et les secteurs Hochschulgebiet, Leutschenbach, Zollfreilager et Zurich-Ouest, en privilégiant les planifications coopératives.",
       "address": "Lindenhofstrasse 19, Amtshaus IV",
       "postalCode": "8021",
@@ -731,7 +1192,12 @@
       "phone": "+41 (0)44 412 11 11",
       "email": "",
       "website": "https://www.stadt-zuerich.ch/hbd",
-      "contacts": [{ "name": "Patrick Gmür", "role": "Direktor" }],
+      "contacts": [
+        {
+          "name": "Patrick Gmür",
+          "role": "Direktor"
+        }
+      ],
       "page": "16-17",
       "pdfPages": [],
       "advertiserOnly": false
@@ -740,7 +1206,10 @@
       "slug": "stadtentwicklung-stadt-zuerich",
       "name": "Stadtentwicklung Stadt Zürich – Wirtschaftsförderung",
       "sector": "Promotion économique",
-      "themes": ["economie", "collectivites"],
+      "themes": [
+        "economie",
+        "collectivites"
+      ],
       "description": "Service de développement urbain et de promotion économique de la ville de Zurich, premier interlocuteur des entreprises. Il mène une stratégie de clusters (finance, économie créative, cleantech, sciences de la vie), finance un Startzentrum, propose le service ImmoMail, un guichet PME et, depuis 2011, un Film Office pour faciliter les tournages.",
       "address": "Stadthausquai 17, Postfach",
       "postalCode": "8022",
@@ -750,7 +1219,12 @@
       "phone": "+41 (0)44 412 36 63",
       "email": "",
       "website": "www.stadt-zuerich.ch/wirtschaft",
-      "contacts": [{ "name": "Benno Seiler", "role": "stv. Direktor Stadtentwicklung und Leiter Wirtschaftsförderung" }],
+      "contacts": [
+        {
+          "name": "Benno Seiler",
+          "role": "stv. Direktor Stadtentwicklung und Leiter Wirtschaftsförderung"
+        }
+      ],
       "page": "18-19",
       "pdfPages": [],
       "advertiserOnly": false
@@ -759,7 +1233,9 @@
       "slug": "greater-zurich-area",
       "name": "Greater Zurich Area AG",
       "sector": "Promotion économique internationale",
-      "themes": ["economie"],
+      "themes": [
+        "economie"
+      ],
       "description": "Partenariat public-privé chargé du marketing international de la région économique zurichoise, qui compte près de 1,5 million d'actifs et un PIB de 76 000 francs par habitant. La GZA conseille gratuitement les entreprises étrangères (analyses de marché, contacts, recherche de locaux), en ciblant surtout les technologies de précision, les TIC, la finance et les sièges européens, sur les marchés américain, chinois et européen.",
       "address": "Limmatquai 122",
       "postalCode": "8001",
@@ -769,7 +1245,12 @@
       "phone": "+41 (0)44 254 59 59",
       "email": "info@greaterzuricharea.ch",
       "website": "www.greaterzuricharea.ch",
-      "contacts": [{ "name": "Sonja Wollkopf Walt", "role": "Geschäftsführerin" }],
+      "contacts": [
+        {
+          "name": "Sonja Wollkopf Walt",
+          "role": "Geschäftsführerin"
+        }
+      ],
       "page": "20-21",
       "pdfPages": [],
       "advertiserOnly": false
@@ -778,7 +1259,9 @@
       "slug": "stadt-winterthur",
       "name": "Stadtverwaltung Winterthur",
       "sector": "Administration communale",
-      "themes": ["collectivites"],
+      "themes": [
+        "collectivites"
+      ],
       "description": "Administration de Winterthour, sixième ville de Suisse avec plus de 100 000 habitants, passée de l'industrie aux services, à la formation et à la culture. Elle vise l'assainissement des finances, la création de 10 000 emplois en dix ans et le développement des transports publics et du vélo. En 2014, elle a célébré 750 ans de droit de cité avec environ 70 projets.",
       "address": "Postfach",
       "postalCode": "8402",
@@ -788,7 +1271,12 @@
       "phone": "+41 (0) 52 267 51 51",
       "email": "",
       "website": "http://stadt.winterthur.ch",
-      "contacts": [{ "name": "Michael Künzle", "role": "Stadtpräsident" }],
+      "contacts": [
+        {
+          "name": "Michael Künzle",
+          "role": "Stadtpräsident"
+        }
+      ],
       "page": "22-23",
       "pdfPages": [],
       "advertiserOnly": false
@@ -797,7 +1285,10 @@
       "slug": "amt-fuer-staedtebau-winterthur",
       "name": "Stadt Winterthur – Departement Bau, Amt für Städtebau",
       "sector": "Urbanisme",
-      "themes": ["architecture", "collectivites"],
+      "themes": [
+        "architecture",
+        "collectivites"
+      ],
       "description": "Office de l'urbanisme de Winterthour (une cinquantaine de collaborateurs), chargé de l'aménagement, de la conservation du patrimoine et des bâtiments municipaux. Il traite environ 200 demandes de permis par an représentant quelque 1 milliard de francs de travaux et accompagne les secteurs Sulzer-Stadtmitte et Neuhegi-Grüze ainsi que le masterplan de la gare.",
       "address": "Technikumstrasse 81",
       "postalCode": "8402",
@@ -807,7 +1298,12 @@
       "phone": "(+41) (0)52 267 54 62",
       "email": "staedtebau@win.ch",
       "website": "http://bau.winterthur.ch/amt-fuer-staedtebau/",
-      "contacts": [{ "name": "Michael Hauser", "role": "Leiter des Amts für Städtebau" }],
+      "contacts": [
+        {
+          "name": "Michael Hauser",
+          "role": "Leiter des Amts für Städtebau"
+        }
+      ],
       "page": "24-25",
       "pdfPages": [],
       "advertiserOnly": false
@@ -816,7 +1312,10 @@
       "slug": "stadtentwicklung-winterthur",
       "name": "Stadt Winterthur – Departement Kulturelles und Dienste, Stadtentwicklung",
       "sector": "Développement urbain",
-      "themes": ["collectivites", "territoire"],
+      "themes": [
+        "collectivites",
+        "territoire"
+      ],
       "description": "Service du développement urbain de Winterthour, rattaché au département de la culture et des services. Il accompagne la transformation des friches de Sulzer-Stadtmitte et de Neuhegi-Grüze (Halle 710, ouverte en 2012), le masterplan de la gare et la requalification d'axes routiers comme la Zürcherstrasse, empruntée par 28 000 véhicules par jour.",
       "address": "Obertor 32",
       "postalCode": "8402",
@@ -826,7 +1325,12 @@
       "phone": "(+41) (0)52 267 62 72",
       "email": "stadtentwicklung@win.ch",
       "website": "http://stadtentwicklung.winterthur.ch/",
-      "contacts": [{ "name": "Mark Würth", "role": "Leiter Stadtentwicklung" }],
+      "contacts": [
+        {
+          "name": "Mark Würth",
+          "role": "Leiter Stadtentwicklung"
+        }
+      ],
       "page": "26-27",
       "pdfPages": [],
       "advertiserOnly": false
@@ -835,7 +1339,9 @@
       "slug": "stadt-aarau",
       "name": "Stadt Aarau",
       "sector": "Administration communale",
-      "themes": ["collectivites"],
+      "themes": [
+        "collectivites"
+      ],
       "description": "Ville d'Aarau, capitale du canton d'Argovie, centre d'environ 30 000 emplois au cœur du triangle Zurich-Bâle-Berne. Lauréate du prix Wakker 2014 pour une densification de qualité, elle prépare de grands projets (stade du FC Aarau au Torfeld Süd, logements à Aarenau et Telli) et a inscrit la société à 2000 watts dans ses objectifs. L'administration compte 695 collaborateurs.",
       "address": "Rathausgasse 1",
       "postalCode": "5000",
@@ -845,7 +1351,12 @@
       "phone": "+41 (0)62 836 05 13",
       "email": "info@aarau.ch",
       "website": "www.aarau.ch",
-      "contacts": [{ "name": "Jolanda Urech", "role": "Stadtpräsidentin" }],
+      "contacts": [
+        {
+          "name": "Jolanda Urech",
+          "role": "Stadtpräsidentin"
+        }
+      ],
       "page": "28-29",
       "pdfPages": [],
       "advertiserOnly": false
@@ -854,7 +1365,10 @@
       "slug": "wirtschaftsfachstelle-stadt-aarau",
       "name": "Wirtschaftsfachstelle der Stadt Aarau",
       "sector": "Promotion économique communale",
-      "themes": ["economie", "collectivites"],
+      "themes": [
+        "economie",
+        "collectivites"
+      ],
       "description": "Service économique de la ville d'Aarau, qui accompagne les entreprises dans leurs démarches administratives, propose un guichet unique pour les projets complexes, aide à la recherche de locaux et soutient les start-up avec Aargau Services et la FHNW. L'an dernier, 32 entreprises se sont installées à Aarau et 94 y ont été créées.",
       "address": "Rathausgasse 1",
       "postalCode": "5000",
@@ -864,7 +1378,12 @@
       "phone": "+41 (0)62 836 01 80",
       "email": "wirtschaftsfachstelle@aarau.ch",
       "website": "www.aarau.ch",
-      "contacts": [{ "name": "Andreas Burri", "role": "Leiter Wirtschaftsfachstelle" }],
+      "contacts": [
+        {
+          "name": "Andreas Burri",
+          "role": "Leiter Wirtschaftsfachstelle"
+        }
+      ],
       "page": "30",
       "pdfPages": [],
       "advertiserOnly": false
@@ -873,7 +1392,10 @@
       "slug": "schule-aarau",
       "name": "Schule Aarau",
       "sector": "École obligatoire",
-      "themes": ["formation", "collectivites"],
+      "themes": [
+        "formation",
+        "collectivites"
+      ],
       "description": "École obligatoire de la ville d'Aarau, de l'école enfantine au secondaire (Real-, Sekundar- et Bezirksschule), avec classes d'intégration régionales, année de choix professionnel et école de musique. Environ 1650 élèves et 230 enseignants ; modèle d'école intégrative pleinement appliqué depuis 2010 et concept de gestion de la qualité.",
       "address": "Hammer 18",
       "postalCode": "5000",
@@ -883,7 +1405,12 @@
       "phone": "+41 (0)62 836 06 31",
       "email": "schule@aarau.ch",
       "website": "www.schule-aarau.ch",
-      "contacts": [{ "name": "Remi Bürgi", "role": "Geschäftsleiter" }],
+      "contacts": [
+        {
+          "name": "Remi Bürgi",
+          "role": "Geschäftsleiter"
+        }
+      ],
       "page": "31",
       "pdfPages": [],
       "advertiserOnly": false
@@ -892,7 +1419,10 @@
       "slug": "aargauische-industrie-und-handelskammer",
       "name": "Aargauische Industrie- und Handelskammer (AIHK)",
       "sector": "Chambre de commerce et association patronale",
-      "themes": ["economie", "industrie"],
+      "themes": [
+        "economie",
+        "industrie"
+      ],
       "description": "Chambre de l'industrie et du commerce du canton d'Argovie, vieille de 140 ans et réunie depuis 1976 avec l'ancienne association patronale. Elle compte plus de 1600 entreprises membres employant environ 40 % des actifs du canton et offre conseil juridique, services export, caisse AVS et caisse d'allocations familiales, ainsi que le centre de transfert technologique FITT.",
       "address": "Entfelderstrasse 11",
       "postalCode": "5001",
@@ -902,7 +1432,16 @@
       "phone": "+41 (0)62 837 18 18",
       "email": "info@aihk.ch",
       "website": "www.aihk.ch",
-      "contacts": [{ "name": "Peter Lüscher", "role": "Geschäftsleiter" }, { "name": "Markus Krack", "role": "Leiter FITT" }],
+      "contacts": [
+        {
+          "name": "Peter Lüscher",
+          "role": "Geschäftsleiter"
+        },
+        {
+          "name": "Markus Krack",
+          "role": "Leiter FITT"
+        }
+      ],
       "page": "32-35",
       "pdfPages": [],
       "advertiserOnly": false
@@ -911,7 +1450,9 @@
       "slug": "aarau-info",
       "name": "aarau info",
       "sector": "Office du tourisme",
-      "themes": ["territoire"],
+      "themes": [
+        "territoire"
+      ],
       "description": "Bureau central d'information touristique d'Aarau et de sa région, intégré au marketing territorial. Il assure la prévente de billets de spectacles et de transports publics, la réservation d'hébergements et plus de 600 visites guidées par an avec 13 guides formés, dont des circuits thématiques liés au prix Wakker et à la série « Der Bestatter ».",
       "address": "Metzgergasse 2",
       "postalCode": "5000",
@@ -921,7 +1462,12 @@
       "phone": "+41 (0)62 834 10 34",
       "email": "mail@aarauinfo.ch",
       "website": "www.aarauinfo.ch",
-      "contacts": [{ "name": "Esther Schmid", "role": "Leiterin" }],
+      "contacts": [
+        {
+          "name": "Esther Schmid",
+          "role": "Leiterin"
+        }
+      ],
       "page": "36-37",
       "pdfPages": [],
       "advertiserOnly": false
@@ -930,7 +1476,11 @@
       "slug": "stadt-baden-standortmarketing",
       "name": "Stadt Baden – Standortmarketing",
       "sector": "Marketing territorial",
-      "themes": ["economie", "territoire", "collectivites"],
+      "themes": [
+        "economie",
+        "territoire",
+        "collectivites"
+      ],
       "description": "Service de marketing territorial de la ville de Baden, créé en 2005 et porteur de la marque « Baden ist. ». Il fait le lien entre autorités, économie et population, accompagne les implantations d'entreprises et promeut la ville comme lieu de résidence, de congrès et de bien-être thermal. Baden compte plus de 1800 entreprises, dont ABB et Alstom.",
       "address": "Stadthaus, Rathausgasse 1",
       "postalCode": "5401",
@@ -940,7 +1490,12 @@
       "phone": "+41 (0)56 200 84 00",
       "email": "standortmarketing@baden.ag.ch",
       "website": "www.baden.ch",
-      "contacts": [{ "name": "Thomas Lütolf", "role": "Leiter Standortmarketing" }],
+      "contacts": [
+        {
+          "name": "Thomas Lütolf",
+          "role": "Leiter Standortmarketing"
+        }
+      ],
       "page": "38-39",
       "pdfPages": [],
       "advertiserOnly": false
@@ -949,7 +1504,10 @@
       "slug": "stadtbuero-stadt-baden",
       "name": "Stadtbüro Stadt Baden",
       "sector": "Administration communale",
-      "themes": ["collectivites", "formation"],
+      "themes": [
+        "collectivites",
+        "formation"
+      ],
       "description": "Bureau d'accueil de l'administration municipale de Baden, sans guichet, en contact direct avec les habitants et organisateur des soirées d'accueil des nouveaux arrivants. Coordonnées publiées avec l'interview de la conseillère municipale chargée de la formation, Ruth Müri, responsable de l'école obligatoire et du sport.",
       "address": "Stadthaus, Rathausgasse 1",
       "postalCode": "5401",
@@ -959,7 +1517,12 @@
       "phone": "+41 (0)56 200 83 83",
       "email": "stadtbuero@baden.ag.ch",
       "website": "www.baden.ch",
-      "contacts": [{ "name": "Ruth Müri", "role": "Stadträtin, Vorsteherin Ressort Bildung" }],
+      "contacts": [
+        {
+          "name": "Ruth Müri",
+          "role": "Stadträtin, Vorsteherin Ressort Bildung"
+        }
+      ],
       "page": "40",
       "pdfPages": [],
       "advertiserOnly": false
@@ -968,7 +1531,10 @@
       "slug": "schweizerische-bauschule-aarau",
       "name": "Schweizerische Bauschule Aarau",
       "sector": "École supérieure de la construction",
-      "themes": ["formation", "construction"],
+      "themes": [
+        "formation",
+        "construction"
+      ],
       "description": "École supérieure (ES) portée par le canton d'Argovie, l'une des plus grandes de Suisse, formant en trois ans des techniciens ES en conduite de travaux (bâtiment et génie civil, construction en bois) et en planification (génie civil, architecture, architecture d'intérieur), ainsi qu'un postdiplôme en gestion d'entreprise de construction. Environ 350 étudiants ; certifiée ISO 29990 en 2012.",
       "address": "Suhrenmattstrasse 48",
       "postalCode": "5035",
@@ -978,7 +1544,12 @@
       "phone": "+41 (0)62 737 90 20",
       "email": "info@bauschule.ch",
       "website": "www.bauschule.ch",
-      "contacts": [{ "name": "Erina Guzzi", "role": "Direktorin" }],
+      "contacts": [
+        {
+          "name": "Erina Guzzi",
+          "role": "Direktorin"
+        }
+      ],
       "page": "42-43",
       "pdfPages": [],
       "advertiserOnly": false
@@ -987,7 +1558,9 @@
       "slug": "bbp",
       "name": "BBP AG",
       "sector": "Logiciels financiers et services SWIFT",
-      "themes": ["economie"],
+      "themes": [
+        "economie"
+      ],
       "description": "PME de Baden développant des logiciels pour le B2B entre banques et grandes entreprises (paiements, titres, bourse, contrôle des transactions électroniques), proposés en cloud depuis 18 ans. Plus grand fournisseur mondial de services SWIFT Service Bureau et premier en Europe à détenir le « SWIFT Premier Operational Label ». 75 collaborateurs à Baden, 70 à Genève, Francfort et Londres, plus de 500 clients.",
       "address": "Bäderstrasse 29",
       "postalCode": "5401",
@@ -997,7 +1570,12 @@
       "phone": "+41 (0)56 203 96 30",
       "email": "info@bbp.ch",
       "website": "www.bbp.ch",
-      "contacts": [{ "name": "Per Trifunovic", "role": "CEO" }],
+      "contacts": [
+        {
+          "name": "Per Trifunovic",
+          "role": "CEO"
+        }
+      ],
       "page": "44-46",
       "pdfPages": [],
       "advertiserOnly": false
@@ -1006,7 +1584,10 @@
       "slug": "centris",
       "name": "Centris AG",
       "sector": "Externalisation informatique pour assureurs maladie",
-      "themes": ["economie", "sante"],
+      "themes": [
+        "economie",
+        "sante"
+      ],
       "description": "Prestataire informatique soleurois qui gère l'informatique complète de nombreux assureurs maladie et accidents suisses grâce à la plateforme modulaire « Swiss Health Platform » (SHP) et à son centre de calcul de Soleure. Principal employeur informatique de la région, avec 185 collaborateurs prévus fin 2014 et un taux de rotation de 5,4 %.",
       "address": "Grabackerstrasse 3",
       "postalCode": "4502",
@@ -1016,7 +1597,12 @@
       "phone": "+41 (0)32 625 44 59",
       "email": "communications@centrisag.ch",
       "website": "www.centrisag.ch",
-      "contacts": [{ "name": "Patrick Progin", "role": "CEO" }],
+      "contacts": [
+        {
+          "name": "Patrick Progin",
+          "role": "CEO"
+        }
+      ],
       "page": "47-48",
       "pdfPages": [],
       "advertiserOnly": false
@@ -1025,7 +1611,10 @@
       "slug": "eberhard-bau",
       "name": "Eberhard Bau AG (Eberhard Unternehmungen)",
       "sector": "Génie civil, déconstruction, assainissement et recyclage",
-      "themes": ["construction", "energie"],
+      "themes": [
+        "construction",
+        "energie"
+      ],
       "description": "Entreprise familiale de Kloten fondée il y a 60 ans comme entreprise de terrassement, aujourd'hui active dans le génie civil, la déconstruction, l'assainissement de sites pollués et la production de matériaux recyclés. Elle exploite l'installation de lavage des sols ESAR, le centre Ebirec, le centre de traitement BAZO et l'installation supersort, ainsi que la gravière de Weiach.",
       "address": "Steinackerstrasse 56",
       "postalCode": "8302",
@@ -1035,16 +1624,24 @@
       "phone": "+41 43 211 22 10",
       "email": "eberhard@eberhard.ch",
       "website": "http://www.eberhard.ch",
-      "contacts": [{ "name": "Heinz Eberhard", "role": "VR-Präsident" }],
+      "contacts": [
+        {
+          "name": "Heinz Eberhard",
+          "role": "VR-Präsident"
+        }
+      ],
       "page": "49",
       "pdfPages": [],
       "advertiserOnly": false
     },
     {
       "slug": "elex",
-      "name": "ELEX AG",
+      "name": "Elex AG",
       "sector": "Épuration des gaz de fumée",
-      "themes": ["energie", "industrie"],
+      "themes": [
+        "energie",
+        "industrie"
+      ],
       "description": "Entreprise fondée en 1934, spécialiste mondial des électrofiltres, également active dans les tours de refroidissement par évaporation, la dénitrification catalytique et les filtres hybrides. Clients dans le ciment et la chaux, la métallurgie et l'énergie (centrales, usines d'incinération). Électrode ELEX-RS, coentreprise avec ThyssenKrupp Industrial Solutions ; la famille fondatrice Meyerhofer détient toujours la majorité.",
       "address": "Eschenstrasse 6",
       "postalCode": "8603",
@@ -1054,7 +1651,12 @@
       "phone": "+41 44 825 78 78",
       "email": "elex@elex.ch",
       "website": "http://www.elex.ch",
-      "contacts": [{ "name": "Peter Studer", "role": "Geschäftsführer" }],
+      "contacts": [
+        {
+          "name": "Peter Studer",
+          "role": "Geschäftsführer"
+        }
+      ],
       "page": "50-51",
       "pdfPages": [],
       "advertiserOnly": false
@@ -1063,7 +1665,10 @@
       "slug": "hardturm",
       "name": "Hardturm AG",
       "sector": "Développement immobilier",
-      "themes": ["architecture", "construction"],
+      "themes": [
+        "architecture",
+        "construction"
+      ],
       "description": "Société du groupe Albers, présente depuis plus de 100 ans à Zurich-Ouest, développeuse et investisseuse du Hard Turm Park : une tour de 81 mètres et 23 étages avec 121 appartements en propriété, des immeubles mixtes et une dernière étape de 108 logements et de bureaux loués à SIX, livrée en 2016. Architectes : Gmür & Geschwentner.",
       "address": "Schanzengasse 14, Postfach 2016",
       "postalCode": "8022",
@@ -1073,7 +1678,12 @@
       "phone": "+41 (0)44 265 29 03",
       "email": "info@hardturm.com",
       "website": "www.hardturm.com",
-      "contacts": [{ "name": "Vincent Albers", "role": "Verwaltungsratspräsident" }],
+      "contacts": [
+        {
+          "name": "Vincent Albers",
+          "role": "Verwaltungsratspräsident"
+        }
+      ],
       "page": "52-55",
       "pdfPages": [],
       "advertiserOnly": false
@@ -1082,7 +1692,10 @@
       "slug": "h-net",
       "name": "H-Net AG",
       "sector": "Services eHealth",
-      "themes": ["sante", "economie"],
+      "themes": [
+        "sante",
+        "economie"
+      ],
       "description": "Prestataire eHealth zurichois neutre et indépendant : échange sécurisé de données médicales (MedicalConnector, MedicalShare), composants pour le dossier électronique du patient selon IHE, interrogation des cartes d'assuré (H-Box), facturation électronique, plateforme HealthTalk, logiciel de cabinet E-Medicus et PACS en cloud. Près de 300 grands clients et environ 400 cabinets médicaux.",
       "address": "Stampfenbachstrasse 40",
       "postalCode": "8006",
@@ -1092,7 +1705,12 @@
       "phone": "+41 (0)43 222 61 90",
       "email": "info@h-net.ch",
       "website": "www.h-net.ch",
-      "contacts": [{ "name": "Michael Ziegler", "role": "Geschäftsführer" }],
+      "contacts": [
+        {
+          "name": "Michael Ziegler",
+          "role": "Geschäftsführer"
+        }
+      ],
       "page": "56-57",
       "pdfPages": [],
       "advertiserOnly": false
@@ -1101,7 +1719,10 @@
       "slug": "hoermann-schweiz",
       "name": "Hörmann Schweiz AG",
       "sector": "Portes, portails et motorisations",
-      "themes": ["construction", "industrie"],
+      "themes": [
+        "construction",
+        "industrie"
+      ],
       "description": "Filiale suisse du groupe Hörmann, plus grand fournisseur de solutions de portes et portails du pays, dont les produits sont fabriqués dans 27 usines spécialisées. Gamme de portes de garage la plus large de Suisse, porte d'entrée ThermoCarbon (UD 0,47 W/(m²·K)), portes sectionnelles industrielles « série 67 », système radio BiSecur ; certifiée ISO 14001.",
       "address": "Nordringstrasse 14",
       "postalCode": "4702",
@@ -1111,7 +1732,12 @@
       "phone": "+41 0848 463 762",
       "email": "info@hoermann.ch",
       "website": "www.hoermann.ch",
-      "contacts": [{ "name": "Andreas Breschan", "role": "CEO" }],
+      "contacts": [
+        {
+          "name": "Andreas Breschan",
+          "role": "CEO"
+        }
+      ],
       "page": "58-59",
       "pdfPages": [],
       "advertiserOnly": false
@@ -1120,7 +1746,9 @@
       "slug": "ibaarau",
       "name": "IBAarau AG",
       "sector": "Fourniture d'électricité, gaz, eau et chaleur",
-      "themes": ["energie"],
+      "themes": [
+        "energie"
+      ],
       "description": "Groupe énergétique d'Aarau (holding et filiales IBAarau Strom, Wärme, Trinkwasser, Kraftwerk, Elektro et Wynagas) desservant Aarau et une vingtaine de communes. 247 collaborateurs et 49 apprentis fin 2013. La centrale de l'Aar couvre environ 20 % de l'électricité vendue ; réseaux de chaleur et de froid par pompes à chaleur à ammoniac, fibre optique et nouveau site à Buchs.",
       "address": "Obere Vorstadt 37, Postfach",
       "postalCode": "5001",
@@ -1130,7 +1758,12 @@
       "phone": "+41 (0)62 835 00 10",
       "email": "info@ibaarau.ch",
       "website": "www.ibaarau.ch",
-      "contacts": [{ "name": "Hans-Kaspar Scherrer", "role": "Vorsitzender der Geschäftsleitung" }],
+      "contacts": [
+        {
+          "name": "Hans-Kaspar Scherrer",
+          "role": "Vorsitzender der Geschäftsleitung"
+        }
+      ],
       "page": "60-64",
       "pdfPages": [],
       "advertiserOnly": false
@@ -1139,7 +1772,9 @@
       "slug": "imp-bautest",
       "name": "IMP Bautest AG",
       "sector": "Essais de matériaux, conseil en construction et analyses",
-      "themes": ["construction"],
+      "themes": [
+        "construction"
+      ],
       "description": "Institut indépendant d'essais de matériaux de construction, premier laboratoire du genre accrédité en Suisse (1992), avec des sites à Morat, Bâle, Lausanne et Nant de Drance. Ses 80 collaborateurs testent routes, bétons, granulats, marquages et étanchéités, réalisent des analyses chimiques (IMP Analytik) et forment environ 1300 participants par an (IMP Bauwissen).",
       "address": "Hauptstrasse 591",
       "postalCode": "4625",
@@ -1149,16 +1784,23 @@
       "phone": "+41 62 389 98 99",
       "email": "info@impbautest.ch",
       "website": "www.impbautest.ch",
-      "contacts": [{ "name": "Christian Angst", "role": "" }],
+      "contacts": [
+        {
+          "name": "Christian Angst",
+          "role": ""
+        }
+      ],
       "page": "65",
       "pdfPages": [],
       "advertiserOnly": false
     },
     {
       "slug": "impuls-mittelschule",
-      "name": "IMPULS MITTELSCHULE",
+      "name": "Impuls Mittelschule",
       "sector": "Relations publiques des gymnases zurichois",
-      "themes": ["formation"],
+      "themes": [
+        "formation"
+      ],
       "description": "Service de relations publiques des 20 écoles de maturité cantonales zurichoises, créé en 2001 par la conférence des directeurs. Il organise l'exposition des meilleurs travaux de maturité, participe aux salons de recrutement d'enseignants, formule des positions communes et gère un site d'information très consulté.",
       "address": "Gutenbergstr. 15, Postfach",
       "postalCode": "8027",
@@ -1168,17 +1810,25 @@
       "phone": "+41 (0)78 648 36 79",
       "email": "info@impulsmittelschule.ch",
       "website": "www.impulsmittelschule.ch",
-      "contacts": [{ "name": "Alexandra Siegrist-Tsakanakis", "role": "Leiterin" }],
+      "contacts": [
+        {
+          "name": "Alexandra Siegrist-Tsakanakis",
+          "role": "Leiterin"
+        }
+      ],
       "page": "66-68",
       "pdfPages": [],
       "advertiserOnly": false
     },
     {
       "slug": "jura-management",
-      "name": "Jura Management AG (JURA Materials)",
+      "name": "Jura Management AG (Jura Materials)",
       "sector": "Matériaux de construction (ciment, gravier, béton)",
-      "themes": ["construction", "industrie"],
-      "description": "Société faîtière de JURA Materials, groupe de matériaux de construction domicilié à Aarau et actif dans la production de ciment, l'extraction de gravier et la fabrication de béton. Le groupe dispose d'un laboratoire central, le Technical Competence Center de Wildegg, et compte notamment la filiale HASTAG (Zürich) AG.",
+      "themes": [
+        "construction",
+        "industrie"
+      ],
+      "description": "Société faîtière de Jura Materials, groupe de matériaux de construction domicilié à Aarau et actif dans la production de ciment, l'extraction de gravier et la fabrication de béton. Le groupe dispose d'un laboratoire central, le Technical Competence Center de Wildegg, et compte notamment la filiale HASTAG (Zürich) AG.",
       "address": "Zurlindeninsel 1",
       "postalCode": "5000",
       "city": "Aarau",
@@ -1187,7 +1837,12 @@
       "phone": "+41 62 838 05 05",
       "email": "info@juramaterials.ch",
       "website": "www.juramaterials.ch",
-      "contacts": [{ "name": "André Germann", "role": "Bereichsleiter Verkauf" }],
+      "contacts": [
+        {
+          "name": "André Germann",
+          "role": "Bereichsleiter Verkauf"
+        }
+      ],
       "page": "69",
       "pdfPages": [],
       "advertiserOnly": false
@@ -1196,11 +1851,13 @@
       "slug": "hastag-zuerich",
       "name": "HASTAG (Zürich) AG",
       "sector": "Gravier, béton, recyclage et décharges",
-      "themes": ["construction"],
-      "description": "Filiale de JURA Materials dans le nord-est de la Suisse, fondée en 1946 comme petite entreprise de transport. Elle produit, livre et recycle gravier, sable, béton et enrobés, gère des décharges et la logistique des matériaux. Gravières à Wil (ZH) et Volketswil, centrales à béton à Birmensdorf, Winterthour, Embrach, Uetikon et Volketswil ; 18 sites et 85 collaborateurs.",
+      "themes": [
+        "construction"
+      ],
+      "description": "Filiale de Jura Materials dans le nord-est de la Suisse, fondée en 1946 comme petite entreprise de transport. Elle produit, livre et recycle gravier, sable, béton et enrobés, gère des décharges et la logistique des matériaux. Gravières à Wil (ZH) et Volketswil, centrales à béton à Birmensdorf, Winterthour, Embrach, Uetikon et Volketswil ; 18 sites et 85 collaborateurs.",
       "address": "Urdorferstrasse",
       "postalCode": "8903",
-      "city": "Birmenstorf",
+      "city": "Birmensdorf",
       "canton": "ZH",
       "country": "Suisse",
       "phone": "+41 44 739 14 66",
@@ -1215,7 +1872,9 @@
       "slug": "meworla",
       "name": "Meworla GmbH",
       "sector": "Systèmes d'information et CRM",
-      "themes": ["economie"],
+      "themes": [
+        "economie"
+      ],
       "description": "Entreprise informatique zurichoise fondée en 2006 qui conseille entreprises et associations et développe des applications : le CRM Addressix, utilisé par de nombreuses associations (jusqu'à près de 200 000 personnes gérées), et Kontoria, gestion des affaires pour groupes parlementaires, employée au Conseil communal de Zurich depuis 2009. Hébergement dans des centres certifiés en Suisse.",
       "address": "Friedheimstrasse 15",
       "postalCode": "8057",
@@ -1225,7 +1884,12 @@
       "phone": "+41 44 310 24 47",
       "email": "info@meworla.com",
       "website": "www.meworla.com",
-      "contacts": [{ "name": "Michael Baumer", "role": "Geschäftsführer" }],
+      "contacts": [
+        {
+          "name": "Michael Baumer",
+          "role": "Geschäftsführer"
+        }
+      ],
       "page": "70-71",
       "pdfPages": [],
       "advertiserOnly": false
@@ -1234,7 +1898,10 @@
       "slug": "neosys",
       "name": "Neosys AG",
       "sector": "Conseil en durabilité, environnement et sécurité",
-      "themes": ["energie", "economie"],
+      "themes": [
+        "energie",
+        "economie"
+      ],
       "description": "Bureau de conseil basé à Gerlafingen, avec des bureaux à Berne et Lausanne, offrant des prestations en risques et sécurité, génie environnemental (études d'impact, sites pollués, CO2, bruit, écobilans), responsabilité sociale, systèmes de management (ISO 14001, 50001, 31000) et conformité légale. 30 à 40 projets menés en parallèle, y compris à l'étranger.",
       "address": "Privatstrasse 10",
       "postalCode": "4563",
@@ -1244,7 +1911,12 @@
       "phone": "+41 (0)32 674 45 11",
       "email": "",
       "website": "www.neosys.ch",
-      "contacts": [{ "name": "Jürg Liechti", "role": "Geschäftsführer" }],
+      "contacts": [
+        {
+          "name": "Jürg Liechti",
+          "role": "Geschäftsführer"
+        }
+      ],
       "page": "72-74",
       "pdfPages": [],
       "advertiserOnly": false
@@ -1253,7 +1925,10 @@
       "slug": "amt-fuer-kultur-und-sport-solothurn",
       "name": "Amt für Kultur und Sport des Kantons Solothurn (AKS)",
       "sector": "Administration cantonale de la culture et du sport",
-      "themes": ["territoire", "collectivites"],
+      "themes": [
+        "territoire",
+        "collectivites"
+      ],
       "description": "Office cantonal soleurois chargé de la conservation du patrimoine (trois musées, dont le château de Waldegg et l'Ancien Arsenal), de l'encouragement à la culture avec le Kuratorium für Kulturförderung et d'un inventaire d'environ 4000 œuvres, ainsi que du sport (Jeunesse+Sport, sport scolaire, label so.fit). Il attribue prix, bourses et séjours en atelier à Paris.",
       "address": "Schloss Waldegg, Waldeggstrasse 1",
       "postalCode": "4532",
@@ -1263,7 +1938,12 @@
       "phone": "+41 (0)32 627 63 63",
       "email": "aks@dbk.so.ch",
       "website": "www.aks.so.ch",
-      "contacts": [{ "name": "Cäsar Eberlin", "role": "Amtsleiter" }],
+      "contacts": [
+        {
+          "name": "Cäsar Eberlin",
+          "role": "Amtsleiter"
+        }
+      ],
       "page": "77-78",
       "pdfPages": [],
       "advertiserOnly": false
@@ -1272,7 +1952,9 @@
       "slug": "swissmill",
       "name": "Swissmill (Division der Coop Genossenschaft)",
       "sector": "Meunerie",
-      "themes": ["industrie"],
+      "themes": [
+        "industrie"
+      ],
       "description": "Plus grand moulin de Suisse, installé depuis 1843 au Sihlquai à Zurich et rattaché à Coop. Il transforme environ 30 % des céréales alimentaires du pays, plus de 200 000 tonnes par an, en plus de 100 farines, semoules et flocons. 75 collaborateurs, livraison des céréales par le rail, part bio supérieure à 15 % et nouveau silo de 118 mètres.",
       "address": "Sihlquai 306, Postfach",
       "postalCode": "8037",
@@ -1282,7 +1964,12 @@
       "phone": "+41 (0)44 447 25 25",
       "email": "",
       "website": "www.swissmill.ch",
-      "contacts": [{ "name": "Romeo Sciaranetti", "role": "CEO" }],
+      "contacts": [
+        {
+          "name": "Romeo Sciaranetti",
+          "role": "CEO"
+        }
+      ],
       "page": "78-79",
       "pdfPages": [],
       "advertiserOnly": false
@@ -1291,7 +1978,10 @@
       "slug": "hochschule-fuer-wirtschaft-fhnw",
       "name": "Hochschule für Wirtschaft FHNW",
       "sector": "Haute école spécialisée en économie",
-      "themes": ["formation", "economie"],
+      "themes": [
+        "formation",
+        "economie"
+      ],
       "description": "Haute école d'économie de la Fachhochschule Nordwestschweiz, proposant bachelors et masters en économie d'entreprise, management international et informatique de gestion, dont plusieurs en anglais. Plus de 130 universités partenaires, Swiss SME Research Center China, sites à Bâle, Brugg-Windisch et Olten.",
       "address": "Riggenbachstrasse 16",
       "postalCode": "4600",
@@ -1301,7 +1991,12 @@
       "phone": "+41 (0)848 821 011",
       "email": "info.wirtschaft@fhnw.ch",
       "website": "www.fhnw.ch/wirtschaft",
-      "contacts": [{ "name": "Ruedi Nützi", "role": "Prof. Dr., Direktor" }],
+      "contacts": [
+        {
+          "name": "Ruedi Nützi",
+          "role": "Prof. Dr., Direktor"
+        }
+      ],
       "page": "80-81",
       "pdfPages": [],
       "advertiserOnly": false
