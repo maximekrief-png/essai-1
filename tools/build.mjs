@@ -26,7 +26,7 @@ const exists = (rel) => fs.existsSync(path.join(OUT, rel));
 const domainOf = (w) => fold(w).replace(/^https?:\/\//, '').replace(/^www\./, '').replace(/\/.*$/, '').trim();
 const webUrl = (w) => (/^https?:\/\//i.test(w) ? w : `https://${w.replace(/^\/+/, '')}`);
 const telUrl = (p) => 'tel:' + p.replace(/[^+\d]/g, '').replace(/^00/, '+');
-const initials = (name) => fold(name).replace(/[^a-z0-9]+/g, ' ').replace(/\b(sa|ag|sarl|gmbh|ltd|inc|the|la|le|les|l|d|de|du|des|et|en|un|une|a|au|aux|der|die|das|und|im|il)\b/g, ' ').trim().split(/\s+/).filter((w) => /^[a-z]/.test(w)).slice(0, 2).map((w) => w[0].toUpperCase()).join('') || '•';
+const initials = (name) => fold(name).replace(/[^a-z0-9]+/g, ' ').replace(/\b(sa|ag|sarl|gmbh|ltd|inc|the|la|le|les|l|d|de|du|des|et|en|un|une|a|au|aux|der|die|das|und|im|il)\b/g, ' ').trim().split(/\s+/).filter((w) => /^[a-z0-9]/.test(w)).slice(0, 2).reduce((acc, w, _, all) => acc + (all.length === 1 ? w.slice(0, 2) : w[0]).toUpperCase(), '') || '•';
 const driveView = (id) => `https://drive.google.com/file/d/${id}/view`;
 const driveDownload = (id) => `https://drive.google.com/uc?export=download&id=${id}`;
 // PDF publics hébergés sur swissknowhow.ch (data/sources.json) : prioritaires sur Google Drive
