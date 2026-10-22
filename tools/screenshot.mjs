@@ -7,6 +7,8 @@ const [url, out, width = '1366', full = 'full'] = process.argv.slice(2);
 const browser = await pw.chromium.launch();
 const page = await browser.newPage({ viewport: { width: +width, height: 900 } });
 await page.goto(url, { waitUntil: 'networkidle' }).catch(() => {});
-await page.waitForTimeout(400);
+// Fait défiler pour déclencher le chargement différé des images
+await page.evaluate(async () => { for (let y = 0; y < document.body.scrollHeight; y += 600) { window.scrollTo(0, y); await new Promise((r) => setTimeout(r, 60)); } window.scrollTo(0, 0); });
+await page.waitForTimeout(800);
 await page.screenshot({ path: out, fullPage: full === 'full' });
 await browser.close();

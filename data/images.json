@@ -12,9 +12,6 @@
    "assets/img/web-aee-suisse-energie/p039-64e2376561f5.webp",
    "assets/img/web-aee-suisse-energie/p039-5c8d03a98d99.webp"
   ],
-  "aee-suisse-energie:aee-suisse-energie-ville-de-vevey-jerome-christen": [
-   "assets/img/web-aee-suisse-energie/p008-ea9a041c5bb0.webp"
-  ],
   "aee-suisse-energie:aee-suisse-energie-sig-konrad-rieder": [
    "assets/img/web-aee-suisse-energie/p009-d3e9701bae9f.webp",
    "assets/img/web-aee-suisse-energie/p009-424c202d0204.webp"
@@ -35,9 +32,6 @@
    "assets/img/web-aee-suisse-energie/p022-5fe063d48acc.webp",
    "assets/img/web-aee-suisse-energie/p023-babd4c87e67b.webp",
    "assets/img/web-aee-suisse-energie/p023-6bc24d99707d.webp"
-  ],
-  "aee-suisse-energie:aee-suisse-energie-basel-stadt-christoph-brutschin": [
-   "assets/img/web-aee-suisse-energie/p024-e7777b75a9df.webp"
   ],
   "aee-suisse-energie:aee-suisse-energie-neyruz-avenir-durable": [
    "assets/img/web-aee-suisse-energie/p026-234266c2f3c0.webp"
@@ -102,7 +96,6 @@
    "assets/img/web-aee-suisse-energie/p047-92bac529fa9c.webp"
   ],
   "aee-suisse-energie:aee-suisse-energie-heiniger-cables": [
-   "assets/img/web-aee-suisse-energie/p048-0db9fdc471ce.webp",
    "assets/img/web-aee-suisse-energie/p049-55d56496244a.webp"
   ],
   "arc-jurassien-2013:arc-jurassien-2013-interview-mireille-gasser": [
@@ -251,59 +244,12 @@
    "assets/img/aj2013-vigier-beton-seeland-jura/p001-4b5ac8fe232f.webp",
    "assets/img/aj2013-vigier-beton-seeland-jura/p002-40e0beb91819.webp"
   ],
-  "arc-lemanique:arc-lemanique-region-de-nyon-gerald-cretegny": [
-   "assets/img/web-arc-lemanique/p002-26b633413c04.webp"
-  ],
-  "arc-lemanique:arc-lemanique-region-de-nyon-pierre-graber": [
-   "assets/img/web-arc-lemanique/p002-26b633413c04.webp"
-  ],
-  "arc-lemanique:arc-lemanique-region-de-nyon-frederic-mani": [
-   "assets/img/web-arc-lemanique/p002-26b633413c04.webp"
-  ],
-  "arc-lemanique:arc-lemanique-region-de-nyon-gudrun-russig": [
-   "assets/img/web-arc-lemanique/p002-26b633413c04.webp"
-  ],
-  "arc-lemanique:arc-lemanique-region-de-nyon-daniel-rossellat": [
-   "assets/img/web-arc-lemanique/p002-26b633413c04.webp"
-  ],
-  "arc-lemanique:arc-lemanique-region-de-nyon-gerard-produit": [
-   "assets/img/web-arc-lemanique/p002-26b633413c04.webp"
-  ],
-  "arc-lemanique:arc-lemanique-morges-vincent-jaques": [
-   "assets/img/web-arc-lemanique/p008-26b633413c04.webp",
-   "assets/img/web-arc-lemanique/p009-26b633413c04.webp"
-  ],
-  "arc-lemanique:arc-lemanique-morges-promotion-economique": [
-   "assets/img/web-arc-lemanique/p008-26b633413c04.webp",
-   "assets/img/web-arc-lemanique/p009-26b633413c04.webp"
-  ],
-  "arc-lemanique:arc-lemanique-morges-livre-sur-les-quais": [
-   "assets/img/web-arc-lemanique/p008-26b633413c04.webp",
-   "assets/img/web-arc-lemanique/p009-26b633413c04.webp"
-  ],
-  "arc-lemanique:arc-lemanique-aubonne-luc-etienne-rossier": [
-   "assets/img/web-arc-lemanique/p012-26b633413c04.webp"
-  ],
-  "arc-lemanique:arc-lemanique-cossonay-georges-rime": [
-   "assets/img/web-arc-lemanique/p013-26b633413c04.webp"
-  ],
-  "arc-lemanique:arc-lemanique-preverenges-guy-delacretaz": [
-   "assets/img/web-arc-lemanique/p014-26b633413c04.webp"
-  ],
   "arc-lemanique:arc-lemanique-atelier-94-architecture": [
    "assets/img/web-arc-lemanique/p016-b218b95b616c.webp",
    "assets/img/web-arc-lemanique/p016-e562bd8bbd06.webp",
    "assets/img/web-arc-lemanique/p017-1486df19f193.webp",
    "assets/img/web-arc-lemanique/p017-7dc51502a587.webp",
    "assets/img/web-arc-lemanique/p017-0196661f08f9.webp"
-  ],
-  "arc-lemanique:arc-lemanique-nstcm": [
-   "assets/img/web-arc-lemanique/p018-26b633413c04.webp",
-   "assets/img/web-arc-lemanique/p019-26b633413c04.webp"
-  ],
-  "arc-lemanique:arc-lemanique-tpn": [
-   "assets/img/web-arc-lemanique/p018-26b633413c04.webp",
-   "assets/img/web-arc-lemanique/p019-26b633413c04.webp"
   ],
   "arc-lemanique:arc-lemanique-coretra": [
    "assets/img/web-arc-lemanique/p021-f7e7677f1544.webp",
@@ -314,12 +260,11 @@
   ],
   "arc-lemanique:arc-lemanique-domaine-de-bois-bougy": [
    "assets/img/web-arc-lemanique/p023-af1a12816506.webp",
-   "assets/img/web-arc-lemanique/p023-4324f739b58b.webp",
-   "assets/img/web-arc-lemanique/p023-b9bf2b1c0202.webp"
+   "assets/img/web-arc-lemanique/p023-a1e235b4ce9d.webp",
+   "assets/img/web-arc-lemanique/p023-73d67efd444a.webp"
   ],
   "arc-lemanique:arc-lemanique-iffp": [
-   "assets/img/web-arc-lemanique/p024-96924d77148d.webp",
-   "assets/img/web-arc-lemanique/p024-26b633413c04.webp"
+   "assets/img/web-arc-lemanique/p024-96924d77148d.webp"
   ],
   "arc-lemanique:arc-lemanique-balmelli": [
    "assets/img/web-arc-lemanique/p026-819984a36c03.webp"
@@ -337,9 +282,7 @@
    "assets/img/web-arc-lemanique/p031-2209bb106363.webp"
   ],
   "arc-lemanique:arc-lemanique-wonderware": [
-   "assets/img/web-arc-lemanique/p032-26b633413c04.webp",
-   "assets/img/web-arc-lemanique/p033-4b2ab41ec761.webp",
-   "assets/img/web-arc-lemanique/p033-26b633413c04.webp"
+   "assets/img/web-arc-lemanique/p033-4b2ab41ec761.webp"
   ],
   "arc-lemanique:arc-lemanique-gn-wuthrich": [
    "assets/img/web-arc-lemanique/p034-7e7d39bc053e.webp"
@@ -347,16 +290,9 @@
   "arc-lemanique:arc-lemanique-mbc": [
    "assets/img/web-arc-lemanique/p035-67d887b2ea84.webp"
   ],
-  "directeurs-cantonaux-travaux-publics:directeurs-cantonaux-travaux-publics-interview-jacqueline-de-quattro": [
-   "assets/img/directeurs-cantonaux-travaux-publics/p003-39629d48a76b.webp"
-  ],
   "directeurs-cantonaux-travaux-publics:directeurs-cantonaux-travaux-publics-etat-de-vaud-grand-batisseur": [
-   "assets/img/directeurs-cantonaux-travaux-publics/p004-39629d48a76b.webp",
    "assets/img/directeurs-cantonaux-travaux-publics/p004-57e0f9c62fd4.webp",
    "assets/img/directeurs-cantonaux-travaux-publics/p005-4ed06f26a64f.webp"
-  ],
-  "directeurs-cantonaux-travaux-publics:directeurs-cantonaux-travaux-publics-dgmr-chantiers-mobilite": [
-   "assets/img/directeurs-cantonaux-travaux-publics/p006-39629d48a76b.webp"
   ],
   "directeurs-cantonaux-travaux-publics:directeurs-cantonaux-travaux-publics-ba-consulting": [
    "assets/img/directeurs-cantonaux-travaux-publics/p010-9c6cc6aac13b.webp",
@@ -387,12 +323,6 @@
    "assets/img/directeurs-cantonaux-travaux-publics/p024-1554862906f9.webp",
    "assets/img/directeurs-cantonaux-travaux-publics/p025-763d72104110.webp"
   ],
-  "directeurs-cantonaux-travaux-publics:directeurs-cantonaux-travaux-publics-interview-angelo-cioppi": [
-   "assets/img/directeurs-cantonaux-travaux-publics/p027-39629d48a76b.webp"
-  ],
-  "directeurs-cantonaux-travaux-publics:directeurs-cantonaux-travaux-publics-tiefbauamt-bern-stefan-studer": [
-   "assets/img/directeurs-cantonaux-travaux-publics/p028-39629d48a76b.webp"
-  ],
   "directeurs-cantonaux-travaux-publics:directeurs-cantonaux-travaux-publics-glas-troesch": [
    "assets/img/directeurs-cantonaux-travaux-publics/p032-0338efb0fe14.webp"
   ],
@@ -405,12 +335,6 @@
    "assets/img/directeurs-cantonaux-travaux-publics/p037-366a6d676197.webp",
    "assets/img/directeurs-cantonaux-travaux-publics/p037-13b4663e9dd4.webp"
   ],
-  "directeurs-cantonaux-travaux-publics:directeurs-cantonaux-travaux-publics-fribourg-patrimoine-gian-carlo-chiove": [
-   "assets/img/directeurs-cantonaux-travaux-publics/p038-39629d48a76b.webp"
-  ],
-  "directeurs-cantonaux-travaux-publics:directeurs-cantonaux-travaux-publics-fribourg-450000-habitants-giancarla-papi": [
-   "assets/img/directeurs-cantonaux-travaux-publics/p039-39629d48a76b.webp"
-  ],
   "directeurs-cantonaux-travaux-publics:directeurs-cantonaux-travaux-publics-antiglio": [
    "assets/img/directeurs-cantonaux-travaux-publics/p040-b6c794a2356c.webp",
    "assets/img/directeurs-cantonaux-travaux-publics/p041-b1601f5cd679.webp"
@@ -419,14 +343,7 @@
    "assets/img/directeurs-cantonaux-travaux-publics/p042-3d3247487d9a.webp",
    "assets/img/directeurs-cantonaux-travaux-publics/p042-3d621ea6c017.webp"
   ],
-  "directeurs-cantonaux-travaux-publics:directeurs-cantonaux-travaux-publics-interview-laurent-favre": [
-   "assets/img/directeurs-cantonaux-travaux-publics/p049-39629d48a76b.webp"
-  ],
-  "directeurs-cantonaux-travaux-publics:directeurs-cantonaux-travaux-publics-neuchatel-service-batiments": [
-   "assets/img/directeurs-cantonaux-travaux-publics/p050-39629d48a76b.webp"
-  ],
   "directeurs-cantonaux-travaux-publics:directeurs-cantonaux-travaux-publics-neuchatel-ponts-et-chaussees": [
-   "assets/img/directeurs-cantonaux-travaux-publics/p052-39629d48a76b.webp",
    "assets/img/directeurs-cantonaux-travaux-publics/p053-8145efab9751.webp"
   ],
   "directeurs-cantonaux-travaux-publics:directeurs-cantonaux-travaux-publics-ajs-securite-routiere": [
@@ -451,19 +368,16 @@
    "assets/img/web-economie-publique/p014-9576c5247bc3.webp",
    "assets/img/web-economie-publique/p015-ac677af1f6b7.webp"
   ],
-  "economie-publique:economie-publique-ecole-minerva": [
-   "assets/img/web-economie-publique/p016-3e9d56992572.webp"
-  ],
   "economie-publique:economie-publique-de-rham-immobilier": [
    "assets/img/web-economie-publique/p017-e20d48cde8fc.webp",
    "assets/img/web-economie-publique/p017-34f09c9cf2f2.webp"
   ],
   "economie-publique:economie-publique-emch-berger-lausanne": [
-   "assets/img/web-economie-publique/p019-7cf76abcc3a7.webp",
    "assets/img/web-economie-publique/p019-0a9eeba153a1.webp",
-   "assets/img/web-economie-publique/p019-fdf72ffd2402.webp",
-   "assets/img/web-economie-publique/p019-1c522f2bb512.webp",
-   "assets/img/web-economie-publique/p019-01c8ca809be4.webp"
+   "assets/img/web-economie-publique/p019-bc35db26c2f1.webp",
+   "assets/img/web-economie-publique/p019-47497bf200ad.webp",
+   "assets/img/web-economie-publique/p019-2876038a0215.webp",
+   "assets/img/web-economie-publique/p019-99129574677d.webp"
   ],
   "economie-publique:economie-publique-gems-world-academy-etoy": [
    "assets/img/web-economie-publique/p022-0fb47fd17705.webp",
@@ -491,7 +405,6 @@
    "assets/img/web-economie-publique/p031-b1d87a922be3.webp"
   ],
   "economie-publique:economie-publique-iffp-alexandre-etienne": [
-   "assets/img/web-economie-publique/p034-b23aac177473.webp",
    "assets/img/web-economie-publique/p034-80611b8f5803.webp"
   ],
   "economie-publique:economie-publique-interprofession-du-gruyere": [
@@ -542,12 +455,12 @@
    "assets/img/web-economie-publique/p058-f04e43be6741.webp"
   ],
   "fribourg-bienne-tessin:fribourg-bienne-tessin-stadt-solothurn-kurt-fluri": [
-   "assets/img/web-fribourg-bienne-tessin/p119-a4fc07954973.webp",
    "assets/img/web-fribourg-bienne-tessin/p119-66589f46717b.webp",
    "assets/img/web-fribourg-bienne-tessin/p121-19d42da89779.webp",
    "assets/img/web-fribourg-bienne-tessin/p121-ae2207711b08.webp",
    "assets/img/web-fribourg-bienne-tessin/p121-5025d9d8e994.webp",
-   "assets/img/web-fribourg-bienne-tessin/p121-7e2b5d94e494.webp"
+   "assets/img/web-fribourg-bienne-tessin/p121-7e2b5d94e494.webp",
+   "assets/img/web-fribourg-bienne-tessin/p121-67a43215a26b.webp"
   ],
   "fribourg-bienne-tessin:fribourg-bienne-tessin-fribourg-pierre-alain-clement": [
    "assets/img/web-fribourg-bienne-tessin/p006-a0b85c1cfcde.webp"
@@ -918,16 +831,6 @@
   "grands-travaux-2026:grands-travaux-2026-casada-regola-arte": [
    "assets/img/web-grands-travaux-2026/p017-ce705ed9b5aa.webp"
   ],
-  "grands-travaux-2026:grands-travaux-2026-ezio-tarchini-ingegneria": [
-   "assets/img/web-grands-travaux-2026/p026-2e904120414c.webp",
-   "assets/img/web-grands-travaux-2026/p027-ded697392c8b.webp"
-  ],
-  "grands-travaux-2026:grands-travaux-2026-g-comte-qualite-durabilite": [
-   "assets/img/web-grands-travaux-2026/p033-d11d00e5af2b.webp"
-  ],
-  "grands-travaux-2026:grands-travaux-2026-rgr-complementarite-mobilites": [
-   "assets/img/web-grands-travaux-2026/p042-a6bfc8cecffb.webp"
-  ],
   "grands-travaux:grands-travaux-a13-circonvallazione-roveredo": [
    "assets/img/web-grands-travaux/p007-35bddfe54c0d.webp",
    "assets/img/web-grands-travaux/p007-61f396a385f0.webp"
@@ -976,8 +879,7 @@
   "grands-travaux:grands-travaux-leman-2030-noeud-geneve-mies-chambesy": [
    "assets/img/web-grands-travaux/p015-c84235ebe32b.webp",
    "assets/img/web-grands-travaux/p016-58d70f460ae0.webp",
-   "assets/img/web-grands-travaux/p016-4de430944e9e.webp",
-   "assets/img/web-grands-travaux/p017-01eaa8f86398.webp"
+   "assets/img/web-grands-travaux/p016-4de430944e9e.webp"
   ],
   "grands-travaux:grands-travaux-bellinzona-giubiasco-binario-36": [
    "assets/img/web-grands-travaux/p011-7780cdc14307.webp",
@@ -1083,9 +985,7 @@
   ],
   "horlogerie-2015:horlogerie-2015-salon-de-te-hktdc": [
    "assets/img/web-horlogerie-2015/p010-06cf71660b3c.webp",
-   "assets/img/web-horlogerie-2015/p010-388bf8abf63f.webp",
-   "assets/img/web-horlogerie-2015/p011-f23d1aa08fc3.webp",
-   "assets/img/web-horlogerie-2015/p011-388bf8abf63f.webp"
+   "assets/img/web-horlogerie-2015/p011-f23d1aa08fc3.webp"
   ],
   "horlogerie-2015:horlogerie-2015-cosc-controle-chronometres": [
    "assets/img/web-horlogerie-2015/p018-9e7431c51734.webp"
@@ -1141,12 +1041,11 @@
    "assets/img/web-horlogerie-2015/p046-613136e257a9.webp",
    "assets/img/web-horlogerie-2015/p046-c3901e25201c.webp",
    "assets/img/web-horlogerie-2015/p046-48eff3cd7924.webp",
-   "assets/img/web-horlogerie-2015/p047-fba758e1dd95.webp",
    "assets/img/web-horlogerie-2015/p047-b679830b32f5.webp",
-   "assets/img/web-horlogerie-2015/p047-613136e257a9.webp"
+   "assets/img/web-horlogerie-2015/p047-613136e257a9.webp",
+   "assets/img/web-horlogerie-2015/p047-c3901e25201c.webp"
   ],
   "horlogerie-2015:horlogerie-2015-incabloc": [
-   "assets/img/web-horlogerie-2015/p048-f44c547e2f11.webp",
    "assets/img/web-horlogerie-2015/p049-22c8d4edfac8.webp",
    "assets/img/web-horlogerie-2015/p049-bfddfeeace62.webp"
   ],
@@ -1157,8 +1056,7 @@
    "assets/img/web-horlogerie-2015/p051-7d2087d90a61.webp"
   ],
   "horlogerie-2015:horlogerie-2015-tectri": [
-   "assets/img/web-horlogerie-2015/p052-57fa32162c03.webp",
-   "assets/img/web-horlogerie-2015/p052-eddffb04b6d7.webp"
+   "assets/img/web-horlogerie-2015/p052-57fa32162c03.webp"
   ],
   "horlogerie-2015:horlogerie-2015-erem-apex-tool": [
    "assets/img/web-horlogerie-2015/p056-f8d934100a15.webp"
@@ -1217,11 +1115,7 @@
    "assets/img/web-horlogerie-2015/p081-5f4f63701631.webp"
   ],
   "horlogerie-2015:horlogerie-2015-monnier": [
-   "assets/img/web-horlogerie-2015/p082-3c368e0df882.webp",
    "assets/img/web-horlogerie-2015/p082-4978eef1bfe7.webp"
-  ],
-  "horlogerie-2016:horlogerie-2016-jean-daniel-pasche-fh": [
-   "assets/img/web-horlogerie-2016/p004-8fd63c6f2afb.webp"
   ],
   "horlogerie-2016:horlogerie-2016-salon-ephj-epmt-smt": [
    "assets/img/web-horlogerie-2016/p006-90d38a73269d.webp",
@@ -1229,32 +1123,20 @@
    "assets/img/web-horlogerie-2016/p007-7106c60613bc.webp",
    "assets/img/web-horlogerie-2016/p008-3c110b8727e6.webp"
   ],
-  "horlogerie-2016:horlogerie-2016-interview-elisabeth-zolch-cp": [
-   "assets/img/web-horlogerie-2016/p010-8fd63c6f2afb.webp"
-  ],
-  "horlogerie-2016:horlogerie-2016-apiah-association-patronale": [
-   "assets/img/web-horlogerie-2016/p012-8fd63c6f2afb.webp",
-   "assets/img/web-horlogerie-2016/p013-8fd63c6f2afb.webp"
-  ],
   "horlogerie-2016:horlogerie-2016-wag-watches-art-gallery": [
-   "assets/img/web-horlogerie-2016/p014-8fd63c6f2afb.webp",
-   "assets/img/web-horlogerie-2016/p014-e6dfd77840c6.webp",
-   "assets/img/web-horlogerie-2016/p014-16405054b166.webp"
+   "assets/img/web-horlogerie-2016/p014-e6dfd77840c6.webp"
   ],
   "horlogerie-2016:horlogerie-2016-siwp-casino-de-geneve": [
    "assets/img/web-horlogerie-2016/p016-94c51a4d277f.webp"
   ],
   "horlogerie-2016:horlogerie-2016-swisscreativelab": [
    "assets/img/web-horlogerie-2016/p018-5d00d5607e66.webp",
-   "assets/img/web-horlogerie-2016/p018-c1abfdc683e1.webp",
-   "assets/img/web-horlogerie-2016/p019-06eb4c7d45df.webp",
-   "assets/img/web-horlogerie-2016/p019-16405054b166.webp"
+   "assets/img/web-horlogerie-2016/p019-06eb4c7d45df.webp"
   ],
   "horlogerie-2016:horlogerie-2016-composites-busch": [
    "assets/img/web-horlogerie-2016/p046-29fcaf62269c.webp",
    "assets/img/web-horlogerie-2016/p046-8c0bbfd638c5.webp",
-   "assets/img/web-horlogerie-2016/p046-b6fde48e7c91.webp",
-   "assets/img/web-horlogerie-2016/p046-e5d8f6206464.webp"
+   "assets/img/web-horlogerie-2016/p046-b6fde48e7c91.webp"
   ],
   "horlogerie-2016:horlogerie-2016-surcotec-syvaco": [
    "assets/img/web-horlogerie-2016/p022-16a1b1b8bcbc.webp",
@@ -1280,7 +1162,6 @@
    "assets/img/web-horlogerie-2016/p029-e7b2a1eb4f6c.webp"
   ],
   "horlogerie-2016:horlogerie-2016-chatelain-prototypes": [
-   "assets/img/web-horlogerie-2016/p031-e978a22ca689.webp",
    "assets/img/web-horlogerie-2016/p031-7c542a172028.webp"
   ],
   "horlogerie-2016:horlogerie-2016-agosi": [
@@ -1288,8 +1169,6 @@
   ],
   "horlogerie-2016:horlogerie-2016-posalux": [
    "assets/img/web-horlogerie-2016/p033-29fcaf62269c.webp",
-   "assets/img/web-horlogerie-2016/p034-8fd63c6f2afb.webp",
-   "assets/img/web-horlogerie-2016/p035-8fd63c6f2afb.webp",
    "assets/img/web-horlogerie-2016/p035-aa009031b5f2.webp"
   ],
   "horlogerie-2016:horlogerie-2016-technofinish": [
@@ -1303,7 +1182,6 @@
    "assets/img/web-horlogerie-2016/p037-2359ba53d325.webp"
   ],
   "horlogerie-2016:horlogerie-2016-roxer": [
-   "assets/img/web-horlogerie-2016/p038-991be280b86d.webp",
    "assets/img/web-horlogerie-2016/p038-03bb210ce813.webp"
   ],
   "horlogerie-2016:horlogerie-2016-astuto": [
@@ -1316,19 +1194,16 @@
   ],
   "horlogerie-2016:horlogerie-2016-aiguilla": [
    "assets/img/web-horlogerie-2016/p043-1f88f9f54771.webp",
-   "assets/img/web-horlogerie-2016/p043-02035330f50c.webp",
    "assets/img/web-horlogerie-2016/p044-222ba34efa92.webp",
    "assets/img/web-horlogerie-2016/p045-9f7b3959e35c.webp"
   ],
   "horlogerie-2016:horlogerie-2016-mercier": [
    "assets/img/web-horlogerie-2016/p047-29fcaf62269c.webp",
-   "assets/img/web-horlogerie-2016/p047-e5d8f6206464.webp",
    "assets/img/web-horlogerie-2016/p048-f06b7f39b76f.webp",
    "assets/img/web-horlogerie-2016/p048-155039bb855d.webp"
   ],
   "horlogerie-2016:horlogerie-2016-pauli-uhrenservice": [
    "assets/img/web-horlogerie-2016/p047-29fcaf62269c.webp",
-   "assets/img/web-horlogerie-2016/p047-e5d8f6206464.webp",
    "assets/img/web-horlogerie-2016/p049-4709a9c2c822.webp",
    "assets/img/web-horlogerie-2016/p049-6067b00ee29f.webp"
   ],
@@ -1343,8 +1218,6 @@
    "assets/img/web-horlogerie-2016/p054-706072b7ff63.webp"
   ],
   "horlogerie-2016:horlogerie-2016-saphirwerk": [
-   "assets/img/web-horlogerie-2016/p055-3417bc4f8d90.webp",
-   "assets/img/web-horlogerie-2016/p055-ff3dcb134d42.webp",
    "assets/img/web-horlogerie-2016/p055-346f4ea2e43f.webp",
    "assets/img/web-horlogerie-2016/p055-d73dd172ba5f.webp"
   ],
@@ -1362,19 +1235,14 @@
   ],
   "horlogerie-2016:horlogerie-2016-artecad": [
    "assets/img/web-horlogerie-2016/p059-1f88f9f54771.webp",
-   "assets/img/web-horlogerie-2016/p059-02035330f50c.webp",
    "assets/img/web-horlogerie-2016/p061-8ee51264261d.webp",
    "assets/img/web-horlogerie-2016/p061-d04ecf4adba1.webp",
    "assets/img/web-horlogerie-2016/p061-4e3aaec93d7b.webp",
-   "assets/img/web-horlogerie-2016/p061-2e4db861ef1e.webp"
-  ],
-  "horlogerie-2016:horlogerie-2016-guillod-gunther": [
-   "assets/img/web-horlogerie-2016/p062-f55bcf162432.webp",
-   "assets/img/web-horlogerie-2016/p063-f55bcf162432.webp"
+   "assets/img/web-horlogerie-2016/p061-2e4db861ef1e.webp",
+   "assets/img/web-horlogerie-2016/p061-5294ca72aef7.webp"
   ],
   "horlogerie-2016:horlogerie-2016-les-artisans-boitiers": [
    "assets/img/web-horlogerie-2016/p064-9a1860b6a345.webp",
-   "assets/img/web-horlogerie-2016/p065-dcc7d0705dd2.webp",
    "assets/img/web-horlogerie-2016/p065-a4cca838e325.webp"
   ],
   "horlogerie-2016:horlogerie-2016-queloz": [
@@ -1418,20 +1286,124 @@
   "horlogerie-2016:horlogerie-2016-pierre-bercher": [
    "assets/img/web-horlogerie-2016/p081-29fcaf62269c.webp"
   ],
-  "horlogerie-2017:horlogerie-2017-interview-jean-daniel-pasche-fh": [
-   "assets/img/web-horlogerie-2017/p003-8fd63c6f2afb.webp"
+  "horlogerie-2016:horlogerie-2016-maitre-freres": [
+   "assets/img/web-horlogerie-2016/p081-29fcaf62269c.webp",
+   "assets/img/web-horlogerie-2016/p083-c5c266f1abd9.webp"
+  ],
+  "horlogerie-2016:horlogerie-2016-ceff-industrie": [
+   "assets/img/web-horlogerie-2016/p085-1f88f9f54771.webp",
+   "assets/img/web-horlogerie-2016/p086-dee0440b29cb.webp",
+   "assets/img/web-horlogerie-2016/p086-8ceb10c2c1f4.webp",
+   "assets/img/web-horlogerie-2016/p086-6d468e2c87bc.webp"
+  ],
+  "horlogerie-2016:horlogerie-2016-cefna": [
+   "assets/img/web-horlogerie-2016/p085-1f88f9f54771.webp",
+   "assets/img/web-horlogerie-2016/p087-6bf4681d4168.webp",
+   "assets/img/web-horlogerie-2016/p087-f59687c0fc2e.webp"
+  ],
+  "horlogerie-2016:horlogerie-2016-cip-tramelan": [
+   "assets/img/web-horlogerie-2016/p088-481bb88d135d.webp"
+  ],
+  "horlogerie-2016:horlogerie-2016-cejef-division-technique": [
+   "assets/img/web-horlogerie-2016/p089-d9f357d3f947.webp"
+  ],
+  "horlogerie-2016:horlogerie-2016-cfh-geneve": [
+   "assets/img/web-horlogerie-2016/p091-17175f7ecd2c.webp"
+  ],
+  "horlogerie-2016:horlogerie-2016-cifom": [
+   "assets/img/web-horlogerie-2016/p085-1f88f9f54771.webp",
+   "assets/img/web-horlogerie-2016/p087-6bf4681d4168.webp",
+   "assets/img/web-horlogerie-2016/p087-f59687c0fc2e.webp",
+   "assets/img/web-horlogerie-2016/p092-543de1326202.webp"
+  ],
+  "horlogerie-2016:horlogerie-2016-etvj": [
+   "assets/img/web-horlogerie-2016/p093-c4b826283b3d.webp",
+   "assets/img/web-horlogerie-2016/p093-d28544a3e408.webp",
+   "assets/img/web-horlogerie-2016/p093-7d486144e105.webp"
+  ],
+  "horlogerie-2016:horlogerie-2016-he-arc-ingenierie": [
+   "assets/img/web-horlogerie-2016/p094-e55ea904a39c.webp",
+   "assets/img/web-horlogerie-2016/p094-561d4faea341.webp"
+  ],
+  "horlogerie-2016:horlogerie-2016-wostep": [
+   "assets/img/web-horlogerie-2016/p096-29fcaf62269c.webp",
+   "assets/img/web-horlogerie-2016/p096-630d4ffff3da.webp",
+   "assets/img/web-horlogerie-2016/p096-047320629dc9.webp"
+  ],
+  "horlogerie-2016:horlogerie-2016-roudhor": [
+   "assets/img/web-horlogerie-2016/p097-29fcaf62269c.webp",
+   "assets/img/web-horlogerie-2016/p098-29fcaf62269c.webp"
+  ],
+  "horlogerie-2016:horlogerie-2016-sts-saulcy": [
+   "assets/img/web-horlogerie-2016/p100-29fcaf62269c.webp"
+  ],
+  "horlogerie-2016:horlogerie-2016-tsm-assurances": [
+   "assets/img/web-horlogerie-2016/p101-29fcaf62269c.webp",
+   "assets/img/web-horlogerie-2016/p102-053ca6d453ca.webp"
+  ],
+  "horlogerie-2016:horlogerie-2016-altmann-casting": [
+   "assets/img/web-horlogerie-2016/p103-579cf25d0f23.webp"
+  ],
+  "horlogerie-2016:horlogerie-2016-blosch-merusa": [
+   "assets/img/web-horlogerie-2016/p104-921664bfbb06.webp",
+   "assets/img/web-horlogerie-2016/p123-1bb5b73e0276.webp",
+   "assets/img/web-horlogerie-2016/p123-e4dd5e244b04.webp",
+   "assets/img/web-horlogerie-2016/p123-8f7f92e6db9c.webp",
+   "assets/img/web-horlogerie-2016/p123-5a47bd332834.webp"
+  ],
+  "horlogerie-2016:horlogerie-2016-decotech": [
+   "assets/img/web-horlogerie-2016/p106-899dc285a21a.webp"
+  ],
+  "horlogerie-2016:horlogerie-2016-econorm": [
+   "assets/img/web-horlogerie-2016/p108-0900791da1d4.webp"
+  ],
+  "horlogerie-2016:horlogerie-2016-serge-meister": [
+   "assets/img/web-horlogerie-2016/p109-186d08cd85f8.webp"
+  ],
+  "horlogerie-2016:horlogerie-2016-demhosa": [
+   "assets/img/web-horlogerie-2016/p110-bca0511e8748.webp"
+  ],
+  "horlogerie-2016:horlogerie-2016-kif-parechoc": [
+   "assets/img/web-horlogerie-2016/p100-29fcaf62269c.webp"
+  ],
+  "horlogerie-2016:horlogerie-2016-safed-suisse": [
+   "assets/img/web-horlogerie-2016/p113-2483ed98c171.webp"
+  ],
+  "horlogerie-2016:horlogerie-2016-imh": [
+   "assets/img/web-horlogerie-2016/p114-88eb261291f8.webp",
+   "assets/img/web-horlogerie-2016/p114-ad6a3d5d4f86.webp"
+  ],
+  "horlogerie-2016:horlogerie-2016-tci-engineering": [
+   "assets/img/web-horlogerie-2016/p115-521357e1df18.webp",
+   "assets/img/web-horlogerie-2016/p115-f2e06908d971.webp"
+  ],
+  "horlogerie-2016:horlogerie-2016-procolor-lcti": [
+   "assets/img/web-horlogerie-2016/p116-6db111d2bde6.webp",
+   "assets/img/web-horlogerie-2016/p117-6a4fac1e0b99.webp"
+  ],
+  "horlogerie-2016:horlogerie-2016-meylan-freres": [
+   "assets/img/web-horlogerie-2016/p118-ede42e6aba62.webp",
+   "assets/img/web-horlogerie-2016/p118-db1b5524d994.webp"
+  ],
+  "horlogerie-2016:horlogerie-2016-bryek-horlogerie": [
+   "assets/img/web-horlogerie-2016/p119-20d23a29e3d2.webp"
+  ],
+  "horlogerie-2016:horlogerie-2016-rofin-lasag": [
+   "assets/img/web-horlogerie-2016/p120-632f9120b2da.webp"
+  ],
+  "horlogerie-2016:horlogerie-2016-diafin": [
+   "assets/img/web-horlogerie-2016/p121-c8459ea0788c.webp"
+  ],
+  "horlogerie-2016:horlogerie-2016-gmg-composants": [
+   "assets/img/web-horlogerie-2016/p121-c8459ea0788c.webp"
   ],
   "horlogerie-2017:horlogerie-2017-salon-ephj-epmt-smt-2017": [
    "assets/img/web-horlogerie-2017/p006-a3a54d40c444.webp",
    "assets/img/web-horlogerie-2017/p006-3e9d6f8c3059.webp",
    "assets/img/web-horlogerie-2017/p006-8506c8071339.webp",
-   "assets/img/web-horlogerie-2017/p006-63fc247877d7.webp",
    "assets/img/web-horlogerie-2017/p006-1a933d51b05d.webp",
-   "assets/img/web-horlogerie-2017/p007-1f1be517f4bd.webp"
-  ],
-  "horlogerie-2017:horlogerie-2017-asrh-recherche-horlogere-communautaire": [
-   "assets/img/web-horlogerie-2017/p009-cda331b178c8.webp",
-   "assets/img/web-horlogerie-2017/p009-c1abfdc683e1.webp"
+   "assets/img/web-horlogerie-2017/p007-1f1be517f4bd.webp",
+   "assets/img/web-horlogerie-2017/p007-dfdb9faf1405.webp"
   ],
   "horlogerie-2017:horlogerie-2017-tec-ebauches": [
    "assets/img/web-horlogerie-2017/p010-cd43f68ad81a.webp",
@@ -1444,10 +1416,6 @@
    "assets/img/web-horlogerie-2017/p010-d28711e62e99.webp",
    "assets/img/web-horlogerie-2017/p011-8d4a2a64dcd2.webp",
    "assets/img/web-horlogerie-2017/p011-33b4702e2b78.webp"
-  ],
-  "horlogerie-2017:horlogerie-2017-posalux": [
-   "assets/img/web-horlogerie-2017/p014-8fd63c6f2afb.webp",
-   "assets/img/web-horlogerie-2017/p015-8fd63c6f2afb.webp"
   ],
   "horlogerie-2017:horlogerie-2017-technofinish": [
    "assets/img/web-horlogerie-2017/p016-e5b2fc68198d.webp",
@@ -1471,10 +1439,8 @@
    "assets/img/web-horlogerie-2017/p023-8032dbafbecf.webp"
   ],
   "horlogerie-2017:horlogerie-2017-rimann-interview-stefan-eichler": [
-   "assets/img/web-horlogerie-2017/p024-8fd63c6f2afb.webp",
    "assets/img/web-horlogerie-2017/p024-7ee92d8c636c.webp",
    "assets/img/web-horlogerie-2017/p024-bcee92126548.webp",
-   "assets/img/web-horlogerie-2017/p025-8fd63c6f2afb.webp",
    "assets/img/web-horlogerie-2017/p025-524226856c74.webp"
   ],
   "horlogerie-2017:horlogerie-2017-arola-alfred-rochat-fils": [
@@ -1505,21 +1471,15 @@
   "horlogerie-2017:horlogerie-2017-meylan-freres": [
    "assets/img/web-horlogerie-2017/p035-ba608a97aae6.webp"
   ],
-  "horlogerie-2017:horlogerie-2017-kif-parechoc": [
-   "assets/img/web-horlogerie-2017/p036-b9068e35ac04.webp",
-   "assets/img/web-horlogerie-2017/p036-aff3122fa769.webp"
-  ],
   "horlogerie-2017:horlogerie-2017-matthey-decolletages": [
    "assets/img/web-horlogerie-2017/p038-9e29da2d1986.webp",
    "assets/img/web-horlogerie-2017/p038-4d13022e932e.webp"
   ],
   "horlogerie-2017:horlogerie-2017-decotech-quete-esthetisme": [
-   "assets/img/web-horlogerie-2017/p039-c1abfdc683e1.webp",
    "assets/img/web-horlogerie-2017/p039-dd6ef5ddb52b.webp"
   ],
   "horlogerie-2017:horlogerie-2017-cendres-metaux": [
    "assets/img/web-horlogerie-2017/p040-a8155557b6ac.webp",
-   "assets/img/web-horlogerie-2017/p040-04e6a6ae3510.webp",
    "assets/img/web-horlogerie-2017/p041-065fc41b022f.webp"
   ],
   "horlogerie-2017:horlogerie-2017-mch-mouvements-complications": [
@@ -1530,7 +1490,6 @@
    "assets/img/web-horlogerie-2017/p043-6a20765b5d73.webp"
   ],
   "horlogerie-2017:horlogerie-2017-chh-microtechnique": [
-   "assets/img/web-horlogerie-2017/p044-c1abfdc683e1.webp",
    "assets/img/web-horlogerie-2017/p044-c5c4b296046e.webp",
    "assets/img/web-horlogerie-2017/p044-97e0edaa694f.webp",
    "assets/img/web-horlogerie-2017/p045-f85344c51140.webp",
@@ -1541,14 +1500,12 @@
    "assets/img/web-horlogerie-2017/p046-32935b74f74b.webp"
   ],
   "horlogerie-2017:horlogerie-2017-gil-sertissage": [
-   "assets/img/web-horlogerie-2017/p048-0f8fd333d933.webp",
    "assets/img/web-horlogerie-2017/p048-7e4563e20e68.webp"
   ],
   "horlogerie-2017:horlogerie-2017-neuenschwander-composants-horlogers": [
    "assets/img/web-horlogerie-2017/p050-18664d031048.webp"
   ],
   "horlogerie-2017:horlogerie-2017-ryf-interview-daniel-ryf": [
-   "assets/img/web-horlogerie-2017/p052-c1abfdc683e1.webp",
    "assets/img/web-horlogerie-2017/p052-9ac0c7cd9332.webp"
   ],
   "horlogerie-2018:horlogerie-2018-salon-ephj-epmt-smt-paradis-innovation": [
@@ -1569,15 +1526,11 @@
    "assets/img/web-horlogerie-2018/p014-d52949d63a93.webp",
    "assets/img/web-horlogerie-2018/p015-0da421a7407a.webp"
   ],
-  "horlogerie-2018:horlogerie-2018-griffes-consulting": [
-   "assets/img/web-horlogerie-2018/p016-915fe41196b7.webp"
-  ],
   "horlogerie-2018:horlogerie-2018-les-artisans-boitiers": [
    "assets/img/web-horlogerie-2018/p020-87766c851437.webp"
   ],
   "horlogerie-2018:horlogerie-2018-lecureux": [
-   "assets/img/web-horlogerie-2018/p022-2258ec045f6a.webp",
-   "assets/img/web-horlogerie-2018/p023-93399e423fb2.webp"
+   "assets/img/web-horlogerie-2018/p022-2258ec045f6a.webp"
   ],
   "horlogerie-2018:horlogerie-2018-meyer-sintermetall-metallurgie-des-poudres": [
    "assets/img/web-horlogerie-2018/p024-ba764c4df2cb.webp",
@@ -1601,9 +1554,6 @@
   "horlogerie-2018:horlogerie-2018-cronal": [
    "assets/img/web-horlogerie-2018/p034-cfb6524e0713.webp"
   ],
-  "horlogerie-2018:horlogerie-2018-claude-piguet": [
-   "assets/img/web-horlogerie-2018/p036-8a50eb3eacba.webp"
-  ],
   "horlogerie-2018:horlogerie-2018-codere": [
    "assets/img/web-horlogerie-2018/p038-98528d742d02.webp",
    "assets/img/web-horlogerie-2018/p038-b5d6af8ad3f6.webp"
@@ -1621,7 +1571,6 @@
    "assets/img/web-horlogerie-2018/p045-e0c3e9f10bb2.webp"
   ],
   "horlogerie-2018:horlogerie-2018-joseph-baume": [
-   "assets/img/web-horlogerie-2018/p046-565add8089fa.webp",
    "assets/img/web-horlogerie-2018/p046-339ffa9a2ea8.webp",
    "assets/img/web-horlogerie-2018/p046-0417f0a9bcf6.webp"
   ],
@@ -1646,35 +1595,15 @@
   "horlogerie-2018:horlogerie-2018-wenk": [
    "assets/img/web-horlogerie-2018/p060-9b08b35aaf5f.webp"
   ],
-  "horlogerie-2019:horlogerie-2019-interview-jean-daniel-pasche-fh": [
-   "assets/img/web-horlogerie-2019/p005-256486380e9b.webp"
-  ],
   "horlogerie-2019:horlogerie-2019-interview-salon-ephj-epmt-smt": [
-   "assets/img/web-horlogerie-2019/p006-c403c129ce24.webp",
-   "assets/img/web-horlogerie-2019/p007-535c078ecd81.webp",
    "assets/img/web-horlogerie-2019/p007-79a085192443.webp",
    "assets/img/web-horlogerie-2019/p007-c18aebe6cff0.webp"
   ],
-  "horlogerie-2019:horlogerie-2019-interview-asrh": [
-   "assets/img/web-horlogerie-2019/p009-256486380e9b.webp"
-  ],
-  "horlogerie-2019:horlogerie-2019-covatec": [
-   "assets/img/web-horlogerie-2019/p024-596ce65611a1.webp",
-   "assets/img/web-horlogerie-2019/p025-caf8eebb74e0.webp",
-   "assets/img/web-horlogerie-2019/p034-5b479dd9e13b.webp"
-  ],
   "horlogerie-2019:horlogerie-2019-dc-swiss": [
-   "assets/img/web-horlogerie-2019/p026-1b585eb1dc47.webp",
-   "assets/img/web-horlogerie-2019/p027-b9c89c6eaa9d.webp",
-   "assets/img/web-horlogerie-2019/p027-449684617bc0.webp"
+   "assets/img/web-horlogerie-2019/p026-1b585eb1dc47.webp"
   ],
   "horlogerie-2019:horlogerie-2019-fleury": [
-   "assets/img/web-horlogerie-2019/p032-930d107b2489.webp",
-   "assets/img/web-horlogerie-2019/p033-e2f379927c1b.webp"
-  ],
-  "horlogerie-2019:horlogerie-2019-lecureux": [
-   "assets/img/web-horlogerie-2019/p034-5b479dd9e13b.webp",
-   "assets/img/web-horlogerie-2019/p035-8ea5379e6e75.webp"
+   "assets/img/web-horlogerie-2019/p032-930d107b2489.webp"
   ],
   "horlogerie-2019:horlogerie-2019-les-artisans-boitiers": [
    "assets/img/web-horlogerie-2019/p037-ed06c1e7ca7c.webp"
@@ -1684,34 +1613,10 @@
    "assets/img/web-horlogerie-2019/p039-0ff242d28794.webp"
   ],
   "horlogerie-2019:horlogerie-2019-stila": [
-   "assets/img/web-horlogerie-2019/p042-256486380e9b.webp",
    "assets/img/web-horlogerie-2019/p042-66dc9f62ed12.webp"
-  ],
-  "horlogerie-2019:horlogerie-2019-technofinish-technoformage": [
-   "assets/img/web-horlogerie-2019/p044-7e41106b5e4b.webp",
-   "assets/img/web-horlogerie-2019/p045-5d76900abfae.webp"
-  ],
-  "horlogerie-2019:horlogerie-2019-abarthel": [
-   "assets/img/web-horlogerie-2019/p016-04d8064404c2.webp"
-  ],
-  "horlogerie-2019:horlogerie-2019-interview-andre-frei-fils": [
-   "assets/img/web-horlogerie-2019/p017-da7a421f6453.webp"
-  ],
-  "horlogerie-2019:horlogerie-2019-adtime": [
-   "assets/img/web-horlogerie-2019/p018-19e65ad45b67.webp"
-  ],
-  "horlogerie-2019:horlogerie-2019-claude-piguet": [
-   "assets/img/web-horlogerie-2019/p023-00d9b61f26e5.webp"
   ],
   "horlogerie-2019:horlogerie-2019-codere": [
    "assets/img/web-horlogerie-2019/p046-b7dbd6e0fabd.webp"
-  ],
-  "horlogerie-2019:horlogerie-2019-concepto-watch-factory": [
-   "assets/img/web-horlogerie-2019/p021-bfe9c2e90de2.webp"
-  ],
-  "horlogerie-2019:horlogerie-2019-decotech": [
-   "assets/img/web-horlogerie-2019/p050-84fe4801ccd1.webp",
-   "assets/img/web-horlogerie-2019/p050-74a3bc304031.webp"
   ],
   "horlogerie-2019:horlogerie-2019-horlyne": [
    "assets/img/web-horlogerie-2019/p052-1c127bd5d4b7.webp"
@@ -1734,55 +1639,27 @@
   "horlogerie-2019:horlogerie-2019-wostep": [
    "assets/img/web-horlogerie-2019/p063-9fe265f255a8.webp"
   ],
-  "horlogerie-2020:horlogerie-2020-interview-jean-daniel-pasche-fh": [
-   "assets/img/web-horlogerie-2020/p004-256486380e9b.webp"
-  ],
   "horlogerie-2020:horlogerie-2020-asrh-laiton-sans-plomb": [
    "assets/img/web-horlogerie-2020/p008-7b9a9df2c017.webp"
   ],
-  "horlogerie-2020:horlogerie-2020-interview-nicolas-clerc-ssc": [
-   "assets/img/web-horlogerie-2020/p009-256486380e9b.webp"
-  ],
   "horlogerie-2020:horlogerie-2020-interview-baselworld": [
-   "assets/img/web-horlogerie-2020/p050-4324f739b58b.webp",
-   "assets/img/web-horlogerie-2020/p050-b9bf2b1c0202.webp"
-  ],
-  "horlogerie-2020:horlogerie-2020-apiah": [
-   "assets/img/web-horlogerie-2020/p012-256486380e9b.webp"
+   "assets/img/web-horlogerie-2020/p050-82f45e443e06.webp"
   ],
   "horlogerie-2020:horlogerie-2020-abarthel": [
    "assets/img/web-horlogerie-2020/p018-4a3267c4f1ab.webp"
   ],
   "horlogerie-2020:horlogerie-2020-admo-plastique": [
-   "assets/img/web-horlogerie-2020/p021-d65712155a81.webp",
    "assets/img/web-horlogerie-2020/p021-369b835cda36.webp"
   ],
   "horlogerie-2020:horlogerie-2020-somtec-ch": [
-   "assets/img/web-horlogerie-2020/p023-4324f739b58b.webp",
-   "assets/img/web-horlogerie-2020/p023-b9bf2b1c0202.webp",
    "assets/img/web-horlogerie-2020/p023-9d013637f1c4.webp"
   ],
-  "horlogerie-2020:horlogerie-2020-econorm": [
-   "assets/img/web-horlogerie-2020/p024-edf6de831dad.webp"
-  ],
   "horlogerie-2020:horlogerie-2020-lecureux": [
-   "assets/img/web-horlogerie-2020/p026-1cb13722036c.webp",
-   "assets/img/web-horlogerie-2020/p027-bc84f524838a.webp"
-  ],
-  "horlogerie-2020:horlogerie-2020-les-artisans-boitiers": [
-   "assets/img/web-horlogerie-2020/p028-10d267c28209.webp"
+   "assets/img/web-horlogerie-2020/p026-1cb13722036c.webp"
   ],
   "horlogerie-2020:horlogerie-2020-interview-daniel-ryf": [
-   "assets/img/web-horlogerie-2020/p030-256486380e9b.webp",
    "assets/img/web-horlogerie-2020/p030-1050600eaa5a.webp",
    "assets/img/web-horlogerie-2020/p031-474fcd2e6e1a.webp"
-  ],
-  "horlogerie-2020:horlogerie-2020-technofinish-technoformage": [
-   "assets/img/web-horlogerie-2020/p032-660a3d94d7aa.webp",
-   "assets/img/web-horlogerie-2020/p033-5d76900abfae.webp"
-  ],
-  "horlogerie-2020:horlogerie-2020-claude-piguet": [
-   "assets/img/web-horlogerie-2020/p034-00d9b61f26e5.webp"
   ],
   "horlogerie-2020:horlogerie-2020-metafil-lagirolle": [
    "assets/img/web-horlogerie-2020/p036-74f0239f7b4b.webp"
@@ -1793,12 +1670,8 @@
   "horlogerie-2020:horlogerie-2020-pierre-bercher": [
    "assets/img/web-horlogerie-2020/p042-e19c7637568a.webp"
   ],
-  "horlogerie-2020:horlogerie-2020-interview-michel-oesch": [
-   "assets/img/web-horlogerie-2020/p043-256486380e9b.webp"
-  ],
   "horlogerie-2020:horlogerie-2020-sebal-timsaph": [
-   "assets/img/web-horlogerie-2020/p044-613d2da5abd8.webp",
-   "assets/img/web-horlogerie-2020/p045-6850c42c5985.webp"
+   "assets/img/web-horlogerie-2020/p044-613d2da5abd8.webp"
   ],
   "horlogerie-2020:horlogerie-2020-tsm-compagnie-d-assurances": [
    "assets/img/web-horlogerie-2020/p046-346457a02c82.webp"
@@ -1809,14 +1682,6 @@
   "horlogerie-2020:horlogerie-2020-gmg-composants": [
    "assets/img/web-horlogerie-2020/p048-69bf6e4e9dfa.webp"
   ],
-  "horlogerie-2021:horlogerie-2021-interview-fh-jean-daniel-pasche": [
-   "assets/img/web-horlogerie-2021/p004-256486380e9b.webp",
-   "assets/img/web-horlogerie-2021/p005-256486380e9b.webp"
-  ],
-  "horlogerie-2021:horlogerie-2021-interview-ephj-alexandre-catton": [
-   "assets/img/web-horlogerie-2021/p006-256486380e9b.webp",
-   "assets/img/web-horlogerie-2021/p007-256486380e9b.webp"
-  ],
   "horlogerie-2021:horlogerie-2021-altmann-casting": [
    "assets/img/web-horlogerie-2021/p010-1ce9188c48aa.webp"
   ],
@@ -1824,12 +1689,7 @@
    "assets/img/web-horlogerie-2021/p012-bd1692ed899e.webp"
   ],
   "horlogerie-2021:horlogerie-2021-chatelain-prototypes": [
-   "assets/img/web-horlogerie-2021/p014-87bbd378441a.webp",
-   "assets/img/web-horlogerie-2021/p014-8a91ab0f4868.webp",
-   "assets/img/web-horlogerie-2021/p014-35c4638e0441.webp",
-   "assets/img/web-horlogerie-2021/p014-1f38e9823af7.webp",
-   "assets/img/web-horlogerie-2021/p014-9addcdd47ef0.webp",
-   "assets/img/web-horlogerie-2021/p015-450ce72209e9.webp"
+   "assets/img/web-horlogerie-2021/p014-1f38e9823af7.webp"
   ],
   "horlogerie-2021:horlogerie-2021-cyberis": [
    "assets/img/web-horlogerie-2021/p016-97b90a1b4f07.webp"
@@ -1837,18 +1697,11 @@
   "horlogerie-2021:horlogerie-2021-d-tec-dubois": [
    "assets/img/web-horlogerie-2021/p018-244e0ecede84.webp"
   ],
-  "horlogerie-2021:horlogerie-2021-greub-machines": [
-   "assets/img/web-horlogerie-2021/p021-5bc0e2f526f4.webp"
-  ],
   "horlogerie-2021:horlogerie-2021-econorm": [
-   "assets/img/web-horlogerie-2021/p022-a40a83964e8a.webp",
    "assets/img/web-horlogerie-2021/p022-b122beac5827.webp"
   ],
   "horlogerie-2021:horlogerie-2021-henri-robert": [
    "assets/img/web-horlogerie-2021/p024-df0e5e7da637.webp"
-  ],
-  "horlogerie-2021:horlogerie-2021-juval-horlogerie": [
-   "assets/img/web-horlogerie-2021/p026-e6e611d73d3e.webp"
   ],
   "horlogerie-2021:horlogerie-2021-meylan-freres": [
    "assets/img/web-horlogerie-2021/p027-8a8cfe3bef5b.webp"
@@ -1856,19 +1709,14 @@
   "horlogerie-2021:horlogerie-2021-meco": [
    "assets/img/web-horlogerie-2021/p028-b827db8d5e85.webp"
   ],
-  "horlogerie-2021:horlogerie-2021-polissages-gautier": [
-   "assets/img/web-horlogerie-2021/p031-b72ed4ffb2d3.webp"
-  ],
   "horlogerie-2021:horlogerie-2021-suvema": [
    "assets/img/web-horlogerie-2021/p033-dd1933cdd609.webp"
   ],
   "horlogerie-2021:horlogerie-2021-sebal": [
-   "assets/img/web-horlogerie-2021/p034-613d2da5abd8.webp",
-   "assets/img/web-horlogerie-2021/p035-6850c42c5985.webp"
+   "assets/img/web-horlogerie-2021/p034-613d2da5abd8.webp"
   ],
   "horlogerie-2021:horlogerie-2021-timsaph": [
-   "assets/img/web-horlogerie-2021/p034-613d2da5abd8.webp",
-   "assets/img/web-horlogerie-2021/p035-6850c42c5985.webp"
+   "assets/img/web-horlogerie-2021/p034-613d2da5abd8.webp"
   ],
   "horlogerie-2021:horlogerie-2021-technofinish": [
    "assets/img/web-horlogerie-2021/p036-f50956cbba30.webp",
@@ -1878,52 +1726,24 @@
    "assets/img/web-horlogerie-2021/p036-f50956cbba30.webp",
    "assets/img/web-horlogerie-2021/p037-43726c782f93.webp"
   ],
-  "horlogerie-2021:horlogerie-2021-wostep": [
-   "assets/img/web-horlogerie-2021/p038-e195c673e220.webp"
-  ],
-  "horlogerie-2021:horlogerie-2021-artecad": [
-   "assets/img/web-horlogerie-2021/p041-4324f739b58b.webp",
-   "assets/img/web-horlogerie-2021/p041-b9bf2b1c0202.webp"
-  ],
   "horlogerie-2021:horlogerie-2021-schmidt-technology": [
-   "assets/img/web-horlogerie-2021/p043-d65712155a81.webp",
    "assets/img/web-horlogerie-2021/p043-369b835cda36.webp"
   ],
-  "horlogerie-2021:horlogerie-2021-annonce-dihawag": [
-   "assets/img/web-horlogerie-2021/p008-ae8230460c13.webp",
-   "assets/img/web-horlogerie-2021/p008-36a183e3bdf3.webp",
-   "assets/img/web-horlogerie-2021/p008-efa884d79801.webp",
-   "assets/img/web-horlogerie-2021/p008-efd3fe6a3f29.webp"
-  ],
-  "horlogerie-2021:horlogerie-2021-annonce-dm-surfaces": [
-   "assets/img/web-horlogerie-2021/p020-5bc0e2f526f4.webp"
-  ],
-  "horlogerie-2022:horlogerie-2022-interview-jean-daniel-pasche-fh": [
-   "assets/img/horlogerie-2022/p002-256486380e9b.webp",
-   "assets/img/horlogerie-2022/p002-26b633413c04.webp"
-  ],
   "horlogerie-2022:horlogerie-2022-asrh-etancheite": [
-   "assets/img/horlogerie-2022/p003-256486380e9b.webp",
    "assets/img/horlogerie-2022/p003-2f3b5918e3ea.webp"
   ],
   "horlogerie-2022:horlogerie-2022-societe-suisse-de-chronometrie": [
-   "assets/img/horlogerie-2022/p003-256486380e9b.webp",
    "assets/img/horlogerie-2022/p003-2f3b5918e3ea.webp"
   ],
   "horlogerie-2022:horlogerie-2022-interview-salon-ephj-20-ans": [
-   "assets/img/horlogerie-2022/p004-256486380e9b.webp",
    "assets/img/horlogerie-2022/p004-b0a96e0526ef.webp",
-   "assets/img/horlogerie-2022/p005-766cc68374ce.webp",
    "assets/img/horlogerie-2022/p005-7179d5858fca.webp",
-   "assets/img/horlogerie-2022/p005-256486380e9b.webp",
    "assets/img/horlogerie-2022/p005-693d7e5346e6.webp"
   ],
   "horlogerie-2022:horlogerie-2022-auchlin": [
-   "assets/img/horlogerie-2022/p007-1ea7dd53276f.webp",
    "assets/img/horlogerie-2022/p007-fef7a78bf277.webp"
   ],
   "horlogerie-2022:horlogerie-2022-bandi": [
-   "assets/img/horlogerie-2022/p007-1ea7dd53276f.webp",
    "assets/img/horlogerie-2022/p007-fef7a78bf277.webp"
   ],
   "horlogerie-2022:horlogerie-2022-chatelain-prototypes": [
@@ -1939,23 +1759,17 @@
    "assets/img/horlogerie-2022/p010-6b237b4c532a.webp"
   ],
   "horlogerie-2022:horlogerie-2022-d-tec-dubois": [
-   "assets/img/horlogerie-2022/p011-d65712155a81.webp",
    "assets/img/horlogerie-2022/p011-369b835cda36.webp",
-   "assets/img/horlogerie-2022/p011-238e52d82e23.webp",
    "assets/img/horlogerie-2022/p011-244e0ecede84.webp"
   ],
   "horlogerie-2022:horlogerie-2022-fleury": [
-   "assets/img/horlogerie-2022/p012-bdf1c221cfec.webp",
-   "assets/img/horlogerie-2022/p012-546c95ef4833.webp",
    "assets/img/horlogerie-2022/p012-90c826d09127.webp"
   ],
   "horlogerie-2022:horlogerie-2022-formoplast": [
-   "assets/img/horlogerie-2022/p013-93e1440365a1.webp",
    "assets/img/horlogerie-2022/p013-f71cc8758420.webp",
    "assets/img/horlogerie-2022/p013-f31934656c88.webp"
   ],
   "horlogerie-2022:horlogerie-2022-gmti": [
-   "assets/img/horlogerie-2022/p013-93e1440365a1.webp",
    "assets/img/horlogerie-2022/p013-f71cc8758420.webp",
    "assets/img/horlogerie-2022/p013-f31934656c88.webp"
   ],
@@ -1980,16 +1794,6 @@
   "horlogerie-2022:horlogerie-2022-mlv-adhezion": [
    "assets/img/horlogerie-2022/p016-8a8cfe3bef5b.webp"
   ],
-  "horlogerie-2022:horlogerie-2022-oesch": [
-   "assets/img/horlogerie-2022/p017-523595d8d91d.webp",
-   "assets/img/horlogerie-2022/p017-6e903ea39db4.webp"
-  ],
-  "horlogerie-2022:horlogerie-2022-polissages-gautier": [
-   "assets/img/horlogerie-2022/p018-43a13ba9a759.webp"
-  ],
-  "horlogerie-2022:horlogerie-2022-groupe-promotion": [
-   "assets/img/horlogerie-2022/p018-43a13ba9a759.webp"
-  ],
   "horlogerie-2022:horlogerie-2022-ressorts-industriels-risa": [
    "assets/img/horlogerie-2022/p019-87ef0bb3985f.webp"
   ],
@@ -2001,60 +1805,27 @@
    "assets/img/horlogerie-2022/p020-484847b4d515.webp"
   ],
   "horlogerie-2022:horlogerie-2022-stl-swiss": [
-   "assets/img/horlogerie-2022/p021-d65712155a81.webp",
    "assets/img/horlogerie-2022/p021-369b835cda36.webp",
    "assets/img/horlogerie-2022/p021-6ca07f148588.webp"
   ],
   "horlogerie-2022:horlogerie-2022-schmidt-technology": [
-   "assets/img/horlogerie-2022/p021-d65712155a81.webp",
    "assets/img/horlogerie-2022/p021-369b835cda36.webp",
    "assets/img/horlogerie-2022/p021-6ca07f148588.webp"
   ],
   "horlogerie-2022:horlogerie-2022-sebal-timsaph": [
-   "assets/img/horlogerie-2022/p022-613d2da5abd8.webp",
-   "assets/img/horlogerie-2022/p022-6850c42c5985.webp"
+   "assets/img/horlogerie-2022/p022-613d2da5abd8.webp"
   ],
   "horlogerie-2022:horlogerie-2022-technofinish-technoformage": [
-   "assets/img/horlogerie-2022/p023-f3014373b6ff.webp",
    "assets/img/horlogerie-2022/p023-0bd227340df7.webp"
   ],
-  "horlogerie-2022:horlogerie-2022-wostep": [
-   "assets/img/horlogerie-2022/p024-c16219548576.webp",
-   "assets/img/horlogerie-2022/p024-27e1f1b44a00.webp"
-  ],
-  "horlogerie-2023:horlogerie-2023-interview-fh-jean-daniel-pasche": [
-   "assets/img/web-horlogerie-2023/p005-256486380e9b.webp"
-  ],
-  "horlogerie-2023:horlogerie-2023-interview-ephj-alexandre-catton": [
-   "assets/img/web-horlogerie-2023/p006-256486380e9b.webp",
-   "assets/img/web-horlogerie-2023/p006-26b633413c04.webp"
-  ],
   "horlogerie-2023:horlogerie-2023-interview-cpih-ludovic-voillat": [
-   "assets/img/web-horlogerie-2023/p007-256486380e9b.webp",
-   "assets/img/web-horlogerie-2023/p007-26b633413c04.webp",
    "assets/img/web-horlogerie-2023/p007-44ced10868a7.webp"
-  ],
-  "horlogerie-2023:horlogerie-2023-interview-apiah-severine-favre": [
-   "assets/img/web-horlogerie-2023/p008-26b633413c04.webp"
-  ],
-  "horlogerie-2023:horlogerie-2023-interview-ssc-michel-fazzone": [
-   "assets/img/web-horlogerie-2023/p009-26b633413c04.webp"
-  ],
-  "horlogerie-2023:horlogerie-2023-interview-asrh-laiton-sans-plomb": [
-   "assets/img/web-horlogerie-2023/p010-256486380e9b.webp"
   ],
   "horlogerie-2023:horlogerie-2023-interview-aqc-chrome-vi": [
    "assets/img/web-horlogerie-2023/p011-42e24ad2fcd3.webp"
   ],
-  "horlogerie-2023:horlogerie-2023-artecad": [
-   "assets/img/web-horlogerie-2023/p015-f2c1842041ea.webp"
-  ],
-  "horlogerie-2023:horlogerie-2023-broquet-decolletage": [
-   "assets/img/web-horlogerie-2023/p015-f2c1842041ea.webp"
-  ],
   "horlogerie-2023:horlogerie-2023-demant": [
-   "assets/img/web-horlogerie-2023/p019-fc7c1eb260c0.webp",
-   "assets/img/web-horlogerie-2023/p019-0dbca9c4732b.webp"
+   "assets/img/web-horlogerie-2023/p019-fc7c1eb260c0.webp"
   ],
   "horlogerie-2023:horlogerie-2023-diametal": [
    "assets/img/web-horlogerie-2023/p021-305d72d07bbd.webp"
@@ -2072,21 +1843,13 @@
   "horlogerie-2023:horlogerie-2023-metafil-la-girolle": [
    "assets/img/web-horlogerie-2023/p029-35b48d675b59.webp"
   ],
-  "horlogerie-2023:horlogerie-2023-muller-machines": [
-   "assets/img/web-horlogerie-2023/p031-87bbd378441a.webp",
-   "assets/img/web-horlogerie-2023/p031-8a91ab0f4868.webp",
-   "assets/img/web-horlogerie-2023/p031-35c4638e0441.webp"
-  ],
   "horlogerie-2023:horlogerie-2023-polydec": [
-   "assets/img/web-horlogerie-2023/p034-26b633413c04.webp",
    "assets/img/web-horlogerie-2023/p034-9a48c2b09c3f.webp"
   ],
   "horlogerie-2023:horlogerie-2023-rollomatic": [
-   "assets/img/web-horlogerie-2023/p037-d65712155a81.webp",
    "assets/img/web-horlogerie-2023/p037-369b835cda36.webp"
   ],
   "horlogerie-2023:horlogerie-2023-sabato-group": [
-   "assets/img/web-horlogerie-2023/p038-866812b536c3.webp",
    "assets/img/web-horlogerie-2023/p038-096fc1c3e1e8.webp"
   ],
   "horlogerie-2023:horlogerie-2023-suvema": [
@@ -2095,104 +1858,43 @@
   "horlogerie-2023:horlogerie-2023-stoco": [
    "assets/img/web-horlogerie-2023/p040-fd5e792f9569.webp"
   ],
-  "horlogerie-2023:horlogerie-2023-timsaph": [
-   "assets/img/web-horlogerie-2023/p041-e93b921fa09f.webp"
-  ],
   "horlogerie-2023:horlogerie-2023-interview-atio": [
-   "assets/img/web-horlogerie-2023/p044-256486380e9b.webp",
-   "assets/img/web-horlogerie-2023/p045-256486380e9b.webp",
    "assets/img/web-horlogerie-2023/p045-aeb62a238395.webp"
   ],
-  "horlogerie-2023:horlogerie-2023-frieden": [
-   "assets/img/web-horlogerie-2023/p046-75128d75a053.webp"
-  ],
-  "horlogerie-2023:horlogerie-2023-rudolf-brugger": [
-   "assets/img/web-horlogerie-2023/p048-8f81fb76cae9.webp",
-   "assets/img/web-horlogerie-2023/p048-d515041b1361.webp"
-  ],
-  "horlogerie-2023:horlogerie-2023-montrelux": [
-   "assets/img/web-horlogerie-2023/p049-75128d75a053.webp"
-  ],
   "horlogerie-2023:horlogerie-2023-annonce-chatelain-prototypes": [
-   "assets/img/web-horlogerie-2023/p030-87bbd378441a.webp",
-   "assets/img/web-horlogerie-2023/p030-8a91ab0f4868.webp",
-   "assets/img/web-horlogerie-2023/p030-35c4638e0441.webp",
-   "assets/img/web-horlogerie-2023/p030-1f38e9823af7.webp",
-   "assets/img/web-horlogerie-2023/p030-9addcdd47ef0.webp"
+   "assets/img/web-horlogerie-2023/p030-1f38e9823af7.webp"
   ],
   "horlogerie-2024:horlogerie-2024-interview-jean-daniel-pasche-fh": [
    "assets/img/web-horlogerie-2024/p005-f562c87cc013.webp",
-   "assets/img/web-horlogerie-2024/p005-8a91ab0f4868.webp",
-   "assets/img/web-horlogerie-2024/p005-1c0d28820659.webp",
-   "assets/img/web-horlogerie-2024/p005-26b633413c04.webp"
-  ],
-  "horlogerie-2024:horlogerie-2024-apiah-renouvellement-cct": [
-   "assets/img/web-horlogerie-2024/p006-26b633413c04.webp"
-  ],
-  "horlogerie-2024:horlogerie-2024-cpih-effectifs-records": [
-   "assets/img/web-horlogerie-2024/p007-26b633413c04.webp"
-  ],
-  "horlogerie-2024:horlogerie-2024-asrh-siecle-recherche-communautaire": [
-   "assets/img/web-horlogerie-2024/p008-26b633413c04.webp"
-  ],
-  "horlogerie-2024:horlogerie-2024-decors-guilloches-vingt-ans": [
-   "assets/img/web-horlogerie-2024/p015-06a781752590.webp",
-   "assets/img/web-horlogerie-2024/p015-ecc50d261f9c.webp",
-   "assets/img/web-horlogerie-2024/p015-b7113c63b2d0.webp",
-   "assets/img/web-horlogerie-2024/p015-596f85b13575.webp",
-   "assets/img/web-horlogerie-2024/p015-bcd56a76137a.webp"
-  ],
-  "horlogerie-2024:horlogerie-2024-icam-productec-digitalisation": [
-   "assets/img/web-horlogerie-2024/p016-d65712155a81.webp"
+   "assets/img/web-horlogerie-2024/p005-1c0d28820659.webp"
   ],
   "horlogerie-2024:horlogerie-2024-demant-outils-diamant": [
-   "assets/img/web-horlogerie-2024/p017-8a91ab0f4868.webp",
-   "assets/img/web-horlogerie-2024/p017-7f6a9fce583b.webp",
-   "assets/img/web-horlogerie-2024/p017-2cd5ef89f0e8.webp",
    "assets/img/web-horlogerie-2024/p017-f89a51cee831.webp",
-   "assets/img/web-horlogerie-2024/p017-38c7a09e9646.webp"
+   "assets/img/web-horlogerie-2024/p017-66c4032e06c5.webp"
   ],
   "horlogerie-2024:horlogerie-2024-risa-ressorts-haute-precision": [
    "assets/img/web-horlogerie-2024/p028-2a8bbbf1214f.webp"
   ],
-  "horlogerie-2024:horlogerie-2024-sabato-group": [
-   "assets/img/web-horlogerie-2024/p029-cb224b9f0cc2.webp"
-  ],
   "horlogerie-2024:horlogerie-2024-technofinish-robot-polissage": [
-   "assets/img/web-horlogerie-2024/p034-691bc2da6db6.webp",
-   "assets/img/web-horlogerie-2024/p034-2f5d02fe30f3.webp"
+   "assets/img/web-horlogerie-2024/p034-691bc2da6db6.webp"
   ],
   "horlogerie-2024:horlogerie-2024-technoformage-emballages-biodegradables": [
-   "assets/img/web-horlogerie-2024/p034-691bc2da6db6.webp",
-   "assets/img/web-horlogerie-2024/p034-2f5d02fe30f3.webp"
-  ],
-  "horlogerie-2025:horlogerie-2025-interview-yves-bugmann-fh": [
-   "assets/img/web-horlogerie-2025/p004-8fd63c6f2afb.webp"
+   "assets/img/web-horlogerie-2024/p034-691bc2da6db6.webp"
   ],
   "horlogerie-2025:horlogerie-2025-cpih-nouvelle-cct": [
-   "assets/img/web-horlogerie-2025/p005-53212889872d.webp",
-   "assets/img/web-horlogerie-2025/p005-8fd63c6f2afb.webp"
-  ],
-  "horlogerie-2025:horlogerie-2025-apiah-sous-traitants-crise": [
-   "assets/img/web-horlogerie-2025/p006-8fd63c6f2afb.webp"
+   "assets/img/web-horlogerie-2025/p005-53212889872d.webp"
   ],
   "horlogerie-2025:horlogerie-2025-ephj-edition-2025": [
-   "assets/img/web-horlogerie-2025/p007-8fd63c6f2afb.webp",
    "assets/img/web-horlogerie-2025/p007-a06c6c2c3392.webp"
   ],
   "horlogerie-2025:horlogerie-2025-afdt-promotion-decolletage": [
-   "assets/img/web-horlogerie-2025/p008-8fd63c6f2afb.webp",
    "assets/img/web-horlogerie-2025/p008-d8909ffb6d7e.webp"
   ],
   "horlogerie-2025:horlogerie-2025-broquet-decolletage": [
    "assets/img/web-horlogerie-2025/p011-cff8ab80fb08.webp",
    "assets/img/web-horlogerie-2025/p011-b7be6f3f2309.webp"
   ],
-  "horlogerie-2025:horlogerie-2025-axnum-industrie-machines": [
-   "assets/img/web-horlogerie-2025/p012-8fd63c6f2afb.webp"
-  ],
   "horlogerie-2025:horlogerie-2025-bcp-tourbillons": [
-   "assets/img/web-horlogerie-2025/p013-01c8ca809be4.webp",
    "assets/img/web-horlogerie-2025/p013-0558131504c8.webp"
   ],
   "horlogerie-2025:horlogerie-2025-esco-75-ans-escomatic": [
@@ -2203,24 +1905,18 @@
   ],
   "horlogerie-2025:horlogerie-2025-gilbert-petit-jean": [
    "assets/img/web-horlogerie-2025/p016-85ad841b092c.webp",
-   "assets/img/web-horlogerie-2025/p016-8fd63c6f2afb.webp",
-   "assets/img/web-horlogerie-2025/p017-b38ce746b851.webp",
    "assets/img/web-horlogerie-2025/p017-c9f0733e9b44.webp",
    "assets/img/web-horlogerie-2025/p017-666a4e9fff69.webp",
    "assets/img/web-horlogerie-2025/p017-f98d63fbc2e7.webp"
   ],
   "horlogerie-2025:horlogerie-2025-bbhg-habillage": [
    "assets/img/web-horlogerie-2025/p016-85ad841b092c.webp",
-   "assets/img/web-horlogerie-2025/p016-8fd63c6f2afb.webp",
-   "assets/img/web-horlogerie-2025/p017-b38ce746b851.webp",
    "assets/img/web-horlogerie-2025/p017-c9f0733e9b44.webp",
    "assets/img/web-horlogerie-2025/p017-666a4e9fff69.webp",
    "assets/img/web-horlogerie-2025/p017-f98d63fbc2e7.webp"
   ],
   "horlogerie-2025:horlogerie-2025-beguelin-outillages": [
    "assets/img/web-horlogerie-2025/p016-85ad841b092c.webp",
-   "assets/img/web-horlogerie-2025/p016-8fd63c6f2afb.webp",
-   "assets/img/web-horlogerie-2025/p017-b38ce746b851.webp",
    "assets/img/web-horlogerie-2025/p017-c9f0733e9b44.webp",
    "assets/img/web-horlogerie-2025/p017-666a4e9fff69.webp",
    "assets/img/web-horlogerie-2025/p017-f98d63fbc2e7.webp"
@@ -2230,11 +1926,9 @@
    "assets/img/web-horlogerie-2025/p019-790ddd13eff0.webp"
   ],
   "horlogerie-2025:horlogerie-2025-pj-made-assemblage": [
-   "assets/img/web-horlogerie-2025/p022-8fd63c6f2afb.webp",
    "assets/img/web-horlogerie-2025/p022-e300b14920f6.webp"
   ],
   "horlogerie-2025:horlogerie-2025-s-t-polissage": [
-   "assets/img/web-horlogerie-2025/p024-8fd63c6f2afb.webp",
    "assets/img/web-horlogerie-2025/p024-4b814c5abc5f.webp",
    "assets/img/web-horlogerie-2025/p024-7d7601e85f26.webp"
   ],
@@ -2252,15 +1946,10 @@
    "assets/img/web-horlogerie-2025/p027-733dff440f8e.webp"
   ],
   "horlogerie-2025:horlogerie-2025-stoco-gamme-svr": [
-   "assets/img/web-horlogerie-2025/p007-8fd63c6f2afb.webp",
    "assets/img/web-horlogerie-2025/p007-a06c6c2c3392.webp"
   ],
   "horlogerie-2025:horlogerie-2025-sts-galvanoplastie": [
-   "assets/img/web-horlogerie-2025/p030-f05fc1e9c3c1.webp",
    "assets/img/web-horlogerie-2025/p030-3b6f71e4ab5f.webp"
-  ],
-  "horlogerie-2025:horlogerie-2025-technocut-laser": [
-   "assets/img/web-horlogerie-2025/p031-f05fc1e9c3c1.webp"
   ],
   "horlogerie-2025:horlogerie-2025-technofinish-robot-polissage": [
    "assets/img/web-horlogerie-2025/p032-f5e145890a7a.webp",
@@ -2272,104 +1961,77 @@
   ],
   "horlogerie-2025:horlogerie-2025-vicro-habillage": [
    "assets/img/web-horlogerie-2025/p034-798d7d0ea8ac.webp",
-   "assets/img/web-horlogerie-2025/p034-0ad1b2b5f786.webp",
    "assets/img/web-horlogerie-2025/p034-fdbb5303449c.webp",
-   "assets/img/web-horlogerie-2025/p034-87556a437b6f.webp",
    "assets/img/web-horlogerie-2025/p035-b22ee0664b89.webp",
    "assets/img/web-horlogerie-2025/p035-0c65754222d7.webp"
   ],
   "horlogerie-2025:horlogerie-2025-well-diamond-wire-saws": [
-   "assets/img/web-horlogerie-2025/p036-8fd63c6f2afb.webp",
    "assets/img/web-horlogerie-2025/p036-bc2ec85cbd36.webp"
   ],
   "horlogerie-2025:horlogerie-2025-witech-machines-compactes": [
    "assets/img/web-horlogerie-2025/p037-b482c9556678.webp",
    "assets/img/web-horlogerie-2025/p037-e3905961d60c.webp"
   ],
-  "horlogerie-2026:horlogerie-2026-interview-yves-bugmann-fh": [
-   "assets/img/web-horlogerie-2026/p004-26b633413c04.webp"
-  ],
   "horlogerie-2026:horlogerie-2026-ephj-salon-unique": [
-   "assets/img/web-horlogerie-2026/p005-26b633413c04.webp",
    "assets/img/web-horlogerie-2026/p005-a06c6c2c3392.webp"
   ],
   "horlogerie-2026:horlogerie-2026-artecad-cadrans": [
-   "assets/img/web-horlogerie-2026/p007-ed2efaabebc2.webp",
    "assets/img/web-horlogerie-2026/p007-78501ab41d70.webp"
   ],
-  "horlogerie-2026:horlogerie-2026-2b8-du-micron-a-la-decoration": [
-   "assets/img/web-horlogerie-2026/p009-26b633413c04.webp"
-  ],
   "horlogerie-2026:horlogerie-2026-brasport-group": [
-   "assets/img/web-horlogerie-2026/p011-2adf59e81f90.webp",
    "assets/img/web-horlogerie-2026/p011-679b38bb65b4.webp",
-   "assets/img/web-horlogerie-2026/p011-669e8d57c80b.webp",
-   "assets/img/web-horlogerie-2026/p011-26b633413c04.webp"
+   "assets/img/web-horlogerie-2026/p011-d0e7461957a5.webp"
   ],
   "horlogerie-2026:horlogerie-2026-broquet-decolletage": [
    "assets/img/web-horlogerie-2026/p012-e5334a199c1d.webp",
    "assets/img/web-horlogerie-2026/p012-b1ddfc479c89.webp"
   ],
   "horlogerie-2026:horlogerie-2026-gb-microfab-microtechnologies": [
-   "assets/img/web-horlogerie-2026/p013-93ea6446eb32.webp",
-   "assets/img/web-horlogerie-2026/p013-50f5b08b4f5a.webp",
-   "assets/img/web-horlogerie-2026/p013-14b9425e641a.webp",
-   "assets/img/web-horlogerie-2026/p013-1344f984c4f5.webp",
-   "assets/img/web-horlogerie-2026/p013-709001a769d8.webp"
+   "assets/img/web-horlogerie-2026/p013-9dd422559fbe.webp"
   ],
   "horlogerie-2026:horlogerie-2026-gilbert-petit-jean": [
    "assets/img/web-horlogerie-2026/p014-60cddd872301.webp",
    "assets/img/web-horlogerie-2026/p014-b3463d397d84.webp",
    "assets/img/web-horlogerie-2026/p014-2c81a8d42d33.webp",
    "assets/img/web-horlogerie-2026/p015-5237e3ba3a91.webp",
-   "assets/img/web-horlogerie-2026/p015-26b633413c04.webp",
-   "assets/img/web-horlogerie-2026/p015-60cddd872301.webp"
+   "assets/img/web-horlogerie-2026/p015-60cddd872301.webp",
+   "assets/img/web-horlogerie-2026/p015-b3463d397d84.webp"
   ],
   "horlogerie-2026:horlogerie-2026-bbhg-habillage": [
    "assets/img/web-horlogerie-2026/p014-60cddd872301.webp",
    "assets/img/web-horlogerie-2026/p014-b3463d397d84.webp",
    "assets/img/web-horlogerie-2026/p014-2c81a8d42d33.webp",
    "assets/img/web-horlogerie-2026/p016-9f015b2a5458.webp",
-   "assets/img/web-horlogerie-2026/p040-2adf59e81f90.webp",
    "assets/img/web-horlogerie-2026/p040-679b38bb65b4.webp"
   ],
   "horlogerie-2026:horlogerie-2026-beguelin-outillage": [
    "assets/img/web-horlogerie-2026/p015-5237e3ba3a91.webp",
-   "assets/img/web-horlogerie-2026/p015-26b633413c04.webp",
    "assets/img/web-horlogerie-2026/p015-60cddd872301.webp",
    "assets/img/web-horlogerie-2026/p015-b3463d397d84.webp",
    "assets/img/web-horlogerie-2026/p015-2c81a8d42d33.webp",
+   "assets/img/web-horlogerie-2026/p015-ffbca0ebe17e.webp",
    "assets/img/web-horlogerie-2026/p017-d6aae0437061.webp"
   ],
   "horlogerie-2026:horlogerie-2026-fils-henri-frei": [
-   "assets/img/web-horlogerie-2026/p018-d65712155a81.webp",
    "assets/img/web-horlogerie-2026/p018-cce68459ba98.webp"
   ],
   "horlogerie-2026:horlogerie-2026-la-cible-trefilage": [
-   "assets/img/web-horlogerie-2026/p019-26b633413c04.webp",
    "assets/img/web-horlogerie-2026/p019-9539b9c03911.webp",
    "assets/img/web-horlogerie-2026/p019-90316074e1b5.webp"
   ],
   "horlogerie-2026:horlogerie-2026-muller-machines-marche-mondial": [
-   "assets/img/web-horlogerie-2026/p020-0094e8871693.webp",
    "assets/img/web-horlogerie-2026/p020-2445ad76d9ab.webp",
    "assets/img/web-horlogerie-2026/p021-b608c72ae10b.webp",
    "assets/img/web-horlogerie-2026/p021-f732da4125df.webp"
   ],
   "horlogerie-2026:horlogerie-2026-favre-steudler-ressorts": [
-   "assets/img/web-horlogerie-2026/p022-26b633413c04.webp",
    "assets/img/web-horlogerie-2026/p022-54d3c26d4374.webp",
    "assets/img/web-horlogerie-2026/p022-056758adc329.webp"
   ],
-  "horlogerie-2026:horlogerie-2026-oesch-accessoires-metalliques": [
-   "assets/img/web-horlogerie-2026/p023-68c02c22ac9e.webp"
-  ],
   "horlogerie-2026:horlogerie-2026-icam-digitalisation": [
-   "assets/img/web-horlogerie-2026/p024-67432294e8a2.webp",
    "assets/img/web-horlogerie-2026/p024-ef85aa1ac3a9.webp"
   ],
   "horlogerie-2026:horlogerie-2026-productec-cfao": [
-   "assets/img/web-horlogerie-2026/p024-67432294e8a2.webp",
    "assets/img/web-horlogerie-2026/p024-ef85aa1ac3a9.webp"
   ],
   "horlogerie-2026:horlogerie-2026-protofil-10-ans": [
@@ -2380,50 +2042,31 @@
    "assets/img/web-horlogerie-2026/p026-bc26d0ca5223.webp"
   ],
   "horlogerie-2026:horlogerie-2026-serge-meister-serrages": [
-   "assets/img/web-horlogerie-2026/p027-38d25eb97471.webp",
-   "assets/img/web-horlogerie-2026/p027-2e5327bd5674.webp",
-   "assets/img/web-horlogerie-2026/p027-d76b34c27e77.webp"
+   "assets/img/web-horlogerie-2026/p027-2e5327bd5674.webp"
   ],
   "horlogerie-2026:horlogerie-2026-sebal-saphir-bas-carbone": [
-   "assets/img/web-horlogerie-2026/p028-26b633413c04.webp",
-   "assets/img/web-horlogerie-2026/p029-fcbeb3d01970.webp",
-   "assets/img/web-horlogerie-2026/p029-26b633413c04.webp"
+   "assets/img/web-horlogerie-2026/p029-fcbeb3d01970.webp"
   ],
   "horlogerie-2026:horlogerie-2026-timsaph-saphir-vertueux": [
-   "assets/img/web-horlogerie-2026/p028-26b633413c04.webp",
-   "assets/img/web-horlogerie-2026/p029-fcbeb3d01970.webp",
-   "assets/img/web-horlogerie-2026/p029-26b633413c04.webp"
+   "assets/img/web-horlogerie-2026/p029-fcbeb3d01970.webp"
   ],
   "horlogerie-2026:horlogerie-2026-stoco-assemblage": [
-   "assets/img/web-horlogerie-2026/p030-d810fafcc67e.webp",
-   "assets/img/web-horlogerie-2026/p030-fd7d855e7677.webp",
-   "assets/img/web-horlogerie-2026/p031-d810fafcc67e.webp",
-   "assets/img/web-horlogerie-2026/p031-2d5a721980d4.webp"
+   "assets/img/web-horlogerie-2026/p030-fd7d855e7677.webp"
   ],
   "horlogerie-2026:horlogerie-2026-technoformage-emballages-biodegradables": [
    "assets/img/web-horlogerie-2026/p032-c81e23f4146d.webp",
-   "assets/img/web-horlogerie-2026/p033-691bc2da6db6.webp",
-   "assets/img/web-horlogerie-2026/p033-2f5d02fe30f3.webp",
-   "assets/img/web-horlogerie-2026/p033-c40f1b66e7df.webp"
+   "assets/img/web-horlogerie-2026/p033-691bc2da6db6.webp"
   ],
   "horlogerie-2026:horlogerie-2026-technofinish-robot-polissage": [
    "assets/img/web-horlogerie-2026/p032-c81e23f4146d.webp",
-   "assets/img/web-horlogerie-2026/p033-691bc2da6db6.webp",
-   "assets/img/web-horlogerie-2026/p033-2f5d02fe30f3.webp",
-   "assets/img/web-horlogerie-2026/p033-c40f1b66e7df.webp"
-  ],
-  "horlogerie-2026:horlogerie-2026-vicro-habillage": [
-   "assets/img/web-horlogerie-2026/p034-374daf492997.webp",
-   "assets/img/web-horlogerie-2026/p034-66cea9a7a9dd.webp"
+   "assets/img/web-horlogerie-2026/p033-691bc2da6db6.webp"
   ],
   "horlogerie-2026:horlogerie-2026-witech-machines-compactes": [
    "assets/img/web-horlogerie-2026/p035-2527594c9553.webp",
    "assets/img/web-horlogerie-2026/p035-4ebeee50dcee.webp"
   ],
   "horlogerie-2026:horlogerie-2026-mw-programmation-cfao": [
-   "assets/img/web-horlogerie-2026/p036-61bf9e504865.webp",
-   "assets/img/web-horlogerie-2026/p036-d1322dfc2ad7.webp",
-   "assets/img/web-horlogerie-2026/p036-26b633413c04.webp"
+   "assets/img/web-horlogerie-2026/p036-d1322dfc2ad7.webp"
   ],
   "horlogerie-2026:horlogerie-2026-sts-galvanoplastie": [
    "assets/img/web-horlogerie-2026/p037-99bc0993ade4.webp",
@@ -2514,9 +2157,7 @@
    "assets/img/web-hug-2011/p011-434914bb94d0.webp"
   ],
   "hug-2011:hug-2011-brain-and-behaviour-laboratory": [
-   "assets/img/web-hug-2011/p017-8fd63c6f2afb.webp",
    "assets/img/web-hug-2011/p017-b0e664067bf3.webp",
-   "assets/img/web-hug-2011/p019-8fd63c6f2afb.webp",
    "assets/img/web-hug-2011/p019-b0e664067bf3.webp",
    "assets/img/web-hug-2011/p079-e1075bfd72ac.webp"
   ],
@@ -2544,10 +2185,6 @@
    "assets/img/web-hug-2011/p099-b209cb18b283.webp",
    "assets/img/web-hug-2011/p101-0dd1f83cf131.webp",
    "assets/img/web-hug-2011/p101-842e912e732d.webp"
-  ],
-  "hug-2011:hug-2011-atmos-medical": [
-   "assets/img/web-hug-2011/p102-8fd63c6f2afb.webp",
-   "assets/img/web-hug-2011/p104-8fd63c6f2afb.webp"
   ],
   "hug-2011:hug-2011-cibm-company-profile": [
    "assets/img/web-hug-2011/p009-2e9f731e1d44.webp",
@@ -2588,7 +2225,6 @@
   "hug-2011:hug-2011-msd-merck-sharp-dohme": [
    "assets/img/web-hug-2011/p133-47f4acbae78e.webp",
    "assets/img/web-hug-2011/p134-7b81012567ce.webp",
-   "assets/img/web-hug-2011/p134-8fd63c6f2afb.webp",
    "assets/img/web-hug-2011/p135-47f4acbae78e.webp"
   ],
   "hug-2011:hug-2011-mmm-sterilisatoren": [
@@ -2596,9 +2232,7 @@
    "assets/img/web-hug-2011/p011-434914bb94d0.webp"
   ],
   "hug-2011:hug-2011-pwc": [
-   "assets/img/web-hug-2011/p138-8fd63c6f2afb.webp",
    "assets/img/web-hug-2011/p138-17d8cd83a9ee.webp",
-   "assets/img/web-hug-2011/p139-8fd63c6f2afb.webp",
    "assets/img/web-hug-2011/p139-17d8cd83a9ee.webp"
   ],
   "hug-2011:hug-2011-reactolab": [
@@ -2610,7 +2244,6 @@
    "assets/img/web-hug-2011/p011-434914bb94d0.webp"
   ],
   "hug-2011:hug-2011-sca-hygiene-products": [
-   "assets/img/web-hug-2011/p144-8fd63c6f2afb.webp",
    "assets/img/web-hug-2011/p144-1ca60529b95a.webp"
   ],
   "hug-2011:hug-2011-keramik-laufen-similor": [
@@ -2618,8 +2251,8 @@
    "assets/img/web-hug-2011/p147-e076362d1ee0.webp",
    "assets/img/web-hug-2011/p147-4ce772a945a3.webp",
    "assets/img/web-hug-2011/p147-7c425678f39d.webp",
-   "assets/img/web-hug-2011/p148-8fd63c6f2afb.webp",
-   "assets/img/web-hug-2011/p148-f09015813731.webp"
+   "assets/img/web-hug-2011/p148-c5eaf6e4ac1c.webp",
+   "assets/img/web-hug-2011/p148-b7904e7fa099.webp"
   ],
   "hug-2011:hug-2011-sipaec": [
    "assets/img/web-hug-2011/p009-2e9f731e1d44.webp",
@@ -2628,9 +2261,6 @@
   "hug-2011:hug-2011-trb-chemedica": [
    "assets/img/web-hug-2011/p009-2e9f731e1d44.webp",
    "assets/img/web-hug-2011/p011-434914bb94d0.webp"
-  ],
-  "hug-2011:hug-2011-tornier": [
-   "assets/img/web-hug-2011/p156-8fd63c6f2afb.webp"
   ],
   "hug-2011:hug-2011-bj-coffee": [
    "assets/img/web-hug-2011/p009-2e9f731e1d44.webp",
@@ -2643,29 +2273,21 @@
    "assets/img/web-hug-2011/p009-2e9f731e1d44.webp",
    "assets/img/web-hug-2011/p011-434914bb94d0.webp"
   ],
-  "hug-2011:hug-2011-transferts-video-film": [
-   "assets/img/web-hug-2011/p161-8fd63c6f2afb.webp"
-  ],
   "hug-2011:hug-2011-citroen-geneve": [
    "assets/img/web-hug-2011/p162-7262b91ec70a.webp",
-   "assets/img/web-hug-2011/p162-8fd63c6f2afb.webp",
    "assets/img/web-hug-2011/p162-5ab14313a8aa.webp",
    "assets/img/web-hug-2011/p163-99568525b2dc.webp",
    "assets/img/web-hug-2011/p163-55dcde54ebc6.webp"
   ],
   "hug-2011:hug-2011-emil-frey-geneve": [
-   "assets/img/web-hug-2011/p164-8fd63c6f2afb.webp",
    "assets/img/web-hug-2011/p164-0939fc124b8e.webp",
-   "assets/img/web-hug-2011/p165-8fd63c6f2afb.webp",
    "assets/img/web-hug-2011/p165-0939fc124b8e.webp"
   ],
   "hug-2011:hug-2011-veltigroup": [
    "assets/img/web-hug-2011/p168-7a0cc09b1a85.webp",
-   "assets/img/web-hug-2011/p169-7a0cc09b1a85.webp",
-   "assets/img/web-hug-2011/p169-8fd63c6f2afb.webp"
+   "assets/img/web-hug-2011/p169-7a0cc09b1a85.webp"
   ],
   "hug-2011:hug-2011-my-private-care": [
-   "assets/img/web-hug-2011/p170-8fd63c6f2afb.webp",
    "assets/img/web-hug-2011/p170-fc0435c7895a.webp"
   ],
   "hug-2011:hug-2011-g-schweizer": [
@@ -2702,9 +2324,6 @@
    "assets/img/lausanne/p069-e3de827dc951.webp",
    "assets/img/lausanne/p070-31be654bb508.webp",
    "assets/img/lausanne/p071-1864002226da.webp"
-  ],
-  "lausanne:lausanne-transelec": [
-   "assets/img/lausanne/p074-c8f08b4037e8.webp"
   ],
   "region-bernoise:region-bernoise-philippe-chetelat": [
    "assets/img/bennoise/p004-a951a940405b.webp",
@@ -2776,8 +2395,7 @@
    "assets/img/bennoise/p013-88adf14b7d70.webp"
   ],
   "region-bernoise:region-bernoise-revisia": [
-   "assets/img/bennoise/p014-1b097f80dd7b.webp",
-   "assets/img/bennoise/p014-e0fcffb078b6.webp"
+   "assets/img/bennoise/p014-1b097f80dd7b.webp"
   ],
   "sante-2024:sante-2024-interview-moritz-tannast-orthopadie": [
    "assets/img/sante-2024-integral/p009-14e1d4915878.webp"
@@ -2795,12 +2413,6 @@
   "sante-2024:sante-2024-blanchisseries-generales-lbg": [
    "assets/img/sante-2024-integral/p037-8e94f23f5402.webp",
    "assets/img/sante-2024-integral/p039-8bd8077226b9.webp"
-  ],
-  "sante-2024:sante-2024-trigonorm": [
-   "assets/img/sante-2024-integral/p044-3d1e6b7b6446.webp"
-  ],
-  "sante-2024:sante-2024-vitalrh": [
-   "assets/img/sante-2024-integral/p045-6ebc3605a50d.webp"
   ],
   "sante-gesundheit:sante-gesundheit-usz-rita-ziegler": [
    "assets/img/web-sante-gesundheit/p007-dbdbcc58fb5d.webp"
@@ -2859,8 +2471,7 @@
   ],
   "sante-gesundheit:sante-gesundheit-helsinn-riccardo-braglia": [
    "assets/img/web-sante-gesundheit/p047-7cdd67733bfd.webp",
-   "assets/img/web-sante-gesundheit/p049-17fdf1a9de30.webp",
-   "assets/img/web-sante-gesundheit/p050-9d224834638a.webp"
+   "assets/img/web-sante-gesundheit/p049-17fdf1a9de30.webp"
   ],
   "sante-gesundheit:sante-gesundheit-jp-muller": [
    "assets/img/web-sante-gesundheit/p052-b163f4f4b4e5.webp",
@@ -2895,12 +2506,6 @@
   "sommary:sommary-luca-albertoni": [
    "assets/img/web-sommary/p022-8044c12769c6.webp",
    "assets/img/web-sommary/p023-8044c12769c6.webp"
-  ],
-  "sommary:sommary-laura-sadis": [
-   "assets/img/web-sommary/p009-774ba0a4a260.webp"
-  ],
-  "sommary:sommary-stefano-rizzi": [
-   "assets/img/web-sommary/p009-774ba0a4a260.webp"
   ],
   "sommary:sommary-cc-ti-associazione-mantello": [
    "assets/img/web-sommary/p022-8044c12769c6.webp",
@@ -2964,9 +2569,6 @@
   "sommary:sommary-anastasi-ingegneria": [
    "assets/img/web-sommary/p038-8d3aba047afe.webp"
   ],
-  "sommary:sommary-ernst-young-lugano": [
-   "assets/img/web-sommary/p039-99d625c5935e.webp"
-  ],
   "sommary:sommary-cippa-trasporti": [
    "assets/img/web-sommary/p040-c39995933eaa.webp"
   ],
@@ -3008,15 +2610,11 @@
   ],
   "sommary:sommary-il-falegname-fabrizio": [
    "assets/img/web-sommary/p058-e9d3509cd6e4.webp",
-   "assets/img/web-sommary/p059-9a55fe7cdeb2.webp",
-   "assets/img/web-sommary/p059-88a97f5a80d1.webp"
+   "assets/img/web-sommary/p059-9a55fe7cdeb2.webp"
   ],
   "sommary:sommary-osc": [
    "assets/img/web-sommary/p064-45262f9d949d.webp",
    "assets/img/web-sommary/p065-6456a85f1df4.webp"
-  ],
-  "sommary:sommary-pkb-privatbank": [
-   "assets/img/web-sommary/p068-84a567217f1d.webp"
   ],
   "sommary:sommary-deposito-franco-doganale-chiasso": [
    "assets/img/web-sommary/p070-6d263009814c.webp",
@@ -3036,55 +2634,41 @@
    "assets/img/web-sommary/p081-c40ded665519.webp"
   ],
   "uvs-suisse-alemanique:uvs-suisse-alemanique-stadt-solothurn-kurt-fluri": [
-   "assets/img/web-uvs-suisse-alemanique/p002-bb141939e420.webp",
    "assets/img/web-uvs-suisse-alemanique/p002-40f18568f4be.webp",
    "assets/img/web-uvs-suisse-alemanique/p003-c6ac93293248.webp"
   ],
   "uvs-suisse-alemanique:uvs-suisse-alemanique-solothurner-handelskammer": [
    "assets/img/web-uvs-suisse-alemanique/p004-fa8998c4e3b9.webp",
-   "assets/img/web-uvs-suisse-alemanique/p004-8fd63c6f2afb.webp",
    "assets/img/web-uvs-suisse-alemanique/p005-f6ae2836d809.webp"
   ],
   "uvs-suisse-alemanique:uvs-suisse-alemanique-region-solothurn-tourismus": [
    "assets/img/web-uvs-suisse-alemanique/p007-4ba43ae60a4f.webp"
   ],
   "uvs-suisse-alemanique:uvs-suisse-alemanique-hybridwerk-aarmatt": [
-   "assets/img/web-uvs-suisse-alemanique/p074-8fd63c6f2afb.webp",
    "assets/img/web-uvs-suisse-alemanique/p074-88af9492f11b.webp"
   ],
   "uvs-suisse-alemanique:uvs-suisse-alemanique-schuldirektion-solothurn": [
-   "assets/img/web-uvs-suisse-alemanique/p010-8fd63c6f2afb.webp",
    "assets/img/web-uvs-suisse-alemanique/p010-852c8322133c.webp"
   ],
-  "uvs-suisse-alemanique:uvs-suisse-alemanique-stadtbauamt-solothurn": [
-   "assets/img/web-uvs-suisse-alemanique/p012-16405054b166.webp"
-  ],
   "uvs-suisse-alemanique:uvs-suisse-alemanique-stadt-zuerich-corine-mauch": [
-   "assets/img/web-uvs-suisse-alemanique/p014-c1abfdc683e1.webp",
    "assets/img/web-uvs-suisse-alemanique/p014-d7974235981b.webp",
-   "assets/img/web-uvs-suisse-alemanique/p016-8fd63c6f2afb.webp",
    "assets/img/web-uvs-suisse-alemanique/p016-03a8340a0078.webp",
    "assets/img/web-uvs-suisse-alemanique/p016-12b9a390175e.webp"
   ],
   "uvs-suisse-alemanique:uvs-suisse-alemanique-amt-fuer-staedtebau-zuerich": [
-   "assets/img/web-uvs-suisse-alemanique/p014-c1abfdc683e1.webp",
    "assets/img/web-uvs-suisse-alemanique/p014-d7974235981b.webp",
-   "assets/img/web-uvs-suisse-alemanique/p016-8fd63c6f2afb.webp",
    "assets/img/web-uvs-suisse-alemanique/p016-03a8340a0078.webp",
    "assets/img/web-uvs-suisse-alemanique/p016-12b9a390175e.webp"
   ],
   "uvs-suisse-alemanique:uvs-suisse-alemanique-stadtentwicklung-zuerich-benno-seiler": [
-   "assets/img/web-uvs-suisse-alemanique/p016-8fd63c6f2afb.webp",
    "assets/img/web-uvs-suisse-alemanique/p016-03a8340a0078.webp",
    "assets/img/web-uvs-suisse-alemanique/p016-12b9a390175e.webp",
-   "assets/img/web-uvs-suisse-alemanique/p018-c1abfdc683e1.webp",
    "assets/img/web-uvs-suisse-alemanique/p018-40ce1c6eedd1.webp"
   ],
   "uvs-suisse-alemanique:uvs-suisse-alemanique-greater-zurich-area": [
    "assets/img/web-uvs-suisse-alemanique/p019-3d864e1df5b3.webp",
    "assets/img/web-uvs-suisse-alemanique/p019-5ce0b02e7f90.webp",
    "assets/img/web-uvs-suisse-alemanique/p019-62d74db2d1e5.webp",
-   "assets/img/web-uvs-suisse-alemanique/p020-c1abfdc683e1.webp",
    "assets/img/web-uvs-suisse-alemanique/p020-1d8b3e76c70a.webp",
    "assets/img/web-uvs-suisse-alemanique/p021-c3169062d41d.webp"
   ],
@@ -3092,158 +2676,95 @@
    "assets/img/web-uvs-suisse-alemanique/p022-16b40426528e.webp"
   ],
   "uvs-suisse-alemanique:uvs-suisse-alemanique-amt-fuer-staedtebau-winterthur": [
-   "assets/img/web-uvs-suisse-alemanique/p023-db5b3e43673b.webp",
-   "assets/img/web-uvs-suisse-alemanique/p024-8fd63c6f2afb.webp"
+   "assets/img/web-uvs-suisse-alemanique/p023-db5b3e43673b.webp"
   ],
   "uvs-suisse-alemanique:uvs-suisse-alemanique-stadtentwicklung-winterthur-mark-wuerth": [
-   "assets/img/web-uvs-suisse-alemanique/p026-c1abfdc683e1.webp",
    "assets/img/web-uvs-suisse-alemanique/p026-f9b3dc75f95f.webp",
    "assets/img/web-uvs-suisse-alemanique/p027-a8588d03d240.webp"
   ],
   "uvs-suisse-alemanique:uvs-suisse-alemanique-stadt-aarau-jolanda-urech": [
-   "assets/img/web-uvs-suisse-alemanique/p028-8fd63c6f2afb.webp",
    "assets/img/web-uvs-suisse-alemanique/p028-166137e49937.webp",
    "assets/img/web-uvs-suisse-alemanique/p029-a7b37a6b1fd0.webp",
-   "assets/img/web-uvs-suisse-alemanique/p029-11b403b3dd8f.webp",
-   "assets/img/web-uvs-suisse-alemanique/p030-8fd63c6f2afb.webp"
+   "assets/img/web-uvs-suisse-alemanique/p029-11b403b3dd8f.webp"
   ],
   "uvs-suisse-alemanique:uvs-suisse-alemanique-wirtschaftsfachstelle-aarau": [
-   "assets/img/web-uvs-suisse-alemanique/p028-8fd63c6f2afb.webp",
-   "assets/img/web-uvs-suisse-alemanique/p028-166137e49937.webp",
-   "assets/img/web-uvs-suisse-alemanique/p030-8fd63c6f2afb.webp",
-   "assets/img/web-uvs-suisse-alemanique/p031-c1abfdc683e1.webp"
-  ],
-  "uvs-suisse-alemanique:uvs-suisse-alemanique-schule-aarau": [
-   "assets/img/web-uvs-suisse-alemanique/p031-c1abfdc683e1.webp"
+   "assets/img/web-uvs-suisse-alemanique/p028-166137e49937.webp"
   ],
   "uvs-suisse-alemanique:uvs-suisse-alemanique-aihk-peter-luescher": [
    "assets/img/web-uvs-suisse-alemanique/p033-f40ddd3fd4e2.webp",
-   "assets/img/web-uvs-suisse-alemanique/p034-16405054b166.webp",
    "assets/img/web-uvs-suisse-alemanique/p035-ff3816b424b1.webp"
   ],
   "uvs-suisse-alemanique:uvs-suisse-alemanique-stadt-baden-standortmarketing": [
-   "assets/img/web-uvs-suisse-alemanique/p038-8fd63c6f2afb.webp",
    "assets/img/web-uvs-suisse-alemanique/p038-511d620f322f.webp",
-   "assets/img/web-uvs-suisse-alemanique/p039-6b16f3650b3f.webp",
-   "assets/img/web-uvs-suisse-alemanique/p040-8fd63c6f2afb.webp"
+   "assets/img/web-uvs-suisse-alemanique/p039-6b16f3650b3f.webp"
   ],
   "uvs-suisse-alemanique:uvs-suisse-alemanique-stadt-baden-bildung-ruth-mueri": [
-   "assets/img/web-uvs-suisse-alemanique/p038-8fd63c6f2afb.webp",
    "assets/img/web-uvs-suisse-alemanique/p038-511d620f322f.webp",
-   "assets/img/web-uvs-suisse-alemanique/p039-6b16f3650b3f.webp",
-   "assets/img/web-uvs-suisse-alemanique/p040-8fd63c6f2afb.webp"
+   "assets/img/web-uvs-suisse-alemanique/p039-6b16f3650b3f.webp"
   ],
   "uvs-suisse-alemanique:uvs-suisse-alemanique-schweizerische-bauschule-aarau": [
-   "assets/img/web-uvs-suisse-alemanique/p042-c1abfdc683e1.webp",
    "assets/img/web-uvs-suisse-alemanique/p042-bc35f5c16da8.webp"
   ],
   "uvs-suisse-alemanique:uvs-suisse-alemanique-bbp-per-trifunovic": [
-   "assets/img/web-uvs-suisse-alemanique/p044-8fd63c6f2afb.webp",
    "assets/img/web-uvs-suisse-alemanique/p044-4f03ed5cfa12.webp",
    "assets/img/web-uvs-suisse-alemanique/p045-9942416df3a2.webp"
   ],
-  "uvs-suisse-alemanique:uvs-suisse-alemanique-centris-patrick-progin": [
-   "assets/img/web-uvs-suisse-alemanique/p046-16405054b166.webp",
-   "assets/img/web-uvs-suisse-alemanique/p047-16405054b166.webp"
-  ],
-  "uvs-suisse-alemanique:uvs-suisse-alemanique-eberhard-bau-heinz-eberhard": [
-   "assets/img/web-uvs-suisse-alemanique/p048-8fd63c6f2afb.webp",
-   "assets/img/web-uvs-suisse-alemanique/p049-8fd63c6f2afb.webp"
-  ],
   "uvs-suisse-alemanique:uvs-suisse-alemanique-elex-peter-studer": [
-   "assets/img/web-uvs-suisse-alemanique/p050-8fd63c6f2afb.webp",
    "assets/img/web-uvs-suisse-alemanique/p050-2949467cb744.webp"
   ],
   "uvs-suisse-alemanique:uvs-suisse-alemanique-hardturm-vincent-albers": [
-   "assets/img/web-uvs-suisse-alemanique/p054-8fd63c6f2afb.webp",
    "assets/img/web-uvs-suisse-alemanique/p054-565fc3b4e8ba.webp",
    "assets/img/web-uvs-suisse-alemanique/p055-2704084e24d5.webp"
   ],
   "uvs-suisse-alemanique:uvs-suisse-alemanique-h-net-michael-ziegler": [
-   "assets/img/web-uvs-suisse-alemanique/p056-66f40bbcb5c0.webp",
-   "assets/img/web-uvs-suisse-alemanique/p056-16405054b166.webp"
+   "assets/img/web-uvs-suisse-alemanique/p056-66f40bbcb5c0.webp"
   ],
   "uvs-suisse-alemanique:uvs-suisse-alemanique-hoermann-andreas-breschan": [
-   "assets/img/web-uvs-suisse-alemanique/p058-c1abfdc683e1.webp",
-   "assets/img/web-uvs-suisse-alemanique/p058-2c7e192bb0bd.webp",
-   "assets/img/web-uvs-suisse-alemanique/p059-c1abfdc683e1.webp"
+   "assets/img/web-uvs-suisse-alemanique/p058-2c7e192bb0bd.webp"
   ],
   "uvs-suisse-alemanique:uvs-suisse-alemanique-ibaarau-hans-kaspar-scherrer": [
    "assets/img/web-uvs-suisse-alemanique/p061-8477de635460.webp",
    "assets/img/web-uvs-suisse-alemanique/p061-f44ad6fe62b0.webp",
-   "assets/img/web-uvs-suisse-alemanique/p062-8fd63c6f2afb.webp",
    "assets/img/web-uvs-suisse-alemanique/p062-0ed0aec5e3b4.webp",
    "assets/img/web-uvs-suisse-alemanique/p063-c0ccfee8b015.webp",
    "assets/img/web-uvs-suisse-alemanique/p063-c15b4ff27c67.webp"
   ],
   "uvs-suisse-alemanique:uvs-suisse-alemanique-imp-bautest": [
-   "assets/img/web-uvs-suisse-alemanique/p064-8fd63c6f2afb.webp",
    "assets/img/web-uvs-suisse-alemanique/p064-2430448d1496.webp",
    "assets/img/web-uvs-suisse-alemanique/p064-652986076fce.webp",
    "assets/img/web-uvs-suisse-alemanique/p064-405cd04af73d.webp",
    "assets/img/web-uvs-suisse-alemanique/p065-aad7b12d3e80.webp",
-   "assets/img/web-uvs-suisse-alemanique/p065-7b4def1a540c.webp"
-  ],
-  "uvs-suisse-alemanique:uvs-suisse-alemanique-impuls-mittelschule": [
-   "assets/img/web-uvs-suisse-alemanique/p066-8fd63c6f2afb.webp",
-   "assets/img/web-uvs-suisse-alemanique/p067-8fd63c6f2afb.webp"
+   "assets/img/web-uvs-suisse-alemanique/p065-7b4def1a540c.webp",
+   "assets/img/web-uvs-suisse-alemanique/p065-ed62ac56c5b3.webp"
   ],
   "uvs-suisse-alemanique:uvs-suisse-alemanique-jura-materials-hastag": [
-   "assets/img/web-uvs-suisse-alemanique/p068-8fd63c6f2afb.webp",
    "assets/img/web-uvs-suisse-alemanique/p068-8cbb5bb9bae9.webp",
    "assets/img/web-uvs-suisse-alemanique/p068-6e08d7380e23.webp",
    "assets/img/web-uvs-suisse-alemanique/p069-2e06b513ed04.webp"
   ],
   "uvs-suisse-alemanique:uvs-suisse-alemanique-meworla-michael-baumer": [
-   "assets/img/web-uvs-suisse-alemanique/p070-8fd63c6f2afb.webp",
    "assets/img/web-uvs-suisse-alemanique/p070-686817147dba.webp",
    "assets/img/web-uvs-suisse-alemanique/p070-47cb51574882.webp",
    "assets/img/web-uvs-suisse-alemanique/p071-de8509798f0e.webp",
    "assets/img/web-uvs-suisse-alemanique/p071-d438ed16ac15.webp"
   ],
   "uvs-suisse-alemanique:uvs-suisse-alemanique-neosys-juerg-liechti": [
-   "assets/img/web-uvs-suisse-alemanique/p072-78a92b3f89f7.webp",
    "assets/img/web-uvs-suisse-alemanique/p072-9683abd4f599.webp",
-   "assets/img/web-uvs-suisse-alemanique/p073-78a92b3f89f7.webp",
    "assets/img/web-uvs-suisse-alemanique/p073-8ebf280e1573.webp"
   ],
   "uvs-suisse-alemanique:uvs-suisse-alemanique-regio-energie-solothurn-felix-straessle": [
-   "assets/img/web-uvs-suisse-alemanique/p074-8fd63c6f2afb.webp",
    "assets/img/web-uvs-suisse-alemanique/p074-88af9492f11b.webp"
   ],
   "uvs-suisse-alemanique:uvs-suisse-alemanique-amt-fuer-kultur-und-sport-solothurn": [
    "assets/img/web-uvs-suisse-alemanique/p076-36c482933737.webp"
   ],
   "uvs-suisse-alemanique:uvs-suisse-alemanique-hochschule-fuer-wirtschaft-fhnw": [
-   "assets/img/web-uvs-suisse-alemanique/p080-8fd63c6f2afb.webp",
    "assets/img/web-uvs-suisse-alemanique/p080-e6dd4df5d14a.webp",
    "assets/img/web-uvs-suisse-alemanique/p081-5c4c2d4ce5c0.webp"
   ],
   "uvs-valais-neuchatel:uvs-valais-neuchatel-stadt-solothurn-kurt-fluri": [
-   "assets/img/web-uvs-valais-neuchatel/p002-bb141939e420.webp",
    "assets/img/web-uvs-valais-neuchatel/p002-40f18568f4be.webp",
    "assets/img/web-uvs-valais-neuchatel/p003-c6ac93293248.webp"
-  ],
-  "uvs-valais-neuchatel:uvs-valais-neuchatel-sion-marcel-maurer": [
-   "assets/img/web-uvs-valais-neuchatel/p004-c1abfdc683e1.webp"
-  ],
-  "uvs-valais-neuchatel:uvs-valais-neuchatel-sion-benoit-fournier": [
-   "assets/img/web-uvs-valais-neuchatel/p004-c1abfdc683e1.webp"
-  ],
-  "uvs-valais-neuchatel:uvs-valais-neuchatel-sion-georges-joliat": [
-   "assets/img/web-uvs-valais-neuchatel/p004-c1abfdc683e1.webp"
-  ],
-  "uvs-valais-neuchatel:uvs-valais-neuchatel-sion-blaise-crittin": [
-   "assets/img/web-uvs-valais-neuchatel/p004-c1abfdc683e1.webp"
-  ],
-  "uvs-valais-neuchatel:uvs-valais-neuchatel-sion-aeroport-cyrille-fauchere": [
-   "assets/img/web-uvs-valais-neuchatel/p004-c1abfdc683e1.webp"
-  ],
-  "uvs-valais-neuchatel:uvs-valais-neuchatel-sion-gaelle-metrailler": [
-   "assets/img/web-uvs-valais-neuchatel/p004-c1abfdc683e1.webp"
-  ],
-  "uvs-valais-neuchatel:uvs-valais-neuchatel-sion-vincent-pellissier": [
-   "assets/img/web-uvs-valais-neuchatel/p004-c1abfdc683e1.webp"
   ],
   "uvs-valais-neuchatel:uvs-valais-neuchatel-bativa": [
    "assets/img/web-uvs-valais-neuchatel/p012-aa1d8dc3efcd.webp",
@@ -3256,7 +2777,6 @@
    "assets/img/web-uvs-valais-neuchatel/p014-a7893d56b9d3.webp"
   ],
   "uvs-valais-neuchatel:uvs-valais-neuchatel-css-assurance": [
-   "assets/img/web-uvs-valais-neuchatel/p015-37e266667bdb.webp",
    "assets/img/web-uvs-valais-neuchatel/p015-84ee434f9443.webp"
   ],
   "uvs-valais-neuchatel:uvs-valais-neuchatel-editech": [
@@ -3274,37 +2794,30 @@
    "assets/img/web-uvs-valais-neuchatel/p021-7592bd02f63a.webp"
   ],
   "uvs-valais-neuchatel:uvs-valais-neuchatel-swisspro": [
-   "assets/img/web-uvs-valais-neuchatel/p023-794a9ec64fe1.webp",
    "assets/img/web-uvs-valais-neuchatel/p023-eccef826f5d2.webp"
   ],
   "uvs-valais-neuchatel:uvs-valais-neuchatel-martigny-marc-henri-favre": [
-   "assets/img/web-uvs-valais-neuchatel/p024-8fd63c6f2afb.webp",
    "assets/img/web-uvs-valais-neuchatel/p024-48c70515118d.webp",
    "assets/img/web-uvs-valais-neuchatel/p024-e9aee43d631f.webp"
   ],
   "uvs-valais-neuchatel:uvs-valais-neuchatel-martigny-integration-scolaire": [
-   "assets/img/web-uvs-valais-neuchatel/p024-8fd63c6f2afb.webp",
    "assets/img/web-uvs-valais-neuchatel/p024-48c70515118d.webp",
    "assets/img/web-uvs-valais-neuchatel/p024-e9aee43d631f.webp"
   ],
   "uvs-valais-neuchatel:uvs-valais-neuchatel-martigny-securite-civile": [
-   "assets/img/web-uvs-valais-neuchatel/p024-8fd63c6f2afb.webp",
    "assets/img/web-uvs-valais-neuchatel/p024-48c70515118d.webp",
    "assets/img/web-uvs-valais-neuchatel/p024-e9aee43d631f.webp"
   ],
   "uvs-valais-neuchatel:uvs-valais-neuchatel-fondation-gianadda": [
-   "assets/img/web-uvs-valais-neuchatel/p024-8fd63c6f2afb.webp",
    "assets/img/web-uvs-valais-neuchatel/p024-48c70515118d.webp",
    "assets/img/web-uvs-valais-neuchatel/p024-e9aee43d631f.webp",
    "assets/img/web-uvs-valais-neuchatel/p027-2f9970d37727.webp"
   ],
   "uvs-valais-neuchatel:uvs-valais-neuchatel-martigny-horizon-2030": [
-   "assets/img/web-uvs-valais-neuchatel/p024-8fd63c6f2afb.webp",
    "assets/img/web-uvs-valais-neuchatel/p024-48c70515118d.webp",
    "assets/img/web-uvs-valais-neuchatel/p024-e9aee43d631f.webp"
   ],
   "uvs-valais-neuchatel:uvs-valais-neuchatel-place-centrale-martigny": [
-   "assets/img/web-uvs-valais-neuchatel/p024-8fd63c6f2afb.webp",
    "assets/img/web-uvs-valais-neuchatel/p024-48c70515118d.webp",
    "assets/img/web-uvs-valais-neuchatel/p024-e9aee43d631f.webp"
   ],
@@ -3312,7 +2825,6 @@
    "assets/img/web-uvs-valais-neuchatel/p030-5a197099a6c8.webp"
   ],
   "uvs-valais-neuchatel:uvs-valais-neuchatel-martigny-energie-rene-quiros": [
-   "assets/img/web-uvs-valais-neuchatel/p024-8fd63c6f2afb.webp",
    "assets/img/web-uvs-valais-neuchatel/p024-48c70515118d.webp",
    "assets/img/web-uvs-valais-neuchatel/p024-e9aee43d631f.webp"
   ],
@@ -3320,30 +2832,10 @@
    "assets/img/web-uvs-valais-neuchatel/p032-0c6f42d34f26.webp",
    "assets/img/web-uvs-valais-neuchatel/p032-ac1cd29b082f.webp"
   ],
-  "uvs-valais-neuchatel:uvs-valais-neuchatel-sierre-francois-genoud": [
-   "assets/img/web-uvs-valais-neuchatel/p034-8fd63c6f2afb.webp"
-  ],
-  "uvs-valais-neuchatel:uvs-valais-neuchatel-sierre-pierre-kenzelmann": [
-   "assets/img/web-uvs-valais-neuchatel/p034-8fd63c6f2afb.webp"
-  ],
-  "uvs-valais-neuchatel:uvs-valais-neuchatel-sierre-pierre-berthod": [
-   "assets/img/web-uvs-valais-neuchatel/p034-8fd63c6f2afb.webp"
-  ],
-  "uvs-valais-neuchatel:uvs-valais-neuchatel-sierre-laetitia-massy": [
-   "assets/img/web-uvs-valais-neuchatel/p034-8fd63c6f2afb.webp"
-  ],
-  "uvs-valais-neuchatel:uvs-valais-neuchatel-sierre-mario-rossi": [
-   "assets/img/web-uvs-valais-neuchatel/p034-8fd63c6f2afb.webp"
-  ],
-  "uvs-valais-neuchatel:uvs-valais-neuchatel-sierre-jean-paul-salamin": [
-   "assets/img/web-uvs-valais-neuchatel/p034-8fd63c6f2afb.webp"
-  ],
   "uvs-valais-neuchatel:uvs-valais-neuchatel-va-zwissig": [
-   "assets/img/web-uvs-valais-neuchatel/p042-c1abfdc683e1.webp",
    "assets/img/web-uvs-valais-neuchatel/p042-a815017bc0e7.webp"
   ],
   "uvs-valais-neuchatel:uvs-valais-neuchatel-raiffeisen-sierre": [
-   "assets/img/web-uvs-valais-neuchatel/p043-8fd63c6f2afb.webp",
    "assets/img/web-uvs-valais-neuchatel/p043-41408d6ac35e.webp",
    "assets/img/web-uvs-valais-neuchatel/p043-2417a4450706.webp"
   ],
@@ -3351,31 +2843,19 @@
    "assets/img/web-uvs-valais-neuchatel/p044-43518b6e9331.webp"
   ],
   "uvs-valais-neuchatel:uvs-valais-neuchatel-neuchatel-olivier-arni": [
-   "assets/img/web-uvs-valais-neuchatel/p049-ee4808d8f74b.webp",
-   "assets/img/web-uvs-valais-neuchatel/p050-c1abfdc683e1.webp",
-   "assets/img/web-uvs-valais-neuchatel/p051-c1abfdc683e1.webp"
+   "assets/img/web-uvs-valais-neuchatel/p049-ee4808d8f74b.webp"
   ],
   "uvs-valais-neuchatel:uvs-valais-neuchatel-neuchatel-urbanisme-economie-environnement": [
-   "assets/img/web-uvs-valais-neuchatel/p047-16405054b166.webp",
    "assets/img/web-uvs-valais-neuchatel/p047-eac1243870a2.webp"
   ],
   "uvs-valais-neuchatel:uvs-valais-neuchatel-neuchatel-christine-gaillard": [
-   "assets/img/web-uvs-valais-neuchatel/p048-c1abfdc683e1.webp",
    "assets/img/web-uvs-valais-neuchatel/p048-ada630e6a6c0.webp",
-   "assets/img/web-uvs-valais-neuchatel/p049-ee4808d8f74b.webp",
-   "assets/img/web-uvs-valais-neuchatel/p050-c1abfdc683e1.webp"
+   "assets/img/web-uvs-valais-neuchatel/p049-ee4808d8f74b.webp"
   ],
   "uvs-valais-neuchatel:uvs-valais-neuchatel-neuchatel-pascal-sandoz": [
-   "assets/img/web-uvs-valais-neuchatel/p049-ee4808d8f74b.webp",
-   "assets/img/web-uvs-valais-neuchatel/p050-c1abfdc683e1.webp",
-   "assets/img/web-uvs-valais-neuchatel/p051-c1abfdc683e1.webp"
-  ],
-  "uvs-valais-neuchatel:uvs-valais-neuchatel-neuchatel-thomas-facchinetti": [
-   "assets/img/web-uvs-valais-neuchatel/p051-c1abfdc683e1.webp"
+   "assets/img/web-uvs-valais-neuchatel/p049-ee4808d8f74b.webp"
   ],
   "uvs-valais-neuchatel:uvs-valais-neuchatel-adax": [
-   "assets/img/web-uvs-valais-neuchatel/p052-da3d5b1a0dd2.webp",
-   "assets/img/web-uvs-valais-neuchatel/p052-8fd63c6f2afb.webp",
    "assets/img/web-uvs-valais-neuchatel/p053-b3500de5317c.webp",
    "assets/img/web-uvs-valais-neuchatel/p053-30aa1fa22b6b.webp"
   ],
@@ -3393,50 +2873,8 @@
   "uvs-valais-neuchatel:uvs-valais-neuchatel-endetec-neroxis": [
    "assets/img/web-uvs-valais-neuchatel/p058-c18e1ea4fd65.webp"
   ],
-  "uvs-valais-neuchatel:uvs-valais-neuchatel-groupe-e": [
-   "assets/img/web-uvs-valais-neuchatel/p059-8fd63c6f2afb.webp"
-  ],
   "zurich:zurich-stadt-zurich-corine-mauch": [
-   "assets/img/web-zurich/p002-c1abfdc683e1.webp",
    "assets/img/web-zurich/p002-f12091388072.webp"
-  ],
-  "zurich:zurich-zhk-karin-lenzlinger": [
-   "assets/img/web-zurich/p011-16405054b166.webp",
-   "assets/img/web-zurich/p012-16405054b166.webp",
-   "assets/img/web-zurich/p013-16405054b166.webp"
-  ],
-  "zurich:zurich-zhk-regine-sauter": [
-   "assets/img/web-zurich/p011-16405054b166.webp",
-   "assets/img/web-zurich/p012-16405054b166.webp",
-   "assets/img/web-zurich/p013-16405054b166.webp"
-  ],
-  "zurich:zurich-volkswirtschaftsdirektion-ernst-stocker": [
-   "assets/img/web-zurich/p008-16405054b166.webp",
-   "assets/img/web-zurich/p009-8fd63c6f2afb.webp"
-  ],
-  "zurich:zurich-zhk-wirtschaftswochen": [
-   "assets/img/web-zurich/p011-16405054b166.webp",
-   "assets/img/web-zurich/p012-16405054b166.webp",
-   "assets/img/web-zurich/p013-16405054b166.webp"
-  ],
-  "zurich:zurich-zhk-export-dienstleistungen": [
-   "assets/img/web-zurich/p011-16405054b166.webp",
-   "assets/img/web-zurich/p012-16405054b166.webp",
-   "assets/img/web-zurich/p013-16405054b166.webp"
-  ],
-  "zurich:zurich-zhk-schiedsgericht": [
-   "assets/img/web-zurich/p011-16405054b166.webp",
-   "assets/img/web-zurich/p012-16405054b166.webp",
-   "assets/img/web-zurich/p013-16405054b166.webp"
-  ],
-  "zurich:zurich-zhk-beat-zimmermann": [
-   "assets/img/web-zurich/p011-16405054b166.webp",
-   "assets/img/web-zurich/p012-16405054b166.webp",
-   "assets/img/web-zurich/p013-16405054b166.webp"
-  ],
-  "zurich:zurich-aebi-kuehni": [
-   "assets/img/web-zurich/p014-8fd63c6f2afb.webp",
-   "assets/img/web-zurich/p015-8fd63c6f2afb.webp"
   ],
   "zurich:zurich-atelier-10-8": [
    "assets/img/web-zurich/p016-ada63b3c1fd3.webp",
@@ -3447,36 +2885,14 @@
   ],
   "zurich:zurich-atelier-ww": [
    "assets/img/web-zurich/p020-a6694f9c22e7.webp",
-   "assets/img/web-zurich/p022-78a92b3f89f7.webp",
-   "assets/img/web-zurich/p022-f1074b31ca02.webp",
-   "assets/img/web-zurich/p022-c1abfdc683e1.webp"
-  ],
-  "zurich:zurich-dr-j-grob-partner": [
-   "assets/img/web-zurich/p024-8fd63c6f2afb.webp",
-   "assets/img/web-zurich/p025-8fd63c6f2afb.webp"
-  ],
-  "zurich:zurich-eberhard-bau": [
-   "assets/img/web-zurich/p026-8fd63c6f2afb.webp",
-   "assets/img/web-zurich/p027-8fd63c6f2afb.webp"
+   "assets/img/web-zurich/p022-f1074b31ca02.webp"
   ],
   "zurich:zurich-elex": [
-   "assets/img/web-zurich/p028-8fd63c6f2afb.webp",
-   "assets/img/web-zurich/p029-8fd63c6f2afb.webp",
    "assets/img/web-zurich/p029-0db5ef6bdb56.webp"
   ],
   "zurich:zurich-fabrimex-systems": [
-   "assets/img/web-zurich/p030-8fd63c6f2afb.webp",
    "assets/img/web-zurich/p030-e29e91b8c6c0.webp",
-   "assets/img/web-zurich/p031-8fd63c6f2afb.webp",
    "assets/img/web-zurich/p031-dee5da55d981.webp"
-  ],
-  "zurich:zurich-fluckiger-bosshard": [
-   "assets/img/web-zurich/p032-8fd63c6f2afb.webp",
-   "assets/img/web-zurich/p033-8fd63c6f2afb.webp"
-  ],
-  "zurich:zurich-gebruder-loepfe": [
-   "assets/img/web-zurich/p034-8fd63c6f2afb.webp",
-   "assets/img/web-zurich/p035-8fd63c6f2afb.webp"
   ],
   "zurich:zurich-hardturm": [
    "assets/img/web-zurich/p037-d68807dd8e9b.webp",
@@ -3486,102 +2902,63 @@
    "assets/img/web-zurich/p039-b7bac9e84e8e.webp",
    "assets/img/web-zurich/p039-f77f68130a12.webp"
   ],
-  "zurich:zurich-havells-sylvania": [
-   "assets/img/web-zurich/p040-8fd63c6f2afb.webp",
-   "assets/img/web-zurich/p041-8fd63c6f2afb.webp"
-  ],
-  "zurich:zurich-h-net": [
-   "assets/img/web-zurich/p042-16405054b166.webp",
-   "assets/img/web-zurich/p043-16405054b166.webp"
-  ],
-  "zurich:zurich-imt-masken-und-teilungen": [
-   "assets/img/web-zurich/p044-c1abfdc683e1.webp",
-   "assets/img/web-zurich/p045-c1abfdc683e1.webp"
-  ],
-  "zurich:zurich-itpc": [
-   "assets/img/web-zurich/p046-8fd63c6f2afb.webp",
-   "assets/img/web-zurich/p047-8fd63c6f2afb.webp"
-  ],
   "zurich:zurich-jakob-stiefel": [
-   "assets/img/web-zurich/p048-8fd63c6f2afb.webp",
-   "assets/img/web-zurich/p049-8fd63c6f2afb.webp",
    "assets/img/web-zurich/p049-34c1ad424b5a.webp"
   ],
   "zurich:zurich-klinik-susenberg": [
    "assets/img/web-zurich/p051-f4478e727abf.webp",
    "assets/img/web-zurich/p051-53ae67ad33dd.webp",
-   "assets/img/web-zurich/p052-8fd63c6f2afb.webp",
    "assets/img/web-zurich/p052-69b3cbfbf1b4.webp",
    "assets/img/web-zurich/p052-d59cca3239d7.webp",
    "assets/img/web-zurich/p053-9dc9eb808ad5.webp"
   ],
   "zurich:zurich-lernpaedagogisches-zentrum": [
    "assets/img/web-zurich/p055-8f97abcf7840.webp",
-   "assets/img/web-zurich/p056-8fd63c6f2afb.webp",
    "assets/img/web-zurich/p056-43c0a6523ec3.webp",
    "assets/img/web-zurich/p057-bc6be3849986.webp",
    "assets/img/web-zurich/p057-9f9ee0540491.webp"
   ],
-  "zurich:zurich-luzi": [
-   "assets/img/web-zurich/p058-8fd63c6f2afb.webp",
-   "assets/img/web-zurich/p059-8fd63c6f2afb.webp"
-  ],
   "zurich:zurich-medizinisches-zentrum-roemerhof": [
-   "assets/img/web-zurich/p060-16405054b166.webp",
    "assets/img/web-zurich/p060-8a6b2d01ae4a.webp",
-   "assets/img/web-zurich/p061-16405054b166.webp",
    "assets/img/web-zurich/p061-ab92e151fe0c.webp"
   ],
   "zurich:zurich-meworla": [
-   "assets/img/web-zurich/p062-16405054b166.webp",
-   "assets/img/web-zurich/p063-8fd63c6f2afb.webp",
    "assets/img/web-zurich/p063-d438ed16ac15.webp"
   ],
   "zurich:zurich-nilan": [
-   "assets/img/web-zurich/p064-16405054b166.webp",
    "assets/img/web-zurich/p064-a5559f954917.webp",
-   "assets/img/web-zurich/p065-8fd63c6f2afb.webp",
    "assets/img/web-zurich/p065-bcedaceff56f.webp"
   ],
   "zurich:zurich-poyry-schweiz": [
-   "assets/img/web-zurich/p066-16405054b166.webp",
    "assets/img/web-zurich/p066-5d7074572ba7.webp",
    "assets/img/web-zurich/p066-36f4b862a1b2.webp",
    "assets/img/web-zurich/p067-af5fc5b0b409.webp",
    "assets/img/web-zurich/p067-1ea8048d4dd2.webp",
-   "assets/img/web-zurich/p068-16405054b166.webp"
+   "assets/img/web-zurich/p068-5d7074572ba7.webp",
+   "assets/img/web-zurich/p068-36f4b862a1b2.webp"
   ],
   "zurich:zurich-spannverbund-bausysteme": [
    "assets/img/web-zurich/p070-c164d5cad57c.webp",
-   "assets/img/web-zurich/p070-16405054b166.webp",
    "assets/img/web-zurich/p072-aece7c6b5c50.webp",
-   "assets/img/web-zurich/p072-16405054b166.webp",
    "assets/img/web-zurich/p072-d55994a347ef.webp"
   ],
   "zurich:zurich-swissmem": [
-   "assets/img/web-zurich/p074-8fd63c6f2afb.webp",
    "assets/img/web-zurich/p074-44bff7cdda01.webp",
-   "assets/img/web-zurich/p075-c1abfdc683e1.webp",
    "assets/img/web-zurich/p075-5e217711ab2e.webp"
   ],
   "zurich:zurich-swissmill": [
-   "assets/img/web-zurich/p076-2811b5af2153.webp",
-   "assets/img/web-zurich/p076-c1abfdc683e1.webp"
+   "assets/img/web-zurich/p076-2811b5af2153.webp"
   ],
   "zurich:zurich-universitatsspital-zurich": [
    "assets/img/web-zurich/p079-6b3d9e0da03a.webp",
    "assets/img/web-zurich/p079-8a550fd628ea.webp",
    "assets/img/web-zurich/p080-173a644d1a93.webp",
-   "assets/img/web-zurich/p080-8fd63c6f2afb.webp",
    "assets/img/web-zurich/p081-acf018236e6c.webp"
   ]
  },
  "companies": {
   "aee-suisse-energie:aee-suisse": [
    "assets/img/web-aee-suisse-energie/p004-9f5d02c98427.webp"
-  ],
-  "aee-suisse-energie:ville-de-vevey": [
-   "assets/img/web-aee-suisse-energie/p008-ea9a041c5bb0.webp"
   ],
   "aee-suisse-energie:sig": [
    "assets/img/web-aee-suisse-energie/p009-d3e9701bae9f.webp",
@@ -3603,9 +2980,6 @@
    "assets/img/web-aee-suisse-energie/p022-5fe063d48acc.webp",
    "assets/img/web-aee-suisse-energie/p023-babd4c87e67b.webp",
    "assets/img/web-aee-suisse-energie/p023-6bc24d99707d.webp"
-  ],
-  "aee-suisse-energie:basel-stadt-wsu": [
-   "assets/img/web-aee-suisse-energie/p024-e7777b75a9df.webp"
   ],
   "aee-suisse-energie:commune-de-neyruz": [
    "assets/img/web-aee-suisse-energie/p026-234266c2f3c0.webp"
@@ -3673,7 +3047,6 @@
    "assets/img/web-aee-suisse-energie/p047-92bac529fa9c.webp"
   ],
   "aee-suisse-energie:heiniger-cables": [
-   "assets/img/web-aee-suisse-energie/p048-0db9fdc471ce.webp",
    "assets/img/web-aee-suisse-energie/p049-55d56496244a.webp"
   ],
   "arc-jurassien-2013:district-du-jura-nord-vaudois": [
@@ -3848,35 +3221,11 @@
    "assets/img/aj2013-ville-de-sainte-croix/p001-f91a50e0254d.webp",
    "assets/img/aj2013-ville-de-sainte-croix/p002-ea977ccc8449.webp"
   ],
-  "arc-lemanique:region-de-nyon": [
-   "assets/img/web-arc-lemanique/p002-26b633413c04.webp"
-  ],
-  "arc-lemanique:ville-de-morges": [
-   "assets/img/web-arc-lemanique/p008-26b633413c04.webp",
-   "assets/img/web-arc-lemanique/p009-26b633413c04.webp"
-  ],
-  "arc-lemanique:commune-d-aubonne": [
-   "assets/img/web-arc-lemanique/p012-26b633413c04.webp"
-  ],
-  "arc-lemanique:commune-de-cossonay": [
-   "assets/img/web-arc-lemanique/p013-26b633413c04.webp"
-  ],
-  "arc-lemanique:commune-de-preverenges": [
-   "assets/img/web-arc-lemanique/p014-26b633413c04.webp"
-  ],
   "arc-lemanique:atelier-94-architecture": [
    "assets/img/web-arc-lemanique/p016-b218b95b616c.webp",
    "assets/img/web-arc-lemanique/p016-e562bd8bbd06.webp",
    "assets/img/web-arc-lemanique/p017-1486df19f193.webp",
    "assets/img/web-arc-lemanique/p017-7dc51502a587.webp"
-  ],
-  "arc-lemanique:nstcm": [
-   "assets/img/web-arc-lemanique/p018-26b633413c04.webp",
-   "assets/img/web-arc-lemanique/p019-26b633413c04.webp"
-  ],
-  "arc-lemanique:tpn": [
-   "assets/img/web-arc-lemanique/p018-26b633413c04.webp",
-   "assets/img/web-arc-lemanique/p019-26b633413c04.webp"
   ],
   "arc-lemanique:coretra": [
    "assets/img/web-arc-lemanique/p021-f7e7677f1544.webp",
@@ -3890,12 +3239,11 @@
   ],
   "arc-lemanique:domaine-de-bois-bougy": [
    "assets/img/web-arc-lemanique/p023-af1a12816506.webp",
-   "assets/img/web-arc-lemanique/p023-4324f739b58b.webp",
-   "assets/img/web-arc-lemanique/p023-b9bf2b1c0202.webp"
+   "assets/img/web-arc-lemanique/p023-a1e235b4ce9d.webp",
+   "assets/img/web-arc-lemanique/p023-73d67efd444a.webp"
   ],
   "arc-lemanique:iffp": [
-   "assets/img/web-arc-lemanique/p024-96924d77148d.webp",
-   "assets/img/web-arc-lemanique/p024-26b633413c04.webp"
+   "assets/img/web-arc-lemanique/p024-96924d77148d.webp"
   ],
   "arc-lemanique:balmelli": [
    "assets/img/web-arc-lemanique/p026-819984a36c03.webp"
@@ -3913,9 +3261,7 @@
    "assets/img/web-arc-lemanique/p031-2209bb106363.webp"
   ],
   "arc-lemanique:wonderware": [
-   "assets/img/web-arc-lemanique/p032-26b633413c04.webp",
-   "assets/img/web-arc-lemanique/p033-4b2ab41ec761.webp",
-   "assets/img/web-arc-lemanique/p033-26b633413c04.webp"
+   "assets/img/web-arc-lemanique/p033-4b2ab41ec761.webp"
   ],
   "arc-lemanique:gn-wuthrich": [
    "assets/img/web-arc-lemanique/p034-7e7d39bc053e.webp"
@@ -3924,19 +3270,11 @@
    "assets/img/web-arc-lemanique/p035-67d887b2ea84.webp"
   ],
   "ccig:ccig": [
-   "assets/img/ccig/p001-55746e492c75.webp",
    "assets/img/ccig/p001-639acf1249d8.webp"
   ],
-  "directeurs-cantonaux-travaux-publics:dte-vaud": [
-   "assets/img/directeurs-cantonaux-travaux-publics/p003-39629d48a76b.webp"
-  ],
   "directeurs-cantonaux-travaux-publics:sipal-vaud": [
-   "assets/img/directeurs-cantonaux-travaux-publics/p004-39629d48a76b.webp",
    "assets/img/directeurs-cantonaux-travaux-publics/p004-57e0f9c62fd4.webp",
    "assets/img/directeurs-cantonaux-travaux-publics/p005-4ed06f26a64f.webp"
-  ],
-  "directeurs-cantonaux-travaux-publics:dgmr-vaud": [
-   "assets/img/directeurs-cantonaux-travaux-publics/p006-39629d48a76b.webp"
   ],
   "directeurs-cantonaux-travaux-publics:ba-consulting": [
    "assets/img/directeurs-cantonaux-travaux-publics/p010-9c6cc6aac13b.webp",
@@ -3965,12 +3303,6 @@
    "assets/img/directeurs-cantonaux-travaux-publics/p023-3ca34cbea841.webp",
    "assets/img/directeurs-cantonaux-travaux-publics/p024-3291d519bfbe.webp"
   ],
-  "directeurs-cantonaux-travaux-publics:agg-bern": [
-   "assets/img/directeurs-cantonaux-travaux-publics/p027-39629d48a76b.webp"
-  ],
-  "directeurs-cantonaux-travaux-publics:tiefbauamt-bern": [
-   "assets/img/directeurs-cantonaux-travaux-publics/p028-39629d48a76b.webp"
-  ],
   "directeurs-cantonaux-travaux-publics:glas-troesch": [
    "assets/img/directeurs-cantonaux-travaux-publics/p032-0338efb0fe14.webp"
   ],
@@ -3983,12 +3315,6 @@
    "assets/img/directeurs-cantonaux-travaux-publics/p037-366a6d676197.webp",
    "assets/img/directeurs-cantonaux-travaux-publics/p037-13b4663e9dd4.webp"
   ],
-  "directeurs-cantonaux-travaux-publics:service-batiments-fribourg": [
-   "assets/img/directeurs-cantonaux-travaux-publics/p038-39629d48a76b.webp"
-  ],
-  "directeurs-cantonaux-travaux-publics:seca-fribourg": [
-   "assets/img/directeurs-cantonaux-travaux-publics/p039-39629d48a76b.webp"
-  ],
   "directeurs-cantonaux-travaux-publics:antiglio": [
    "assets/img/directeurs-cantonaux-travaux-publics/p040-b6c794a2356c.webp",
    "assets/img/directeurs-cantonaux-travaux-publics/p041-b1601f5cd679.webp"
@@ -3997,26 +3323,15 @@
    "assets/img/directeurs-cantonaux-travaux-publics/p042-3d3247487d9a.webp",
    "assets/img/directeurs-cantonaux-travaux-publics/p042-3d621ea6c017.webp"
   ],
-  "directeurs-cantonaux-travaux-publics:ddte-neuchatel": [
-   "assets/img/directeurs-cantonaux-travaux-publics/p049-39629d48a76b.webp"
-  ],
-  "directeurs-cantonaux-travaux-publics:service-batiments-neuchatel": [
-   "assets/img/directeurs-cantonaux-travaux-publics/p050-39629d48a76b.webp"
-  ],
   "directeurs-cantonaux-travaux-publics:service-ponts-chaussees-neuchatel": [
-   "assets/img/directeurs-cantonaux-travaux-publics/p052-39629d48a76b.webp",
    "assets/img/directeurs-cantonaux-travaux-publics/p053-8145efab9751.webp"
   ],
   "directeurs-cantonaux-travaux-publics:ofrou": [
-   "assets/img/directeurs-cantonaux-travaux-publics/p052-39629d48a76b.webp",
    "assets/img/directeurs-cantonaux-travaux-publics/p053-8145efab9751.webp"
   ],
   "directeurs-cantonaux-travaux-publics:ajs-ingenieurs-civils": [
    "assets/img/directeurs-cantonaux-travaux-publics/p054-705c77a1a029.webp",
    "assets/img/directeurs-cantonaux-travaux-publics/p055-00cd7f957fbb.webp"
-  ],
-  "directeurs-cantonaux-travaux-publics:progin-gregoire": [
-   "assets/img/directeurs-cantonaux-travaux-publics/p057-3b9d5d7ea3d5.webp"
   ],
   "directeurs-cantonaux-travaux-publics:ezio-tarchini-ingegneria": [
    "assets/img/directeurs-cantonaux-travaux-publics/p060-23b39e9bad4a.webp"
@@ -4039,18 +3354,15 @@
    "assets/img/web-economie-publique/p014-9576c5247bc3.webp",
    "assets/img/web-economie-publique/p015-ac677af1f6b7.webp"
   ],
-  "economie-publique:ecole-minerva": [
-   "assets/img/web-economie-publique/p016-3e9d56992572.webp"
-  ],
   "economie-publique:de-rham-immobilier": [
    "assets/img/web-economie-publique/p017-e20d48cde8fc.webp",
    "assets/img/web-economie-publique/p017-34f09c9cf2f2.webp"
   ],
   "economie-publique:emch-berger-lausanne": [
-   "assets/img/web-economie-publique/p019-7cf76abcc3a7.webp",
    "assets/img/web-economie-publique/p019-0a9eeba153a1.webp",
-   "assets/img/web-economie-publique/p019-fdf72ffd2402.webp",
-   "assets/img/web-economie-publique/p019-1c522f2bb512.webp"
+   "assets/img/web-economie-publique/p019-bc35db26c2f1.webp",
+   "assets/img/web-economie-publique/p019-47497bf200ad.webp",
+   "assets/img/web-economie-publique/p019-2876038a0215.webp"
   ],
   "economie-publique:fondation-bartimee": [
    "assets/img/web-economie-publique/p021-f411c3235fd3.webp"
@@ -4081,7 +3393,6 @@
    "assets/img/web-economie-publique/p031-b1d87a922be3.webp"
   ],
   "economie-publique:iffp": [
-   "assets/img/web-economie-publique/p034-b23aac177473.webp",
    "assets/img/web-economie-publique/p034-80611b8f5803.webp"
   ],
   "economie-publique:interprofession-du-gruyere": [
@@ -4129,10 +3440,10 @@
    "assets/img/web-economie-publique/p058-f04e43be6741.webp"
   ],
   "fribourg-bienne-tessin:stadt-solothurn": [
-   "assets/img/web-fribourg-bienne-tessin/p119-a4fc07954973.webp",
    "assets/img/web-fribourg-bienne-tessin/p119-66589f46717b.webp",
    "assets/img/web-fribourg-bienne-tessin/p121-19d42da89779.webp",
-   "assets/img/web-fribourg-bienne-tessin/p121-ae2207711b08.webp"
+   "assets/img/web-fribourg-bienne-tessin/p121-ae2207711b08.webp",
+   "assets/img/web-fribourg-bienne-tessin/p121-5025d9d8e994.webp"
   ],
   "fribourg-bienne-tessin:ville-de-fribourg": [
    "assets/img/web-fribourg-bienne-tessin/p006-a0b85c1cfcde.webp"
@@ -4421,19 +3732,6 @@
   "grands-travaux-2026:casada": [
    "assets/img/web-grands-travaux-2026/p017-ce705ed9b5aa.webp"
   ],
-  "grands-travaux-2026:ezio-tarchini-ingegneria": [
-   "assets/img/web-grands-travaux-2026/p026-2e904120414c.webp",
-   "assets/img/web-grands-travaux-2026/p027-ded697392c8b.webp"
-  ],
-  "grands-travaux-2026:g-comte": [
-   "assets/img/web-grands-travaux-2026/p033-d11d00e5af2b.webp"
-  ],
-  "grands-travaux-2026:rgr": [
-   "assets/img/web-grands-travaux-2026/p042-a6bfc8cecffb.webp"
-  ],
-  "grands-travaux-2026:bernasconi-geneve": [
-   "assets/img/web-grands-travaux-2026/p050-90abd618faf3.webp"
-  ],
   "grands-travaux:ofrou": [
    "assets/img/web-grands-travaux/p007-35bddfe54c0d.webp",
    "assets/img/web-grands-travaux/p007-61f396a385f0.webp"
@@ -4456,8 +3754,7 @@
   "grands-travaux:cff-leman-2030": [
    "assets/img/web-grands-travaux/p015-c84235ebe32b.webp",
    "assets/img/web-grands-travaux/p016-58d70f460ae0.webp",
-   "assets/img/web-grands-travaux/p016-4de430944e9e.webp",
-   "assets/img/web-grands-travaux/p017-01eaa8f86398.webp"
+   "assets/img/web-grands-travaux/p016-4de430944e9e.webp"
   ],
   "grands-travaux:rothpletz-lienhard": [
    "assets/img/web-grands-travaux/p020-4c83acffe974.webp",
@@ -4544,11 +3841,6 @@
   "grands-travaux:resonance-ingenieurs-conseils": [
    "assets/img/web-grands-travaux/p054-e6edae07a699.webp"
   ],
-  "horlogerie-2015:a-a-z-emplois": [
-   "assets/img/web-horlogerie-2015/p003-418440aec353.webp",
-   "assets/img/web-horlogerie-2015/p003-b303eed9392e.webp",
-   "assets/img/web-horlogerie-2015/p003-1bce469511b5.webp"
-  ],
   "horlogerie-2015:baselworld": [
    "assets/img/web-horlogerie-2015/p004-32addb2a167f.webp"
   ],
@@ -4561,9 +3853,7 @@
   ],
   "horlogerie-2015:hktdc": [
    "assets/img/web-horlogerie-2015/p010-06cf71660b3c.webp",
-   "assets/img/web-horlogerie-2015/p010-388bf8abf63f.webp",
-   "assets/img/web-horlogerie-2015/p011-f23d1aa08fc3.webp",
-   "assets/img/web-horlogerie-2015/p011-388bf8abf63f.webp"
+   "assets/img/web-horlogerie-2015/p011-f23d1aa08fc3.webp"
   ],
   "horlogerie-2015:cosc": [
    "assets/img/web-horlogerie-2015/p018-9e7431c51734.webp"
@@ -4618,10 +3908,9 @@
    "assets/img/web-horlogerie-2015/p046-613136e257a9.webp",
    "assets/img/web-horlogerie-2015/p046-c3901e25201c.webp",
    "assets/img/web-horlogerie-2015/p046-48eff3cd7924.webp",
-   "assets/img/web-horlogerie-2015/p047-fba758e1dd95.webp"
+   "assets/img/web-horlogerie-2015/p047-b679830b32f5.webp"
   ],
   "horlogerie-2015:incabloc": [
-   "assets/img/web-horlogerie-2015/p048-f44c547e2f11.webp",
    "assets/img/web-horlogerie-2015/p049-22c8d4edfac8.webp",
    "assets/img/web-horlogerie-2015/p049-bfddfeeace62.webp"
   ],
@@ -4632,8 +3921,7 @@
    "assets/img/web-horlogerie-2015/p051-7d2087d90a61.webp"
   ],
   "horlogerie-2015:tectri": [
-   "assets/img/web-horlogerie-2015/p052-57fa32162c03.webp",
-   "assets/img/web-horlogerie-2015/p052-eddffb04b6d7.webp"
+   "assets/img/web-horlogerie-2015/p052-57fa32162c03.webp"
   ],
   "horlogerie-2015:apex-tool-switzerland": [
    "assets/img/web-horlogerie-2015/p056-f8d934100a15.webp"
@@ -4709,11 +3997,7 @@
    "assets/img/web-horlogerie-2015/p081-5f4f63701631.webp"
   ],
   "horlogerie-2015:monnier": [
-   "assets/img/web-horlogerie-2015/p082-3c368e0df882.webp",
    "assets/img/web-horlogerie-2015/p082-4978eef1bfe7.webp"
-  ],
-  "horlogerie-2016:federation-de-l-industrie-horlogere-suisse-fh": [
-   "assets/img/web-horlogerie-2016/p004-8fd63c6f2afb.webp"
   ],
   "horlogerie-2016:ephj-epmt-smt": [
    "assets/img/web-horlogerie-2016/p006-90d38a73269d.webp",
@@ -4721,32 +4005,20 @@
    "assets/img/web-horlogerie-2016/p007-7106c60613bc.webp",
    "assets/img/web-horlogerie-2016/p008-3c110b8727e6.webp"
   ],
-  "horlogerie-2016:convention-patronale-de-l-industrie-horlogere-suisse-cp": [
-   "assets/img/web-horlogerie-2016/p010-8fd63c6f2afb.webp"
-  ],
-  "horlogerie-2016:apiah": [
-   "assets/img/web-horlogerie-2016/p012-8fd63c6f2afb.webp",
-   "assets/img/web-horlogerie-2016/p013-8fd63c6f2afb.webp"
-  ],
   "horlogerie-2016:wag-watches-art-gallery": [
-   "assets/img/web-horlogerie-2016/p014-8fd63c6f2afb.webp",
-   "assets/img/web-horlogerie-2016/p014-e6dfd77840c6.webp",
-   "assets/img/web-horlogerie-2016/p014-16405054b166.webp"
+   "assets/img/web-horlogerie-2016/p014-e6dfd77840c6.webp"
   ],
   "horlogerie-2016:siwp-swiss-independent-watchmaking-pavilion": [
    "assets/img/web-horlogerie-2016/p016-94c51a4d277f.webp"
   ],
   "horlogerie-2016:swisscreativelab": [
    "assets/img/web-horlogerie-2016/p018-5d00d5607e66.webp",
-   "assets/img/web-horlogerie-2016/p018-c1abfdc683e1.webp",
-   "assets/img/web-horlogerie-2016/p019-06eb4c7d45df.webp",
-   "assets/img/web-horlogerie-2016/p019-16405054b166.webp"
+   "assets/img/web-horlogerie-2016/p019-06eb4c7d45df.webp"
   ],
   "horlogerie-2016:composites-busch": [
    "assets/img/web-horlogerie-2016/p046-29fcaf62269c.webp",
    "assets/img/web-horlogerie-2016/p046-8c0bbfd638c5.webp",
-   "assets/img/web-horlogerie-2016/p046-b6fde48e7c91.webp",
-   "assets/img/web-horlogerie-2016/p046-e5d8f6206464.webp"
+   "assets/img/web-horlogerie-2016/p046-b6fde48e7c91.webp"
   ],
   "horlogerie-2016:surcotec": [
    "assets/img/web-horlogerie-2016/p022-16a1b1b8bcbc.webp",
@@ -4777,7 +4049,6 @@
    "assets/img/web-horlogerie-2016/p029-e7b2a1eb4f6c.webp"
   ],
   "horlogerie-2016:chatelain-prototypes": [
-   "assets/img/web-horlogerie-2016/p031-e978a22ca689.webp",
    "assets/img/web-horlogerie-2016/p031-7c542a172028.webp"
   ],
   "horlogerie-2016:agosi-allgemeine-suisse": [
@@ -4785,8 +4056,6 @@
   ],
   "horlogerie-2016:posalux": [
    "assets/img/web-horlogerie-2016/p033-29fcaf62269c.webp",
-   "assets/img/web-horlogerie-2016/p034-8fd63c6f2afb.webp",
-   "assets/img/web-horlogerie-2016/p035-8fd63c6f2afb.webp",
    "assets/img/web-horlogerie-2016/p035-aa009031b5f2.webp"
   ],
   "horlogerie-2016:technofinish": [
@@ -4803,7 +4072,6 @@
    "assets/img/web-horlogerie-2016/p036-e5b2fc68198d.webp"
   ],
   "horlogerie-2016:roxer": [
-   "assets/img/web-horlogerie-2016/p038-991be280b86d.webp",
    "assets/img/web-horlogerie-2016/p038-03bb210ce813.webp"
   ],
   "horlogerie-2016:astuto": [
@@ -4816,27 +4084,24 @@
   ],
   "horlogerie-2016:aiguilla": [
    "assets/img/web-horlogerie-2016/p043-1f88f9f54771.webp",
-   "assets/img/web-horlogerie-2016/p043-02035330f50c.webp",
    "assets/img/web-horlogerie-2016/p044-222ba34efa92.webp",
    "assets/img/web-horlogerie-2016/p045-9f7b3959e35c.webp"
   ],
   "horlogerie-2016:mercier": [
    "assets/img/web-horlogerie-2016/p047-29fcaf62269c.webp",
-   "assets/img/web-horlogerie-2016/p047-e5d8f6206464.webp",
    "assets/img/web-horlogerie-2016/p048-f06b7f39b76f.webp",
    "assets/img/web-horlogerie-2016/p048-155039bb855d.webp"
   ],
   "horlogerie-2016:pauli-uhrenservice": [
    "assets/img/web-horlogerie-2016/p047-29fcaf62269c.webp",
-   "assets/img/web-horlogerie-2016/p047-e5d8f6206464.webp",
    "assets/img/web-horlogerie-2016/p049-4709a9c2c822.webp",
    "assets/img/web-horlogerie-2016/p049-6067b00ee29f.webp"
   ],
   "horlogerie-2016:le-futur-du-cadran": [
    "assets/img/web-horlogerie-2016/p123-1bb5b73e0276.webp",
-   "assets/img/web-horlogerie-2016/p123-f24d692ec2f3.webp",
    "assets/img/web-horlogerie-2016/p123-e4dd5e244b04.webp",
-   "assets/img/web-horlogerie-2016/p123-d01db8ea12af.webp"
+   "assets/img/web-horlogerie-2016/p123-8f7f92e6db9c.webp",
+   "assets/img/web-horlogerie-2016/p123-5a47bd332834.webp"
   ],
   "horlogerie-2016:meyer-sintermetall": [
    "assets/img/web-horlogerie-2016/p051-29fcaf62269c.webp",
@@ -4848,8 +4113,6 @@
    "assets/img/web-horlogerie-2016/p054-706072b7ff63.webp"
   ],
   "horlogerie-2016:saphirwerk": [
-   "assets/img/web-horlogerie-2016/p055-3417bc4f8d90.webp",
-   "assets/img/web-horlogerie-2016/p055-ff3dcb134d42.webp",
    "assets/img/web-horlogerie-2016/p055-346f4ea2e43f.webp",
    "assets/img/web-horlogerie-2016/p055-d73dd172ba5f.webp"
   ],
@@ -4863,17 +4126,12 @@
   ],
   "horlogerie-2016:artecad": [
    "assets/img/web-horlogerie-2016/p059-1f88f9f54771.webp",
-   "assets/img/web-horlogerie-2016/p059-02035330f50c.webp",
    "assets/img/web-horlogerie-2016/p061-8ee51264261d.webp",
-   "assets/img/web-horlogerie-2016/p061-d04ecf4adba1.webp"
-  ],
-  "horlogerie-2016:guillod-gunther": [
-   "assets/img/web-horlogerie-2016/p062-f55bcf162432.webp",
-   "assets/img/web-horlogerie-2016/p063-f55bcf162432.webp"
+   "assets/img/web-horlogerie-2016/p061-d04ecf4adba1.webp",
+   "assets/img/web-horlogerie-2016/p061-4e3aaec93d7b.webp"
   ],
   "horlogerie-2016:les-artisans-boitiers": [
    "assets/img/web-horlogerie-2016/p064-9a1860b6a345.webp",
-   "assets/img/web-horlogerie-2016/p065-dcc7d0705dd2.webp",
    "assets/img/web-horlogerie-2016/p065-a4cca838e325.webp"
   ],
   "horlogerie-2016:queloz": [
@@ -4917,36 +4175,130 @@
   "horlogerie-2016:pierre-bercher": [
    "assets/img/web-horlogerie-2016/p081-29fcaf62269c.webp"
   ],
-  "horlogerie-2017:fh": [
-   "assets/img/web-horlogerie-2017/p003-8fd63c6f2afb.webp"
+  "horlogerie-2016:maitre-freres": [
+   "assets/img/web-horlogerie-2016/p081-29fcaf62269c.webp",
+   "assets/img/web-horlogerie-2016/p083-c5c266f1abd9.webp"
+  ],
+  "horlogerie-2016:ceff-industrie": [
+   "assets/img/web-horlogerie-2016/p085-1f88f9f54771.webp",
+   "assets/img/web-horlogerie-2016/p086-dee0440b29cb.webp",
+   "assets/img/web-horlogerie-2016/p086-8ceb10c2c1f4.webp",
+   "assets/img/web-horlogerie-2016/p086-6d468e2c87bc.webp"
+  ],
+  "horlogerie-2016:cefna": [
+   "assets/img/web-horlogerie-2016/p085-1f88f9f54771.webp",
+   "assets/img/web-horlogerie-2016/p087-6bf4681d4168.webp",
+   "assets/img/web-horlogerie-2016/p087-f59687c0fc2e.webp"
+  ],
+  "horlogerie-2016:cip-tramelan": [
+   "assets/img/web-horlogerie-2016/p088-481bb88d135d.webp"
+  ],
+  "horlogerie-2016:cejef-division-technique": [
+   "assets/img/web-horlogerie-2016/p089-d9f357d3f947.webp"
+  ],
+  "horlogerie-2016:cfh-geneve": [
+   "assets/img/web-horlogerie-2016/p091-17175f7ecd2c.webp"
+  ],
+  "horlogerie-2016:cifom": [
+   "assets/img/web-horlogerie-2016/p092-543de1326202.webp"
+  ],
+  "horlogerie-2016:etvj": [
+   "assets/img/web-horlogerie-2016/p093-c4b826283b3d.webp",
+   "assets/img/web-horlogerie-2016/p093-d28544a3e408.webp",
+   "assets/img/web-horlogerie-2016/p093-7d486144e105.webp"
+  ],
+  "horlogerie-2016:he-arc-ingenierie": [
+   "assets/img/web-horlogerie-2016/p094-e55ea904a39c.webp",
+   "assets/img/web-horlogerie-2016/p094-561d4faea341.webp"
+  ],
+  "horlogerie-2016:wostep": [
+   "assets/img/web-horlogerie-2016/p096-29fcaf62269c.webp",
+   "assets/img/web-horlogerie-2016/p096-630d4ffff3da.webp",
+   "assets/img/web-horlogerie-2016/p096-047320629dc9.webp"
+  ],
+  "horlogerie-2016:roudhor": [
+   "assets/img/web-horlogerie-2016/p097-29fcaf62269c.webp",
+   "assets/img/web-horlogerie-2016/p098-29fcaf62269c.webp"
+  ],
+  "horlogerie-2016:sts-saulcy": [
+   "assets/img/web-horlogerie-2016/p100-29fcaf62269c.webp"
+  ],
+  "horlogerie-2016:tsm-assurances": [
+   "assets/img/web-horlogerie-2016/p101-29fcaf62269c.webp",
+   "assets/img/web-horlogerie-2016/p102-053ca6d453ca.webp"
+  ],
+  "horlogerie-2016:altmann-casting": [
+   "assets/img/web-horlogerie-2016/p103-579cf25d0f23.webp"
+  ],
+  "horlogerie-2016:blosch": [
+   "assets/img/web-horlogerie-2016/p104-921664bfbb06.webp"
+  ],
+  "horlogerie-2016:merusa": [
+   "assets/img/web-horlogerie-2016/p104-921664bfbb06.webp"
+  ],
+  "horlogerie-2016:decotech": [
+   "assets/img/web-horlogerie-2016/p106-899dc285a21a.webp"
+  ],
+  "horlogerie-2016:econorm": [
+   "assets/img/web-horlogerie-2016/p108-0900791da1d4.webp"
+  ],
+  "horlogerie-2016:serge-meister": [
+   "assets/img/web-horlogerie-2016/p109-186d08cd85f8.webp"
+  ],
+  "horlogerie-2016:demhosa": [
+   "assets/img/web-horlogerie-2016/p110-bca0511e8748.webp"
+  ],
+  "horlogerie-2016:incabloc": [
+   "assets/img/web-horlogerie-2016/p110-bca0511e8748.webp"
+  ],
+  "horlogerie-2016:safed-suisse": [
+   "assets/img/web-horlogerie-2016/p113-2483ed98c171.webp"
+  ],
+  "horlogerie-2016:imh": [
+   "assets/img/web-horlogerie-2016/p114-88eb261291f8.webp",
+   "assets/img/web-horlogerie-2016/p114-ad6a3d5d4f86.webp"
+  ],
+  "horlogerie-2016:tci-engineering": [
+   "assets/img/web-horlogerie-2016/p115-521357e1df18.webp",
+   "assets/img/web-horlogerie-2016/p115-f2e06908d971.webp"
+  ],
+  "horlogerie-2016:procolor-lcti": [
+   "assets/img/web-horlogerie-2016/p116-6db111d2bde6.webp",
+   "assets/img/web-horlogerie-2016/p117-6a4fac1e0b99.webp"
+  ],
+  "horlogerie-2016:froidevaux": [
+   "assets/img/web-horlogerie-2016/p116-6db111d2bde6.webp"
+  ],
+  "horlogerie-2016:meylan-freres": [
+   "assets/img/web-horlogerie-2016/p118-ede42e6aba62.webp",
+   "assets/img/web-horlogerie-2016/p118-db1b5524d994.webp"
+  ],
+  "horlogerie-2016:bryek-horlogerie": [
+   "assets/img/web-horlogerie-2016/p119-20d23a29e3d2.webp"
+  ],
+  "horlogerie-2016:l-klein": [
+   "assets/img/web-horlogerie-2016/p119-20d23a29e3d2.webp"
+  ],
+  "horlogerie-2016:rofin-lasag": [
+   "assets/img/web-horlogerie-2016/p120-632f9120b2da.webp"
+  ],
+  "horlogerie-2016:diafin": [
+   "assets/img/web-horlogerie-2016/p121-c8459ea0788c.webp"
+  ],
+  "horlogerie-2016:gmg-composants": [
+   "assets/img/web-horlogerie-2016/p121-c8459ea0788c.webp"
   ],
   "horlogerie-2017:ephj": [
    "assets/img/web-horlogerie-2017/p006-a3a54d40c444.webp",
    "assets/img/web-horlogerie-2017/p006-3e9d6f8c3059.webp",
    "assets/img/web-horlogerie-2017/p006-8506c8071339.webp",
-   "assets/img/web-horlogerie-2017/p006-63fc247877d7.webp"
-  ],
-  "horlogerie-2017:asrh": [
-   "assets/img/web-horlogerie-2017/p009-cda331b178c8.webp",
-   "assets/img/web-horlogerie-2017/p009-c1abfdc683e1.webp"
+   "assets/img/web-horlogerie-2017/p006-1a933d51b05d.webp"
   ],
   "horlogerie-2017:tec-ebauches": [
    "assets/img/web-horlogerie-2017/p010-cd43f68ad81a.webp",
    "assets/img/web-horlogerie-2017/p010-d28711e62e99.webp",
    "assets/img/web-horlogerie-2017/p011-8d4a2a64dcd2.webp",
    "assets/img/web-horlogerie-2017/p011-33b4702e2b78.webp"
-  ],
-  "horlogerie-2017:tec-arts-hd": [
-   "assets/img/web-horlogerie-2017/p055-42c988c7db0b.webp",
-   "assets/img/web-horlogerie-2017/p055-e421e2064808.webp"
-  ],
-  "horlogerie-2017:baselworld": [
-   "assets/img/web-horlogerie-2017/p055-42c988c7db0b.webp",
-   "assets/img/web-horlogerie-2017/p055-e421e2064808.webp"
-  ],
-  "horlogerie-2017:posalux": [
-   "assets/img/web-horlogerie-2017/p014-8fd63c6f2afb.webp",
-   "assets/img/web-horlogerie-2017/p015-8fd63c6f2afb.webp"
   ],
   "horlogerie-2017:technofinish": [
    "assets/img/web-horlogerie-2017/p016-e5b2fc68198d.webp",
@@ -4970,10 +4322,9 @@
    "assets/img/web-horlogerie-2017/p023-8032dbafbecf.webp"
   ],
   "horlogerie-2017:rimann": [
-   "assets/img/web-horlogerie-2017/p024-8fd63c6f2afb.webp",
    "assets/img/web-horlogerie-2017/p024-7ee92d8c636c.webp",
    "assets/img/web-horlogerie-2017/p024-bcee92126548.webp",
-   "assets/img/web-horlogerie-2017/p025-8fd63c6f2afb.webp"
+   "assets/img/web-horlogerie-2017/p025-524226856c74.webp"
   ],
   "horlogerie-2017:alfred-rochat-fils": [
    "assets/img/web-horlogerie-2017/p026-f608989307bb.webp",
@@ -5003,21 +4354,15 @@
   "horlogerie-2017:meylan-freres": [
    "assets/img/web-horlogerie-2017/p035-ba608a97aae6.webp"
   ],
-  "horlogerie-2017:kif-parechoc": [
-   "assets/img/web-horlogerie-2017/p036-b9068e35ac04.webp",
-   "assets/img/web-horlogerie-2017/p036-aff3122fa769.webp"
-  ],
   "horlogerie-2017:matthey-decolletages": [
    "assets/img/web-horlogerie-2017/p038-9e29da2d1986.webp",
    "assets/img/web-horlogerie-2017/p038-4d13022e932e.webp"
   ],
   "horlogerie-2017:decotech": [
-   "assets/img/web-horlogerie-2017/p039-c1abfdc683e1.webp",
    "assets/img/web-horlogerie-2017/p039-dd6ef5ddb52b.webp"
   ],
   "horlogerie-2017:cendres-metaux": [
    "assets/img/web-horlogerie-2017/p040-a8155557b6ac.webp",
-   "assets/img/web-horlogerie-2017/p040-04e6a6ae3510.webp",
    "assets/img/web-horlogerie-2017/p041-065fc41b022f.webp"
   ],
   "horlogerie-2017:mch": [
@@ -5028,16 +4373,15 @@
    "assets/img/web-horlogerie-2017/p043-6a20765b5d73.webp"
   ],
   "horlogerie-2017:chh-microtechnique": [
-   "assets/img/web-horlogerie-2017/p044-c1abfdc683e1.webp",
    "assets/img/web-horlogerie-2017/p044-c5c4b296046e.webp",
    "assets/img/web-horlogerie-2017/p044-97e0edaa694f.webp",
-   "assets/img/web-horlogerie-2017/p045-f85344c51140.webp"
+   "assets/img/web-horlogerie-2017/p045-f85344c51140.webp",
+   "assets/img/web-horlogerie-2017/p045-7c20ea5d81c3.webp"
   ],
   "horlogerie-2017:ecometal": [
    "assets/img/web-horlogerie-2017/p046-32935b74f74b.webp"
   ],
   "horlogerie-2017:gil-sertissage": [
-   "assets/img/web-horlogerie-2017/p048-0f8fd333d933.webp",
    "assets/img/web-horlogerie-2017/p048-7e4563e20e68.webp"
   ],
   "horlogerie-2017:neuenschwander-composants-horlogers": [
@@ -5047,18 +4391,15 @@
    "assets/img/web-horlogerie-2017/p051-c7db79824eb2.webp"
   ],
   "horlogerie-2017:ryf": [
-   "assets/img/web-horlogerie-2017/p052-c1abfdc683e1.webp",
    "assets/img/web-horlogerie-2017/p052-9ac0c7cd9332.webp"
   ],
   "horlogerie-2018:ephj": [
    "assets/img/web-horlogerie-2018/p006-1d78b6507813.webp"
   ],
   "horlogerie-2018:baselworld": [
-   "assets/img/web-horlogerie-2018/p064-209e39ea0b67.webp",
    "assets/img/web-horlogerie-2018/p064-706ec28a9cd9.webp"
   ],
   "horlogerie-2018:dreyfus-associes": [
-   "assets/img/web-horlogerie-2018/p009-116bb0340319.webp",
    "assets/img/web-horlogerie-2018/p009-92a20bb7d389.webp"
   ],
   "horlogerie-2018:aiguilla": [
@@ -5075,15 +4416,11 @@
   "horlogerie-2018:fleury-industries": [
    "assets/img/web-horlogerie-2018/p015-0da421a7407a.webp"
   ],
-  "horlogerie-2018:griffes-consulting": [
-   "assets/img/web-horlogerie-2018/p016-915fe41196b7.webp"
-  ],
   "horlogerie-2018:les-artisans-boitiers": [
    "assets/img/web-horlogerie-2018/p020-87766c851437.webp"
   ],
   "horlogerie-2018:lecureux": [
-   "assets/img/web-horlogerie-2018/p022-2258ec045f6a.webp",
-   "assets/img/web-horlogerie-2018/p023-93399e423fb2.webp"
+   "assets/img/web-horlogerie-2018/p022-2258ec045f6a.webp"
   ],
   "horlogerie-2018:meyer-sintermetall": [
    "assets/img/web-horlogerie-2018/p024-ba764c4df2cb.webp",
@@ -5107,9 +4444,6 @@
   "horlogerie-2018:cronal": [
    "assets/img/web-horlogerie-2018/p034-cfb6524e0713.webp"
   ],
-  "horlogerie-2018:claude-piguet": [
-   "assets/img/web-horlogerie-2018/p036-8a50eb3eacba.webp"
-  ],
   "horlogerie-2018:codere": [
    "assets/img/web-horlogerie-2018/p038-98528d742d02.webp",
    "assets/img/web-horlogerie-2018/p038-b5d6af8ad3f6.webp"
@@ -5127,12 +4461,10 @@
    "assets/img/web-horlogerie-2018/p045-e0c3e9f10bb2.webp"
   ],
   "horlogerie-2018:joseph-baume": [
-   "assets/img/web-horlogerie-2018/p046-565add8089fa.webp",
    "assets/img/web-horlogerie-2018/p046-339ffa9a2ea8.webp",
    "assets/img/web-horlogerie-2018/p046-0417f0a9bcf6.webp"
   ],
   "horlogerie-2018:incabloc": [
-   "assets/img/web-horlogerie-2018/p047-565add8089fa.webp",
    "assets/img/web-horlogerie-2018/p047-0417f0a9bcf6.webp"
   ],
   "horlogerie-2018:productec": [
@@ -5156,41 +4488,18 @@
   "horlogerie-2018:wenk": [
    "assets/img/web-horlogerie-2018/p060-9b08b35aaf5f.webp"
   ],
-  "horlogerie-2019:federation-de-l-industrie-horlogere-suisse-fh": [
-   "assets/img/web-horlogerie-2019/p005-256486380e9b.webp"
-  ],
   "horlogerie-2019:salon-ephj-epmt-smt": [
-   "assets/img/web-horlogerie-2019/p006-c403c129ce24.webp",
-   "assets/img/web-horlogerie-2019/p007-535c078ecd81.webp",
    "assets/img/web-horlogerie-2019/p007-79a085192443.webp",
    "assets/img/web-horlogerie-2019/p007-c18aebe6cff0.webp"
   ],
-  "horlogerie-2019:asrh": [
-   "assets/img/web-horlogerie-2019/p009-256486380e9b.webp"
-  ],
-  "horlogerie-2019:concepto-watch-factory": [
-   "assets/img/web-horlogerie-2019/p021-bfe9c2e90de2.webp"
-  ],
-  "horlogerie-2019:covatec": [
-   "assets/img/web-horlogerie-2019/p024-596ce65611a1.webp",
-   "assets/img/web-horlogerie-2019/p025-caf8eebb74e0.webp"
-  ],
   "horlogerie-2019:dc-swiss": [
-   "assets/img/web-horlogerie-2019/p026-1b585eb1dc47.webp",
-   "assets/img/web-horlogerie-2019/p027-b9c89c6eaa9d.webp",
-   "assets/img/web-horlogerie-2019/p027-449684617bc0.webp"
+   "assets/img/web-horlogerie-2019/p026-1b585eb1dc47.webp"
   ],
   "horlogerie-2019:fleury": [
-   "assets/img/web-horlogerie-2019/p032-930d107b2489.webp",
-   "assets/img/web-horlogerie-2019/p033-e2f379927c1b.webp"
+   "assets/img/web-horlogerie-2019/p032-930d107b2489.webp"
   ],
   "horlogerie-2019:fleury-industries": [
-   "assets/img/web-horlogerie-2019/p032-930d107b2489.webp",
-   "assets/img/web-horlogerie-2019/p033-e2f379927c1b.webp"
-  ],
-  "horlogerie-2019:lecureux": [
-   "assets/img/web-horlogerie-2019/p034-5b479dd9e13b.webp",
-   "assets/img/web-horlogerie-2019/p035-8ea5379e6e75.webp"
+   "assets/img/web-horlogerie-2019/p032-930d107b2489.webp"
   ],
   "horlogerie-2019:les-artisans-boitiers": [
    "assets/img/web-horlogerie-2019/p037-ed06c1e7ca7c.webp"
@@ -5200,35 +4509,10 @@
    "assets/img/web-horlogerie-2019/p039-0ff242d28794.webp"
   ],
   "horlogerie-2019:stila": [
-   "assets/img/web-horlogerie-2019/p042-256486380e9b.webp",
    "assets/img/web-horlogerie-2019/p042-66dc9f62ed12.webp"
-  ],
-  "horlogerie-2019:technofinish": [
-   "assets/img/web-horlogerie-2019/p044-7e41106b5e4b.webp",
-   "assets/img/web-horlogerie-2019/p045-5d76900abfae.webp"
-  ],
-  "horlogerie-2019:technoformage": [
-   "assets/img/web-horlogerie-2019/p044-7e41106b5e4b.webp",
-   "assets/img/web-horlogerie-2019/p045-5d76900abfae.webp"
-  ],
-  "horlogerie-2019:abarthel": [
-   "assets/img/web-horlogerie-2019/p016-04d8064404c2.webp"
-  ],
-  "horlogerie-2019:andre-frei-fils": [
-   "assets/img/web-horlogerie-2019/p017-da7a421f6453.webp"
-  ],
-  "horlogerie-2019:adtime": [
-   "assets/img/web-horlogerie-2019/p018-19e65ad45b67.webp"
-  ],
-  "horlogerie-2019:claude-piguet": [
-   "assets/img/web-horlogerie-2019/p023-00d9b61f26e5.webp"
   ],
   "horlogerie-2019:codere": [
    "assets/img/web-horlogerie-2019/p046-b7dbd6e0fabd.webp"
-  ],
-  "horlogerie-2019:decotech": [
-   "assets/img/web-horlogerie-2019/p050-84fe4801ccd1.webp",
-   "assets/img/web-horlogerie-2019/p050-74a3bc304031.webp"
   ],
   "horlogerie-2019:horlyne": [
    "assets/img/web-horlogerie-2019/p052-1c127bd5d4b7.webp"
@@ -5245,10 +4529,6 @@
   "horlogerie-2019:cronal": [
    "assets/img/web-horlogerie-2019/p022-24ae4ec03882.webp"
   ],
-  "horlogerie-2019:a-a-z-emplois": [
-   "assets/img/web-horlogerie-2019/p059-d909919596d3.webp",
-   "assets/img/web-horlogerie-2019/p059-0431e4b1b7e1.webp"
-  ],
   "horlogerie-2019:waeber-hms": [
    "assets/img/web-horlogerie-2019/p061-87c1dc57e091.webp"
   ],
@@ -5258,69 +4538,30 @@
   "horlogerie-2019:wostep": [
    "assets/img/web-horlogerie-2019/p063-9fe265f255a8.webp"
   ],
-  "horlogerie-2020:federation-de-l-industrie-horlogere-suisse-fh": [
-   "assets/img/web-horlogerie-2020/p004-256486380e9b.webp"
-  ],
   "horlogerie-2020:asrh": [
    "assets/img/web-horlogerie-2020/p008-7b9a9df2c017.webp"
   ],
-  "horlogerie-2020:societe-suisse-de-chronometrie": [
-   "assets/img/web-horlogerie-2020/p009-256486380e9b.webp"
-  ],
   "horlogerie-2020:baselworld": [
-   "assets/img/web-horlogerie-2020/p050-4324f739b58b.webp",
-   "assets/img/web-horlogerie-2020/p050-b9bf2b1c0202.webp"
-  ],
-  "horlogerie-2020:apiah": [
-   "assets/img/web-horlogerie-2020/p012-256486380e9b.webp"
+   "assets/img/web-horlogerie-2020/p050-82f45e443e06.webp"
   ],
   "horlogerie-2020:abarthel": [
    "assets/img/web-horlogerie-2020/p018-4a3267c4f1ab.webp"
   ],
   "horlogerie-2020:admo-plastique": [
-   "assets/img/web-horlogerie-2020/p021-d65712155a81.webp",
    "assets/img/web-horlogerie-2020/p021-369b835cda36.webp"
   ],
   "horlogerie-2020:techno-synthetic": [
-   "assets/img/web-horlogerie-2020/p021-d65712155a81.webp",
    "assets/img/web-horlogerie-2020/p021-369b835cda36.webp"
   ],
   "horlogerie-2020:somtec-ch": [
-   "assets/img/web-horlogerie-2020/p023-4324f739b58b.webp",
-   "assets/img/web-horlogerie-2020/p023-b9bf2b1c0202.webp",
    "assets/img/web-horlogerie-2020/p023-9d013637f1c4.webp"
   ],
-  "horlogerie-2020:econorm-gams": [
-   "assets/img/web-horlogerie-2020/p024-edf6de831dad.webp"
-  ],
   "horlogerie-2020:lecureux": [
-   "assets/img/web-horlogerie-2020/p026-1cb13722036c.webp",
-   "assets/img/web-horlogerie-2020/p027-bc84f524838a.webp"
-  ],
-  "horlogerie-2020:les-artisans-boitiers": [
-   "assets/img/web-horlogerie-2020/p028-10d267c28209.webp"
-  ],
-  "horlogerie-2020:quadrance-habillage": [
-   "assets/img/web-horlogerie-2020/p028-10d267c28209.webp"
+   "assets/img/web-horlogerie-2020/p026-1cb13722036c.webp"
   ],
   "horlogerie-2020:ryf": [
-   "assets/img/web-horlogerie-2020/p030-256486380e9b.webp",
    "assets/img/web-horlogerie-2020/p030-1050600eaa5a.webp",
    "assets/img/web-horlogerie-2020/p031-474fcd2e6e1a.webp"
-  ],
-  "horlogerie-2020:technofinish": [
-   "assets/img/web-horlogerie-2020/p032-660a3d94d7aa.webp",
-   "assets/img/web-horlogerie-2020/p033-5d76900abfae.webp"
-  ],
-  "horlogerie-2020:technoformage": [
-   "assets/img/web-horlogerie-2020/p032-660a3d94d7aa.webp",
-   "assets/img/web-horlogerie-2020/p033-5d76900abfae.webp"
-  ],
-  "horlogerie-2020:polirapid-swiss": [
-   "assets/img/web-horlogerie-2020/p032-660a3d94d7aa.webp"
-  ],
-  "horlogerie-2020:claude-piguet": [
-   "assets/img/web-horlogerie-2020/p034-00d9b61f26e5.webp"
   ],
   "horlogerie-2020:metafil-lagirolle": [
    "assets/img/web-horlogerie-2020/p036-74f0239f7b4b.webp"
@@ -5328,23 +4569,14 @@
   "horlogerie-2020:escad": [
    "assets/img/web-horlogerie-2020/p037-033a84114c42.webp"
   ],
-  "horlogerie-2020:a-a-z-emplois": [
-   "assets/img/web-horlogerie-2020/p039-d909919596d3.webp",
-   "assets/img/web-horlogerie-2020/p039-0431e4b1b7e1.webp"
-  ],
   "horlogerie-2020:pierre-bercher": [
    "assets/img/web-horlogerie-2020/p042-e19c7637568a.webp"
   ],
-  "horlogerie-2020:oesch": [
-   "assets/img/web-horlogerie-2020/p043-256486380e9b.webp"
-  ],
   "horlogerie-2020:sebal": [
-   "assets/img/web-horlogerie-2020/p044-613d2da5abd8.webp",
-   "assets/img/web-horlogerie-2020/p045-6850c42c5985.webp"
+   "assets/img/web-horlogerie-2020/p044-613d2da5abd8.webp"
   ],
   "horlogerie-2020:timsaph": [
-   "assets/img/web-horlogerie-2020/p044-613d2da5abd8.webp",
-   "assets/img/web-horlogerie-2020/p045-6850c42c5985.webp"
+   "assets/img/web-horlogerie-2020/p044-613d2da5abd8.webp"
   ],
   "horlogerie-2020:tsm-compagnie-d-assurances": [
    "assets/img/web-horlogerie-2020/p046-346457a02c82.webp"
@@ -5356,22 +4588,7 @@
    "assets/img/web-horlogerie-2020/p048-69bf6e4e9dfa.webp"
   ],
   "horlogerie-2020:eric-chabod": [
-   "assets/img/web-horlogerie-2020/p021-d65712155a81.webp",
    "assets/img/web-horlogerie-2020/p021-369b835cda36.webp"
-  ],
-  "horlogerie-2021:federation-de-l-industrie-horlogere-suisse-fh": [
-   "assets/img/web-horlogerie-2021/p004-256486380e9b.webp",
-   "assets/img/web-horlogerie-2021/p005-256486380e9b.webp"
-  ],
-  "horlogerie-2021:ephj": [
-   "assets/img/web-horlogerie-2021/p006-256486380e9b.webp",
-   "assets/img/web-horlogerie-2021/p007-256486380e9b.webp"
-  ],
-  "horlogerie-2021:dihawag": [
-   "assets/img/web-horlogerie-2021/p008-ae8230460c13.webp",
-   "assets/img/web-horlogerie-2021/p008-36a183e3bdf3.webp",
-   "assets/img/web-horlogerie-2021/p008-efa884d79801.webp",
-   "assets/img/web-horlogerie-2021/p008-efd3fe6a3f29.webp"
   ],
   "horlogerie-2021:altmann-casting": [
    "assets/img/web-horlogerie-2021/p010-1ce9188c48aa.webp"
@@ -5380,9 +4597,6 @@
    "assets/img/web-horlogerie-2021/p012-bd1692ed899e.webp"
   ],
   "horlogerie-2021:chatelain-prototypes": [
-   "assets/img/web-horlogerie-2021/p014-87bbd378441a.webp",
-   "assets/img/web-horlogerie-2021/p014-8a91ab0f4868.webp",
-   "assets/img/web-horlogerie-2021/p014-35c4638e0441.webp",
    "assets/img/web-horlogerie-2021/p014-1f38e9823af7.webp"
   ],
   "horlogerie-2021:cyberis": [
@@ -5391,21 +4605,11 @@
   "horlogerie-2021:d-tec-dubois-technologies-associees": [
    "assets/img/web-horlogerie-2021/p018-244e0ecede84.webp"
   ],
-  "horlogerie-2021:dm-surfaces": [
-   "assets/img/web-horlogerie-2021/p020-5bc0e2f526f4.webp"
-  ],
-  "horlogerie-2021:greub-machines": [
-   "assets/img/web-horlogerie-2021/p021-5bc0e2f526f4.webp"
-  ],
   "horlogerie-2021:econorm": [
-   "assets/img/web-horlogerie-2021/p022-a40a83964e8a.webp",
    "assets/img/web-horlogerie-2021/p022-b122beac5827.webp"
   ],
   "horlogerie-2021:henri-robert": [
    "assets/img/web-horlogerie-2021/p024-df0e5e7da637.webp"
-  ],
-  "horlogerie-2021:juval-horlogerie": [
-   "assets/img/web-horlogerie-2021/p026-e6e611d73d3e.webp"
   ],
   "horlogerie-2021:meylan-freres": [
    "assets/img/web-horlogerie-2021/p027-8a8cfe3bef5b.webp"
@@ -5413,19 +4617,14 @@
   "horlogerie-2021:meco": [
    "assets/img/web-horlogerie-2021/p028-b827db8d5e85.webp"
   ],
-  "horlogerie-2021:polissages-gautier": [
-   "assets/img/web-horlogerie-2021/p031-b72ed4ffb2d3.webp"
-  ],
   "horlogerie-2021:suvema": [
    "assets/img/web-horlogerie-2021/p033-dd1933cdd609.webp"
   ],
   "horlogerie-2021:sebal": [
-   "assets/img/web-horlogerie-2021/p034-613d2da5abd8.webp",
-   "assets/img/web-horlogerie-2021/p035-6850c42c5985.webp"
+   "assets/img/web-horlogerie-2021/p034-613d2da5abd8.webp"
   ],
   "horlogerie-2021:timsaph": [
-   "assets/img/web-horlogerie-2021/p034-613d2da5abd8.webp",
-   "assets/img/web-horlogerie-2021/p035-6850c42c5985.webp"
+   "assets/img/web-horlogerie-2021/p034-613d2da5abd8.webp"
   ],
   "horlogerie-2021:technofinish": [
    "assets/img/web-horlogerie-2021/p036-f50956cbba30.webp",
@@ -5435,48 +4634,27 @@
    "assets/img/web-horlogerie-2021/p036-f50956cbba30.webp",
    "assets/img/web-horlogerie-2021/p037-43726c782f93.webp"
   ],
-  "horlogerie-2021:fondation-wostep": [
-   "assets/img/web-horlogerie-2021/p038-e195c673e220.webp"
-  ],
-  "horlogerie-2021:artecad": [
-   "assets/img/web-horlogerie-2021/p041-4324f739b58b.webp",
-   "assets/img/web-horlogerie-2021/p041-b9bf2b1c0202.webp"
-  ],
   "horlogerie-2021:schmidt-technology": [
-   "assets/img/web-horlogerie-2021/p043-d65712155a81.webp",
    "assets/img/web-horlogerie-2021/p043-369b835cda36.webp"
   ],
   "horlogerie-2021:eric-chabod": [
-   "assets/img/web-horlogerie-2021/p043-d65712155a81.webp",
    "assets/img/web-horlogerie-2021/p043-369b835cda36.webp"
   ],
-  "horlogerie-2021:aiguilla": [
-   "assets/img/web-horlogerie-2021/p005-256486380e9b.webp"
-  ],
-  "horlogerie-2022:federation-de-l-industrie-horlogere-suisse-fh": [
-   "assets/img/horlogerie-2022/p002-256486380e9b.webp",
-   "assets/img/horlogerie-2022/p002-26b633413c04.webp"
-  ],
   "horlogerie-2022:asrh": [
-   "assets/img/horlogerie-2022/p003-256486380e9b.webp",
    "assets/img/horlogerie-2022/p003-2f3b5918e3ea.webp"
   ],
   "horlogerie-2022:societe-suisse-de-chronometrie": [
-   "assets/img/horlogerie-2022/p003-256486380e9b.webp",
    "assets/img/horlogerie-2022/p003-2f3b5918e3ea.webp"
   ],
   "horlogerie-2022:salon-ephj": [
-   "assets/img/horlogerie-2022/p004-256486380e9b.webp",
    "assets/img/horlogerie-2022/p004-b0a96e0526ef.webp",
-   "assets/img/horlogerie-2022/p005-766cc68374ce.webp",
-   "assets/img/horlogerie-2022/p005-7179d5858fca.webp"
+   "assets/img/horlogerie-2022/p005-7179d5858fca.webp",
+   "assets/img/horlogerie-2022/p005-693d7e5346e6.webp"
   ],
   "horlogerie-2022:auchlin": [
-   "assets/img/horlogerie-2022/p007-1ea7dd53276f.webp",
    "assets/img/horlogerie-2022/p007-fef7a78bf277.webp"
   ],
   "horlogerie-2022:bandi": [
-   "assets/img/horlogerie-2022/p007-1ea7dd53276f.webp",
    "assets/img/horlogerie-2022/p007-fef7a78bf277.webp"
   ],
   "horlogerie-2022:chatelain-prototypes": [
@@ -5495,29 +4673,21 @@
    "assets/img/horlogerie-2022/p010-6b237b4c532a.webp"
   ],
   "horlogerie-2022:d-tec-dubois": [
-   "assets/img/horlogerie-2022/p011-d65712155a81.webp",
    "assets/img/horlogerie-2022/p011-369b835cda36.webp",
-   "assets/img/horlogerie-2022/p011-238e52d82e23.webp",
    "assets/img/horlogerie-2022/p011-244e0ecede84.webp"
   ],
   "horlogerie-2022:klein": [
-   "assets/img/horlogerie-2022/p011-d65712155a81.webp",
    "assets/img/horlogerie-2022/p011-369b835cda36.webp",
-   "assets/img/horlogerie-2022/p011-238e52d82e23.webp",
    "assets/img/horlogerie-2022/p011-244e0ecede84.webp"
   ],
   "horlogerie-2022:fleury": [
-   "assets/img/horlogerie-2022/p012-bdf1c221cfec.webp",
-   "assets/img/horlogerie-2022/p012-546c95ef4833.webp",
    "assets/img/horlogerie-2022/p012-90c826d09127.webp"
   ],
   "horlogerie-2022:formoplast": [
-   "assets/img/horlogerie-2022/p013-93e1440365a1.webp",
    "assets/img/horlogerie-2022/p013-f71cc8758420.webp",
    "assets/img/horlogerie-2022/p013-f31934656c88.webp"
   ],
   "horlogerie-2022:gmti": [
-   "assets/img/horlogerie-2022/p013-93e1440365a1.webp",
    "assets/img/horlogerie-2022/p013-f71cc8758420.webp",
    "assets/img/horlogerie-2022/p013-f31934656c88.webp"
   ],
@@ -5545,20 +4715,6 @@
   "horlogerie-2022:adhezion": [
    "assets/img/horlogerie-2022/p016-8a8cfe3bef5b.webp"
   ],
-  "horlogerie-2022:oesch": [
-   "assets/img/horlogerie-2022/p017-523595d8d91d.webp",
-   "assets/img/horlogerie-2022/p017-6e903ea39db4.webp"
-  ],
-  "horlogerie-2022:pibor-iso": [
-   "assets/img/horlogerie-2022/p017-523595d8d91d.webp",
-   "assets/img/horlogerie-2022/p017-6e903ea39db4.webp"
-  ],
-  "horlogerie-2022:polissages-gautier": [
-   "assets/img/horlogerie-2022/p018-43a13ba9a759.webp"
-  ],
-  "horlogerie-2022:promotion-bracelets": [
-   "assets/img/horlogerie-2022/p018-43a13ba9a759.webp"
-  ],
   "horlogerie-2022:ressorts-industriels-risa": [
    "assets/img/horlogerie-2022/p019-87ef0bb3985f.webp"
   ],
@@ -5573,75 +4729,36 @@
    "assets/img/horlogerie-2022/p020-484847b4d515.webp"
   ],
   "horlogerie-2022:stl-swiss": [
-   "assets/img/horlogerie-2022/p021-d65712155a81.webp",
    "assets/img/horlogerie-2022/p021-369b835cda36.webp",
    "assets/img/horlogerie-2022/p021-6ca07f148588.webp"
   ],
   "horlogerie-2022:schmidt-technology": [
-   "assets/img/horlogerie-2022/p021-d65712155a81.webp",
    "assets/img/horlogerie-2022/p021-369b835cda36.webp",
    "assets/img/horlogerie-2022/p021-6ca07f148588.webp"
   ],
   "horlogerie-2022:sebal": [
-   "assets/img/horlogerie-2022/p022-613d2da5abd8.webp",
-   "assets/img/horlogerie-2022/p022-6850c42c5985.webp"
+   "assets/img/horlogerie-2022/p022-613d2da5abd8.webp"
   ],
   "horlogerie-2022:timsaph": [
-   "assets/img/horlogerie-2022/p022-613d2da5abd8.webp",
-   "assets/img/horlogerie-2022/p022-6850c42c5985.webp"
+   "assets/img/horlogerie-2022/p022-613d2da5abd8.webp"
   ],
   "horlogerie-2022:technofinish": [
-   "assets/img/horlogerie-2022/p023-f3014373b6ff.webp",
    "assets/img/horlogerie-2022/p023-0bd227340df7.webp"
   ],
   "horlogerie-2022:technoformage": [
-   "assets/img/horlogerie-2022/p023-f3014373b6ff.webp",
    "assets/img/horlogerie-2022/p023-0bd227340df7.webp"
   ],
   "horlogerie-2022:polirapid-swiss": [
-   "assets/img/horlogerie-2022/p023-f3014373b6ff.webp",
    "assets/img/horlogerie-2022/p023-0bd227340df7.webp"
   ],
-  "horlogerie-2022:wostep": [
-   "assets/img/horlogerie-2022/p024-c16219548576.webp",
-   "assets/img/horlogerie-2022/p024-27e1f1b44a00.webp"
-  ],
-  "horlogerie-2023:federation-de-l-industrie-horlogere-suisse-fh": [
-   "assets/img/web-horlogerie-2023/p005-256486380e9b.webp"
-  ],
-  "horlogerie-2023:ephj": [
-   "assets/img/web-horlogerie-2023/p006-256486380e9b.webp",
-   "assets/img/web-horlogerie-2023/p006-26b633413c04.webp"
-  ],
   "horlogerie-2023:cpih": [
-   "assets/img/web-horlogerie-2023/p007-256486380e9b.webp",
-   "assets/img/web-horlogerie-2023/p007-26b633413c04.webp",
    "assets/img/web-horlogerie-2023/p007-44ced10868a7.webp"
-  ],
-  "horlogerie-2023:apiah": [
-   "assets/img/web-horlogerie-2023/p008-26b633413c04.webp"
-  ],
-  "horlogerie-2023:societe-suisse-de-chronometrie": [
-   "assets/img/web-horlogerie-2023/p009-26b633413c04.webp"
-  ],
-  "horlogerie-2023:asrh": [
-   "assets/img/web-horlogerie-2023/p010-256486380e9b.webp"
   ],
   "horlogerie-2023:aqc": [
    "assets/img/web-horlogerie-2023/p011-42e24ad2fcd3.webp"
   ],
-  "horlogerie-2023:aiguilla": [
-   "assets/img/web-horlogerie-2023/p014-f2c1842041ea.webp"
-  ],
-  "horlogerie-2023:artecad": [
-   "assets/img/web-horlogerie-2023/p015-f2c1842041ea.webp"
-  ],
-  "horlogerie-2023:broquet-decolletage": [
-   "assets/img/web-horlogerie-2023/p015-f2c1842041ea.webp"
-  ],
   "horlogerie-2023:demant": [
-   "assets/img/web-horlogerie-2023/p019-fc7c1eb260c0.webp",
-   "assets/img/web-horlogerie-2023/p019-0dbca9c4732b.webp"
+   "assets/img/web-horlogerie-2023/p019-fc7c1eb260c0.webp"
   ],
   "horlogerie-2023:diametal": [
    "assets/img/web-horlogerie-2023/p021-305d72d07bbd.webp"
@@ -5660,39 +4777,18 @@
    "assets/img/web-horlogerie-2023/p029-35b48d675b59.webp"
   ],
   "horlogerie-2023:chatelain-prototypes": [
-   "assets/img/web-horlogerie-2023/p030-87bbd378441a.webp",
-   "assets/img/web-horlogerie-2023/p030-8a91ab0f4868.webp",
-   "assets/img/web-horlogerie-2023/p030-35c4638e0441.webp",
    "assets/img/web-horlogerie-2023/p030-1f38e9823af7.webp"
   ],
-  "horlogerie-2023:muller-machines": [
-   "assets/img/web-horlogerie-2023/p031-87bbd378441a.webp",
-   "assets/img/web-horlogerie-2023/p031-8a91ab0f4868.webp",
-   "assets/img/web-horlogerie-2023/p031-35c4638e0441.webp"
-  ],
-  "horlogerie-2023:centre-muller": [
-   "assets/img/web-horlogerie-2023/p031-87bbd378441a.webp",
-   "assets/img/web-horlogerie-2023/p031-8a91ab0f4868.webp",
-   "assets/img/web-horlogerie-2023/p031-35c4638e0441.webp"
-  ],
-  "horlogerie-2023:pibor-iso": [
-   "assets/img/web-horlogerie-2023/p033-523595d8d91d.webp",
-   "assets/img/web-horlogerie-2023/p033-6e903ea39db4.webp"
-  ],
   "horlogerie-2023:polydec": [
-   "assets/img/web-horlogerie-2023/p034-26b633413c04.webp",
    "assets/img/web-horlogerie-2023/p034-9a48c2b09c3f.webp"
   ],
   "horlogerie-2023:rollomatic": [
-   "assets/img/web-horlogerie-2023/p037-d65712155a81.webp",
    "assets/img/web-horlogerie-2023/p037-369b835cda36.webp"
   ],
   "horlogerie-2023:eric-chabod": [
-   "assets/img/web-horlogerie-2023/p037-d65712155a81.webp",
    "assets/img/web-horlogerie-2023/p037-369b835cda36.webp"
   ],
   "horlogerie-2023:sabato-group": [
-   "assets/img/web-horlogerie-2023/p038-866812b536c3.webp",
    "assets/img/web-horlogerie-2023/p038-096fc1c3e1e8.webp"
   ],
   "horlogerie-2023:suvema": [
@@ -5701,132 +4797,62 @@
   "horlogerie-2023:stoco": [
    "assets/img/web-horlogerie-2023/p040-fd5e792f9569.webp"
   ],
-  "horlogerie-2023:timsaph": [
-   "assets/img/web-horlogerie-2023/p041-e93b921fa09f.webp"
-  ],
   "horlogerie-2023:atio": [
-   "assets/img/web-horlogerie-2023/p044-256486380e9b.webp",
-   "assets/img/web-horlogerie-2023/p045-256486380e9b.webp",
    "assets/img/web-horlogerie-2023/p045-aeb62a238395.webp"
   ],
   "horlogerie-2023:centro-di-formazione-orologiero": [
-   "assets/img/web-horlogerie-2023/p044-256486380e9b.webp",
-   "assets/img/web-horlogerie-2023/p045-256486380e9b.webp",
    "assets/img/web-horlogerie-2023/p045-aeb62a238395.webp"
-  ],
-  "horlogerie-2023:frieden": [
-   "assets/img/web-horlogerie-2023/p046-75128d75a053.webp"
-  ],
-  "horlogerie-2023:rudolf-brugger": [
-   "assets/img/web-horlogerie-2023/p048-8f81fb76cae9.webp",
-   "assets/img/web-horlogerie-2023/p048-d515041b1361.webp"
-  ],
-  "horlogerie-2023:montrelux": [
-   "assets/img/web-horlogerie-2023/p049-75128d75a053.webp"
-  ],
-  "horlogerie-2023:musee-international-d-horlogerie": [
-   "assets/img/web-horlogerie-2023/p005-256486380e9b.webp"
   ],
   "horlogerie-2024:fh": [
    "assets/img/web-horlogerie-2024/p005-f562c87cc013.webp",
-   "assets/img/web-horlogerie-2024/p005-8a91ab0f4868.webp",
-   "assets/img/web-horlogerie-2024/p005-1c0d28820659.webp",
-   "assets/img/web-horlogerie-2024/p005-26b633413c04.webp"
-  ],
-  "horlogerie-2024:apiah": [
-   "assets/img/web-horlogerie-2024/p006-26b633413c04.webp"
-  ],
-  "horlogerie-2024:convention-patronale-industrie-horlogere": [
-   "assets/img/web-horlogerie-2024/p007-26b633413c04.webp"
-  ],
-  "horlogerie-2024:asrh": [
-   "assets/img/web-horlogerie-2024/p008-26b633413c04.webp"
+   "assets/img/web-horlogerie-2024/p005-1c0d28820659.webp"
   ],
   "horlogerie-2024:chatelain-prototypes": [
    "assets/img/web-horlogerie-2024/p038-4022dc1db0ba.webp",
    "assets/img/web-horlogerie-2024/p040-cfe363f9d79a.webp",
    "assets/img/web-horlogerie-2024/p040-f562c87cc013.webp",
-   "assets/img/web-horlogerie-2024/p040-8a91ab0f4868.webp"
+   "assets/img/web-horlogerie-2024/p040-1c0d28820659.webp"
   ],
   "horlogerie-2024:pibor-iso": [
-   "assets/img/web-horlogerie-2024/p012-c2be662b3551.webp",
-   "assets/img/web-horlogerie-2024/p012-6e903ea39db4.webp",
-   "assets/img/web-horlogerie-2024/p012-135716acce07.webp"
-  ],
-  "horlogerie-2024:decors-guilloches": [
-   "assets/img/web-horlogerie-2024/p015-06a781752590.webp",
-   "assets/img/web-horlogerie-2024/p015-ecc50d261f9c.webp",
-   "assets/img/web-horlogerie-2024/p015-b7113c63b2d0.webp",
-   "assets/img/web-horlogerie-2024/p015-596f85b13575.webp"
-  ],
-  "horlogerie-2024:icam": [
-   "assets/img/web-horlogerie-2024/p016-d65712155a81.webp"
-  ],
-  "horlogerie-2024:productec": [
-   "assets/img/web-horlogerie-2024/p016-d65712155a81.webp"
-  ],
-  "horlogerie-2024:eric-chabod": [
-   "assets/img/web-horlogerie-2024/p016-d65712155a81.webp"
+   "assets/img/web-horlogerie-2024/p012-135716acce07.webp",
+   "assets/img/web-horlogerie-2024/p012-6d70b12f6e7a.webp"
   ],
   "horlogerie-2024:demant": [
-   "assets/img/web-horlogerie-2024/p017-8a91ab0f4868.webp",
-   "assets/img/web-horlogerie-2024/p017-7f6a9fce583b.webp",
-   "assets/img/web-horlogerie-2024/p017-2cd5ef89f0e8.webp",
-   "assets/img/web-horlogerie-2024/p017-f89a51cee831.webp"
+   "assets/img/web-horlogerie-2024/p017-f89a51cee831.webp",
+   "assets/img/web-horlogerie-2024/p017-66c4032e06c5.webp"
   ],
   "horlogerie-2024:ressorts-industriels": [
    "assets/img/web-horlogerie-2024/p028-2a8bbbf1214f.webp"
   ],
-  "horlogerie-2024:sabato-group": [
-   "assets/img/web-horlogerie-2024/p029-cb224b9f0cc2.webp"
-  ],
   "horlogerie-2024:technofinish": [
-   "assets/img/web-horlogerie-2024/p034-691bc2da6db6.webp",
-   "assets/img/web-horlogerie-2024/p034-2f5d02fe30f3.webp"
+   "assets/img/web-horlogerie-2024/p034-691bc2da6db6.webp"
   ],
   "horlogerie-2024:technoformage": [
-   "assets/img/web-horlogerie-2024/p034-691bc2da6db6.webp",
-   "assets/img/web-horlogerie-2024/p034-2f5d02fe30f3.webp"
+   "assets/img/web-horlogerie-2024/p034-691bc2da6db6.webp"
   ],
   "horlogerie-2024:musee-international-horlogerie": [
    "assets/img/web-horlogerie-2024/p005-f562c87cc013.webp",
-   "assets/img/web-horlogerie-2024/p005-8a91ab0f4868.webp",
-   "assets/img/web-horlogerie-2024/p005-1c0d28820659.webp",
-   "assets/img/web-horlogerie-2024/p005-26b633413c04.webp"
+   "assets/img/web-horlogerie-2024/p005-1c0d28820659.webp"
   ],
   "horlogerie-2024:aiguilla": [
    "assets/img/web-horlogerie-2024/p004-cfe363f9d79a.webp",
    "assets/img/web-horlogerie-2024/p004-f562c87cc013.webp",
-   "assets/img/web-horlogerie-2024/p004-8a91ab0f4868.webp",
    "assets/img/web-horlogerie-2024/p004-1c0d28820659.webp"
   ],
-  "horlogerie-2025:fh": [
-   "assets/img/web-horlogerie-2025/p004-8fd63c6f2afb.webp"
-  ],
   "horlogerie-2025:convention-patronale-industrie-horlogere": [
-   "assets/img/web-horlogerie-2025/p005-53212889872d.webp",
-   "assets/img/web-horlogerie-2025/p005-8fd63c6f2afb.webp"
-  ],
-  "horlogerie-2025:apiah": [
-   "assets/img/web-horlogerie-2025/p006-8fd63c6f2afb.webp"
+   "assets/img/web-horlogerie-2025/p005-53212889872d.webp"
   ],
   "horlogerie-2025:ephj": [
-   "assets/img/web-horlogerie-2025/p007-8fd63c6f2afb.webp",
    "assets/img/web-horlogerie-2025/p007-a06c6c2c3392.webp"
   ],
   "horlogerie-2025:afdt": [
-   "assets/img/web-horlogerie-2025/p008-8fd63c6f2afb.webp",
    "assets/img/web-horlogerie-2025/p008-d8909ffb6d7e.webp"
   ],
   "horlogerie-2025:broquet-decolletage": [
    "assets/img/web-horlogerie-2025/p011-cff8ab80fb08.webp",
    "assets/img/web-horlogerie-2025/p011-b7be6f3f2309.webp"
   ],
-  "horlogerie-2025:axnum": [
-   "assets/img/web-horlogerie-2025/p012-8fd63c6f2afb.webp"
-  ],
   "horlogerie-2025:bcp-tourbillons": [
-   "assets/img/web-horlogerie-2025/p013-01c8ca809be4.webp",
    "assets/img/web-horlogerie-2025/p013-0558131504c8.webp"
   ],
   "horlogerie-2025:esco": [
@@ -5840,21 +4866,20 @@
   ],
   "horlogerie-2025:gilbert-petit-jean": [
    "assets/img/web-horlogerie-2025/p016-85ad841b092c.webp",
-   "assets/img/web-horlogerie-2025/p016-8fd63c6f2afb.webp",
-   "assets/img/web-horlogerie-2025/p017-b38ce746b851.webp",
-   "assets/img/web-horlogerie-2025/p017-c9f0733e9b44.webp"
+   "assets/img/web-horlogerie-2025/p017-c9f0733e9b44.webp",
+   "assets/img/web-horlogerie-2025/p017-666a4e9fff69.webp",
+   "assets/img/web-horlogerie-2025/p017-f98d63fbc2e7.webp"
   ],
   "horlogerie-2025:bbhg": [
-   "assets/img/web-horlogerie-2025/p017-b38ce746b851.webp",
    "assets/img/web-horlogerie-2025/p017-c9f0733e9b44.webp",
    "assets/img/web-horlogerie-2025/p017-666a4e9fff69.webp",
    "assets/img/web-horlogerie-2025/p017-f98d63fbc2e7.webp"
   ],
   "horlogerie-2025:beguelin": [
    "assets/img/web-horlogerie-2025/p016-85ad841b092c.webp",
-   "assets/img/web-horlogerie-2025/p016-8fd63c6f2afb.webp",
-   "assets/img/web-horlogerie-2025/p017-b38ce746b851.webp",
-   "assets/img/web-horlogerie-2025/p017-c9f0733e9b44.webp"
+   "assets/img/web-horlogerie-2025/p017-c9f0733e9b44.webp",
+   "assets/img/web-horlogerie-2025/p017-666a4e9fff69.webp",
+   "assets/img/web-horlogerie-2025/p017-f98d63fbc2e7.webp"
   ],
   "horlogerie-2025:oesch": [
    "assets/img/web-horlogerie-2025/p019-7c8f089987ef.webp",
@@ -5864,11 +4889,9 @@
    "assets/img/web-horlogerie-2025/p021-feb8a47c3ef0.webp"
   ],
   "horlogerie-2025:pj-made": [
-   "assets/img/web-horlogerie-2025/p022-8fd63c6f2afb.webp",
    "assets/img/web-horlogerie-2025/p022-e300b14920f6.webp"
   ],
   "horlogerie-2025:s-t-polissage": [
-   "assets/img/web-horlogerie-2025/p024-8fd63c6f2afb.webp",
    "assets/img/web-horlogerie-2025/p024-4b814c5abc5f.webp",
    "assets/img/web-horlogerie-2025/p024-7d7601e85f26.webp"
   ],
@@ -5884,14 +4907,7 @@
    "assets/img/web-horlogerie-2025/p027-733dff440f8e.webp"
   ],
   "horlogerie-2025:sts-saulcy-traitement-de-surface": [
-   "assets/img/web-horlogerie-2025/p030-f05fc1e9c3c1.webp",
    "assets/img/web-horlogerie-2025/p030-3b6f71e4ab5f.webp"
-  ],
-  "horlogerie-2025:technocut": [
-   "assets/img/web-horlogerie-2025/p031-f05fc1e9c3c1.webp"
-  ],
-  "horlogerie-2025:technopoli": [
-   "assets/img/web-horlogerie-2025/p031-f05fc1e9c3c1.webp"
   ],
   "horlogerie-2025:technofinish": [
    "assets/img/web-horlogerie-2025/p032-f5e145890a7a.webp",
@@ -5903,58 +4919,41 @@
   ],
   "horlogerie-2025:vicro": [
    "assets/img/web-horlogerie-2025/p034-798d7d0ea8ac.webp",
-   "assets/img/web-horlogerie-2025/p034-0ad1b2b5f786.webp",
    "assets/img/web-horlogerie-2025/p034-fdbb5303449c.webp",
-   "assets/img/web-horlogerie-2025/p034-87556a437b6f.webp"
+   "assets/img/web-horlogerie-2025/p035-b22ee0664b89.webp",
+   "assets/img/web-horlogerie-2025/p035-0c65754222d7.webp"
   ],
   "horlogerie-2025:well-diamond-wire-saws": [
-   "assets/img/web-horlogerie-2025/p036-8fd63c6f2afb.webp",
    "assets/img/web-horlogerie-2025/p036-bc2ec85cbd36.webp"
   ],
   "horlogerie-2025:witech": [
    "assets/img/web-horlogerie-2025/p037-b482c9556678.webp",
    "assets/img/web-horlogerie-2025/p037-e3905961d60c.webp"
   ],
-  "horlogerie-2026:fh": [
-   "assets/img/web-horlogerie-2026/p004-26b633413c04.webp"
-  ],
   "horlogerie-2026:ephj": [
-   "assets/img/web-horlogerie-2026/p005-26b633413c04.webp",
    "assets/img/web-horlogerie-2026/p005-a06c6c2c3392.webp"
   ],
   "horlogerie-2026:bdl5": [
-   "assets/img/web-horlogerie-2026/p006-ed2efaabebc2.webp",
    "assets/img/web-horlogerie-2026/p006-17efcd327291.webp",
    "assets/img/web-horlogerie-2026/p006-78501ab41d70.webp",
    "assets/img/web-horlogerie-2026/p006-0e015005a093.webp"
   ],
   "horlogerie-2026:artecad": [
-   "assets/img/web-horlogerie-2026/p007-ed2efaabebc2.webp",
    "assets/img/web-horlogerie-2026/p007-78501ab41d70.webp"
   ],
-  "horlogerie-2026:2b8": [
-   "assets/img/web-horlogerie-2026/p009-26b633413c04.webp"
-  ],
   "horlogerie-2026:brasport-group": [
-   "assets/img/web-horlogerie-2026/p011-2adf59e81f90.webp",
    "assets/img/web-horlogerie-2026/p011-679b38bb65b4.webp",
-   "assets/img/web-horlogerie-2026/p011-669e8d57c80b.webp",
-   "assets/img/web-horlogerie-2026/p011-26b633413c04.webp"
+   "assets/img/web-horlogerie-2026/p011-d0e7461957a5.webp"
   ],
   "horlogerie-2026:broquet-decolletage": [
    "assets/img/web-horlogerie-2026/p012-e5334a199c1d.webp",
    "assets/img/web-horlogerie-2026/p012-b1ddfc479c89.webp"
   ],
   "horlogerie-2026:gb-microfab": [
-   "assets/img/web-horlogerie-2026/p013-93ea6446eb32.webp",
-   "assets/img/web-horlogerie-2026/p013-50f5b08b4f5a.webp",
-   "assets/img/web-horlogerie-2026/p013-14b9425e641a.webp",
-   "assets/img/web-horlogerie-2026/p013-1344f984c4f5.webp"
+   "assets/img/web-horlogerie-2026/p013-9dd422559fbe.webp"
   ],
   "horlogerie-2026:gilbert-petit-jean": [
-   "assets/img/web-horlogerie-2026/p040-2adf59e81f90.webp",
-   "assets/img/web-horlogerie-2026/p040-679b38bb65b4.webp",
-   "assets/img/web-horlogerie-2026/p040-669e8d57c80b.webp"
+   "assets/img/web-horlogerie-2026/p040-679b38bb65b4.webp"
   ],
   "horlogerie-2026:bbhg": [
    "assets/img/web-horlogerie-2026/p014-60cddd872301.webp",
@@ -5964,25 +4963,21 @@
   ],
   "horlogerie-2026:beguelin": [
    "assets/img/web-horlogerie-2026/p015-5237e3ba3a91.webp",
-   "assets/img/web-horlogerie-2026/p015-26b633413c04.webp",
    "assets/img/web-horlogerie-2026/p015-60cddd872301.webp",
-   "assets/img/web-horlogerie-2026/p015-b3463d397d84.webp"
+   "assets/img/web-horlogerie-2026/p015-b3463d397d84.webp",
+   "assets/img/web-horlogerie-2026/p015-2c81a8d42d33.webp"
   ],
   "horlogerie-2026:les-fils-d-henri-frei": [
-   "assets/img/web-horlogerie-2026/p018-d65712155a81.webp",
    "assets/img/web-horlogerie-2026/p018-cce68459ba98.webp"
   ],
   "horlogerie-2026:eric-chabod": [
-   "assets/img/web-horlogerie-2026/p018-d65712155a81.webp",
    "assets/img/web-horlogerie-2026/p018-cce68459ba98.webp"
   ],
   "horlogerie-2026:la-cible": [
-   "assets/img/web-horlogerie-2026/p019-26b633413c04.webp",
    "assets/img/web-horlogerie-2026/p019-9539b9c03911.webp",
    "assets/img/web-horlogerie-2026/p019-90316074e1b5.webp"
   ],
   "horlogerie-2026:muller-machines": [
-   "assets/img/web-horlogerie-2026/p020-0094e8871693.webp",
    "assets/img/web-horlogerie-2026/p020-2445ad76d9ab.webp",
    "assets/img/web-horlogerie-2026/p021-b608c72ae10b.webp",
    "assets/img/web-horlogerie-2026/p021-f732da4125df.webp"
@@ -5992,19 +4987,13 @@
    "assets/img/web-horlogerie-2026/p021-f732da4125df.webp"
   ],
   "horlogerie-2026:favre-steudler": [
-   "assets/img/web-horlogerie-2026/p022-26b633413c04.webp",
    "assets/img/web-horlogerie-2026/p022-54d3c26d4374.webp",
    "assets/img/web-horlogerie-2026/p022-056758adc329.webp"
   ],
-  "horlogerie-2026:oesch": [
-   "assets/img/web-horlogerie-2026/p023-68c02c22ac9e.webp"
-  ],
   "horlogerie-2026:icam": [
-   "assets/img/web-horlogerie-2026/p024-67432294e8a2.webp",
    "assets/img/web-horlogerie-2026/p024-ef85aa1ac3a9.webp"
   ],
   "horlogerie-2026:productec": [
-   "assets/img/web-horlogerie-2026/p024-67432294e8a2.webp",
    "assets/img/web-horlogerie-2026/p024-ef85aa1ac3a9.webp"
   ],
   "horlogerie-2026:protofil": [
@@ -6015,50 +5004,31 @@
    "assets/img/web-horlogerie-2026/p026-bc26d0ca5223.webp"
   ],
   "horlogerie-2026:serge-meister": [
-   "assets/img/web-horlogerie-2026/p027-38d25eb97471.webp",
-   "assets/img/web-horlogerie-2026/p027-2e5327bd5674.webp",
-   "assets/img/web-horlogerie-2026/p027-d76b34c27e77.webp"
+   "assets/img/web-horlogerie-2026/p027-2e5327bd5674.webp"
   ],
   "horlogerie-2026:sebal": [
-   "assets/img/web-horlogerie-2026/p028-26b633413c04.webp",
-   "assets/img/web-horlogerie-2026/p029-fcbeb3d01970.webp",
-   "assets/img/web-horlogerie-2026/p029-26b633413c04.webp"
+   "assets/img/web-horlogerie-2026/p029-fcbeb3d01970.webp"
   ],
   "horlogerie-2026:timsaph": [
-   "assets/img/web-horlogerie-2026/p028-26b633413c04.webp",
-   "assets/img/web-horlogerie-2026/p029-fcbeb3d01970.webp",
-   "assets/img/web-horlogerie-2026/p029-26b633413c04.webp"
+   "assets/img/web-horlogerie-2026/p029-fcbeb3d01970.webp"
   ],
   "horlogerie-2026:stoco": [
-   "assets/img/web-horlogerie-2026/p030-d810fafcc67e.webp",
-   "assets/img/web-horlogerie-2026/p030-fd7d855e7677.webp",
-   "assets/img/web-horlogerie-2026/p031-d810fafcc67e.webp",
-   "assets/img/web-horlogerie-2026/p031-2d5a721980d4.webp"
+   "assets/img/web-horlogerie-2026/p030-fd7d855e7677.webp"
   ],
   "horlogerie-2026:technoformage": [
    "assets/img/web-horlogerie-2026/p032-c81e23f4146d.webp",
-   "assets/img/web-horlogerie-2026/p033-691bc2da6db6.webp",
-   "assets/img/web-horlogerie-2026/p033-2f5d02fe30f3.webp",
-   "assets/img/web-horlogerie-2026/p033-c40f1b66e7df.webp"
+   "assets/img/web-horlogerie-2026/p033-691bc2da6db6.webp"
   ],
   "horlogerie-2026:technofinish": [
    "assets/img/web-horlogerie-2026/p032-c81e23f4146d.webp",
-   "assets/img/web-horlogerie-2026/p033-691bc2da6db6.webp",
-   "assets/img/web-horlogerie-2026/p033-2f5d02fe30f3.webp",
-   "assets/img/web-horlogerie-2026/p033-c40f1b66e7df.webp"
-  ],
-  "horlogerie-2026:vicro": [
-   "assets/img/web-horlogerie-2026/p034-374daf492997.webp",
-   "assets/img/web-horlogerie-2026/p034-66cea9a7a9dd.webp"
+   "assets/img/web-horlogerie-2026/p033-691bc2da6db6.webp"
   ],
   "horlogerie-2026:witech": [
    "assets/img/web-horlogerie-2026/p035-2527594c9553.webp",
    "assets/img/web-horlogerie-2026/p035-4ebeee50dcee.webp"
   ],
   "horlogerie-2026:mw-programmation": [
-   "assets/img/web-horlogerie-2026/p036-61bf9e504865.webp",
-   "assets/img/web-horlogerie-2026/p036-d1322dfc2ad7.webp",
-   "assets/img/web-horlogerie-2026/p036-26b633413c04.webp"
+   "assets/img/web-horlogerie-2026/p036-d1322dfc2ad7.webp"
   ],
   "horlogerie-2026:sts-saulcy-traitement-de-surface": [
    "assets/img/web-horlogerie-2026/p037-99bc0993ade4.webp",
@@ -6069,9 +5039,7 @@
    "assets/img/web-hug-2011/p011-434914bb94d0.webp"
   ],
   "hug-2011:universite-de-geneve-faculte-de-medecine": [
-   "assets/img/web-hug-2011/p017-8fd63c6f2afb.webp",
    "assets/img/web-hug-2011/p017-b0e664067bf3.webp",
-   "assets/img/web-hug-2011/p019-8fd63c6f2afb.webp",
    "assets/img/web-hug-2011/p019-b0e664067bf3.webp"
   ],
   "hug-2011:departement-de-medecine-genetique-et-developpement-unige": [
@@ -6083,7 +5051,6 @@
   ],
   "hug-2011:fondation-dr-henri-dubois-ferriere-dinu-lipatti": [
    "assets/img/web-hug-2011/p064-6b974dac1a8e.webp",
-   "assets/img/web-hug-2011/p064-8fd63c6f2afb.webp",
    "assets/img/web-hug-2011/p064-6859c1e08d5e.webp"
   ],
   "hug-2011:cibm": [
@@ -6099,7 +5066,6 @@
   "hug-2011:trb-chemedica": [
    "assets/img/web-hug-2011/p153-a779bdee5512.webp",
    "assets/img/web-hug-2011/p154-01afb66331da.webp",
-   "assets/img/web-hug-2011/p154-8fd63c6f2afb.webp",
    "assets/img/web-hug-2011/p155-37fbbf084e03.webp"
   ],
   "hug-2011:unitec": [
@@ -6111,26 +5077,13 @@
    "assets/img/web-hug-2011/p093-57d9dfc8da69.webp"
   ],
   "hug-2011:fondation-osirix": [
-   "assets/img/web-hug-2011/p094-8fd63c6f2afb.webp",
    "assets/img/web-hug-2011/p094-f65bff786a41.webp",
    "assets/img/web-hug-2011/p095-bc5ae15ddf36.webp"
-  ],
-  "hug-2011:orphanet-suisse": [
-   "assets/img/web-hug-2011/p096-8fd63c6f2afb.webp",
-   "assets/img/web-hug-2011/p097-8fd63c6f2afb.webp"
-  ],
-  "hug-2011:proraris": [
-   "assets/img/web-hug-2011/p096-8fd63c6f2afb.webp",
-   "assets/img/web-hug-2011/p097-8fd63c6f2afb.webp"
   ],
   "hug-2011:alexion-pharma-international": [
    "assets/img/web-hug-2011/p099-b209cb18b283.webp",
    "assets/img/web-hug-2011/p101-0dd1f83cf131.webp",
    "assets/img/web-hug-2011/p101-842e912e732d.webp"
-  ],
-  "hug-2011:atmos-medical": [
-   "assets/img/web-hug-2011/p102-8fd63c6f2afb.webp",
-   "assets/img/web-hug-2011/p104-8fd63c6f2afb.webp"
   ],
   "hug-2011:croix-rouge-genevoise": [
    "assets/img/web-hug-2011/p109-20ae8be8720e.webp",
@@ -6139,7 +5092,6 @@
    "assets/img/web-hug-2011/p111-0ac23ea590f1.webp"
   ],
   "hug-2011:curmed": [
-   "assets/img/web-hug-2011/p114-8fd63c6f2afb.webp",
    "assets/img/web-hug-2011/p114-394326ed5ebd.webp",
    "assets/img/web-hug-2011/p115-394326ed5ebd.webp"
   ],
@@ -6157,39 +5109,27 @@
    "assets/img/web-hug-2011/p122-648b5167efef.webp"
   ],
   "hug-2011:mayba": [
-   "assets/img/web-hug-2011/p124-8fd63c6f2afb.webp",
    "assets/img/web-hug-2011/p124-a813f23b0fc1.webp",
-   "assets/img/web-hug-2011/p125-8fd63c6f2afb.webp",
    "assets/img/web-hug-2011/p125-a813f23b0fc1.webp"
-  ],
-  "hug-2011:marflow": [
-   "assets/img/web-hug-2011/p127-6fe61eeeb16b.webp",
-   "assets/img/web-hug-2011/p127-fd53c42dd237.webp",
-   "assets/img/web-hug-2011/p127-226c13400fe3.webp"
   ],
   "hug-2011:medacta-international": [
    "assets/img/web-hug-2011/p129-abe46f200e4f.webp"
   ],
   "hug-2011:medicatech": [
-   "assets/img/web-hug-2011/p130-8fd63c6f2afb.webp",
    "assets/img/web-hug-2011/p130-e32cf7f3d769.webp",
    "assets/img/web-hug-2011/p131-e32cf7f3d769.webp"
   ],
   "hug-2011:msd-merck-sharp-dohme": [
    "assets/img/web-hug-2011/p133-47f4acbae78e.webp",
    "assets/img/web-hug-2011/p134-7b81012567ce.webp",
-   "assets/img/web-hug-2011/p134-8fd63c6f2afb.webp",
    "assets/img/web-hug-2011/p135-47f4acbae78e.webp"
   ],
   "hug-2011:mmm-sterilisatoren": [
-   "assets/img/web-hug-2011/p136-8fd63c6f2afb.webp",
    "assets/img/web-hug-2011/p136-f5778df64b07.webp",
    "assets/img/web-hug-2011/p137-f5778df64b07.webp"
   ],
   "hug-2011:pwc": [
-   "assets/img/web-hug-2011/p138-8fd63c6f2afb.webp",
    "assets/img/web-hug-2011/p138-17d8cd83a9ee.webp",
-   "assets/img/web-hug-2011/p139-8fd63c6f2afb.webp",
    "assets/img/web-hug-2011/p139-17d8cd83a9ee.webp"
   ],
   "hug-2011:reactolab": [
@@ -6197,13 +5137,10 @@
    "assets/img/web-hug-2011/p141-940dd3fbfabd.webp"
   ],
   "hug-2011:rive-droite": [
-   "assets/img/web-hug-2011/p142-8fd63c6f2afb.webp",
    "assets/img/web-hug-2011/p142-43d7c8705c04.webp",
-   "assets/img/web-hug-2011/p143-8fd63c6f2afb.webp",
    "assets/img/web-hug-2011/p143-782dffea920e.webp"
   ],
   "hug-2011:sca-hygiene-products": [
-   "assets/img/web-hug-2011/p144-8fd63c6f2afb.webp",
    "assets/img/web-hug-2011/p144-1ca60529b95a.webp"
   ],
   "hug-2011:keramik-laufen": [
@@ -6218,44 +5155,27 @@
    "assets/img/web-hug-2011/p147-4ce772a945a3.webp",
    "assets/img/web-hug-2011/p147-7c425678f39d.webp"
   ],
-  "hug-2011:sipaec": [
-   "assets/img/web-hug-2011/p151-16405054b166.webp"
-  ],
-  "hug-2011:tornier": [
-   "assets/img/web-hug-2011/p156-8fd63c6f2afb.webp"
-  ],
   "hug-2011:bj-coffee": [
-   "assets/img/web-hug-2011/p158-e1797f91e30a.webp",
-   "assets/img/web-hug-2011/p158-8fd63c6f2afb.webp"
+   "assets/img/web-hug-2011/p158-e1797f91e30a.webp"
   ],
   "hug-2011:gastromer": [
    "assets/img/web-hug-2011/p159-56ec61359564.webp"
   ],
-  "hug-2011:casabat": [
-   "assets/img/web-hug-2011/p160-8fd63c6f2afb.webp"
-  ],
-  "hug-2011:transferts-video-film": [
-   "assets/img/web-hug-2011/p161-8fd63c6f2afb.webp"
-  ],
   "hug-2011:citroen-suisse-geneve": [
    "assets/img/web-hug-2011/p162-7262b91ec70a.webp",
-   "assets/img/web-hug-2011/p162-8fd63c6f2afb.webp",
    "assets/img/web-hug-2011/p162-5ab14313a8aa.webp",
-   "assets/img/web-hug-2011/p163-99568525b2dc.webp"
+   "assets/img/web-hug-2011/p163-99568525b2dc.webp",
+   "assets/img/web-hug-2011/p163-55dcde54ebc6.webp"
   ],
   "hug-2011:emil-frey-geneve": [
-   "assets/img/web-hug-2011/p164-8fd63c6f2afb.webp",
    "assets/img/web-hug-2011/p164-0939fc124b8e.webp",
-   "assets/img/web-hug-2011/p165-8fd63c6f2afb.webp",
    "assets/img/web-hug-2011/p165-0939fc124b8e.webp"
   ],
   "hug-2011:veltigroup": [
    "assets/img/web-hug-2011/p168-7a0cc09b1a85.webp",
-   "assets/img/web-hug-2011/p169-7a0cc09b1a85.webp",
-   "assets/img/web-hug-2011/p169-8fd63c6f2afb.webp"
+   "assets/img/web-hug-2011/p169-7a0cc09b1a85.webp"
   ],
   "hug-2011:my-private-care": [
-   "assets/img/web-hug-2011/p170-8fd63c6f2afb.webp",
    "assets/img/web-hug-2011/p170-fc0435c7895a.webp"
   ],
   "hug-2011:g-schweizer": [
@@ -6266,8 +5186,7 @@
    "assets/img/web-hug-2011/p175-4ffb74b198fc.webp"
   ],
   "hug-2011:centre-laser-victor-hugo": [
-   "assets/img/web-hug-2011/p112-cead2001a204.webp",
-   "assets/img/web-hug-2011/p112-c92dad38d98e.webp"
+   "assets/img/web-hug-2011/p112-cead2001a204.webp"
   ],
   "lausanne:a-carre-architecture-amenagement": [
    "assets/img/lausanne/p012-cf184a77c794.webp",
@@ -6304,9 +5223,6 @@
    "assets/img/lausanne/p069-e3de827dc951.webp",
    "assets/img/lausanne/p070-31be654bb508.webp",
    "assets/img/lausanne/p071-1864002226da.webp"
-  ],
-  "lausanne:transelec": [
-   "assets/img/lausanne/p074-c8f08b4037e8.webp"
   ],
   "lausanne:centre-laser-victor-hugo": [
    "assets/img/lausanne/p075-24e36119e6fe.webp"
@@ -6380,8 +5296,7 @@
    "assets/img/bennoise/p013-88adf14b7d70.webp"
   ],
   "region-bernoise:revisia": [
-   "assets/img/bennoise/p014-1b097f80dd7b.webp",
-   "assets/img/bennoise/p014-e0fcffb078b6.webp"
+   "assets/img/bennoise/p014-1b097f80dd7b.webp"
   ],
   "region-bernoise:aiguilla": [
    "assets/img/bennoise/p002-b9d6d7737e78.webp"
@@ -6398,23 +5313,11 @@
   "sante-2024:bp-conseils": [
    "assets/img/sante-2024-integral/p031-c2b6c329f487.webp"
   ],
-  "sante-2024:arthrex-swiss": [
-   "assets/img/sante-2024-integral/p002-3d3c1ab75319.webp"
-  ],
-  "sante-2024:b-braun-medical": [
-   "assets/img/sante-2024-integral/p034-fc8d813d7eec.webp"
-  ],
-  "sante-2024:d-e-s-systemes-de-securite": [
-   "assets/img/sante-2024-integral/p034-fc8d813d7eec.webp"
-  ],
   "sante-2024:cleanplanet": [
-   "assets/img/sante-2024-integral/p035-092537effaf8.webp",
    "assets/img/sante-2024-integral/p035-eef407cb11f6.webp",
-   "assets/img/sante-2024-integral/p047-092537effaf8.webp",
    "assets/img/sante-2024-integral/p047-eef407cb11f6.webp"
   ],
   "sante-2024:opale-solutions": [
-   "assets/img/sante-2024-integral/p035-092537effaf8.webp",
    "assets/img/sante-2024-integral/p035-eef407cb11f6.webp"
   ],
   "sante-2024:ajs": [
@@ -6425,14 +5328,7 @@
    "assets/img/sante-2024-integral/p039-8bd8077226b9.webp"
   ],
   "sante-2024:ligues-de-sante-du-canton-de-fribourg": [
-   "assets/img/sante-2024-integral/p047-092537effaf8.webp",
    "assets/img/sante-2024-integral/p047-eef407cb11f6.webp"
-  ],
-  "sante-2024:trigonorm": [
-   "assets/img/sante-2024-integral/p044-3d1e6b7b6446.webp"
-  ],
-  "sante-2024:vitalrh": [
-   "assets/img/sante-2024-integral/p045-6ebc3605a50d.webp"
   ],
   "sante-gesundheit:universitatsspital-zurich": [
    "assets/img/web-sante-gesundheit/p007-dbdbcc58fb5d.webp"
@@ -6488,8 +5384,7 @@
   ],
   "sante-gesundheit:helsinn": [
    "assets/img/web-sante-gesundheit/p047-7cdd67733bfd.webp",
-   "assets/img/web-sante-gesundheit/p049-17fdf1a9de30.webp",
-   "assets/img/web-sante-gesundheit/p050-9d224834638a.webp"
+   "assets/img/web-sante-gesundheit/p049-17fdf1a9de30.webp"
   ],
   "sante-gesundheit:jp-muller": [
    "assets/img/web-sante-gesundheit/p052-b163f4f4b4e5.webp",
@@ -6519,9 +5414,6 @@
    "assets/img/web-sommary/p022-8044c12769c6.webp",
    "assets/img/web-sommary/p023-8044c12769c6.webp"
   ],
-  "sommary:ufficio-sviluppo-economico-ticino": [
-   "assets/img/web-sommary/p009-774ba0a4a260.webp"
-  ],
   "sommary:ftaf": [
    "assets/img/web-sommary/p028-9d849b539a1c.webp",
    "assets/img/web-sommary/p029-9d849b539a1c.webp"
@@ -6546,9 +5438,6 @@
   ],
   "sommary:anastasi-ingegneria": [
    "assets/img/web-sommary/p038-8d3aba047afe.webp"
-  ],
-  "sommary:ernst-young-lugano": [
-   "assets/img/web-sommary/p039-99d625c5935e.webp"
   ],
   "sommary:cippa-trasporti": [
    "assets/img/web-sommary/p040-c39995933eaa.webp"
@@ -6590,15 +5479,11 @@
   ],
   "sommary:il-falegname-fabrizio": [
    "assets/img/web-sommary/p058-e9d3509cd6e4.webp",
-   "assets/img/web-sommary/p059-9a55fe7cdeb2.webp",
-   "assets/img/web-sommary/p059-88a97f5a80d1.webp"
+   "assets/img/web-sommary/p059-9a55fe7cdeb2.webp"
   ],
   "sommary:osc-organizzazione-sociopsichiatrica-cantonale": [
    "assets/img/web-sommary/p064-45262f9d949d.webp",
    "assets/img/web-sommary/p065-6456a85f1df4.webp"
-  ],
-  "sommary:pkb-privatbank": [
-   "assets/img/web-sommary/p068-84a567217f1d.webp"
   ],
   "sommary:deposito-franco-doganale-chiasso": [
    "assets/img/web-sommary/p070-6d263009814c.webp",
@@ -6618,186 +5503,134 @@
    "assets/img/web-sommary/p081-c40ded665519.webp"
   ],
   "uvs-suisse-alemanique:stadt-solothurn": [
-   "assets/img/web-uvs-suisse-alemanique/p002-bb141939e420.webp",
    "assets/img/web-uvs-suisse-alemanique/p002-40f18568f4be.webp",
    "assets/img/web-uvs-suisse-alemanique/p003-c6ac93293248.webp"
   ],
   "uvs-suisse-alemanique:solothurner-handelskammer": [
    "assets/img/web-uvs-suisse-alemanique/p004-fa8998c4e3b9.webp",
-   "assets/img/web-uvs-suisse-alemanique/p004-8fd63c6f2afb.webp",
    "assets/img/web-uvs-suisse-alemanique/p005-f6ae2836d809.webp"
   ],
   "uvs-suisse-alemanique:region-solothurn-tourismus": [
    "assets/img/web-uvs-suisse-alemanique/p007-4ba43ae60a4f.webp"
   ],
   "uvs-suisse-alemanique:regio-energie-solothurn": [
-   "assets/img/web-uvs-suisse-alemanique/p074-8fd63c6f2afb.webp",
    "assets/img/web-uvs-suisse-alemanique/p074-88af9492f11b.webp"
   ],
   "uvs-suisse-alemanique:schuldirektion-stadt-solothurn": [
-   "assets/img/web-uvs-suisse-alemanique/p010-8fd63c6f2afb.webp",
    "assets/img/web-uvs-suisse-alemanique/p010-852c8322133c.webp"
   ],
-  "uvs-suisse-alemanique:stadtbauamt-solothurn": [
-   "assets/img/web-uvs-suisse-alemanique/p012-16405054b166.webp"
-  ],
   "uvs-suisse-alemanique:stadt-zuerich-praesidialdepartement": [
-   "assets/img/web-uvs-suisse-alemanique/p014-c1abfdc683e1.webp",
    "assets/img/web-uvs-suisse-alemanique/p014-d7974235981b.webp",
-   "assets/img/web-uvs-suisse-alemanique/p016-8fd63c6f2afb.webp",
-   "assets/img/web-uvs-suisse-alemanique/p016-03a8340a0078.webp"
+   "assets/img/web-uvs-suisse-alemanique/p016-03a8340a0078.webp",
+   "assets/img/web-uvs-suisse-alemanique/p016-12b9a390175e.webp"
   ],
   "uvs-suisse-alemanique:amt-fuer-staedtebau-zuerich": [
-   "assets/img/web-uvs-suisse-alemanique/p014-c1abfdc683e1.webp",
    "assets/img/web-uvs-suisse-alemanique/p014-d7974235981b.webp",
-   "assets/img/web-uvs-suisse-alemanique/p016-8fd63c6f2afb.webp",
-   "assets/img/web-uvs-suisse-alemanique/p016-03a8340a0078.webp"
+   "assets/img/web-uvs-suisse-alemanique/p016-03a8340a0078.webp",
+   "assets/img/web-uvs-suisse-alemanique/p016-12b9a390175e.webp"
   ],
   "uvs-suisse-alemanique:stadtentwicklung-stadt-zuerich": [
-   "assets/img/web-uvs-suisse-alemanique/p016-8fd63c6f2afb.webp",
    "assets/img/web-uvs-suisse-alemanique/p016-03a8340a0078.webp",
    "assets/img/web-uvs-suisse-alemanique/p016-12b9a390175e.webp",
-   "assets/img/web-uvs-suisse-alemanique/p018-c1abfdc683e1.webp"
+   "assets/img/web-uvs-suisse-alemanique/p018-40ce1c6eedd1.webp"
   ],
   "uvs-suisse-alemanique:greater-zurich-area": [
    "assets/img/web-uvs-suisse-alemanique/p019-3d864e1df5b3.webp",
    "assets/img/web-uvs-suisse-alemanique/p019-5ce0b02e7f90.webp",
    "assets/img/web-uvs-suisse-alemanique/p019-62d74db2d1e5.webp",
-   "assets/img/web-uvs-suisse-alemanique/p020-c1abfdc683e1.webp"
+   "assets/img/web-uvs-suisse-alemanique/p020-1d8b3e76c70a.webp"
   ],
   "uvs-suisse-alemanique:stadt-winterthur": [
    "assets/img/web-uvs-suisse-alemanique/p022-16b40426528e.webp"
   ],
   "uvs-suisse-alemanique:amt-fuer-staedtebau-winterthur": [
-   "assets/img/web-uvs-suisse-alemanique/p023-db5b3e43673b.webp",
-   "assets/img/web-uvs-suisse-alemanique/p024-8fd63c6f2afb.webp"
+   "assets/img/web-uvs-suisse-alemanique/p023-db5b3e43673b.webp"
   ],
   "uvs-suisse-alemanique:stadtentwicklung-winterthur": [
-   "assets/img/web-uvs-suisse-alemanique/p026-c1abfdc683e1.webp",
    "assets/img/web-uvs-suisse-alemanique/p026-f9b3dc75f95f.webp",
    "assets/img/web-uvs-suisse-alemanique/p027-a8588d03d240.webp"
   ],
   "uvs-suisse-alemanique:stadt-aarau": [
-   "assets/img/web-uvs-suisse-alemanique/p028-8fd63c6f2afb.webp",
    "assets/img/web-uvs-suisse-alemanique/p028-166137e49937.webp",
    "assets/img/web-uvs-suisse-alemanique/p029-a7b37a6b1fd0.webp",
    "assets/img/web-uvs-suisse-alemanique/p029-11b403b3dd8f.webp"
   ],
   "uvs-suisse-alemanique:wirtschaftsfachstelle-stadt-aarau": [
-   "assets/img/web-uvs-suisse-alemanique/p028-8fd63c6f2afb.webp",
-   "assets/img/web-uvs-suisse-alemanique/p028-166137e49937.webp",
-   "assets/img/web-uvs-suisse-alemanique/p030-8fd63c6f2afb.webp",
-   "assets/img/web-uvs-suisse-alemanique/p031-c1abfdc683e1.webp"
-  ],
-  "uvs-suisse-alemanique:schule-aarau": [
-   "assets/img/web-uvs-suisse-alemanique/p031-c1abfdc683e1.webp"
+   "assets/img/web-uvs-suisse-alemanique/p028-166137e49937.webp"
   ],
   "uvs-suisse-alemanique:aargauische-industrie-und-handelskammer": [
    "assets/img/web-uvs-suisse-alemanique/p033-f40ddd3fd4e2.webp",
-   "assets/img/web-uvs-suisse-alemanique/p034-16405054b166.webp",
    "assets/img/web-uvs-suisse-alemanique/p035-ff3816b424b1.webp"
   ],
   "uvs-suisse-alemanique:stadt-baden-standortmarketing": [
-   "assets/img/web-uvs-suisse-alemanique/p038-8fd63c6f2afb.webp",
    "assets/img/web-uvs-suisse-alemanique/p038-511d620f322f.webp",
-   "assets/img/web-uvs-suisse-alemanique/p039-6b16f3650b3f.webp",
-   "assets/img/web-uvs-suisse-alemanique/p040-8fd63c6f2afb.webp"
+   "assets/img/web-uvs-suisse-alemanique/p039-6b16f3650b3f.webp"
   ],
   "uvs-suisse-alemanique:stadtbuero-stadt-baden": [
-   "assets/img/web-uvs-suisse-alemanique/p038-8fd63c6f2afb.webp",
    "assets/img/web-uvs-suisse-alemanique/p038-511d620f322f.webp",
-   "assets/img/web-uvs-suisse-alemanique/p039-6b16f3650b3f.webp",
-   "assets/img/web-uvs-suisse-alemanique/p040-8fd63c6f2afb.webp"
+   "assets/img/web-uvs-suisse-alemanique/p039-6b16f3650b3f.webp"
   ],
   "uvs-suisse-alemanique:schweizerische-bauschule-aarau": [
-   "assets/img/web-uvs-suisse-alemanique/p042-c1abfdc683e1.webp",
    "assets/img/web-uvs-suisse-alemanique/p042-bc35f5c16da8.webp"
   ],
   "uvs-suisse-alemanique:bbp": [
-   "assets/img/web-uvs-suisse-alemanique/p044-8fd63c6f2afb.webp",
    "assets/img/web-uvs-suisse-alemanique/p044-4f03ed5cfa12.webp",
    "assets/img/web-uvs-suisse-alemanique/p045-9942416df3a2.webp"
   ],
-  "uvs-suisse-alemanique:centris": [
-   "assets/img/web-uvs-suisse-alemanique/p046-16405054b166.webp",
-   "assets/img/web-uvs-suisse-alemanique/p047-16405054b166.webp"
-  ],
-  "uvs-suisse-alemanique:eberhard-bau": [
-   "assets/img/web-uvs-suisse-alemanique/p048-8fd63c6f2afb.webp",
-   "assets/img/web-uvs-suisse-alemanique/p049-8fd63c6f2afb.webp"
-  ],
   "uvs-suisse-alemanique:elex": [
-   "assets/img/web-uvs-suisse-alemanique/p050-8fd63c6f2afb.webp",
    "assets/img/web-uvs-suisse-alemanique/p050-2949467cb744.webp"
   ],
   "uvs-suisse-alemanique:hardturm": [
-   "assets/img/web-uvs-suisse-alemanique/p054-8fd63c6f2afb.webp",
    "assets/img/web-uvs-suisse-alemanique/p054-565fc3b4e8ba.webp",
    "assets/img/web-uvs-suisse-alemanique/p055-2704084e24d5.webp"
   ],
   "uvs-suisse-alemanique:h-net": [
-   "assets/img/web-uvs-suisse-alemanique/p056-66f40bbcb5c0.webp",
-   "assets/img/web-uvs-suisse-alemanique/p056-16405054b166.webp"
+   "assets/img/web-uvs-suisse-alemanique/p056-66f40bbcb5c0.webp"
   ],
   "uvs-suisse-alemanique:hoermann-schweiz": [
-   "assets/img/web-uvs-suisse-alemanique/p058-c1abfdc683e1.webp",
-   "assets/img/web-uvs-suisse-alemanique/p058-2c7e192bb0bd.webp",
-   "assets/img/web-uvs-suisse-alemanique/p059-c1abfdc683e1.webp"
+   "assets/img/web-uvs-suisse-alemanique/p058-2c7e192bb0bd.webp"
   ],
   "uvs-suisse-alemanique:ibaarau": [
    "assets/img/web-uvs-suisse-alemanique/p061-8477de635460.webp",
    "assets/img/web-uvs-suisse-alemanique/p061-f44ad6fe62b0.webp",
-   "assets/img/web-uvs-suisse-alemanique/p062-8fd63c6f2afb.webp",
-   "assets/img/web-uvs-suisse-alemanique/p062-0ed0aec5e3b4.webp"
+   "assets/img/web-uvs-suisse-alemanique/p062-0ed0aec5e3b4.webp",
+   "assets/img/web-uvs-suisse-alemanique/p063-c0ccfee8b015.webp"
   ],
   "uvs-suisse-alemanique:imp-bautest": [
-   "assets/img/web-uvs-suisse-alemanique/p064-8fd63c6f2afb.webp",
    "assets/img/web-uvs-suisse-alemanique/p064-2430448d1496.webp",
    "assets/img/web-uvs-suisse-alemanique/p064-652986076fce.webp",
-   "assets/img/web-uvs-suisse-alemanique/p064-405cd04af73d.webp"
-  ],
-  "uvs-suisse-alemanique:impuls-mittelschule": [
-   "assets/img/web-uvs-suisse-alemanique/p066-8fd63c6f2afb.webp",
-   "assets/img/web-uvs-suisse-alemanique/p067-8fd63c6f2afb.webp"
+   "assets/img/web-uvs-suisse-alemanique/p064-405cd04af73d.webp",
+   "assets/img/web-uvs-suisse-alemanique/p065-aad7b12d3e80.webp"
   ],
   "uvs-suisse-alemanique:jura-management": [
-   "assets/img/web-uvs-suisse-alemanique/p068-8fd63c6f2afb.webp",
    "assets/img/web-uvs-suisse-alemanique/p068-8cbb5bb9bae9.webp",
    "assets/img/web-uvs-suisse-alemanique/p068-6e08d7380e23.webp"
   ],
   "uvs-suisse-alemanique:hastag-zuerich": [
-   "assets/img/web-uvs-suisse-alemanique/p068-8fd63c6f2afb.webp",
    "assets/img/web-uvs-suisse-alemanique/p068-8cbb5bb9bae9.webp",
    "assets/img/web-uvs-suisse-alemanique/p068-6e08d7380e23.webp",
    "assets/img/web-uvs-suisse-alemanique/p069-2e06b513ed04.webp"
   ],
   "uvs-suisse-alemanique:meworla": [
-   "assets/img/web-uvs-suisse-alemanique/p070-8fd63c6f2afb.webp",
    "assets/img/web-uvs-suisse-alemanique/p070-686817147dba.webp",
    "assets/img/web-uvs-suisse-alemanique/p070-47cb51574882.webp",
-   "assets/img/web-uvs-suisse-alemanique/p071-de8509798f0e.webp"
+   "assets/img/web-uvs-suisse-alemanique/p071-de8509798f0e.webp",
+   "assets/img/web-uvs-suisse-alemanique/p071-d438ed16ac15.webp"
   ],
   "uvs-suisse-alemanique:neosys": [
-   "assets/img/web-uvs-suisse-alemanique/p072-78a92b3f89f7.webp",
    "assets/img/web-uvs-suisse-alemanique/p072-9683abd4f599.webp",
-   "assets/img/web-uvs-suisse-alemanique/p073-78a92b3f89f7.webp",
    "assets/img/web-uvs-suisse-alemanique/p073-8ebf280e1573.webp"
   ],
   "uvs-suisse-alemanique:amt-fuer-kultur-und-sport-solothurn": [
    "assets/img/web-uvs-suisse-alemanique/p076-36c482933737.webp"
   ],
   "uvs-suisse-alemanique:hochschule-fuer-wirtschaft-fhnw": [
-   "assets/img/web-uvs-suisse-alemanique/p080-8fd63c6f2afb.webp",
    "assets/img/web-uvs-suisse-alemanique/p080-e6dd4df5d14a.webp",
    "assets/img/web-uvs-suisse-alemanique/p081-5c4c2d4ce5c0.webp"
   ],
   "uvs-valais-neuchatel:stadt-solothurn": [
-   "assets/img/web-uvs-valais-neuchatel/p002-bb141939e420.webp",
    "assets/img/web-uvs-valais-neuchatel/p002-40f18568f4be.webp",
    "assets/img/web-uvs-valais-neuchatel/p003-c6ac93293248.webp"
-  ],
-  "uvs-valais-neuchatel:ville-de-sion": [
-   "assets/img/web-uvs-valais-neuchatel/p004-c1abfdc683e1.webp"
   ],
   "uvs-valais-neuchatel:bativa": [
    "assets/img/web-uvs-valais-neuchatel/p012-aa1d8dc3efcd.webp",
@@ -6810,7 +5643,6 @@
    "assets/img/web-uvs-valais-neuchatel/p014-a7893d56b9d3.webp"
   ],
   "uvs-valais-neuchatel:css-assurance-sion": [
-   "assets/img/web-uvs-valais-neuchatel/p015-37e266667bdb.webp",
    "assets/img/web-uvs-valais-neuchatel/p015-84ee434f9443.webp"
   ],
   "uvs-valais-neuchatel:editech": [
@@ -6828,26 +5660,20 @@
    "assets/img/web-uvs-valais-neuchatel/p021-7592bd02f63a.webp"
   ],
   "uvs-valais-neuchatel:valresidence": [
-   "assets/img/web-uvs-valais-neuchatel/p022-d479d83c71fc.webp",
-   "assets/img/web-uvs-valais-neuchatel/p022-794a9ec64fe1.webp",
-   "assets/img/web-uvs-valais-neuchatel/p022-6dc0d89f9c1c.webp"
+   "assets/img/web-uvs-valais-neuchatel/p022-d479d83c71fc.webp"
   ],
   "uvs-valais-neuchatel:swisspro-sr": [
-   "assets/img/web-uvs-valais-neuchatel/p023-794a9ec64fe1.webp",
    "assets/img/web-uvs-valais-neuchatel/p023-eccef826f5d2.webp"
   ],
   "uvs-valais-neuchatel:ville-de-martigny": [
-   "assets/img/web-uvs-valais-neuchatel/p024-8fd63c6f2afb.webp",
    "assets/img/web-uvs-valais-neuchatel/p024-48c70515118d.webp",
    "assets/img/web-uvs-valais-neuchatel/p024-e9aee43d631f.webp"
   ],
   "uvs-valais-neuchatel:idiap": [
-   "assets/img/web-uvs-valais-neuchatel/p024-8fd63c6f2afb.webp",
    "assets/img/web-uvs-valais-neuchatel/p024-48c70515118d.webp",
    "assets/img/web-uvs-valais-neuchatel/p024-e9aee43d631f.webp"
   ],
   "uvs-valais-neuchatel:crem": [
-   "assets/img/web-uvs-valais-neuchatel/p024-8fd63c6f2afb.webp",
    "assets/img/web-uvs-valais-neuchatel/p024-48c70515118d.webp",
    "assets/img/web-uvs-valais-neuchatel/p024-e9aee43d631f.webp"
   ],
@@ -6861,15 +5687,10 @@
    "assets/img/web-uvs-valais-neuchatel/p032-0c6f42d34f26.webp",
    "assets/img/web-uvs-valais-neuchatel/p032-ac1cd29b082f.webp"
   ],
-  "uvs-valais-neuchatel:ville-de-sierre": [
-   "assets/img/web-uvs-valais-neuchatel/p034-8fd63c6f2afb.webp"
-  ],
   "uvs-valais-neuchatel:va-zwissig": [
-   "assets/img/web-uvs-valais-neuchatel/p042-c1abfdc683e1.webp",
    "assets/img/web-uvs-valais-neuchatel/p042-a815017bc0e7.webp"
   ],
   "uvs-valais-neuchatel:banque-raiffeisen-sierre-et-region": [
-   "assets/img/web-uvs-valais-neuchatel/p043-8fd63c6f2afb.webp",
    "assets/img/web-uvs-valais-neuchatel/p043-41408d6ac35e.webp",
    "assets/img/web-uvs-valais-neuchatel/p043-2417a4450706.webp"
   ],
@@ -6877,31 +5698,19 @@
    "assets/img/web-uvs-valais-neuchatel/p044-43518b6e9331.webp"
   ],
   "uvs-valais-neuchatel:ville-de-neuchatel": [
-   "assets/img/web-uvs-valais-neuchatel/p049-ee4808d8f74b.webp",
-   "assets/img/web-uvs-valais-neuchatel/p050-c1abfdc683e1.webp",
-   "assets/img/web-uvs-valais-neuchatel/p051-c1abfdc683e1.webp"
+   "assets/img/web-uvs-valais-neuchatel/p049-ee4808d8f74b.webp"
   ],
   "uvs-valais-neuchatel:ville-de-neuchatel-urbanisme-economie-environnement": [
-   "assets/img/web-uvs-valais-neuchatel/p047-16405054b166.webp",
    "assets/img/web-uvs-valais-neuchatel/p047-eac1243870a2.webp"
   ],
   "uvs-valais-neuchatel:ville-de-neuchatel-education-sante-mobilite": [
-   "assets/img/web-uvs-valais-neuchatel/p048-c1abfdc683e1.webp",
    "assets/img/web-uvs-valais-neuchatel/p048-ada630e6a6c0.webp",
-   "assets/img/web-uvs-valais-neuchatel/p049-ee4808d8f74b.webp",
-   "assets/img/web-uvs-valais-neuchatel/p050-c1abfdc683e1.webp"
+   "assets/img/web-uvs-valais-neuchatel/p049-ee4808d8f74b.webp"
   ],
   "uvs-valais-neuchatel:ville-de-neuchatel-securite-infrastructures-energies": [
-   "assets/img/web-uvs-valais-neuchatel/p049-ee4808d8f74b.webp",
-   "assets/img/web-uvs-valais-neuchatel/p050-c1abfdc683e1.webp",
-   "assets/img/web-uvs-valais-neuchatel/p051-c1abfdc683e1.webp"
-  ],
-  "uvs-valais-neuchatel:ville-de-neuchatel-culture-sports-tourisme": [
-   "assets/img/web-uvs-valais-neuchatel/p051-c1abfdc683e1.webp"
+   "assets/img/web-uvs-valais-neuchatel/p049-ee4808d8f74b.webp"
   ],
   "uvs-valais-neuchatel:adax": [
-   "assets/img/web-uvs-valais-neuchatel/p052-da3d5b1a0dd2.webp",
-   "assets/img/web-uvs-valais-neuchatel/p052-8fd63c6f2afb.webp",
    "assets/img/web-uvs-valais-neuchatel/p053-b3500de5317c.webp",
    "assets/img/web-uvs-valais-neuchatel/p053-30aa1fa22b6b.webp"
   ],
@@ -6918,29 +5727,11 @@
   "uvs-valais-neuchatel:endetec-neroxis": [
    "assets/img/web-uvs-valais-neuchatel/p058-c18e1ea4fd65.webp"
   ],
-  "uvs-valais-neuchatel:groupe-e": [
-   "assets/img/web-uvs-valais-neuchatel/p059-8fd63c6f2afb.webp"
-  ],
   "uvs-valais-neuchatel:revaz": [
-   "assets/img/web-uvs-valais-neuchatel/p002-bb141939e420.webp",
    "assets/img/web-uvs-valais-neuchatel/p002-40f18568f4be.webp"
   ],
   "zurich:stadt-zurich": [
-   "assets/img/web-zurich/p002-c1abfdc683e1.webp",
    "assets/img/web-zurich/p002-f12091388072.webp"
-  ],
-  "zurich:zurcher-handelskammer": [
-   "assets/img/web-zurich/p011-16405054b166.webp",
-   "assets/img/web-zurich/p012-16405054b166.webp",
-   "assets/img/web-zurich/p013-16405054b166.webp"
-  ],
-  "zurich:volkswirtschaftsdirektion-kanton-zurich": [
-   "assets/img/web-zurich/p008-16405054b166.webp",
-   "assets/img/web-zurich/p009-8fd63c6f2afb.webp"
-  ],
-  "zurich:aebi-kuehni": [
-   "assets/img/web-zurich/p014-8fd63c6f2afb.webp",
-   "assets/img/web-zurich/p015-8fd63c6f2afb.webp"
   ],
   "zurich:atelier-10-8": [
    "assets/img/web-zurich/p016-ada63b3c1fd3.webp",
@@ -6950,36 +5741,14 @@
   ],
   "zurich:atelier-ww": [
    "assets/img/web-zurich/p020-a6694f9c22e7.webp",
-   "assets/img/web-zurich/p022-78a92b3f89f7.webp",
-   "assets/img/web-zurich/p022-f1074b31ca02.webp",
-   "assets/img/web-zurich/p022-c1abfdc683e1.webp"
-  ],
-  "zurich:dr-j-grob-partner": [
-   "assets/img/web-zurich/p024-8fd63c6f2afb.webp",
-   "assets/img/web-zurich/p025-8fd63c6f2afb.webp"
-  ],
-  "zurich:eberhard-bau": [
-   "assets/img/web-zurich/p026-8fd63c6f2afb.webp",
-   "assets/img/web-zurich/p027-8fd63c6f2afb.webp"
+   "assets/img/web-zurich/p022-f1074b31ca02.webp"
   ],
   "zurich:elex": [
-   "assets/img/web-zurich/p028-8fd63c6f2afb.webp",
-   "assets/img/web-zurich/p029-8fd63c6f2afb.webp",
    "assets/img/web-zurich/p029-0db5ef6bdb56.webp"
   ],
   "zurich:fabrimex-systems": [
-   "assets/img/web-zurich/p030-8fd63c6f2afb.webp",
    "assets/img/web-zurich/p030-e29e91b8c6c0.webp",
-   "assets/img/web-zurich/p031-8fd63c6f2afb.webp",
    "assets/img/web-zurich/p031-dee5da55d981.webp"
-  ],
-  "zurich:fluckiger-bosshard": [
-   "assets/img/web-zurich/p032-8fd63c6f2afb.webp",
-   "assets/img/web-zurich/p033-8fd63c6f2afb.webp"
-  ],
-  "zurich:gebruder-loepfe": [
-   "assets/img/web-zurich/p034-8fd63c6f2afb.webp",
-   "assets/img/web-zurich/p035-8fd63c6f2afb.webp"
   ],
   "zurich:hardturm": [
    "assets/img/web-zurich/p037-d68807dd8e9b.webp",
@@ -6987,87 +5756,55 @@
    "assets/img/web-zurich/p038-07898e070684.webp",
    "assets/img/web-zurich/p038-fa8a7266ee61.webp"
   ],
-  "zurich:havells-sylvania": [
-   "assets/img/web-zurich/p040-8fd63c6f2afb.webp",
-   "assets/img/web-zurich/p041-8fd63c6f2afb.webp"
-  ],
-  "zurich:h-net": [
-   "assets/img/web-zurich/p042-16405054b166.webp",
-   "assets/img/web-zurich/p043-16405054b166.webp"
-  ],
-  "zurich:imt-masken-und-teilungen": [
-   "assets/img/web-zurich/p044-c1abfdc683e1.webp",
-   "assets/img/web-zurich/p045-c1abfdc683e1.webp"
-  ],
-  "zurich:itpc": [
-   "assets/img/web-zurich/p046-8fd63c6f2afb.webp",
-   "assets/img/web-zurich/p047-8fd63c6f2afb.webp"
-  ],
   "zurich:jakob-stiefel": [
-   "assets/img/web-zurich/p048-8fd63c6f2afb.webp",
-   "assets/img/web-zurich/p049-8fd63c6f2afb.webp",
    "assets/img/web-zurich/p049-34c1ad424b5a.webp"
   ],
   "zurich:klinik-susenberg": [
    "assets/img/web-zurich/p051-f4478e727abf.webp",
    "assets/img/web-zurich/p051-53ae67ad33dd.webp",
-   "assets/img/web-zurich/p052-8fd63c6f2afb.webp",
-   "assets/img/web-zurich/p052-69b3cbfbf1b4.webp"
+   "assets/img/web-zurich/p052-69b3cbfbf1b4.webp",
+   "assets/img/web-zurich/p052-d59cca3239d7.webp"
   ],
   "zurich:lernpaedagogisches-zentrum": [
    "assets/img/web-zurich/p055-8f97abcf7840.webp",
-   "assets/img/web-zurich/p056-8fd63c6f2afb.webp",
    "assets/img/web-zurich/p056-43c0a6523ec3.webp",
-   "assets/img/web-zurich/p057-bc6be3849986.webp"
-  ],
-  "zurich:luzi": [
-   "assets/img/web-zurich/p058-8fd63c6f2afb.webp",
-   "assets/img/web-zurich/p059-8fd63c6f2afb.webp"
+   "assets/img/web-zurich/p057-bc6be3849986.webp",
+   "assets/img/web-zurich/p057-9f9ee0540491.webp"
   ],
   "zurich:medizinisches-zentrum-roemerhof": [
-   "assets/img/web-zurich/p060-16405054b166.webp",
    "assets/img/web-zurich/p060-8a6b2d01ae4a.webp",
-   "assets/img/web-zurich/p061-16405054b166.webp",
    "assets/img/web-zurich/p061-ab92e151fe0c.webp"
   ],
   "zurich:meworla": [
-   "assets/img/web-zurich/p062-16405054b166.webp",
-   "assets/img/web-zurich/p063-8fd63c6f2afb.webp",
    "assets/img/web-zurich/p063-d438ed16ac15.webp"
   ],
   "zurich:nilan": [
-   "assets/img/web-zurich/p064-16405054b166.webp",
    "assets/img/web-zurich/p064-a5559f954917.webp",
-   "assets/img/web-zurich/p065-8fd63c6f2afb.webp",
    "assets/img/web-zurich/p065-bcedaceff56f.webp"
   ],
   "zurich:poyry-schweiz": [
-   "assets/img/web-zurich/p066-16405054b166.webp",
    "assets/img/web-zurich/p066-5d7074572ba7.webp",
    "assets/img/web-zurich/p066-36f4b862a1b2.webp",
-   "assets/img/web-zurich/p067-af5fc5b0b409.webp"
+   "assets/img/web-zurich/p067-af5fc5b0b409.webp",
+   "assets/img/web-zurich/p067-1ea8048d4dd2.webp"
   ],
   "zurich:spannverbund-bausysteme": [
    "assets/img/web-zurich/p070-c164d5cad57c.webp",
-   "assets/img/web-zurich/p070-16405054b166.webp",
    "assets/img/web-zurich/p072-aece7c6b5c50.webp",
-   "assets/img/web-zurich/p072-16405054b166.webp"
+   "assets/img/web-zurich/p072-d55994a347ef.webp"
   ],
   "zurich:swissmem": [
-   "assets/img/web-zurich/p074-8fd63c6f2afb.webp",
    "assets/img/web-zurich/p074-44bff7cdda01.webp",
-   "assets/img/web-zurich/p075-c1abfdc683e1.webp",
    "assets/img/web-zurich/p075-5e217711ab2e.webp"
   ],
   "zurich:swissmill": [
-   "assets/img/web-zurich/p076-2811b5af2153.webp",
-   "assets/img/web-zurich/p076-c1abfdc683e1.webp"
+   "assets/img/web-zurich/p076-2811b5af2153.webp"
   ],
   "zurich:universitatsspital-zurich": [
    "assets/img/web-zurich/p079-6b3d9e0da03a.webp",
    "assets/img/web-zurich/p079-8a550fd628ea.webp",
    "assets/img/web-zurich/p080-173a644d1a93.webp",
-   "assets/img/web-zurich/p080-8fd63c6f2afb.webp"
+   "assets/img/web-zurich/p081-acf018236e6c.webp"
   ]
  }
 }
