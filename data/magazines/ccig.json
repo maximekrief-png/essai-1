@@ -1,0 +1,36 @@
+{
+  "slug": "ccig",
+  "title": "Swiss Knowhow – CCIG de Genève, PME en Suisse romande (mai 2013)",
+  "series": "Économie régionale",
+  "year": 2013,
+  "region": "Genève, Suisse romande",
+  "languages": ["fr"],
+  "description": "Numéro de mai 2013 consacré à la Chambre de commerce, d'industrie et des services de Genève (CCIG) et aux PME de Suisse romande. Le fichier disponible ne contient que la couverture, barrée de la mention « Non disponible pour l'instant » : le contenu rédactionnel de l'édition n'est pas accessible.",
+  "themes": ["economie"],
+  "files": [
+    { "driveId": "1xbK-GnUP1EDOo8itmUjYs2TDilU92vK7", "name": "CCIG.pdf", "sizeMB": 1.9, "label": "Couverture" }
+  ],
+  "pdfLocal": true,
+  "articles": [],
+  "companies": [
+    {
+      "slug": "ccig",
+      "name": "CCIG – Chambre de commerce, d'industrie et des services de Genève",
+      "sector": "Chambre de commerce",
+      "themes": ["economie"],
+      "description": "Organisation faîtière de l'économie genevoise, la CCIG est le sujet principal de ce numéro de mai 2013 consacré aux PME de Suisse romande. Seule la couverture du magazine est disponible ; aucune coordonnée n'y figure.",
+      "address": "",
+      "postalCode": "",
+      "city": "Genève",
+      "canton": "GE",
+      "country": "Suisse",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "contacts": [],
+      "page": "",
+      "pdfPages": [1],
+      "advertiserOnly": false
+    }
+  ]
+}

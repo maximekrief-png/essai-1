@@ -1,0 +1,2627 @@
+{
+  "slug": "geneve-la-cote",
+  "title": "Swiss Knowhow – Genève et La Côte (janvier 2015)",
+  "series": "Économie régionale",
+  "year": 2015,
+  "region": "Genève et La Côte vaudoise",
+  "languages": [
+    "fr",
+    "de"
+  ],
+  "description": "Numéro de janvier 2015 consacré au bassin genevois et à La Côte vaudoise. Il réunit les interviews d'élus de Genève, Meyrin, Carouge, Lancy et Plan-les-Ouates, puis de Nyon, Morges, Gland, Aubonne et Cossonay, ainsi que des organismes régionaux ARCAM et Régionyon. Une série de publireportages présente des PME genevoises de la construction, de l'ingénierie, des services et de l'immobilier. Le numéro s'ouvre sur un entretien en allemand avec le syndic de Soleure.",
+  "themes": [
+    "collectivites",
+    "territoire",
+    "construction",
+    "architecture",
+    "economie",
+    "mobilite"
+  ],
+  "files": [
+    {
+      "driveId": "1O9d1xl38mIDCbotWjtl8ak-dR6aiVvK1",
+      "name": "GENEVE-ET-LA-COTE.pdf",
+      "sizeMB": 16.0,
+      "label": "Édition web"
+    }
+  ],
+  "pdfLocal": false,
+  "articles": [
+    {
+      "slug": "geneve-la-cote-solothurn-kurt-fluri",
+      "title": "Stadt Solothurn – « Solothurn schaut auf eine äusserst erfreuliche Dekade zurück »",
+      "subtitle": "Interview mit Nationalrat Kurt Fluri, Stadtpräsident von Solothurn und Präsident des Schweizerischen Städteverbands",
+      "type": "interview",
+      "page": "04-05",
+      "pdfPages": [],
+      "summary": "Le président de la Ville de Soleure dresse le bilan d'une décennie favorable : comptes positifs entre 2000 et 2012, fonds propres d'environ 30 millions, essor comme centre de congrès et place culturelle. La population, longtemps stable, remonte à 17 000 habitants, mais la ville ne peut plus croître que par densification. Kurt Fluri détaille la politique culturelle à trois piliers (institutions municipales, soutien aux Journées cinématographiques et littéraires, attitude ouverte envers les projets), le projet de fusion avec quatre communes voisines, la révision de l'aménagement local et les atouts économiques de la région. Il présente enfin les objectifs de l'Union des villes suisses qu'il préside depuis 2013.",
+      "quote": "Der Städteverband ist die Stimme der urbanen Schweiz.",
+      "themes": [
+        "collectivites",
+        "territoire"
+      ],
+      "region": "Soleure",
+      "language": "de",
+      "people": [
+        {
+          "name": "Kurt Fluri",
+          "role": "Stadtpräsident de Soleure, conseiller national, président de l'Union des villes suisses"
+        }
+      ],
+      "companies": [
+        "stadt-solothurn"
+      ]
+    },
+    {
+      "slug": "geneve-la-cote-geneve-antonio-hodgers",
+      "title": "Canton de Genève – Corriger le mal-développement de Genève",
+      "subtitle": "Interview d'Antonio Hodgers, conseiller d'Etat chargé du DALE",
+      "type": "interview",
+      "page": "08",
+      "pdfPages": [],
+      "summary": "Le conseiller d'Etat genevois chargé de l'aménagement, du logement et de l'énergie explique comment il veut rééquilibrer l'agglomération : la croissance économique n'a pas été suivie par le logement, si bien qu'un actif sur trois réside hors du canton. Les dix grands projets prioritaires, dont le vaste secteur Praille-Acacias-Vernets, misent sur la densification autour des transports publics avec 30 à 50 % de logements d'utilité publique. Antonio Hodgers évoque une fondation publique-privée pour accélérer le remembrement foncier, sa politique en faveur des coopératives d'habitation, la libération de deux millions de m² à bâtir et un fonds de péréquation entre communes qui construisent beaucoup et celles qui construisent peu.",
+      "quote": "C'est ce mal-développement que je souhaite corriger en optant pour une densification autour des axes de transport.",
+      "themes": [
+        "collectivites",
+        "territoire",
+        "architecture"
+      ],
+      "region": "Genève",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Antonio Hodgers",
+          "role": "Conseiller d'Etat chargé du DALE"
+        }
+      ],
+      "companies": [
+        "dale-geneve"
+      ]
+    },
+    {
+      "slug": "geneve-la-cote-meyrin-jean-marc-devaud",
+      "title": "Meyrin – Développer en restant maîtres",
+      "subtitle": "Interview de M. Jean-Marc Devaud, conseiller administratif et maire de la Ville de Meyrin",
+      "type": "interview",
+      "page": "09",
+      "pdfPages": [],
+      "summary": "Grâce à une décennie d'excédents fiscaux d'une dizaine de millions par an, Meyrin a effacé sa dette tout en finançant patinoire, stade et rénovation de Forum Meyrin. Son maire insiste pourtant sur la prudence : l'écoquartier des Vergers, les surélévations et d'autres projets porteront la commune vers 30 000 habitants, et le plan d'investissements atteint 476 millions de francs (école, crèches, bassin de rétention). Jean-Marc Devaud souligne aussi la mutation de la zone industrielle partagée avec Vernier et Satigny, et le rôle des 83 associations locales qui préservent l'âme de la commune.",
+      "quote": "Si on veut une ville qui vit, il faut un monde associatif dynamique.",
+      "themes": [
+        "collectivites",
+        "territoire"
+      ],
+      "region": "Meyrin",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Jean-Marc Devaud",
+          "role": "Conseiller administratif en charge des finances, maire 2013-2014"
+        }
+      ],
+      "companies": [
+        "ville-de-meyrin"
+      ]
+    },
+    {
+      "slug": "geneve-la-cote-carouge-nicolas-walder",
+      "title": "Carouge – Une qualité de vie à préserver",
+      "subtitle": "Interview de Nicolas Walder, conseiller administratif de la Ville de Carouge",
+      "type": "interview",
+      "page": "10",
+      "pdfPages": [],
+      "summary": "La cité sarde s'apprête à passer d'environ 21 000 à 33 000 habitants en une trentaine d'années, notamment avec 40 % des logements du projet Praille-Acacias-Vernets prévus sur son territoire. Le conseiller administratif chargé de l'aménagement, de la mobilité et des travaux veut faire de cette croissance imposée une occasion d'améliorer le cadre de vie : anticipation des solutions de transit, plan d'utilisation du sol pour garder artisans et commerces dans le Vieux-Carouge face à la spéculation, requalification du quartier nord, création d'un parc de 70 000 m² à la Praille et remise à ciel ouvert de la Drize.",
+      "quote": "Nous avons la responsabilité de faire que, dans 50 ans, Carouge soit toujours aussi festive et chaleureuse.",
+      "themes": [
+        "collectivites",
+        "territoire"
+      ],
+      "region": "Carouge",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Nicolas Walder",
+          "role": "Conseiller administratif (aménagement et urbanisme, environnement et mobilité, travaux et voirie)"
+        }
+      ],
+      "companies": [
+        "ville-de-carouge"
+      ]
+    },
+    {
+      "slug": "geneve-la-cote-plan-les-ouates-fabienne-monbaron",
+      "title": "Plan-les-Ouates – Commune aux mille visages",
+      "subtitle": "Interview de Mme Fabienne Monbaron, conseillère administrative de la ville de Plan-les-Ouates",
+      "type": "interview",
+      "page": "11",
+      "pdfPages": [],
+      "summary": "Entre champs de cardons, forêts, manufactures horlogères de luxe et entreprises biotech, Plan-les-Ouates offre un paysage très contrasté. Devenue ville en 2010, la commune doit accueillir environ 1 700 logements supplémentaires dans les secteurs La Chapelle-Les Sciers et des Cherpines, ce qui implique deux écoles de 24 classes et de nombreux équipements. Sa zone industrielle procure autant d'emplois que d'habitants et des ressources confortables, mais aussi un trafic pendulaire important, d'où une centrale de mobilité et un système de covoiturage avec les entreprises. La maire insiste sur la maîtrise de l'aménagement et sur la vitalité associative.",
+      "quote": "Nous tenons à garder la haute main sur les projets d'aménagement.",
+      "themes": [
+        "collectivites",
+        "territoire"
+      ],
+      "region": "Plan-les-Ouates",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Fabienne Monbaron",
+          "role": "Conseillère administrative, maire 2013-2014"
+        }
+      ],
+      "companies": [
+        "commune-de-plan-les-ouates"
+      ]
+    },
+    {
+      "slug": "geneve-la-cote-lancy-francois-lance",
+      "title": "Lancy – Partenaire du développement du canton",
+      "subtitle": "Interview de M. François Lance, conseiller administratif de la Ville de Lancy",
+      "type": "interview",
+      "page": "12",
+      "pdfPages": [],
+      "summary": "Passée de 6 000 habitants dans les années 1960 à près de 30 000, Lancy poursuit sa croissance. La commune accueillera deux des cinq gares de la ligne CEVA (Carouge-Bachet et Lancy-Pont-Rouge), qui devraient désengorger ses routes, et a renforcé sa politique de stationnement. François Lance décrit une ville qui se veut partenaire du développement du Grand Genève tout en gardant son identité, portée par un tissu associatif riche et un journal communal. Une quarantaine de millions de francs sont investis chaque année dans les écoles, crèches, maisons de quartier et un nouveau bâtiment administratif.",
+      "quote": "Nous sommes partenaires du développement du canton et du Grand Genève, tout en essayant de conserver notre âme et notre qualité de vie.",
+      "themes": [
+        "collectivites",
+        "territoire",
+        "mobilite"
+      ],
+      "region": "Lancy",
+      "language": "fr",
+      "people": [
+        {
+          "name": "François Lance",
+          "role": "Conseiller administratif"
+        }
+      ],
+      "companies": [
+        "ville-de-lancy"
+      ]
+    },
+    {
+      "slug": "geneve-la-cote-meyrin-les-vergers",
+      "title": "Les Vergers, 1er quartier Minergie A de Suisse",
+      "subtitle": "Interview de Philippe Maag, chef de projet Vergers à la Ville de Meyrin",
+      "type": "interview",
+      "page": "13",
+      "pdfPages": [],
+      "summary": "Le chef de projet présente l'écoquartier des Vergers à Meyrin : 1 300 logements et une trentaine de bâtiments pour quelque 3 000 habitants sur 16 hectares, avec école, crèche, commerces et 1 250 places de parking souterrain. La commune, propriétaire de la moitié des droits à bâtir, a confié ses parcelles à sept coopératives et une fondation, et imposé des concours d'architecture. Le concept énergétique réutilise d'anciennes conduites d'eau du CERN pour chauffer et rafraîchir le quartier, dont tous les bâtiments visent le label Minergie A. Mobilité douce, zone 20 et appel à projets pour les rez-de-chaussée complètent le dispositif.",
+      "quote": "",
+      "themes": [
+        "architecture",
+        "energie",
+        "territoire"
+      ],
+      "region": "Meyrin",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Philippe Maag",
+          "role": "Chef de service adjoint UTE, chef de projet Vergers"
+        }
+      ],
+      "companies": [
+        "ville-de-meyrin"
+      ]
+    },
+    {
+      "slug": "geneve-la-cote-meyrin-dynamisme-economique",
+      "title": "Meyrin au centre du dynamisme économique régional",
+      "subtitle": "Stratégie économique, grand projet ZIMEYSAVER et Meyrin Economic Forum",
+      "type": "dossier",
+      "page": "14-15",
+      "pdfPages": [],
+      "summary": "Avec quelque 2 000 entreprises et 26 000 emplois, Meyrin s'affirme comme pôle économique du Grand Genève, porté par l'aéroport et des acteurs comme le CERN. La Ville a adopté en 2012 une stratégie centrée sur sept pôles d'excellence, le soutien aux PME et la mise en réseau. L'article détaille le grand projet ZIMEYSAVER, qui vise à requalifier les zones industrielles de Meyrin, Satigny et Vernier (380 hectares, plus de 1 100 entreprises) d'ici 2030, les réalisations d'aménagement (tram, tranchée couverte, écoquartier, réseau séparatif) et la deuxième édition du Meyrin Economic Forum consacrée à la sécurité des entreprises.",
+      "quote": "",
+      "themes": [
+        "economie",
+        "territoire",
+        "industrie"
+      ],
+      "region": "Meyrin",
+      "language": "fr",
+      "people": [
+        {
+          "name": "M. Tschudi",
+          "role": "Conseiller administratif de Meyrin (urbanisme et sécurité)"
+        },
+        {
+          "name": "M. Maudet",
+          "role": "Conseiller d'Etat, chef du département de la sécurité et de l'économie"
+        },
+        {
+          "name": "Mme Noël",
+          "role": "Déléguée aux affaires économiques de la ville de Meyrin"
+        }
+      ],
+      "companies": [
+        "ville-de-meyrin"
+      ]
+    },
+    {
+      "slug": "geneve-la-cote-amstein-walthert",
+      "title": "Amstein+Walthert Genève SA – Ingénieurs-conseils en technique du bâtiment et consulting",
+      "subtitle": "",
+      "type": "publireportage",
+      "page": "16-17",
+      "pdfPages": [],
+      "summary": "Présent à Genève depuis 1981, le bureau genevois du groupe Amstein+Walthert (plus de 700 collaborateurs en Suisse) compte 75 personnes. Il couvre le consulting (planification énergétique territoriale, gestion environnementale, BIM), la maîtrise de l'énergie et la physique du bâtiment, ainsi que l'ingénierie classique : chauffage, ventilation, climatisation, sanitaire, électricité, éclairagisme, informatique, sécurité et automatisme. Parmi ses références figurent l'extension du siège de l'UICN à Gland (Minergie P ECO, LEED Platinum), la rénovation d'Allianz Suisse au Petit-Saconnex et celle de la gare Cornavin.",
+      "quote": "",
+      "themes": [
+        "architecture",
+        "energie",
+        "construction"
+      ],
+      "region": "Genève",
+      "language": "fr",
+      "people": [],
+      "companies": [
+        "amstein-walthert-geneve"
+      ]
+    },
+    {
+      "slug": "geneve-la-cote-answer",
+      "title": "ANSWER SA",
+      "subtitle": "Solutions de consolidation de données financières et cybersécurité",
+      "type": "publireportage",
+      "page": "18",
+      "pdfPages": [],
+      "summary": "Société genevoise basée à Plan-les-Ouates, ANSWER conçoit des solutions d'analyse et de consolidation de données financières ou industrielles et intervient en cybersécurité. Sa division Software Factory développe des solutions sur mesure dans les environnements SharePoint et Business Intelligence ; la division IT Security propose une approche par projet pour comprendre et traiter les risques informatiques ; la division Strategic Outsourcing externalise la consolidation d'actifs grâce au logiciel maison ATRIUM. Forte de quinze ans d'expérience, l'entreprise s'adresse à la finance, à l'industrie, aux organisations publiques et aux multinationales.",
+      "quote": "",
+      "themes": [
+        "economie",
+        "formation"
+      ],
+      "region": "Plan-les-Ouates",
+      "language": "fr",
+      "people": [],
+      "companies": [
+        "answer"
+      ]
+    },
+    {
+      "slug": "geneve-la-cote-carouge-residences-personnes-agees",
+      "title": "Carouge – Vieillir dans les meilleures conditions",
+      "subtitle": "Résidence Carouge-Centre et Résidence Les Pervenches",
+      "type": "publireportage",
+      "page": "19",
+      "pdfPages": [],
+      "summary": "Les deux résidences présentées appartiennent à la fondation carougeoise de droit public chargée de construire et d'exploiter des EMS et des logements encadrés pour personnes âgées, sous la surveillance du Conseil municipal. La Résidence Carouge-Centre propose des appartements indépendants avec système d'appel et encadrement social pour favoriser le maintien à domicile et retarder l'entrée en EMS. La Résidence Les Pervenches, pension ouverte subventionnée par le canton, accueille 72 résidants en chambre individuelle nécessitant des soins, sans contrainte d'horaire pour les visites et avec libre choix du médecin.",
+      "quote": "",
+      "themes": [
+        "sante",
+        "collectivites"
+      ],
+      "region": "Carouge",
+      "language": "fr",
+      "people": [],
+      "companies": [
+        "residence-carouge-centre",
+        "residence-les-pervenches"
+      ]
+    },
+    {
+      "slug": "geneve-la-cote-archi-sa",
+      "title": "Archi SA dialogue avec l'extérieur",
+      "subtitle": "",
+      "type": "publireportage",
+      "page": "20",
+      "pdfPages": [],
+      "summary": "Fondé en 1999 par l'architecte Jaime Golub, le bureau carougeois Archi SA conçoit des logements et des immeubles d'activités en tenant compte des enjeux sociaux et économiques. Il privilégie des solutions rationnelles, comme l'ouverture des façades des petits appartements vers l'extérieur, et labellise tous ses projets Minergie. Avec sept collaborateurs formés à ArchiCAD, il assure toutes les phases, de l'étude de faisabilité au contrôle des coûts. Ses réalisations incluent Gingins Parc, le complexe Lancy-Square, un hôtel Ibis et des immeubles en coopérative ; plusieurs projets sont en cours à Nyon (Forum, Aqueduc, Collonges).",
+      "quote": "Le plus difficile est de faire simple.",
+      "themes": [
+        "architecture",
+        "construction"
+      ],
+      "region": "Carouge",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Jaime Golub",
+          "role": "Fondateur et directeur"
+        }
+      ],
+      "companies": [
+        "archi-sa"
+      ]
+    },
+    {
+      "slug": "geneve-la-cote-bm-entreprise-du-batiment",
+      "title": "BM Entreprise du bâtiment SA – Expériences et savoir-faire",
+      "subtitle": "",
+      "type": "publireportage",
+      "page": "21",
+      "pdfPages": [],
+      "summary": "Fondée en 1971 par Bernard Morat, l'entreprise meyrinoise BM réalise rénovations et transformations : gypserie, peinture, papiers peints et techniques décoratives, mais aussi petite maçonnerie, carrelage et interventions après incendie. Une dizaine de collaborateurs maîtrisent des techniques récentes comme le béton ciré, le tadelakt ou le stucco vénitien. Régies, privés, architectes et multinationales figurent parmi ses clients sur Genève et La Côte. Le directeur Denis Sottas, futur repreneur, souligne l'engagement de l'entreprise dans la formation d'apprentis.",
+      "quote": "Nous sommes très polyvalents et capables de porter un projet de rénovation ou de transformation d'un bout à l'autre.",
+      "themes": [
+        "construction"
+      ],
+      "region": "Meyrin",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Bernard Morat",
+          "role": "Administrateur et fondateur"
+        },
+        {
+          "name": "Denis Sottas",
+          "role": "Directeur"
+        }
+      ],
+      "companies": [
+        "bm-entreprise-du-batiment"
+      ]
+    },
+    {
+      "slug": "geneve-la-cote-asdz-architecture-carouge-est",
+      "title": "ASDZ Architecture – Carouge Est",
+      "subtitle": "Image directrice pour l'îlot du Clos de la Fonderie Sud",
+      "type": "publireportage",
+      "page": "22-23",
+      "pdfPages": [],
+      "summary": "Le bureau ASDZ Architecture présente son étude urbaine pour un îlot de Carouge Est, territoire marqué par son passé industriel et un urbanisme discontinu. Le projet répond à plusieurs volontés : décloisonner l'îlot, surélever ou reconstruire des bâtiments vétustes et étendre les commerces de proximité. Il crée un passage piéton bordé de deux nouveaux bâtiments, reliant le théâtre de Carouge à l'Arve, réorganise les parkings en sous-sol et les livraisons, et envisage le déplacement d'une station-service. Le phasage des démolitions et constructions s'étale sur une dizaine d'années.",
+      "quote": "",
+      "themes": [
+        "architecture",
+        "territoire"
+      ],
+      "region": "Carouge",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Dominique Zanghi",
+          "role": "ASDZ Architecture SA"
+        }
+      ],
+      "companies": [
+        "asdz-architecture"
+      ]
+    },
+    {
+      "slug": "geneve-la-cote-atelier-nord",
+      "title": "Atelier Nord – Aux antipodes d'un schéma à l'infini",
+      "subtitle": "",
+      "type": "publireportage",
+      "page": "24-25",
+      "pdfPages": [],
+      "summary": "Fondé par Renaud Dupuis, architecte formé en 1978 et partenaire spécialiste Minergie, l'Atelier Nord conçoit des projets pensés selon le mode de vie de chaque maître d'ouvrage, à l'opposé des villas répétitives livrées clés en main. Le reportage présente ses réalisations : le restaurant La Vague de la piscine de Prilly en bois suisse avec toiture végétalisée et photovoltaïque, une villa Minergie à Vessy, une villa béton et bois à Epalinges, trois villas mitoyennes au Petit-Lancy, la réhabilitation d'une ferme dans le Jura français et les nouveaux vestiaires de la piscine de Prilly couverts de 500 m² de panneaux solaires.",
+      "quote": "Une maison d'architecte se définit par une réalisation empreinte d'un site environnemental et en lien intime avec ses futurs habitants.",
+      "themes": [
+        "architecture",
+        "energie"
+      ],
+      "region": "Genève",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Renaud Dupuis",
+          "role": "Fondateur et directeur"
+        }
+      ],
+      "companies": [
+        "atelier-nord"
+      ]
+    },
+    {
+      "slug": "geneve-la-cote-comptoir-immobilier",
+      "title": "Le Comptoir Immobilier à la pointe des prestations",
+      "subtitle": "",
+      "type": "publireportage",
+      "page": "26-27",
+      "pdfPages": [],
+      "summary": "Régisseur depuis 1825, le groupe Comptoir Immobilier est actif dans la gérance, l'administration de PPE, la gestion de centres commerciaux, le courtage et le pilotage de projets. Face aux grands groupes, cette PME romande a étoffé ses bureaux de Nyon et Lausanne et s'est étendue à Montreux, Sierre et Sion. Sa division Etudes & Développements, créée en 2006, pilote des projets d'envergure comme les Communaux d'Ambilly à Thônex ou le quartier Cour de Gare à Sion, ainsi que Surville et Champ du Château à Genève. Le groupe gère environ 9 milliards d'actifs et emploie plus de 180 collaborateurs.",
+      "quote": "",
+      "themes": [
+        "architecture",
+        "economie"
+      ],
+      "region": "Genève",
+      "language": "fr",
+      "people": [],
+      "companies": [
+        "comptoir-immobilier"
+      ]
+    },
+    {
+      "slug": "geneve-la-cote-dssa-dumont-schneider",
+      "title": "DSSA : études et conception de projets électriques",
+      "subtitle": "",
+      "type": "publireportage",
+      "page": "28",
+      "pdfPages": [],
+      "summary": "Le bureau d'ingénieurs DSSA Dumont-Schneider conçoit des installations électriques de courant fort et faible, de communication et de sécurité, et coordonne les projets CVSE. Fondé en 1988 à Zurich sous le nom de Bondat-Schneider, il a été repris à Genève par l'ingénieur Roger Dumont et a ouvert son capital à ses collaborateurs en 2006. Une quinzaine de personnes y travaillent, avec une forte expérience de l'éclairage LED. Les références citées comprennent l'Hôtel des Bergues, l'InterContinental, le Crowne Plaza, IKEA Genève, la Clinique Générale Beaulieu et le bâtiment SUPSI à Mendrisio.",
+      "quote": "Des techniques au service de l'homme et non l'inverse.",
+      "themes": [
+        "architecture",
+        "energie"
+      ],
+      "region": "Plan-les-Ouates",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Roger Dumont",
+          "role": "Directeur"
+        }
+      ],
+      "companies": [
+        "dssa-dumont-schneider"
+      ]
+    },
+    {
+      "slug": "geneve-la-cote-gastromer",
+      "title": "Gastromer – La passion des produits de la mer",
+      "subtitle": "",
+      "type": "publireportage",
+      "page": "29",
+      "pdfPages": [],
+      "summary": "Fondé en 1993 par Laurent Isoux, le grossiste Gastromer à Plan-les-Ouates importe et distribue plus de 900 références de poissons, coquillages et crustacés pour l'hôtellerie, la restauration et les collectivités de Suisse romande. Les achats se font à l'aube auprès d'une trentaine de criées dans une vingtaine de pays, avec une chaîne logistique très courte. L'entreprise familiale est la seule en Suisse à retremper ses coquillages dans un bassin de purification, respecte la norme ISO 22000 et livre avec une vingtaine de camionnettes réfrigérées. Elle emploie une cinquantaine de personnes et dispose d'une succursale en Valais depuis 2009.",
+      "quote": "Les produits de la mer sont parmi les derniers que la nature nous donne. Cela mérite respect et éthique.",
+      "themes": [
+        "economie"
+      ],
+      "region": "Plan-les-Ouates",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Laurent Isoux",
+          "role": "Fondateur"
+        },
+        {
+          "name": "Julien Isoux",
+          "role": "Directeur des ventes"
+        },
+        {
+          "name": "Damien Isoux",
+          "role": "Directeur des achats"
+        }
+      ],
+      "companies": [
+        "gastromer"
+      ]
+    },
+    {
+      "slug": "geneve-la-cote-genevaccord-mediation",
+      "title": "Guy A. Bottequin : « La médiation de conflits, un antidote au taylorisme judiciaire »",
+      "subtitle": "",
+      "type": "publireportage",
+      "page": "30-31",
+      "pdfPages": [],
+      "summary": "Président et fondateur de GENEVACCORD ADR, société créée en 2012 à Genève, le médiateur assermenté Guy A. Bottequin plaide pour la médiation dans les litiges commerciaux, internationaux et de propriété intellectuelle. Face à l'engorgement des tribunaux, il souligne un taux d'accord de 87 % en trois mois au plus, des coûts réduits et une stricte confidentialité. L'article décrit le déroulement d'une séance, le rôle indispensable des avocats-conseils et les qualités requises du médiateur : indépendance, impartialité, neutralité. Il rappelle aussi ses nombreux engagements associatifs dans le domaine de la médiation.",
+      "quote": "Une médiation sans les avocats est une médiation contre les avocats.",
+      "themes": [
+        "economie"
+      ],
+      "region": "Genève",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Guy A. Bottequin",
+          "role": "Président et fondateur, médiateur assermenté"
+        }
+      ],
+      "companies": [
+        "genevaccord"
+      ]
+    },
+    {
+      "slug": "geneve-la-cote-hestia-constructions",
+      "title": "Hestia Constructions, une entreprise globale",
+      "subtitle": "",
+      "type": "publireportage",
+      "page": "32",
+      "pdfPages": [],
+      "summary": "Entreprise générale fondée à Carouge en novembre 2010, Hestia Constructions SA compte une dizaine de collaborateurs appuyés par un réseau de prestataires externes et intervient dans toute la Suisse romande. Elle construit, transforme et rénove immeubles d'habitation, bâtiments administratifs, industriels, scolaires, hospitaliers ou sportifs. Son CEO Philippe Blanc met en avant une méthode rigoureuse, une planification efficace et un suivi soigné des finitions. L'entreprise réalise notamment le parking souterrain de plus de mille places de l'écoquartier des Vergers à Meyrin, chantier de 40 millions de francs.",
+      "quote": "Nous avons rapidement opté pour une stratégie fondée sur l'ingéniosité, plutôt que de se battre sur des rabais.",
+      "themes": [
+        "construction"
+      ],
+      "region": "Carouge",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Philippe Blanc",
+          "role": "CEO"
+        }
+      ],
+      "companies": [
+        "hestia-constructions"
+      ]
+    },
+    {
+      "slug": "geneve-la-cote-partn-air",
+      "title": "Partn-Air SA – Spécialistes en ventilation",
+      "subtitle": "",
+      "type": "publireportage",
+      "page": "32",
+      "pdfPages": [],
+      "summary": "Fondée en 1988 à Meyrin, Partn-Air SA fabrique ses propres ventilateurs de toiture, activité qui représente plus du tiers de son chiffre d'affaires, et distribue en exclusivité romande des marques comme Systemair, Ziehl-Abegg, Caladair et Aéréco. Pour répondre aux normes européennes ERP, sa gamme sera équipée de moteurs EC dès 2015. L'entreprise de sept personnes réalise aussi ses tableaux de régulation, conseille les ventilistes de Suisse romande et participe à des projets pilotes avec la Confédération sur la ventilation hygroréglable.",
+      "quote": "",
+      "themes": [
+        "energie",
+        "industrie"
+      ],
+      "region": "Meyrin",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Régis Baud",
+          "role": "Directeur"
+        }
+      ],
+      "companies": [
+        "partn-air"
+      ]
+    },
+    {
+      "slug": "geneve-la-cote-hydrosystem",
+      "title": "Hydrosystem SA – Pros de l'hydraulique et pneumatique",
+      "subtitle": "",
+      "type": "publireportage",
+      "page": "33",
+      "pdfPages": [],
+      "summary": "Fondée en 1985 par Marcel Ruckstuhl, Hydrosystem SA à Meyrin étudie, conçoit, installe et entretient des équipements hydrauliques et pneumatiques. Son bureau technique et son atelier développent notamment des groupes hydrauliques pour l'industrie des machines-outils. Le magasin stocke plus de 30 000 articles et abrite le seul « Parker Store » du bassin lémanique. L'entreprise distribue aussi compresseurs et nettoyeurs haute pression. Elle emploie une quinzaine de personnes et sert l'industrie, la pharma, les travaux publics et les transports en Suisse romande.",
+      "quote": "Nous sommes très réactifs et capables de toujours trouver la solution la meilleure aux problèmes de nos clients.",
+      "themes": [
+        "industrie"
+      ],
+      "region": "Meyrin",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Thierry Vuillier",
+          "role": "Directeur"
+        }
+      ],
+      "companies": [
+        "hydrosystem"
+      ]
+    },
+    {
+      "slug": "geneve-la-cote-meyrincentre",
+      "title": "La magie de l'âme de MeyrinCentre",
+      "subtitle": "« Au cœur de vos envies »",
+      "type": "publireportage",
+      "page": "34-35",
+      "pdfPages": [],
+      "summary": "Inauguré en 1963 et inspiré des places de village, MeyrinCentre a fêté ses 50 ans en 2013. Troisième centre commercial du canton avec 16 000 m² et 40 commerces sur trois niveaux, il réunit Migros, Coop et Denner sous un même toit. Son directeur Jean-Louis Michaud mise sur la convivialité et les animations. Le centre a installé en 2010 la plus grande centrale solaire de Suisse sur domaine privé (661 000 kWh par an), une déchetterie certifiée Eco21 et diverses mesures d'économie d'énergie ; un parking souterrain d'environ 500 places est en projet.",
+      "quote": "",
+      "themes": [
+        "economie",
+        "energie"
+      ],
+      "region": "Meyrin",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Jean-Louis Michaud",
+          "role": "Directeur"
+        }
+      ],
+      "companies": [
+        "meyrincentre"
+      ]
+    },
+    {
+      "slug": "geneve-la-cote-mpm-facility-services",
+      "title": "MPM facility services SA – Le sérieux qui fait la différence",
+      "subtitle": "",
+      "type": "publireportage",
+      "page": "36-37",
+      "pdfPages": [],
+      "summary": "Fondée en 1998, l'entreprise familiale carougeoise MPM facility services SA assure nettoyages et entretiens pour l'industrie, les bureaux, l'hôtellerie, les EMS, l'aéronautique ou les hôpitaux. Avec plus de 360 personnes sous contrat, elle figure parmi les leaders genevois du secteur. Elle a développé l'ultra-nettoyage pour salles blanches et blocs opératoires, utilise des produits Ecolabel et une machine Aquama produisant des solutions biodégradables, et renouvelle sa flotte avec des véhicules hybrides. Membre de l'AGENS, elle applique la convention collective et forme des apprentis.",
+      "quote": "Chaque client est pour nous un grand client.",
+      "themes": [
+        "economie",
+        "sante"
+      ],
+      "region": "Carouge",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Gérald Althaus",
+          "role": "Fondateur et administrateur"
+        },
+        {
+          "name": "Johann Althaus",
+          "role": "CEO"
+        },
+        {
+          "name": "José Planas",
+          "role": "Directeur"
+        }
+      ],
+      "companies": [
+        "mpm-facility-services"
+      ]
+    },
+    {
+      "slug": "geneve-la-cote-scholl-metal",
+      "title": "Scholl-Metal SA – Les pros du métal",
+      "subtitle": "",
+      "type": "publireportage",
+      "page": "38",
+      "pdfPages": [],
+      "summary": "Fondée en 1980 à Vernier par Philippe Scholl et aujourd'hui dirigée par son fils Laurent à Meyrin, Scholl-Metal SA réalise des constructions métalliques complexes en acier, inox et aluminium. L'entreprise a développé une barrière mobile autotractée pour dévier le trafic devant les tunnels et bretelles d'autoroute, utilisée jusqu'à Paris. Elle renforce désormais sa tôlerie industrielle grâce à une découpeuse laser capable de traiter l'acier jusqu'à 25 mm et des tubes de toutes sections. Une vingtaine de personnes y travaillent.",
+      "quote": "En général, nous aimons faire ce qui est spécial.",
+      "themes": [
+        "industrie",
+        "construction",
+        "mobilite"
+      ],
+      "region": "Meyrin",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Laurent Scholl",
+          "role": "Directeur"
+        }
+      ],
+      "companies": [
+        "scholl-metal"
+      ]
+    },
+    {
+      "slug": "geneve-la-cote-sgi-ingenierie",
+      "title": "SGI Ingénierie SA – L'ingénierie en mouvement",
+      "subtitle": "",
+      "type": "publireportage",
+      "page": "39",
+      "pdfPages": [],
+      "summary": "Issu d'une société genevoise fondée en 1898, le bureau SGI Ingénierie a longtemps réalisé l'essentiel de son activité à l'étranger, le siège du groupe (près de 200 personnes) étant au Luxembourg depuis 1996. Le bureau suisse de 26 personnes se redéploie aujourd'hui dans la région genevoise. Il couvre l'hydraulique, les infrastructures urbaines, les bâtiments et structures et les ouvrages d'art. Il participe au CEVA, au projet Genilac des SIG, à la réhabilitation du viaduc de l'aéroport et à l'extension de l'Hôpital de la Tour.",
+      "quote": "Maintenant nous nous redéployons dans notre région d'origine.",
+      "themes": [
+        "construction",
+        "architecture"
+      ],
+      "region": "Châtelaine",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Cédric Dubois",
+          "role": "Directeur"
+        }
+      ],
+      "companies": [
+        "sgi-ingenierie"
+      ]
+    },
+    {
+      "slug": "geneve-la-cote-s-m-architectes",
+      "title": "S+M Architectes SA – Transcender le nécessaire : maîtrise et solutions innovantes",
+      "subtitle": "",
+      "type": "publireportage",
+      "page": "40-41",
+      "pdfPages": [],
+      "summary": "Créé à Zurich en 1916 et installé à Genève depuis 1961, le bureau S+M Architectes a signé la tour de la Migros zurichoise, la manufacture Patek Philippe à Plan-les-Ouates et des transformations pour le Crédit Suisse. L'associé Alain Steiner revendique des réponses architecturales simples, respectueuses des coûts, des délais et des vœux du maître d'ouvrage. Le bureau mène l'extension Minergie P de l'Observatoire de Genève à Sauverny, avec un concentrateur solaire inédit en Suisse, la nouvelle façade de Balexert dès 2015 et la fabrique d'aiguilles Fiedler à Carouge.",
+      "quote": "Le plus difficile est de faire simple.",
+      "themes": [
+        "architecture",
+        "construction"
+      ],
+      "region": "Le Lignon",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Alain Steiner",
+          "role": "Architecte associé"
+        }
+      ],
+      "companies": [
+        "s-m-architectes"
+      ]
+    },
+    {
+      "slug": "geneve-la-cote-universite-ouvriere-de-geneve",
+      "title": "L'Université Ouvrière de Genève (UOG)",
+      "subtitle": "",
+      "type": "publireportage",
+      "page": "42",
+      "pdfPages": [],
+      "summary": "Association centenaire à but non lucratif reconnue d'utilité publique, l'UOG développe la formation de base et continue, en priorité pour les personnes peu qualifiées, afin de favoriser leur intégration sociale, culturelle, économique et politique. Soutenue par l'Etat et la Ville de Genève, la FFPC et des communes, elle travaille avec l'Office cantonal de l'emploi et les syndicats. Elle propose surtout des cours de français langue étrangère, de français en entreprise, de remise à niveau en français et mathématiques, ainsi que des activités culturelles, un service d'accueil, une cafétéria et une garderie.",
+      "quote": "",
+      "themes": [
+        "formation"
+      ],
+      "region": "Genève",
+      "language": "fr",
+      "people": [],
+      "companies": [
+        "universite-ouvriere-de-geneve"
+      ]
+    },
+    {
+      "slug": "geneve-la-cote-district-de-nyon-prefet-deriaz",
+      "title": "District de Nyon, entre ceps et sapins",
+      "subtitle": "Le regard aiguisé du préfet Jean-Pierre Deriaz",
+      "type": "interview",
+      "page": "44",
+      "pdfPages": [],
+      "summary": "Ancien syndic de Coppet et préfet depuis 2005, Jean-Pierre Deriaz décrit un district de 47 communes passé de 83 000 à 90 000 habitants en cinq ans. Il juge le développement maîtrisé : seuls 11 % du territoire sont constructibles, ce qui impose une densification de qualité. Il oppose avec humour les « ceps de vigne » du littoral aux « bourgeons de sapin » du pied du Jura, évoque la cherté des terrains, l'accroissement des tâches de la préfecture, son rôle de médiateur et l'avenir des fusions de communes, freinées après l'échec de Terre Sainte.",
+      "quote": "Cette diversité fait la force du district.",
+      "themes": [
+        "collectivites",
+        "territoire"
+      ],
+      "region": "District de Nyon",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Jean-Pierre Deriaz",
+          "role": "Préfet du district de Nyon"
+        }
+      ],
+      "companies": [
+        "prefecture-de-nyon"
+      ]
+    },
+    {
+      "slug": "geneve-la-cote-arcam-georges-rime",
+      "title": "L'ARCAM, un outil de développement régional",
+      "subtitle": "Entretien avec son président Georges Rime",
+      "type": "interview",
+      "page": "45",
+      "pdfPages": [],
+      "summary": "Créée en 2009 lors du redécoupage des districts vaudois, l'Association de la région Cossonay-Aubonne-Morges réunit les 62 communes du district de Morges (plus de 77 000 habitants) et siège à Cossonay. Son président explique que toutes les communes ont adhéré volontairement, moyennant 8,30 francs par habitant, et que l'association est l'interlocutrice de l'Etat pour la loi sur l'appui au développement économique. Elle intervient dans le tourisme, la mobilité, la politique foncière et les transports, avec la concertation pour principe. Le futur Centre aquatique de Morges, porté par 32 communes en partenariat public-privé, illustre son action.",
+      "quote": "Il faut dépasser l'esprit de clocher et considérer l'intérêt régional commun.",
+      "themes": [
+        "collectivites",
+        "territoire",
+        "economie"
+      ],
+      "region": "District de Morges",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Georges Rime",
+          "role": "Président de l'ARCAM, syndic de Cossonay"
+        }
+      ],
+      "companies": [
+        "arcam"
+      ]
+    },
+    {
+      "slug": "geneve-la-cote-cossonay-georges-rime",
+      "title": "Cossonay, le charme discret du Pied du Jura vaudois",
+      "subtitle": "Le syndic veut un développement raisonnable et maîtrisé",
+      "type": "interview",
+      "page": "46",
+      "pdfPages": [],
+      "summary": "Bourg médiéval de 3 500 habitants classé au patrimoine national, Cossonay bénéficie d'un train pour Lausanne toutes les 20 minutes et d'une vie culturelle riche (théâtre, cinéma, école de musique, table gastronomique). Son syndic Georges Rime voit d'un bon œil l'arrivée de 1 000 à 1 500 habitants d'ici 2030 : une population de 4 500 à 5 000 personnes garantirait le maintien des infrastructures et des commerces. De nouveaux quartiers de 200 à 250 habitants et la densification sont prévus, ainsi qu'un vote sur une fusion avec La Chaux et Dizy. L'article évoque aussi la 50e Expo de Coss.",
+      "quote": "",
+      "themes": [
+        "collectivites",
+        "territoire"
+      ],
+      "region": "Cossonay",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Georges Rime",
+          "role": "Syndic de Cossonay"
+        }
+      ],
+      "companies": [
+        "commune-de-cossonay"
+      ]
+    },
+    {
+      "slug": "geneve-la-cote-arcam-oscar-cherbuin",
+      "title": "Comment l'ARCAM prend l'avenir en mains – Des objectifs et des projets",
+      "subtitle": "Entretien avec M. Oscar Cherbuin, directeur de l'ARCAM",
+      "type": "dossier",
+      "page": "47",
+      "pdfPages": [],
+      "summary": "Le district de Morges devrait gagner quelque 18 000 habitants d'ici 2030 et approcher les 100 000. L'ARCAM élabore le plan directeur régional, qui répartit les nouveaux habitants entre l'agglomération Lausanne-Morges et le reste du district, et accompagne de nombreux projets : centre aquatique régional prévu pour 2018, office du tourisme unique, fromagerie de démonstration de Montricher, Maison des vins de La Côte, filières bois et noix, et « Maison de la Rivière » associant centre de loisirs, musée et incubateur environnemental. Son directeur insiste sur des projets qui dépassent les frontières administratives.",
+      "quote": "",
+      "themes": [
+        "collectivites",
+        "territoire",
+        "economie"
+      ],
+      "region": "District de Morges",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Oscar Cherbuin",
+          "role": "Directeur de l'ARCAM"
+        }
+      ],
+      "companies": [
+        "arcam"
+      ]
+    },
+    {
+      "slug": "geneve-la-cote-nyon-daniel-rossellat",
+      "title": "Nyon – Une ville qui a trouvé sa place",
+      "subtitle": "Entretien avec M. Daniel Rossellat, syndic",
+      "type": "interview",
+      "page": "48",
+      "pdfPages": [],
+      "summary": "Bientôt forte de 20 000 habitants, Nyon a su se forger une identité entre Genève et Lausanne grâce à son tissu associatif et culturel ; elle est devenue la ville des festivals. Son syndic veut accompagner une croissance mesurée : près de 500 millions seront investis en équipements publics d'ici 2020. Il évoque le logement, avec un quart de logements à loyer contrôlé exigé dans les plans de quartier, et la mobilité : bus au quart d'heure, promotion du vélo, mais autoroute inchangée depuis 1964. Il appelle les communes du district à partager le financement des infrastructures régionales.",
+      "quote": "Il faut garder un rythme soutenable pour avoir un avenir désirable.",
+      "themes": [
+        "collectivites",
+        "territoire",
+        "mobilite"
+      ],
+      "region": "Nyon",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Daniel Rossellat",
+          "role": "Syndic de Nyon"
+        }
+      ],
+      "companies": [
+        "ville-de-nyon"
+      ]
+    },
+    {
+      "slug": "geneve-la-cote-morges-vincent-jaques",
+      "title": "Morges est une ville heureuse",
+      "subtitle": "Interview de Vincent Jaques, syndic de Morges",
+      "type": "interview",
+      "page": "49",
+      "pdfPages": [],
+      "summary": "Chef-lieu d'un district de 62 communes et pôle de l'agglomération Lausanne-Morges, Morges compte 15 500 habitants et conserve l'identité d'une bourgade où l'on se connaît, autour de sa Grand-Rue piétonne et de ses marchés. Le syndic évoque la coopération régionale (centre aquatique, tourisme régionalisé) et le projet Gare-Sud, qui logera près d'un millier de personnes autour d'une nouvelle rue d'ici 2016-2017. Il met en avant une vie culturelle festive : Fête de la Tulipe, Livre sur les quais, festival Morges-sous-Rire, Théâtre de Beausobre.",
+      "quote": "",
+      "themes": [
+        "collectivites",
+        "territoire"
+      ],
+      "region": "Morges",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Vincent Jaques",
+          "role": "Syndic de Morges"
+        }
+      ],
+      "companies": [
+        "ville-de-morges"
+      ]
+    },
+    {
+      "slug": "geneve-la-cote-ensemble-hospitalier-de-la-cote",
+      "title": "L'Ensemble Hospitalier de la Côte – Les soins à la portée de tous",
+      "subtitle": "Entretien avec le directeur général de l'EHC, M. François Jacot-Descombes",
+      "type": "interview",
+      "page": "50-51",
+      "pdfPages": [],
+      "summary": "Etablissement privé reconnu d'intérêt public créé en 2000, l'EHC exploite sept sites (hôpitaux de Morges, Aubonne et Gilly, EMS, centres médicaux) et emploie 1 400 collaborateurs. Son directeur général explique les avantages de ce statut : missions de santé publique sans sélection des patients, mais réactivité d'une structure privée. Face à la pénurie de médecins de famille, l'EHC a ouvert des cabinets de groupe à l'EPFL et à Morges. Il a aussi créé une unité de soins aigus aux seniors, un centre de neuromodulation reconnu pour le traitement de la douleur et un centre de cardiologie interventionnelle.",
+      "quote": "Ce statut nous donne le meilleur des deux mondes.",
+      "themes": [
+        "sante"
+      ],
+      "region": "Morges",
+      "language": "fr",
+      "people": [
+        {
+          "name": "François Jacot-Descombes",
+          "role": "Directeur général"
+        }
+      ],
+      "companies": [
+        "ensemble-hospitalier-de-la-cote"
+      ]
+    },
+    {
+      "slug": "geneve-la-cote-regionyon",
+      "title": "Conseil régional de Nyon – Pour une vie propre entre Genève et Lausanne",
+      "subtitle": "Interview de Gérald Cretegny, président du comité de direction de Régionyon",
+      "type": "interview",
+      "page": "52",
+      "pdfPages": [],
+      "summary": "Fondé en 2004, le Conseil régional du district de Nyon regroupe la quasi-totalité des 47 communes et coordonne les projets de territoire, mobilité, économie, environnement, tourisme, culture et sport. Le district attend quelque 30 000 habitants de plus d'ici 2030. Un secrétariat d'une douzaine de professionnels, dirigé par Patrick Freudiger, accompagne les porteurs de projets, financé par 20 francs par habitant. L'article présente la réorganisation complète du réseau de bus régional, les corridors biologiques, la Maison des vins, la filière bois et la recherche de terrains pour les artisans.",
+      "quote": "Il faut éviter que notre région soit une parenthèse entre Lausanne et Genève.",
+      "themes": [
+        "collectivites",
+        "territoire",
+        "mobilite"
+      ],
+      "region": "District de Nyon",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Gérald Cretegny",
+          "role": "Président du comité de direction de Régionyon"
+        },
+        {
+          "name": "Patrick Freudiger",
+          "role": "Directeur du secrétariat régional"
+        }
+      ],
+      "companies": [
+        "regionyon"
+      ]
+    },
+    {
+      "slug": "geneve-la-cote-gland-gerald-cretegny",
+      "title": "Gland, un village devenu ville",
+      "subtitle": "Interview du syndic Gérald Cretegny",
+      "type": "interview",
+      "page": "53",
+      "pdfPages": [],
+      "summary": "Passée d'un millier d'habitants à la fin des années 1950 à plus de 12 600 aujourd'hui, Gland doit son essor à l'autoroute Lausanne-Genève et à une décision communale de créer une zone industrielle. Son syndic évoque les difficultés de mobilité, l'attrait du nouvel écoquartier de 450 logements, l'intégration facilitée par une septantaine de sociétés locales et une offre scolaire complète jusqu'à 16 ans. Il rappelle que Gland est la seule commune vaudoise de plus de 10 000 habitants à avoir confié sa sécurité à la gendarmerie cantonale.",
+      "quote": "",
+      "themes": [
+        "collectivites",
+        "territoire"
+      ],
+      "region": "Gland",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Gérald Cretegny",
+          "role": "Syndic de Gland"
+        }
+      ],
+      "companies": [
+        "ville-de-gland"
+      ]
+    },
+    {
+      "slug": "geneve-la-cote-aubonne-luc-etienne-rossier",
+      "title": "Aubonne, une commune à deux pôles",
+      "subtitle": "Interview du syndic Luc-Etienne Rossier",
+      "type": "interview",
+      "page": "54",
+      "pdfPages": [],
+      "summary": "Bourg médiéval préservé et pôle industriel et commercial (Ikea, Merck Serono, SEFA), Aubonne compte 3 000 habitants et en attend un millier de plus d'ici 2030. Son syndic, également vice-président de l'ARCAM, explique que l'implantation d'activités hors du bourg a sauvé le centre historique, qu'il veut garder vivant. Il présente le projet de fusion avec Montherod, Saubraz et Saint-Oyens, le nouveau plan général d'affectation, l'Arboretum du vallon de l'Aubonne et l'arrivée de La Côte International School et ses 800 élèves.",
+      "quote": "Nous ne voulons pas d'un bourg musée.",
+      "themes": [
+        "collectivites",
+        "territoire"
+      ],
+      "region": "Aubonne",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Luc-Etienne Rossier",
+          "role": "Syndic d'Aubonne"
+        }
+      ],
+      "companies": [
+        "ville-d-aubonne"
+      ]
+    },
+    {
+      "slug": "geneve-la-cote-morges-jean-jacques-aubert",
+      "title": "Morges – Introduire la nature en ville",
+      "subtitle": "Interview de Jean-Jacques Aubert, municipal en charge des infrastructures, des énergies et des espaces publics",
+      "type": "interview",
+      "page": "55",
+      "pdfPages": [],
+      "summary": "Le municipal morgien présente les infrastructures dont il a la charge : eau potable issue d'une nappe acquise en 1905, eaux usées, ports communaux saturés, écopoints enterrés et déchetterie. Les grands chantiers sont le futur centre aquatique, deux parkings souterrains et la refonte du Parc des Sports. Côté énergie, la ville distribue du gaz carburant, valorise ses déchets organiques en biogaz et turbine son eau potable. Dans les nouveaux quartiers, elle aménage des espaces publics favorables à la biodiversité.",
+      "quote": "",
+      "themes": [
+        "collectivites",
+        "energie",
+        "territoire"
+      ],
+      "region": "Morges",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Jean-Jacques Aubert",
+          "role": "Municipal (infrastructures, énergies, espaces publics)"
+        }
+      ],
+      "companies": [
+        "ville-de-morges"
+      ]
+    },
+    {
+      "slug": "geneve-la-cote-aubonne-gisele-burnet",
+      "title": "Aubonne – Développer notre offre de tourisme vert",
+      "subtitle": "Interview de Gisèle Burnet, municipale (instruction publique, affaires sociales, petite enfance, culture et tourisme)",
+      "type": "interview",
+      "page": "56-57",
+      "pdfPages": [],
+      "summary": "La municipale présente l'offre scolaire de l'association ASSAGIE (13 communes, deux établissements de quelque 900 élèves chacun) et l'accueil des écoliers, ainsi que le réseau d'accueil de jour AJEMA, qui ouvrira de nouvelles places en 2015. Elle détaille une vie culturelle animée par les sociétés locales (Aubonn'Apéros, marchés, triathlon, Baz'art) et les atouts touristiques : Arboretum, Signal de Bougy, parc jurassien, produits du terroir. Elle rêve d'une auberge de jeunesse et d'un hôtel pour développer un tourisme vert relié par vélo électrique à la gare d'Allaman.",
+      "quote": "",
+      "themes": [
+        "collectivites",
+        "territoire",
+        "formation"
+      ],
+      "region": "Aubonne",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Gisèle Burnet",
+          "role": "Municipale"
+        }
+      ],
+      "companies": [
+        "ville-d-aubonne"
+      ]
+    },
+    {
+      "slug": "geneve-la-cote-nyon-fabienne-freymond-cantone",
+      "title": "Nyon – Maîtriser le développement urbanistique de la Ville",
+      "subtitle": "Entretien avec Mme Fabienne Freymond Cantone, municipale en charge de l'urbanisme et des ressources humaines",
+      "type": "interview",
+      "page": "58",
+      "pdfPages": [],
+      "summary": "La forte croissance de Nyon, liée au manque de logements à Genève, a fait exploser les prix immobiliers. La municipale explique comment la ville, riche en terrains, impose par conventions la mixité dans les plans de quartier en échange de densités accrues, une politique héritée de l'ancien chef de l'urbanisme. Les réserves foncières permettent aussi aux PME et artisans de se développer. Elle insiste sur la qualité des espaces publics et des rives du lac, et sur la modernisation du statut des quelque 400 employés communaux.",
+      "quote": "",
+      "themes": [
+        "collectivites",
+        "territoire",
+        "architecture"
+      ],
+      "region": "Nyon",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Fabienne Freymond Cantone",
+          "role": "Municipale, députée"
+        }
+      ],
+      "companies": [
+        "ville-de-nyon"
+      ]
+    },
+    {
+      "slug": "geneve-la-cote-gland-thierry-genoud",
+      "title": "Gland – Préparer l'arrivée de nouveaux habitants",
+      "subtitle": "Interview de Thierry Genoud, municipal en charge des bâtiments et de l'urbanisme",
+      "type": "interview",
+      "page": "59",
+      "pdfPages": [],
+      "summary": "Sous la pression démographique, Gland révise son plan directeur et multiplie les plans partiels d'affectation, dont un secteur proche de la gare pour 600 à 700 habitants et le projet Gare Sud sur 7 hectares communaux. L'écoquartier d'Eikenøtt totalise 450 logements. Le municipal évoque la surélévation des écoles, la rénovation du collège des Perrerets pour 6 millions, l'objectif de doubler les énergies renouvelables en 25 ans, un projet de géothermie profonde et des mesures de mobilité autour de la gare.",
+      "quote": "",
+      "themes": [
+        "collectivites",
+        "architecture",
+        "energie"
+      ],
+      "region": "Gland",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Thierry Genoud",
+          "role": "Municipal (bâtiments et urbanisme)"
+        }
+      ],
+      "companies": [
+        "ville-de-gland"
+      ]
+    },
+    {
+      "slug": "geneve-la-cote-nyon-claude-uldry",
+      "title": "Nyon – Equipements : un retard à rattraper",
+      "subtitle": "Entretien avec M. Claude Uldry, conseiller municipal en charge des bâtiments, des finances, de l'informatique et de la population",
+      "type": "interview",
+      "page": "60",
+      "pdfPages": [],
+      "summary": "Pour rattraper un retard d'équipements et anticiper la croissance, Nyon prévoit trois nouvelles écoles pour 130 millions de francs, dont le complexe scolaire et sportif du Reposoir. D'autres projets sont annoncés : salle de spectacles de l'Usine à gaz, auberge de jeunesse, déchetterie et voirie, rénovation de la piscine de Colovray. Le municipal relativise la bonne santé financière : 142 millions de dette, un budget de 192 millions et un taux d'impôt bas, d'où une hausse proposée de cinq points.",
+      "quote": "",
+      "themes": [
+        "collectivites",
+        "construction"
+      ],
+      "region": "Nyon",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Claude Uldry",
+          "role": "Conseiller municipal"
+        }
+      ],
+      "companies": [
+        "ville-de-nyon"
+      ]
+    },
+    {
+      "slug": "geneve-la-cote-nyon-olivier-mayor",
+      "title": "Nyon – Trois piliers pour soutenir la Culture",
+      "subtitle": "Entretien avec Olivier Mayor, conseiller municipal en charge de la culture, des travaux et de l'environnement",
+      "type": "interview",
+      "page": "61",
+      "pdfPages": [],
+      "summary": "Au-delà du Paléo Festival, Nyon dispose d'une offre culturelle très variée. Le municipal décrit une politique à trois piliers : soutenir fortement les locomotives (Usine à gaz, musées, Visions du Réel, Festival des Arts Vivants), encourager la diversité et la création, et fournir les infrastructures nécessaires. Il évoque la nouvelle salle de l'Usine à gaz et l'extension du Musée du Léman. Pour les travaux, il repense l'espace public en faveur des transports publics et de la mobilité douce et développe la biodiversité, avec des ruches urbaines.",
+      "quote": "J'ai coutume de dire que la culture est l'oxygène de la vie.",
+      "themes": [
+        "collectivites",
+        "territoire",
+        "energie"
+      ],
+      "region": "Nyon",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Olivier Mayor",
+          "role": "Conseiller municipal"
+        }
+      ],
+      "companies": [
+        "ville-de-nyon"
+      ]
+    },
+    {
+      "slug": "geneve-la-cote-aubonne-jean-christophe-de-mestral",
+      "title": "Aubonne – Favoriser les démarches proactives",
+      "subtitle": "Interview de Jean-Christophe de Mestral, municipal (finances, mobilité, transports publics, sécurité)",
+      "type": "interview",
+      "page": "62",
+      "pdfPages": [],
+      "summary": "Non endettée, Aubonne voit néanmoins sa marge d'autofinancement diminuer sous l'effet des charges cantonales et intercommunales. Le municipal présente l'offre de transports vers la gare d'Allaman, dont la cadence des bus a été renforcée grâce à un cofinancement avec Merck Serono et La Côte International School, les bus pyjamas du week-end et les subventions aux vélos électriques. Il décrit l'aménagement de zones 30 km/h, une première sur route cantonale, et le projet de contournement pour les poids lourds.",
+      "quote": "",
+      "themes": [
+        "collectivites",
+        "mobilite"
+      ],
+      "region": "Aubonne",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Jean-Christophe de Mestral",
+          "role": "Municipal"
+        }
+      ],
+      "companies": [
+        "ville-d-aubonne"
+      ]
+    },
+    {
+      "slug": "geneve-la-cote-cossonay-claude-moinat",
+      "title": "Cossonay – Un nouveau réseau de communes pour une abondance d'eau potable",
+      "subtitle": "Interview de Claude Moinat, municipal (eaux et épuration, services industriels, routes, finances)",
+      "type": "interview",
+      "page": "63",
+      "pdfPages": [],
+      "summary": "Cossonay développe son réseau d'eau potable avec sept communes voisines autour de trois sources et d'un nouveau réservoir de 3 500 m³ mis en service en 2015. Le plan général d'évacuation des eaux prévoit la mise en séparatif de la Vieille Ville, un bassin de rétention et un nouveau puits « vortex ». Le municipal évoque aussi le réseau de gaz de Cosvegaz, l'équipe de voirie et une situation financière équilibrée, que les recettes liées au développement urbain devraient consolider.",
+      "quote": "",
+      "themes": [
+        "collectivites",
+        "energie"
+      ],
+      "region": "Cossonay",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Claude Moinat",
+          "role": "Municipal"
+        }
+      ],
+      "companies": [
+        "commune-de-cossonay"
+      ]
+    },
+    {
+      "slug": "geneve-la-cote-aubonne-eric-muller",
+      "title": "Aubonne – Aider les jeunes à prendre leur place dans la société",
+      "subtitle": "Interview d'Eric Muller, municipal (domaines, parcs, voirie, déchets, jeunesse, service du feu)",
+      "type": "interview",
+      "page": "64",
+      "pdfPages": [],
+      "summary": "La politique jeunesse d'Aubonne repose sur la prévention auprès des 11-17 ans via un centre d'animation ouvert en 2001 et relié à ceux d'Etoy et de Gimel. Activités ludiques, accueil de midi pour 80 à 100 jeunes et projet humanitaire au Burkina Faso en témoignent. Le municipal présente aussi les atouts naturels de la commune (Arboretum, 500 hectares de forêts et pâturages au Marchairuz, bief de l'Armary), la construction de serres communales, la fauche tardive avec Pro Natura et le renouvellement de la place de jeux.",
+      "quote": "",
+      "themes": [
+        "collectivites",
+        "territoire"
+      ],
+      "region": "Aubonne",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Eric Muller",
+          "role": "Municipal"
+        }
+      ],
+      "companies": [
+        "ville-d-aubonne"
+      ]
+    },
+    {
+      "slug": "geneve-la-cote-morges-yves-paccaud",
+      "title": "Morges – Priorité à la densification et la qualité urbaine",
+      "subtitle": "Interview d'Yves Paccaud, municipal en charge de l'aménagement du territoire et du développement durable",
+      "type": "interview",
+      "page": "65",
+      "pdfPages": [],
+      "summary": "Sur un territoire de 4 km², Morges densifie : quartier proche de la gare pour un millier d'habitants, écoquartiers de La Longeraie et de L'Eglantine, site des Fonderies. Membre du comité de pilotage du PALM, la ville bénéficie de mesures de mobilité douce et de la requalification de la route du lac. Président des Transports publics morgiens, le municipal relève que la fréquentation est passée de moins d'un million à 3,8 millions de voyageurs en dix ans. Il évoque aussi le label Cité de l'énergie et l'intégration d'une population à 36 % étrangère.",
+      "quote": "",
+      "themes": [
+        "collectivites",
+        "territoire",
+        "mobilite"
+      ],
+      "region": "Morges",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Yves Paccaud",
+          "role": "Municipal"
+        }
+      ],
+      "companies": [
+        "ville-de-morges"
+      ]
+    },
+    {
+      "slug": "geneve-la-cote-gland-michael-rohrer",
+      "title": "Gland – Priorité à l'ordre public et à la sécurité des personnes",
+      "subtitle": "Interview de Michael Rohrer, municipal (sécurité publique, population, transports publics)",
+      "type": "interview",
+      "page": "66",
+      "pdfPages": [],
+      "summary": "Depuis 2008, Gland délègue ses tâches de police à la gendarmerie cantonale tout en employant des assistants de sécurité publique, dont un cinquième poste sera créé en 2015. Le municipal présente les missions du service de la population et l'offre de transports : trains à la demi-heure vers Lausanne et Genève, bus régionaux, transport urbain, premier bus hybride du canton et vélos en libre-service. Plus de 90 % des habitants vivent à moins d'un kilomètre de la gare ; une enquête doit adapter l'offre au changement d'horaire de 2015.",
+      "quote": "",
+      "themes": [
+        "collectivites",
+        "mobilite"
+      ],
+      "region": "Gland",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Michael Rohrer",
+          "role": "Municipal"
+        }
+      ],
+      "companies": [
+        "ville-de-gland"
+      ]
+    },
+    {
+      "slug": "geneve-la-cote-nyon-elisabeth-ruey-ray",
+      "title": "Nyon – Préparer la mobilité de demain",
+      "subtitle": "Entretien avec Mme Elisabeth Ruey-Ray, conseillère municipale en charge de la mobilité, des transports et de la sécurité publique",
+      "type": "interview",
+      "page": "67",
+      "pdfPages": [],
+      "summary": "Face à un centre-ville saturé aux heures de pointe, Nyon a créé un office de la mobilité chargé d'appliquer un concept de mobilité urbaine à quatre axes : stationnement court au centre et parkings-relais en périphérie, bus urbains au quart d'heure avec les TPN, essor du vélo (900 supports, libre-service) et cheminements piétons plus sûrs. La municipale évoque le travail de conviction nécessaire et la création d'une police intercommunale avec Prangins et Crans.",
+      "quote": "",
+      "themes": [
+        "collectivites",
+        "mobilite"
+      ],
+      "region": "Nyon",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Elisabeth Ruey-Ray",
+          "role": "Conseillère municipale"
+        }
+      ],
+      "companies": [
+        "ville-de-nyon"
+      ]
+    },
+    {
+      "slug": "geneve-la-cote-morges-eric-zuger",
+      "title": "Morges – Pour une fiscalité des entreprises stable",
+      "subtitle": "Interview d'Eric Züger, municipal en charge des finances et de la promotion économique",
+      "type": "interview",
+      "page": "68",
+      "pdfPages": [],
+      "summary": "Le district de Morges a été le deuxième du canton pour la croissance de l'emploi entre 2008 et 2011. Le municipal souligne les atouts de la ville (centralité, accessibilité) mais aussi ses faiblesses : territoire exigu, peu de zones industrielles et plus de réserves de terrain. Il décrit un tissu majoritairement tertiaire, un taux d'imposition stable depuis dix ans, une politique de droits de superficie, le dialogue avec les commerçants et la nouvelle stratégie de promotion économique lancée fin 2013.",
+      "quote": "",
+      "themes": [
+        "collectivites",
+        "economie"
+      ],
+      "region": "Morges",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Eric Züger",
+          "role": "Municipal"
+        }
+      ],
+      "companies": [
+        "ville-de-morges"
+      ]
+    },
+    {
+      "slug": "geneve-la-cote-cossonay-nicole-baudet",
+      "title": "Cossonay – Un grand dynamisme social et culturel",
+      "subtitle": "Interview de Nicole Baudet, vice-présidente de la Municipalité (bâtiments, constructions, affaires sociales, santé, culture)",
+      "type": "interview",
+      "page": "69",
+      "pdfPages": [],
+      "summary": "Cossonay possède 24 bâtiments communaux ; le grand chantier en cours est une salle polyvalente avec deux salles de gym, un mur de grimpe et un réfectoire. La municipale siège au comité de l'ARASMAC, l'association régionale d'action sociale, et de la fondation Le Relais. Elle présente l'accueil des jeunes au CLAC, les actions pour les seniors, une saison théâtrale très fréquentée au Pré aux Moines, la Lanterne magique et la forte hausse des prêts de la bibliothèque.",
+      "quote": "",
+      "themes": [
+        "collectivites",
+        "territoire"
+      ],
+      "region": "Cossonay",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Nicole Baudet",
+          "role": "Vice-présidente de la Municipalité"
+        }
+      ],
+      "companies": [
+        "commune-de-cossonay"
+      ]
+    },
+    {
+      "slug": "geneve-la-cote-gland-daniel-collaud",
+      "title": "Gland – Une région dynamique et attractive pour les entreprises",
+      "subtitle": "Interview de Daniel Collaud, municipal (finances, promotion économique, sports, santé, domaines et forêts)",
+      "type": "interview",
+      "page": "70",
+      "pdfPages": [],
+      "summary": "Proche de Genève, de Lausanne et de l'EPFL, Gland attire entreprises et main-d'œuvre qualifiée, malgré la cherté du logement. Le municipal mise sur des terrains déjà légalisés, comme ceux qui ont permis aux halles modulables Streetbox d'accueillir une soixantaine d'artisans, et sur la fibre optique d'ici 2015. Il présente la politique sportive fondée sur la gratuité des installations et l'achat d'une parcelle de 20 000 m², ainsi que la politique de santé : soins à domicile, appartements protégés, nouvel EMS et association Vivag pour les seniors.",
+      "quote": "",
+      "themes": [
+        "collectivites",
+        "economie",
+        "sante"
+      ],
+      "region": "Gland",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Daniel Collaud",
+          "role": "Municipal"
+        }
+      ],
+      "companies": [
+        "ville-de-gland"
+      ]
+    },
+    {
+      "slug": "geneve-la-cote-nyon-claude-dupertuis",
+      "title": "Nyon – Des espaces verts, gages de qualité de vie",
+      "subtitle": "Entretien avec M. Claude Dupertuis, conseiller municipal en charge des espaces verts, forêts et services industriels",
+      "type": "interview",
+      "page": "71",
+      "pdfPages": [],
+      "summary": "Nyon entretient environ 28 hectares de parcs et pelouses, des massifs floraux, des terrains de sport et des cordons boisés le long de trois rivières. Le municipal décrit des actions en faveur de la biodiversité : prairies fleuries, ruches urbaines, espèces indigènes et arbres fruitiers en libre cueillette. La commune possède 750 hectares de forêts valorisées en bois de construction et de chauffage. Ses services industriels gèrent électricité, eau et gaz, étudient un chauffage à distance et entretiennent le téléréseau régional via TRN SA.",
+      "quote": "",
+      "themes": [
+        "collectivites",
+        "energie",
+        "territoire"
+      ],
+      "region": "Nyon",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Claude Dupertuis",
+          "role": "Conseiller municipal"
+        }
+      ],
+      "companies": [
+        "ville-de-nyon"
+      ]
+    },
+    {
+      "slug": "geneve-la-cote-cossonay-bernard-ebener",
+      "title": "Cossonay – Un emplacement géographique très favorable",
+      "subtitle": "Interview de Bernard Ebener, municipal (parcs, environnement et développement durable, informatique, sport, forêts, défense incendie)",
+      "type": "interview",
+      "page": "72",
+      "pdfPages": [],
+      "summary": "Proche des nœuds ferroviaires et routiers, Cossonay offre un patrimoine historique, des forêts et l'étang du Sépey, d'importance nationale pour les batraciens. Le municipal décrit la gestion des 92 hectares de forêts et les zones de délassement. La commune a signé une déclaration sur le développement durable, créé une commission consultative, un tableau de bord d'une centaine de mesures et un diagnostic énergétique visant la société à 2000 watts. Il présente aussi les infrastructures sportives et le nouveau bâtiment polyvalent.",
+      "quote": "",
+      "themes": [
+        "collectivites",
+        "energie",
+        "territoire"
+      ],
+      "region": "Cossonay",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Bernard Ebener",
+          "role": "Municipal"
+        }
+      ],
+      "companies": [
+        "commune-de-cossonay"
+      ]
+    },
+    {
+      "slug": "geneve-la-cote-gland-olivier-fargeon",
+      "title": "Réaménager le Vieux-Bourg de Gland",
+      "subtitle": "Interview d'Olivier Fargeon, municipal en charge des équipements, espaces verts et gestion des déchets",
+      "type": "interview",
+      "page": "74",
+      "pdfPages": [],
+      "summary": "Le service Infrastructure et environnement de Gland compte 27 collaborateurs et gère réseaux d'eau, routes, forêts, espaces publics et déchets. Le principal chantier à l'étude est le réaménagement du Vieux-Bourg, déclenché par la mise en séparatif des canalisations. Le municipal évoque l'assainissement du bruit routier, une nouvelle zone 30, l'éclairage public plus sobre, une nouvelle source d'eau au Bois de Chênes, ainsi que la taxe au sac qui a porté le taux de recyclage à 67 %.",
+      "quote": "",
+      "themes": [
+        "collectivites",
+        "energie"
+      ],
+      "region": "Gland",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Olivier Fargeon",
+          "role": "Municipal"
+        }
+      ],
+      "companies": [
+        "ville-de-gland"
+      ]
+    },
+    {
+      "slug": "geneve-la-cote-gland-christine-girod",
+      "title": "Gland – Offrir aux jeunes des lieux de rencontre",
+      "subtitle": "Interview de Christine Girod, municipale en charge de l'accueil de l'enfance, de la jeunesse et des écoles",
+      "type": "interview",
+      "page": "75",
+      "pdfPages": [],
+      "summary": "Membre du réseau d'accueil des Toblerones, Gland compte huit structures préscolaires et deux parascolaires, auxquelles s'ajoutent de nouvelles places en 2014 et 2015. La municipale présente le Centre de rencontres et de loisirs pour les 12-18 ans, le centre aéré estival, les jeunes reporters du journal communal, un « relax corner » intergénérationnel, l'ouverture de salles de gym le samedi soir et la patinoire mobile. Les deux établissements scolaires accueillent près de 1 600 élèves.",
+      "quote": "",
+      "themes": [
+        "collectivites",
+        "formation"
+      ],
+      "region": "Gland",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Christine Girod",
+          "role": "Municipale"
+        }
+      ],
+      "companies": [
+        "ville-de-gland"
+      ]
+    },
+    {
+      "slug": "geneve-la-cote-cossonay-valerie-induni",
+      "title": "Cossonay – Un centre entièrement dédié à l'enfance",
+      "subtitle": "Interview de Valérie Induni, municipale (protection civile, cultes, écoles et petite enfance)",
+      "type": "interview",
+      "page": "76",
+      "pdfPages": [],
+      "summary": "Cossonay fait partie de l'association scolaire ASICoPe (13 communes, 1 700 élèves) et du réseau d'accueil de jour AJERCO qui regroupe 27 communes. La municipale présente un projet de complexe aux Chavannes réunissant classes, enseignement spécialisé avec la Fondation de Vernand, garderie, accueil parascolaire, piscine couverte et ludothèque. Elle décrit aussi les services de psychologie, psychomotricité et logopédie en milieu scolaire, ainsi que les bonnes relations entretenues avec les paroisses.",
+      "quote": "",
+      "themes": [
+        "collectivites",
+        "formation"
+      ],
+      "region": "Cossonay",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Valérie Induni",
+          "role": "Municipale"
+        }
+      ],
+      "companies": [
+        "commune-de-cossonay"
+      ]
+    },
+    {
+      "slug": "geneve-la-cote-gland-isabelle-monney",
+      "title": "Gland – Priorité au logement accessible de qualité",
+      "subtitle": "Interview d'Isabelle Monney, municipale en charge des affaires sociales, du logement, de la culture et des cultes",
+      "type": "interview",
+      "page": "77",
+      "pdfPages": [],
+      "summary": "Face à la pénurie de logements abordables, Gland a introduit en 2011 une aide individuelle au logement et lancé trois partenariats public-privé favorisant la mixité : appartements protégés et familiaux dans l'écoquartier d'Eikenøtt, 50 logements subventionnés avec une coopérative, et un projet avec crèche. La municipale évoque l'intégration des migrants avec Caritas et une offre culturelle variée : théâtre de près de 400 places, cafés-concerts, ciné-club, Open Air et La Côte Flûte Festival.",
+      "quote": "",
+      "themes": [
+        "collectivites",
+        "territoire"
+      ],
+      "region": "Gland",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Isabelle Monney",
+          "role": "Municipale"
+        }
+      ],
+      "companies": [
+        "ville-de-gland"
+      ]
+    },
+    {
+      "slug": "geneve-la-cote-acronet",
+      "title": "Acronet Sàrl – Les pros sur cordes",
+      "subtitle": "",
+      "type": "publireportage",
+      "page": "78",
+      "pdfPages": [],
+      "summary": "Spécialisée dans les travaux acrobatiques, l'entreprise glandoise Acronet Sàrl emploie une dizaine de cordistes formés selon les normes de l'association romande des travaux sur cordes. Ils interviennent là où l'accès est difficile : nettoyage de vitres et de façades, réfections de puits de lumière ou de cours intérieures, mais aussi peinture, maçonnerie ou menuiserie. Le fondateur Rolf Bütikofer, pionnier du secteur, a fait évoluer son entreprise de nettoyage vers ce marché ; son fils prévoit de reprendre la société, active dans tout le bassin lémanique.",
+      "quote": "Nous travaillons partout où l'accès est difficile ou demanderait une grande disproportion en coûts ou en équipements pour y parvenir.",
+      "themes": [
+        "construction"
+      ],
+      "region": "Gland",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Rolf Bütikofer",
+          "role": "Patron et fondateur"
+        }
+      ],
+      "companies": [
+        "acronet"
+      ]
+    }
+  ],
+  "companies": [
+    {
+      "slug": "stadt-solothurn",
+      "name": "Stadt Solothurn – Stadtpräsidium",
+      "sector": "Administration communale",
+      "themes": [
+        "collectivites"
+      ],
+      "description": "Présidence de la Ville de Soleure, cité baroque d'environ 17 000 habitants. La ville mise sur la culture (musées, théâtre, Journées cinématographiques et littéraires), le tourisme de congrès et sa bonne desserte autoroutière et ferroviaire, et étudie une fusion avec quatre communes voisines.",
+      "address": "Baselstrasse 7, Postfach 460",
+      "postalCode": "4502",
+      "city": "Solothurn",
+      "canton": "SO",
+      "country": "Suisse",
+      "phone": "+41 (0)32 626 92 01",
+      "email": "stadtpraesidium@solothurn.ch",
+      "website": "www.stadt-solothurn.ch",
+      "contacts": [
+        {
+          "name": "Kurt Fluri",
+          "role": "Stadtpräsident"
+        }
+      ],
+      "page": "04-05",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "dale-geneve",
+      "name": "Département de l'aménagement, du logement et de l'énergie (DALE) – Canton de Genève",
+      "sector": "Administration cantonale",
+      "themes": [
+        "collectivites",
+        "territoire"
+      ],
+      "description": "Département cantonal genevois chargé de l'aménagement, du logement et de l'énergie. Il pilote les dix grands projets prioritaires, dont Praille-Acacias-Vernets, et une politique de logement axée sur la mixité sociale et les coopératives.",
+      "address": "Rue de l'Hôtel-de-Ville 14, Case postale 3880",
+      "postalCode": "1211",
+      "city": "Genève 3",
+      "canton": "GE",
+      "country": "Suisse",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "contacts": [
+        {
+          "name": "Antonio Hodgers",
+          "role": "Conseiller d'Etat"
+        }
+      ],
+      "page": "08",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "ville-de-meyrin",
+      "name": "Ville de Meyrin",
+      "sector": "Commune",
+      "themes": [
+        "collectivites",
+        "territoire"
+      ],
+      "description": "Commune genevoise d'environ 23 000 habitants qui accueille quelque 2 000 entreprises et 26 000 emplois, l'aéroport et le CERN. Elle réalise l'écoquartier des Vergers (Minergie A) et pilote avec le canton la requalification des zones industrielles ZIMEYSAVER.",
+      "address": "Rue des Boudines 2, case postale 367",
+      "postalCode": "1217",
+      "city": "Meyrin 1",
+      "canton": "GE",
+      "country": "Suisse",
+      "phone": "+41 (0)22 782 82 82",
+      "email": "",
+      "website": "www.meyrin.ch",
+      "contacts": [
+        {
+          "name": "Jean-Marc Devaud",
+          "role": "Conseiller administratif, maire"
+        },
+        {
+          "name": "Philippe Maag",
+          "role": "Chef de service adjoint UTE, chef de projet Vergers"
+        }
+      ],
+      "page": "09-15",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "ville-de-carouge",
+      "name": "Ville de Carouge",
+      "sector": "Commune",
+      "themes": [
+        "collectivites",
+        "territoire"
+      ],
+      "description": "Cité sarde genevoise d'environ 21 000 habitants appelée à en accueillir 12 000 de plus, notamment dans le périmètre Praille-Acacias-Vernets. Elle veut préserver le Vieux-Carouge, créer de grands espaces verts et anticiper la mobilité.",
+      "address": "Place du Marché 14",
+      "postalCode": "1227",
+      "city": "Carouge",
+      "canton": "GE",
+      "country": "Suisse",
+      "phone": "022 307 89 87",
+      "email": "",
+      "website": "www.carouge.ch",
+      "contacts": [
+        {
+          "name": "Nicolas Walder",
+          "role": "Conseiller administratif"
+        }
+      ],
+      "page": "10",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "commune-de-plan-les-ouates",
+      "name": "Commune de Plan-les-Ouates",
+      "sector": "Commune",
+      "themes": [
+        "collectivites",
+        "territoire"
+      ],
+      "description": "Commune genevoise devenue ville en 2010, mêlant zones agricoles, manufactures horlogères, biotech et cleantech. Elle accueille de nouveaux quartiers (La Chapelle-Les Sciers, Cherpines) et a créé une centrale de mobilité avec les entreprises de sa zone industrielle.",
+      "address": "Route des Chevaliers-de-Malte 3",
+      "postalCode": "1228",
+      "city": "Plan-les-Ouates",
+      "canton": "GE",
+      "country": "Suisse",
+      "phone": "+41 (0)22 884 64 00",
+      "email": "mairie@plan-les-ouates.ch",
+      "website": "",
+      "contacts": [
+        {
+          "name": "Fabienne Monbaron",
+          "role": "Conseillère administrative, maire"
+        }
+      ],
+      "page": "11",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "ville-de-lancy",
+      "name": "Ville de Lancy",
+      "sector": "Commune",
+      "themes": [
+        "collectivites",
+        "territoire"
+      ],
+      "description": "Ville genevoise de près de 30 000 habitants, concernée par deux gares du CEVA. Elle investit une quarantaine de millions par an dans ses équipements publics et s'appuie sur un riche tissu associatif.",
+      "address": "Route du Grand-Lancy 41",
+      "postalCode": "1212",
+      "city": "Grand-Lancy",
+      "canton": "GE",
+      "country": "Suisse",
+      "phone": "+41 (0)22 706 15 11",
+      "email": "info@lancy.ch",
+      "website": "www.lancy.ch",
+      "contacts": [
+        {
+          "name": "François Lance",
+          "role": "Conseiller administratif"
+        }
+      ],
+      "page": "12",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "amstein-walthert-geneve",
+      "name": "Amstein+Walthert Genève SA",
+      "sector": "Ingénierie technique du bâtiment et consulting",
+      "themes": [
+        "architecture",
+        "energie",
+        "construction"
+      ],
+      "description": "Bureau genevois, actif depuis 1981, du groupe Amstein+Walthert (plus de 700 collaborateurs en Suisse). Ses 75 collaborateurs couvrent le consulting énergétique, la physique du bâtiment et l'ingénierie CVCSE, l'éclairagisme, l'informatique, la sécurité et l'automatisme. Références : siège de l'UICN à Gland, Allianz Suisse, gare Cornavin.",
+      "address": "54-56, rue du Grand-Pré, Case postale 76",
+      "postalCode": "1211",
+      "city": "Genève 7",
+      "canton": "GE",
+      "country": "Suisse",
+      "phone": "+41 (0)22 749 83 80",
+      "email": "",
+      "website": "www.amstein-walthert.ch",
+      "contacts": [],
+      "page": "16-17",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "answer",
+      "name": "ANSWER SA",
+      "sector": "Logiciels financiers et cybersécurité",
+      "themes": [
+        "economie"
+      ],
+      "description": "Société genevoise spécialisée dans les solutions de consolidation et d'analyse de données financières ou industrielles et dans la cybersécurité. Elle compte trois divisions (Software Factory, IT Security, Strategic Outsourcing) et développe le logiciel ATRIUM. Quinze ans d'expérience.",
+      "address": "Centre CTN, Chemin des Aulx 12",
+      "postalCode": "1228",
+      "city": "Plan-les-Ouates",
+      "canton": "GE",
+      "country": "Suisse",
+      "phone": "+41 (0)22 884 90 00",
+      "email": "info@answer.ch",
+      "website": "www.answer.ch",
+      "contacts": [],
+      "page": "18",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "residence-carouge-centre",
+      "name": "Résidence Carouge-Centre",
+      "sector": "Logements encadrés pour personnes âgées",
+      "themes": [
+        "sante",
+        "collectivites"
+      ],
+      "description": "Immeuble avec encadrement social pour personnes âgées appartenant à la fondation carougeoise de droit public dédiée à leur hébergement. Les locataires disposent de logements indépendants équipés d'un système d'appel et d'un soutien favorisant le maintien à domicile.",
+      "address": "Rue Vautier 26",
+      "postalCode": "1227",
+      "city": "Carouge",
+      "canton": "GE",
+      "country": "Suisse",
+      "phone": "+41 (0)22 420 33 00",
+      "email": "",
+      "website": "",
+      "contacts": [],
+      "page": "19",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "residence-les-pervenches",
+      "name": "Résidence Les Pervenches",
+      "sector": "EMS",
+      "themes": [
+        "sante"
+      ],
+      "description": "Etablissement médico-social subventionné par le canton de Genève, situé entre Carouge et les Acacias. Pension ouverte de 72 chambres individuelles pour retraités nécessitant des soins, sans contrainte d'horaire pour les visites, avec libre choix du médecin traitant.",
+      "address": "Rue Jacques-Grosselin 14",
+      "postalCode": "1227",
+      "city": "Carouge",
+      "canton": "GE",
+      "country": "Suisse",
+      "phone": "+41 (0)22 827 59 00",
+      "email": "info@pervenches.ch",
+      "website": "www.pervenches.ch",
+      "contacts": [],
+      "page": "19",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "archi-sa",
+      "name": "Archi SA",
+      "sector": "Bureau d'architectes",
+      "themes": [
+        "architecture",
+        "construction"
+      ],
+      "description": "Bureau d'architectes fondé en 1999 à Carouge par Jaime Golub. Sept collaborateurs fixes ; tous les projets sont labellisés Minergie. Réalisations : Gingins Parc, complexe Lancy-Square, hôtel Ibis, logements en PPE et en coopérative ; projets à Nyon (Forum, Aqueduc, Collonges).",
+      "address": "Rue François-Meunier 1, Case postale 1310",
+      "postalCode": "1227",
+      "city": "Carouge",
+      "canton": "GE",
+      "country": "Suisse",
+      "phone": "+41 (0)22 309 43 70",
+      "email": "",
+      "website": "www.archisa.ch",
+      "contacts": [
+        {
+          "name": "Jaime Golub",
+          "role": "Fondateur et directeur"
+        }
+      ],
+      "page": "20",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "bm-entreprise-du-batiment",
+      "name": "BM Entreprise du bâtiment SA",
+      "sector": "Rénovation, gypserie-peinture",
+      "themes": [
+        "construction"
+      ],
+      "description": "Entreprise de rénovation et de transformation fondée en 1971 à Meyrin : gypserie, peinture, décoration, petite maçonnerie, carrelage et interventions après incendie. Une dizaine d'employés, formation d'apprentis, active à Genève et sur La Côte.",
+      "address": "Route du Mandement 17",
+      "postalCode": "1217",
+      "city": "Meyrin",
+      "canton": "GE",
+      "country": "Suisse",
+      "phone": "+41 (0)22 782 49 38",
+      "email": "",
+      "website": "www.bm-bati.ch",
+      "contacts": [
+        {
+          "name": "Bernard Morat",
+          "role": "Administrateur et fondateur"
+        },
+        {
+          "name": "Denis Sottas",
+          "role": "Directeur"
+        }
+      ],
+      "page": "21",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "asdz-architecture",
+      "name": "ASDZ Architecture SA",
+      "sector": "Bureau d'architectes et urbanisme",
+      "themes": [
+        "architecture",
+        "territoire"
+      ],
+      "description": "Bureau d'architecture carougeois dirigé par Dominique Zanghi. Il a élaboré une image directrice pour l'ouverture et la transformation d'un îlot de Carouge Est (Clos de la Fonderie Sud), avec passage piéton, nouveaux bâtiments et réorganisation des parkings.",
+      "address": "Avenue Cardinal-Mermillod 42-44",
+      "postalCode": "1227",
+      "city": "Carouge",
+      "canton": "GE",
+      "country": "Suisse",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "contacts": [
+        {
+          "name": "Dominique Zanghi",
+          "role": "Architecte"
+        }
+      ],
+      "page": "22-23",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "atelier-nord",
+      "name": "Atelier Nord Sàrl",
+      "sector": "Bureau d'architectes",
+      "themes": [
+        "architecture",
+        "energie"
+      ],
+      "description": "Atelier d'architecture genevois fondé par Renaud Dupuis (Renaud Dupuis Architecte en 1991, Atelier Nord dès 2000), partenaire spécialiste Minergie. Il conçoit villas et équipements sur mesure : restaurant La Vague et vestiaires de la piscine de Prilly, villas à Vessy, Epalinges et Petit-Lancy.",
+      "address": "Rue Viollier 8",
+      "postalCode": "1207",
+      "city": "Genève",
+      "canton": "GE",
+      "country": "Suisse",
+      "phone": "",
+      "email": "",
+      "website": "www.atelier-nord.ch",
+      "contacts": [
+        {
+          "name": "Renaud Dupuis",
+          "role": "Fondateur et directeur"
+        }
+      ],
+      "page": "24-25",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "comptoir-immobilier",
+      "name": "Comptoir Immobilier SA",
+      "sector": "Régie immobilière et développement de projets",
+      "themes": [
+        "architecture",
+        "economie"
+      ],
+      "description": "Groupe immobilier romand, régisseur depuis 1825 : gérance, PPE, centres commerciaux, courtage et pilotage de projets via sa division Etudes & Développements créée en 2006. Plus de 180 collaborateurs, 9 milliards d'actifs sous gestion, 30 000 lots ; projets aux Communaux d'Ambilly, à Surville et à Sion.",
+      "address": "Cours de Rive 7, Case postale 3753",
+      "postalCode": "1211",
+      "city": "Genève 3",
+      "canton": "GE",
+      "country": "Suisse",
+      "phone": "",
+      "email": "",
+      "website": "www.comptoir-immo.ch",
+      "contacts": [],
+      "page": "26-27",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "dssa-dumont-schneider",
+      "name": "DSSA Dumont-Schneider SA",
+      "sector": "Bureau d'ingénieurs en électricité",
+      "themes": [
+        "architecture",
+        "energie"
+      ],
+      "description": "Bureau d'ingénieurs-conseils fondé en 1988, spécialisé dans les installations électriques de courant fort et faible, la sécurité, la coordination CVSE et l'éclairage LED. Une quinzaine de collaborateurs, succursale à Domdidier ; références hôtelières et hospitalières à Genève.",
+      "address": "Chemin du Pont-du-Centenaire 109",
+      "postalCode": "1228",
+      "city": "Plan-les-Ouates",
+      "canton": "GE",
+      "country": "Suisse",
+      "phone": "",
+      "email": "",
+      "website": "www.dssa.ch",
+      "contacts": [
+        {
+          "name": "Roger Dumont",
+          "role": "Directeur"
+        }
+      ],
+      "page": "28",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "gastromer",
+      "name": "Gastromer",
+      "sector": "Grossiste en produits de la mer",
+      "themes": [
+        "economie"
+      ],
+      "description": "Grossiste fondé en 1993 qui importe et distribue plus de 900 références de produits de la mer dans toute la Suisse romande. Entreprise familiale d'une cinquantaine de personnes, certifiée ISO 22000, avec bassin de purification des coquillages et succursale en Valais.",
+      "address": "14, chemin du Champ-Blanchod",
+      "postalCode": "1228",
+      "city": "Plan-les-Ouates",
+      "canton": "GE",
+      "country": "Suisse",
+      "phone": "+41 (0)22 / 794 39 10",
+      "email": "",
+      "website": "www.gastromer.ch",
+      "contacts": [
+        {
+          "name": "Laurent Isoux",
+          "role": "Fondateur"
+        },
+        {
+          "name": "Julien Isoux",
+          "role": "Directeur des ventes"
+        },
+        {
+          "name": "Damien Isoux",
+          "role": "Directeur des achats"
+        }
+      ],
+      "page": "29",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "genevaccord",
+      "name": "GENEVACCORD Alternative Dispute Resolution (A.D.R.) SA",
+      "sector": "Médiation de conflits",
+      "themes": [
+        "economie"
+      ],
+      "description": "Cabinet de médiation fondé en 2012 à Genève, spécialisé dans les conflits commerciaux inter et intra-entreprises, les différends internationaux, la propriété intellectuelle et la médiation politique. Il revendique un taux d'accord de 87 % en trois mois au plus.",
+      "address": "Route de Florissant 78",
+      "postalCode": "1206",
+      "city": "Genève",
+      "canton": "GE",
+      "country": "Suisse",
+      "phone": "+41 (0)22 786 52 02",
+      "email": "mediation-rp@genevaccord.com",
+      "website": "www.genevaccord.com",
+      "contacts": [
+        {
+          "name": "Guy A. Bottequin",
+          "role": "Président et fondateur, médiateur assermenté"
+        }
+      ],
+      "page": "30-31",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "hestia-constructions",
+      "name": "Hestia Constructions SA",
+      "sector": "Entreprise générale",
+      "themes": [
+        "construction"
+      ],
+      "description": "Entreprise générale fondée en novembre 2010 à Carouge, active dans toute la Suisse romande pour la construction, la transformation et la rénovation de bâtiments. Une dizaine de collaborateurs ; elle réalise le parking souterrain de plus de mille places de l'écoquartier des Vergers à Meyrin.",
+      "address": "Chemin de la Marbrerie 3",
+      "postalCode": "1227",
+      "city": "Carouge",
+      "canton": "GE",
+      "country": "Suisse",
+      "phone": "+41 (0)22 827 23 00",
+      "email": "",
+      "website": "www.hestia.ch",
+      "contacts": [
+        {
+          "name": "Philippe Blanc",
+          "role": "CEO"
+        }
+      ],
+      "page": "32",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "partn-air",
+      "name": "Partn-Air SA",
+      "sector": "Ventilation",
+      "themes": [
+        "energie",
+        "industrie"
+      ],
+      "description": "Entreprise indépendante fondée en 1988 qui fabrique des ventilateurs de toiture et distribue du matériel de ventilation (Systemair, Ziehl-Abegg, Caladair, Aéréco) aux ventilistes romands. Sept employés, atelier et stock à Meyrin, participation à des projets pilotes fédéraux.",
+      "address": "Route de Satigny 42",
+      "postalCode": "1217",
+      "city": "Meyrin",
+      "canton": "GE",
+      "country": "Suisse",
+      "phone": "(0)22 341 51 80",
+      "email": "",
+      "website": "www.partn-air.ch",
+      "contacts": [
+        {
+          "name": "Régis Baud",
+          "role": "Directeur"
+        }
+      ],
+      "page": "32",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "hydrosystem",
+      "name": "Hydrosystem SA",
+      "sector": "Hydraulique et pneumatique",
+      "themes": [
+        "industrie"
+      ],
+      "description": "Société fondée en 1985 à Meyrin, spécialisée dans l'étude, la vente, l'installation et la maintenance d'équipements hydrauliques et pneumatiques. Distributeur officiel Parker avec un Parker Store, stock de plus de 30 000 articles, une quinzaine d'employés.",
+      "address": "",
+      "postalCode": "",
+      "city": "Meyrin",
+      "canton": "GE",
+      "country": "Suisse",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "contacts": [
+        {
+          "name": "Thierry Vuillier",
+          "role": "Directeur"
+        }
+      ],
+      "page": "33",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "meyrincentre",
+      "name": "MeyrinCentre",
+      "sector": "Centre commercial",
+      "themes": [
+        "economie",
+        "energie"
+      ],
+      "description": "Centre commercial inauguré en 1963, troisième du canton de Genève : 16 000 m², 40 commerces sur trois niveaux dont Migros, Coop et Denner. Il exploite depuis 2010 une grande centrale solaire en toiture et une déchetterie certifiée Eco21.",
+      "address": "Avenue de Feuillasse 24",
+      "postalCode": "1217",
+      "city": "Meyrin",
+      "canton": "GE",
+      "country": "Suisse",
+      "phone": "",
+      "email": "",
+      "website": "www.meyrincentre.ch",
+      "contacts": [
+        {
+          "name": "Jean-Louis Michaud",
+          "role": "Directeur"
+        }
+      ],
+      "page": "34-35",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "mpm-facility-services",
+      "name": "MPM facility services SA",
+      "sector": "Nettoyage et facility services",
+      "themes": [
+        "economie"
+      ],
+      "description": "Entreprise familiale de nettoyage fondée en 1998 à Carouge, plus de 360 personnes sous contrat. Elle intervient dans l'industrie, les bureaux, l'hôtellerie, la santé et l'aéronautique, propose l'ultra-nettoyage de salles blanches et utilise des produits écolabellisés.",
+      "address": "Rue Blavignac 10",
+      "postalCode": "1227",
+      "city": "Carouge",
+      "canton": "GE",
+      "country": "Suisse",
+      "phone": "+41 (0)22 343 65 55",
+      "email": "",
+      "website": "www.mpmnet.ch",
+      "contacts": [
+        {
+          "name": "Gérald Althaus",
+          "role": "Fondateur et administrateur"
+        },
+        {
+          "name": "Johann Althaus",
+          "role": "CEO"
+        },
+        {
+          "name": "José Planas",
+          "role": "Directeur"
+        }
+      ],
+      "page": "36-37",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "scholl-metal",
+      "name": "Scholl-Metal SA",
+      "sector": "Construction métallique et tôlerie",
+      "themes": [
+        "industrie",
+        "construction"
+      ],
+      "description": "Entreprise de construction métallique fondée en 1980 à Vernier et installée à Meyrin. Elle a développé une barrière mobile autotractée de déviation du trafic et propose de la tôlerie industrielle avec découpe laser. Une vingtaine d'employés.",
+      "address": "Rue Veyrot 5",
+      "postalCode": "1217",
+      "city": "Meyrin",
+      "canton": "GE",
+      "country": "Suisse",
+      "phone": "+41 (0)22 795 75 80",
+      "email": "",
+      "website": "www.scholl-metal.ch",
+      "contacts": [
+        {
+          "name": "Laurent Scholl",
+          "role": "Directeur"
+        }
+      ],
+      "page": "38",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "sgi-ingenierie",
+      "name": "SGI Ingénierie SA",
+      "sector": "Bureau d'ingénieurs civils",
+      "themes": [
+        "construction",
+        "architecture"
+      ],
+      "description": "Bureau d'ingénierie d'origine genevoise (1898) appartenant à un groupe de près de 200 personnes. Le bureau suisse de 26 personnes travaille en hydraulique, infrastructures urbaines, bâtiments et ouvrages d'art ; il participe au CEVA, à Genilac et à des travaux à l'aéroport.",
+      "address": "46, chemin de l'Etang",
+      "postalCode": "1219",
+      "city": "Châtelaine",
+      "canton": "GE",
+      "country": "Suisse",
+      "phone": "+41 (0)22 979 49 00",
+      "email": "",
+      "website": "www.sgigroupe.com",
+      "contacts": [
+        {
+          "name": "Cédric Dubois",
+          "role": "Directeur"
+        }
+      ],
+      "page": "39",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "s-m-architectes",
+      "name": "S+M Architectes SA",
+      "sector": "Bureau d'architectes",
+      "themes": [
+        "architecture",
+        "construction"
+      ],
+      "description": "Bureau d'architectes fondé en 1916 à Zurich et établi à Genève depuis 1961. Références : manufacture Patek Philippe, Balexert, aéroport de Genève, Crédit Suisse, extension Minergie P de l'Observatoire de Genève, fabrique d'aiguilles Fiedler à Carouge.",
+      "address": "Avenue du Lignon 38",
+      "postalCode": "1219",
+      "city": "Le Lignon",
+      "canton": "GE",
+      "country": "Suisse",
+      "phone": "+41 (0)22 979 32 32",
+      "email": "",
+      "website": "www.sm-ge.ch",
+      "contacts": [
+        {
+          "name": "Alain Steiner",
+          "role": "Architecte associé"
+        }
+      ],
+      "page": "40-41",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "universite-ouvriere-de-geneve",
+      "name": "Université Ouvrière de Genève (UOG)",
+      "sector": "Formation pour adultes",
+      "themes": [
+        "formation"
+      ],
+      "description": "Association centenaire d'utilité publique qui offre formation de base et continue aux personnes peu qualifiées : français langue étrangère, français en entreprise, remise à niveau, culture générale. Elle collabore avec l'Etat, la Ville de Genève, l'OCE et les syndicats.",
+      "address": "3 Place des Grottes",
+      "postalCode": "1201",
+      "city": "Genève",
+      "canton": "GE",
+      "country": "Suisse",
+      "phone": "+41 (0)22 733 50 60",
+      "email": "",
+      "website": "www.uog.ch",
+      "contacts": [],
+      "page": "42",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "prefecture-de-nyon",
+      "name": "Préfecture de Nyon",
+      "sector": "Administration cantonale",
+      "themes": [
+        "collectivites"
+      ],
+      "description": "Préfecture du district vaudois de Nyon (47 communes, environ 90 000 habitants). Deux préfets et une dizaine de collaborateurs veillent à l'application uniforme des lois et jouent un rôle de médiation entre citoyens et autorités communales.",
+      "address": "Rue Juste-Olivier 8, Case postale 1332",
+      "postalCode": "1260",
+      "city": "Nyon 1",
+      "canton": "VD",
+      "country": "Suisse",
+      "phone": "+41 (0)22 557 52 75",
+      "email": "prefecture.nyon@vd.ch",
+      "website": "www.vd.ch/autorites/prefets-et-prefectures/nyon/",
+      "contacts": [
+        {
+          "name": "Jean-Pierre Deriaz",
+          "role": "Préfet"
+        }
+      ],
+      "page": "44",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "arcam",
+      "name": "ARCAM – Association de la région Cossonay-Aubonne-Morges",
+      "sector": "Association de développement régional",
+      "themes": [
+        "collectivites",
+        "territoire",
+        "economie"
+      ],
+      "description": "Association régionale créée en 2009 qui réunit les 62 communes du district de Morges. Elle élabore le plan directeur régional et accompagne des projets comme le centre aquatique de Morges, le tourisme régional, la Maison des vins de La Côte et les filières bois et noix.",
+      "address": "Rue Neuve 1",
+      "postalCode": "1304",
+      "city": "Cossonay",
+      "canton": "VD",
+      "country": "Suisse",
+      "phone": "+41 (0)21 862 22 75",
+      "email": "info@arcam.ch",
+      "website": "www.arcam-vd.ch",
+      "contacts": [
+        {
+          "name": "Georges Rime",
+          "role": "Président"
+        },
+        {
+          "name": "Oscar Cherbuin",
+          "role": "Directeur"
+        }
+      ],
+      "page": "45, 47",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "commune-de-cossonay",
+      "name": "Commune de Cossonay",
+      "sector": "Commune",
+      "themes": [
+        "collectivites",
+        "territoire"
+      ],
+      "description": "Bourg médiéval vaudois de 3 500 habitants au pied du Jura, bien relié à Lausanne. La commune prévoit un développement mesuré, gère un nouveau réseau d'eau potable intercommunal et dispose d'une riche offre culturelle, scolaire et sportive.",
+      "address": "Rue Neuve 1",
+      "postalCode": "1304",
+      "city": "Cossonay",
+      "canton": "VD",
+      "country": "Suisse",
+      "phone": "+41 (0)21 863 22 00",
+      "email": "secretariat@cossonay.ch",
+      "website": "www.cossonay.ch",
+      "contacts": [
+        {
+          "name": "Georges Rime",
+          "role": "Syndic"
+        },
+        {
+          "name": "Claude Moinat",
+          "role": "Municipal"
+        },
+        {
+          "name": "Nicole Baudet",
+          "role": "Vice-présidente"
+        },
+        {
+          "name": "Bernard Ebener",
+          "role": "Municipal"
+        },
+        {
+          "name": "Valérie Induni",
+          "role": "Municipale"
+        }
+      ],
+      "page": "46, 63, 69, 72, 76",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "ville-de-nyon",
+      "name": "Ville de Nyon",
+      "sector": "Commune",
+      "themes": [
+        "collectivites",
+        "territoire"
+      ],
+      "description": "Chef-lieu du district, Nyon approche 20 000 habitants et se distingue par ses festivals. La Ville investit massivement dans ses écoles et équipements, impose la mixité dans les plans de quartier et développe transports publics, vélo et espaces verts.",
+      "address": "Place du Château 3",
+      "postalCode": "1260",
+      "city": "Nyon",
+      "canton": "VD",
+      "country": "Suisse",
+      "phone": "+41 (0)22 363 82 82",
+      "email": "greffe@nyon.ch",
+      "website": "www.nyon.ch",
+      "contacts": [
+        {
+          "name": "Daniel Rossellat",
+          "role": "Syndic"
+        },
+        {
+          "name": "Fabienne Freymond Cantone",
+          "role": "Municipale"
+        },
+        {
+          "name": "Claude Uldry",
+          "role": "Conseiller municipal"
+        },
+        {
+          "name": "Olivier Mayor",
+          "role": "Conseiller municipal"
+        },
+        {
+          "name": "Elisabeth Ruey-Ray",
+          "role": "Conseillère municipale"
+        },
+        {
+          "name": "Claude Dupertuis",
+          "role": "Conseiller municipal"
+        }
+      ],
+      "page": "48, 58, 60, 61, 67, 71",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "ville-de-morges",
+      "name": "Ville de Morges",
+      "sector": "Commune",
+      "themes": [
+        "collectivites",
+        "territoire"
+      ],
+      "description": "Chef-lieu vaudois de 15 500 habitants, pôle de l'agglomération Lausanne-Morges. La ville densifie (Gare-Sud, écoquartiers), développe ses transports publics et sa promotion économique, et porte le label Cité de l'énergie.",
+      "address": "Place de l'Hôtel-de-Ville 1",
+      "postalCode": "1110",
+      "city": "Morges",
+      "canton": "VD",
+      "country": "Suisse",
+      "phone": "+41 (0)21 804 96 96",
+      "email": "greffe@morges.ch",
+      "website": "www.morges.ch",
+      "contacts": [
+        {
+          "name": "Vincent Jaques",
+          "role": "Syndic"
+        },
+        {
+          "name": "Jean-Jacques Aubert",
+          "role": "Municipal"
+        },
+        {
+          "name": "Yves Paccaud",
+          "role": "Municipal"
+        },
+        {
+          "name": "Eric Züger",
+          "role": "Municipal"
+        }
+      ],
+      "page": "49, 55, 65, 68",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "ensemble-hospitalier-de-la-cote",
+      "name": "Ensemble Hospitalier de la Côte (EHC)",
+      "sector": "Hôpitaux et EMS",
+      "themes": [
+        "sante"
+      ],
+      "description": "Etablissement privé reconnu d'intérêt public créé en 2000 : sept sites dont les hôpitaux de Morges, Aubonne et Gilly, des EMS et des centres médicaux. 1 400 collaborateurs ; centre de neuromodulation, cardiologie interventionnelle et unité de soins aigus aux seniors.",
+      "address": "Ch. du Crêt 2",
+      "postalCode": "1110",
+      "city": "Morges",
+      "canton": "VD",
+      "country": "Suisse",
+      "phone": "+41 (0)21 804 22 11",
+      "email": "",
+      "website": "www.ehc.vd.ch",
+      "contacts": [
+        {
+          "name": "François Jacot-Descombes",
+          "role": "Directeur général"
+        }
+      ],
+      "page": "50-51",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "regionyon",
+      "name": "Régionyon – Conseil régional du district de Nyon",
+      "sector": "Association de développement régional",
+      "themes": [
+        "collectivites",
+        "territoire",
+        "mobilite"
+      ],
+      "description": "Conseil régional fondé en 2004 qui regroupe la quasi-totalité des 47 communes du district de Nyon et coordonne les projets régionaux de mobilité, d'économie, d'environnement, de tourisme et de culture. Secrétariat d'une douzaine de professionnels.",
+      "address": "10, rue du Marché",
+      "postalCode": "1260",
+      "city": "Nyon",
+      "canton": "VD",
+      "country": "Suisse",
+      "phone": "+41 (0)22 361 23 24",
+      "email": "info@regionyon.ch",
+      "website": "www.regionyon.ch",
+      "contacts": [
+        {
+          "name": "Gérald Cretegny",
+          "role": "Président du comité de direction"
+        },
+        {
+          "name": "Patrick Freudiger",
+          "role": "Directeur du secrétariat régional"
+        }
+      ],
+      "page": "52",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "ville-de-gland",
+      "name": "Ville de Gland",
+      "sector": "Commune",
+      "themes": [
+        "collectivites",
+        "territoire"
+      ],
+      "description": "Ville vaudoise de plus de 12 600 habitants entre Lausanne et Genève, devenue ville grâce à l'autoroute. Elle développe l'écoquartier d'Eikenøtt, des partenariats pour le logement abordable, son offre scolaire et culturelle, et porte le label Cité de l'énergie.",
+      "address": "Grand-Rue 38, CP 320",
+      "postalCode": "1196",
+      "city": "Gland",
+      "canton": "VD",
+      "country": "Suisse",
+      "phone": "+41 (0)22 354 04 04",
+      "email": "greffe.municipal@gland.ch",
+      "website": "www.gland.ch",
+      "contacts": [
+        {
+          "name": "Gérald Cretegny",
+          "role": "Syndic"
+        },
+        {
+          "name": "Thierry Genoud",
+          "role": "Municipal"
+        },
+        {
+          "name": "Michael Rohrer",
+          "role": "Municipal"
+        },
+        {
+          "name": "Daniel Collaud",
+          "role": "Municipal"
+        },
+        {
+          "name": "Olivier Fargeon",
+          "role": "Municipal"
+        },
+        {
+          "name": "Christine Girod",
+          "role": "Municipale"
+        },
+        {
+          "name": "Isabelle Monney",
+          "role": "Municipale"
+        }
+      ],
+      "page": "53, 59, 66, 70, 74, 75, 77",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "ville-d-aubonne",
+      "name": "Ville d'Aubonne",
+      "sector": "Commune",
+      "themes": [
+        "collectivites",
+        "territoire"
+      ],
+      "description": "Commune vaudoise de 3 000 habitants alliant bourg médiéval et pôle industriel et commercial. Elle prépare une fusion avec trois communes voisines, un nouveau plan d'affectation et développe le tourisme vert autour de l'Arboretum et du Signal de Bougy.",
+      "address": "Place du Marché 12, Case postale 133",
+      "postalCode": "1170",
+      "city": "Aubonne",
+      "canton": "VD",
+      "country": "Suisse",
+      "phone": "+41 (0)21 821 51 00",
+      "email": "municipalite@aubonne.ch",
+      "website": "",
+      "contacts": [
+        {
+          "name": "Luc-Etienne Rossier",
+          "role": "Syndic"
+        },
+        {
+          "name": "Gisèle Burnet",
+          "role": "Municipale"
+        },
+        {
+          "name": "Jean-Christophe de Mestral",
+          "role": "Municipal"
+        },
+        {
+          "name": "Eric Muller",
+          "role": "Municipal"
+        }
+      ],
+      "page": "54, 56-57, 62, 64",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "acronet",
+      "name": "Acronet Sàrl",
+      "sector": "Travaux acrobatiques sur cordes",
+      "themes": [
+        "construction"
+      ],
+      "description": "Entreprise glandoise spécialisée dans les travaux sur cordes : nettoyage de vitres et façades inaccessibles, réfections, peinture et petits travaux en hauteur. Une dizaine de cordistes formés selon les normes de l'association romande du secteur, active dans le bassin lémanique.",
+      "address": "Chemin du Lavasson 10",
+      "postalCode": "1196",
+      "city": "Gland",
+      "canton": "VD",
+      "country": "Suisse",
+      "phone": "+41 (0)21 825 33 69",
+      "email": "info@acronet.ch",
+      "website": "www.acronet.ch",
+      "contacts": [
+        {
+          "name": "Rolf Bütikofer",
+          "role": "Patron et fondateur"
+        }
+      ],
+      "page": "78",
+      "pdfPages": [],
+      "advertiserOnly": false
+    }
+  ]
+}
