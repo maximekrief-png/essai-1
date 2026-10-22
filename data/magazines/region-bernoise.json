@@ -1,0 +1,1068 @@
+{
+  "slug": "region-bernoise",
+  "title": "Swiss Knowhow – Région bernoise (décembre 2018)",
+  "series": "Économie régionale",
+  "year": 2018,
+  "region": "Canton de Berne – Bienne, Seeland, Emmental, Thoune, Oberaargau",
+  "languages": [
+    "de",
+    "fr",
+    "en"
+  ],
+  "description": "Numéro de décembre 2018 consacré à l'économie du canton de Berne, en allemand et en français. Il réunit les interviews du préfet de Bienne, de la promotion économique cantonale, de la Ville de Bienne, du recteur de l'Université de Berne et des présidents des associations économiques régionales (HIV Biel-Seeland et Emmental, Wirtschaft Thun Oberland, WVO Oberaargau). Suivent des reportages sur des entreprises et écoles biennoises et bernoises : gravure horlogère, placement, traitement de l'eau, immobilier, mécanique, connectique, gymnases et écoles privées, fiduciaire.",
+  "themes": [
+    "economie",
+    "collectivites",
+    "industrie",
+    "horlogerie",
+    "formation"
+  ],
+  "files": [
+    {
+      "driveId": "1wzIU1Xz9WNl59aj99GiQnOC6iMZtwPW_",
+      "name": "BENNOISE.pdf",
+      "sizeMB": 4.3,
+      "label": "Édition web"
+    }
+  ],
+  "pdfLocal": true,
+  "articles": [
+    {
+      "slug": "region-bernoise-philippe-chetelat",
+      "title": "Un territoire reconnu pour son bilinguisme, ses infrastructures et son excellence horlogère",
+      "subtitle": "Interview de Philippe Chételat, préfet de Bienne",
+      "type": "interview",
+      "page": "02",
+      "pdfPages": [
+        4
+      ],
+      "summary": "Le préfet de Bienne cite les atouts de la région : bilinguisme, nœud autoroutier (A5, A6, A16) et ferroviaire entre Zurich, Bâle et Genève, statut de capitale mondiale de l'horlogerie, vieille ville et lac. Il évoque la stratégie « Bienne 2030 » sans entrer dans les détails, puis les autorisations récentes : nouvelle usine de CSL Behring à Longeau, qui accueillera plusieurs centaines de postes, Tissot Arena de 6 500 places avec commerces et un projet d'hôtel face au Palais des Congrès. Le principal défi reste le trafic, avec la branche ouest du contournement de l'A5, bloquée par des recours.",
+      "quote": "Le premier atout de la région est sans conteste le bilinguisme.",
+      "themes": [
+        "collectivites",
+        "territoire",
+        "horlogerie"
+      ],
+      "region": "Bienne",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Philippe Chételat",
+          "role": "Préfet de Bienne"
+        }
+      ],
+      "companies": [
+        "prefecture-biel-bienne"
+      ],
+      "imagePdf": "bennoise"
+    },
+    {
+      "slug": "region-bernoise-hiv-biel-seeland",
+      "title": "HIV Sektion Biel-Seeland",
+      "subtitle": "Im Gespräch mit Fabian Engel, Präsident HIV Sektion Biel-Seeland",
+      "type": "interview",
+      "page": "03",
+      "pdfPages": [
+        4
+      ],
+      "summary": "Le président de la section Biel-Seeland de l'Association du commerce et de l'industrie du canton de Berne présente une région centrale et multilingue, forte dans la précision, l'horlogerie, la microtechnique et les TIC, et première région exportatrice du canton. Le parc d'innovation (SIP) et le nouveau campus de la Haute école spécialisée bernoise doivent en faire un pôle d'innovation. Il salue l'ouverture de la branche est de l'A5 mais réclame la branche ouest, défend une politique extérieure ouverte envers l'Europe et une fiscalité plus favorable, et s'engage pour la formation.",
+      "quote": "Scheuklappen- und Abschottungspolitik ist Gift für uns.",
+      "themes": [
+        "economie",
+        "industrie",
+        "horlogerie"
+      ],
+      "region": "Bienne, Seeland",
+      "language": "de",
+      "people": [
+        {
+          "name": "Fabian Engel",
+          "role": "Präsident HIV Sektion Biel-Seeland"
+        }
+      ],
+      "companies": [
+        "hiv-biel-seeland"
+      ],
+      "imagePdf": "bennoise"
+    },
+    {
+      "slug": "region-bernoise-standortforderung-kanton-bern",
+      "title": "Standortförderung Kanton Bern – Kanton Bern, ein innovativer, breit diversifizierter Standort",
+      "subtitle": "Interview mit Dr. Sebastian Friess, Leiter Standortförderung Kanton Bern",
+      "type": "interview",
+      "page": "04",
+      "pdfPages": [
+        5
+      ],
+      "summary": "Le responsable de la promotion économique bernoise présente le canton comme le premier site industriel suisse de fabrication de haute précision et un acteur majeur de la medtech. Il décrit l'accueil des nouvelles entreprises et le suivi des entreprises existantes, la promotion internationale avec le GGBa, le coaching des PME et l'accélérateur de be-advanced, le Switzerland Innovation Park de Bienne et le soutien aux start-ups et à la scène du coworking. Le tourisme et les grands événements sportifs font aussi partie de son mandat. En vingt ans, la loi cantonale a permis de soutenir plus de 1 100 projets.",
+      "quote": "",
+      "themes": [
+        "economie",
+        "collectivites",
+        "industrie"
+      ],
+      "region": "Canton de Berne",
+      "language": "de",
+      "people": [
+        {
+          "name": "Sebastian Friess",
+          "role": "Leiter Standortförderung Kanton Bern"
+        }
+      ],
+      "companies": [
+        "standortforderung-kanton-bern"
+      ],
+      "imagePdf": "bennoise"
+    },
+    {
+      "slug": "region-bernoise-hiv-emmental",
+      "title": "Sektion Emmental",
+      "subtitle": "Interview mit Walter Gerber, Präsident HIV Sektion Emmental",
+      "type": "interview",
+      "page": "05",
+      "pdfPages": [
+        5
+      ],
+      "summary": "La section Emmental de l'association du commerce et de l'industrie compte 495 membres représentant quelque 15 000 emplois. Son président vante des collaborateurs loyaux et bien formés et des entreprises innovantes exportant dans le monde entier, comme Kambly, PB Swiss Tools, Blaser Swisslube ou Ypsomed, ainsi que la construction, la santé et le tourisme. Il attend l'assainissement routier Burgdorf-Oberburg-Hasle, dont les travaux pourraient s'achever vers 2034, et veut maintenir un campus de formation à Burgdorf après le départ de la haute école spécialisée à Bienne. Il présente l'initiative « 1000 Chancen » pour l'apprentissage.",
+      "quote": "",
+      "themes": [
+        "economie",
+        "formation"
+      ],
+      "region": "Emmental",
+      "language": "de",
+      "people": [
+        {
+          "name": "Walter Gerber",
+          "role": "Präsident HIV Sektion Emmental"
+        }
+      ],
+      "companies": [
+        "hiv-emmental"
+      ],
+      "imagePdf": "bennoise"
+    },
+    {
+      "slug": "region-bernoise-stadt-biel-thomas-gfeller",
+      "title": "Stadt Biel – « Unsere Stadt befindet sich seit Jahren in einer sehr dynamischen Phase »",
+      "subtitle": "Interview mit Thomas Gfeller, Delegierter für Wirtschaft der Stadt Biel",
+      "type": "interview",
+      "page": "06",
+      "pdfPages": [
+        6
+      ],
+      "summary": "Le délégué à l'économie de la plus grande ville bilingue de Suisse décrit une phase de développement très dynamique, portée par des entreprises internationales et par une politique foncière active, des partenariats public-privé et la promotion économique. Les bâtiments spectaculaires de Swatch, Omega et Rolex rendent visible le savoir-faire horloger, tandis que Georg Fischer investit environ 100 millions au Bözingenfeld. Il cite les projets phares (campus de la HES bernoise, Switzerland Innovation Park) et les secteurs de développement entre gare et lac, Esplanade et Gurzelen.",
+      "quote": "",
+      "themes": [
+        "collectivites",
+        "economie",
+        "horlogerie"
+      ],
+      "region": "Bienne",
+      "language": "de",
+      "people": [
+        {
+          "name": "Thomas Gfeller",
+          "role": "Delegierter für Wirtschaft der Stadt Biel"
+        }
+      ],
+      "companies": [
+        "stadt-biel"
+      ],
+      "imagePdf": "bennoise"
+    },
+    {
+      "slug": "region-bernoise-wirtschaft-thun-oberland",
+      "title": "Verband WIRTSCHAFT THUN OBERLAND – « Im Raum Thun hat sich einer der bedeutendsten Industriecluster herausgebildet »",
+      "subtitle": "Interview mit Reto Heiz, Präsident",
+      "type": "interview",
+      "page": "07",
+      "pdfPages": [
+        6
+      ],
+      "summary": "Le président de WIRTSCHAFT THUN OBERLAND, née en 2017 de la fusion de la section de Thoune de l'association du commerce et de l'industrie et de l'association patronale régionale, décrit une région forte dans l'industrie autour de Thoune et dans le tourisme dans l'Oberland. L'emploi progresse depuis 2016 et 90 % des entreprises interrogées en 2018 attendaient des ventes stables ou en hausse. Il critique la fiscalité bernoise et la lenteur des procédures d'autorisation. L'association compte environ 350 membres.",
+      "quote": "",
+      "themes": [
+        "economie",
+        "industrie",
+        "territoire"
+      ],
+      "region": "Thoune, Oberland",
+      "language": "de",
+      "people": [
+        {
+          "name": "Reto Heiz",
+          "role": "Präsident"
+        }
+      ],
+      "companies": [
+        "wirtschaft-thun-oberland"
+      ],
+      "imagePdf": "bennoise"
+    },
+    {
+      "slug": "region-bernoise-universitat-bern",
+      "title": "Universität Bern – Die Universität Bern folgt der Vision « Wissen schafft Wert »",
+      "subtitle": "Interview mit Prof. Dr. Christian Leumann, Rektor der Universität Bern",
+      "type": "interview",
+      "page": "08",
+      "pdfPages": [
+        7
+      ],
+      "summary": "Le recteur présente la troisième université de Suisse, classée parmi les 150 meilleures du monde et étroitement liée à la région de la capitale. Il évoque les défis : 100 places supplémentaires en médecine dès 2018, un cursus complet de pharmacie, la numérisation, le financement et surtout les constructions. Avec le canton et l'Hôpital de l'Ile, l'université veut faire de Berne le premier site de santé du pays (sitem-insel). Il cite aussi la médecine vétérinaire, la recherche sur le climat, le Kompetenzzentrum für Public Management et la célébration en 2019 des 50 ans de l'alunissage.",
+      "quote": "",
+      "themes": [
+        "formation",
+        "sante"
+      ],
+      "region": "Berne",
+      "language": "de",
+      "people": [
+        {
+          "name": "Christian Leumann",
+          "role": "Rektor"
+        }
+      ],
+      "companies": [
+        "universitat-bern"
+      ],
+      "imagePdf": "bennoise"
+    },
+    {
+      "slug": "region-bernoise-wvo-oberaargau",
+      "title": "WVO Wirtschaftsverband Oberaargau",
+      "subtitle": "Interview mit Béatrice Lüthi, Präsidentin WVO",
+      "type": "interview",
+      "page": "09",
+      "pdfPages": [
+        7
+      ],
+      "summary": "La présidente de l'association économique de Haute-Argovie bernoise décrit une région de nombreuses entreprises souvent dirigées par leurs propriétaires, où la loyauté des employés est forte. Elle juge les conditions-cadres bonnes mais dénonce la surréglementation, la pénurie de main-d'œuvre qualifiée et la fiscalité qui éloigne les cadres. Les exportateurs se sont adaptés au franc fort. L'association compte 354 membres, soutient le contournement Aarwangen-Langenthal Nord et a lancé une initiative pour réintégrer les collaborateurs souffrant de troubles psychiques.",
+      "quote": "Ich bin überzeugt, dass im ländlichen Raum wie bei uns die Loyalität und das Engagement der Mitarbeitenden oft grösser sind als in anonymen Ballungsgebieten.",
+      "themes": [
+        "economie"
+      ],
+      "region": "Oberaargau",
+      "language": "de",
+      "people": [
+        {
+          "name": "Béatrice Lüthi",
+          "role": "Präsidentin WVO"
+        }
+      ],
+      "companies": [
+        "wvo-oberaargau"
+      ],
+      "imagePdf": "bennoise"
+    },
+    {
+      "slug": "region-bernoise-a115-gravures",
+      "title": "Un graveur au service de l'horlogerie",
+      "subtitle": "A 115 Gravures S.A.",
+      "type": "publireportage",
+      "page": "10",
+      "pdfPages": [
+        8
+      ],
+      "summary": "Créée en 1991 et devenue société anonyme en 2012, A 115 à Bienne grave des plaques de décalque pour la tampographie, procédé utilisé surtout dans l'horlogerie pour imprimer les cadrans. Ses quatre collaborateurs en produisent près de 9 000 par an. Depuis 2015, l'entreprise a abandonné la gravure chimique pour l'ablation laser grâce à une machine issue d'un transfert de technologie, ce qui a divisé par quatre les délais de production. Elle accompagne marques et fabricants de cadrans de l'analyse du fichier jusqu'au gravage.",
+      "quote": "",
+      "themes": [
+        "horlogerie",
+        "industrie"
+      ],
+      "region": "Bienne",
+      "language": "fr",
+      "people": [],
+      "companies": [
+        "a115-gravures"
+      ],
+      "imagePdf": "bennoise"
+    },
+    {
+      "slug": "region-bernoise-a-a-z-emplois",
+      "title": "Proximité et réactivité au service du recrutement / Nähe und Reaktionsfähigkeit bei der Personalvermittlung",
+      "subtitle": "A à Z emplois SA – A bis Z Stellen AG",
+      "type": "publireportage",
+      "page": "11",
+      "pdfPages": [
+        8
+      ],
+      "summary": "Fondée en 2000 à Moutier, l'agence de placement temporaire et fixe A à Z emplois compte 15 succursales et 45 collaborateurs et reçoit 10 000 candidats par an pour 500 entreprises partenaires, notamment horlogères. Elle place chaque semaine 600 intérimaires, souvent peu formés, et propose recrutement, pay-rolling, conseil et orientation vers des formations linguistiques. Distinguée parmi les meilleurs experts du travail temporaire en 2018, elle appartient depuis fin 2015 au groupe familial français PROMAN, qui poursuit son expansion. Texte bilingue français-allemand.",
+      "quote": "",
+      "themes": [
+        "economie",
+        "horlogerie"
+      ],
+      "region": "Bienne",
+      "language": "fr",
+      "people": [],
+      "companies": [
+        "a-a-z-emplois"
+      ],
+      "imagePdf": "bennoise"
+    },
+    {
+      "slug": "region-bernoise-alpha-wassertechnik",
+      "title": "Votre partenaire pour le traitement de l'eau / Ihr Partner für die Wasseraufbereitung",
+      "subtitle": "Alpha Wassertechnik AG",
+      "type": "publireportage",
+      "page": "12",
+      "pdfPages": [
+        9
+      ],
+      "summary": "Fondée en 1928 à Nidau, active dans le traitement de l'eau depuis 1960 et reprise fin 2016 par Membratec, Alpha Wassertechnik emploie une quinzaine de collaborateurs, dont la moitié d'ingénieurs, en Suisse, au Luxembourg, en France et au Vietnam. Elle maîtrise le traitement des eaux potables et usées (boues activées, MBBR, biofiltration) et a développé le stripping, qui produit un engrais azoté à partir des boues d'épuration, appliqué à Yverdon-les-Bains, Penthaz et Chancy. Ses clients incluent Merck et Kadi ; d'autres projets sont en cours. Texte bilingue.",
+      "quote": "",
+      "themes": [
+        "energie",
+        "industrie"
+      ],
+      "region": "Nidau",
+      "language": "fr",
+      "people": [],
+      "companies": [
+        "alpha-wassertechnik"
+      ],
+      "imagePdf": "bennoise"
+    },
+    {
+      "slug": "region-bernoise-espace-real-estate",
+      "title": "Espace Real Estate – Interview mit Lars Egger, Vorsitzender der Geschäftsleitung",
+      "subtitle": "",
+      "type": "interview",
+      "page": "13",
+      "pdfPages": [
+        9,
+        17
+      ],
+      "summary": "Le nouveau CEO d'Espace Real Estate, société d'investissement immobilier dont le portefeuille dans le Mittelland atteignait près de 640 millions de francs fin 2017, veut développer le marketing stratégique des biens face à un marché du logement saturé ; le taux de vacance a été ramené sous 8 %. Il dénonce une mauvaise allocation due aux taux bas et ne construit que là où existe une demande, comme le projet « volaare » à Zuchwil en vue de l'arrivée de Biogen à Luterbach ou « Les Amis » à Bienne. Il vise une location entièrement en ligne d'ici 2022.",
+      "quote": "Meines Erachtens findet durch die Niedrigzinsen eine Fehlallokation statt.",
+      "themes": [
+        "architecture",
+        "economie"
+      ],
+      "region": "Soleure, Bienne",
+      "language": "de",
+      "people": [
+        {
+          "name": "Lars Egger",
+          "role": "CEO"
+        }
+      ],
+      "companies": [
+        "espace-real-estate"
+      ],
+      "imagePdf": "bennoise"
+    },
+    {
+      "slug": "region-bernoise-etameca",
+      "title": "Précision et qualité",
+      "subtitle": "ETAMECA SA",
+      "type": "publireportage",
+      "page": "14",
+      "pdfPages": [
+        10
+      ],
+      "summary": "Sous-traitant en mécanique de précision à Ipsach, Etameca usine des pièces par enlèvement de copeaux (tournage, fraisage, rectification) pour l'horlogerie, l'industrie médicale et la machine-outil, essentiellement régionales. L'entreprise de cinq personnes dispose d'une douzaine de machines CNC et prévoit un nouveau centre de tournage et la robotisation d'une partie de la production. Fondée en 1958 par le père de Jacques Jungen, elle est entièrement reprise par celui-ci depuis 2008 et conseille ses clients pour des pièces rationnelles et économiques.",
+      "quote": "Nous assurons un rapport qualité-prix intéressant dans des délais raisonnables et surtout respectés.",
+      "themes": [
+        "industrie",
+        "horlogerie",
+        "sante"
+      ],
+      "region": "Ipsach",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Jacques Jungen",
+          "role": "Directeur"
+        }
+      ],
+      "companies": [
+        "etameca"
+      ],
+      "imagePdf": "bennoise"
+    },
+    {
+      "slug": "region-bernoise-harting",
+      "title": "« Der Standort Biel/Bienne ist sehr interessant für HARTING »",
+      "subtitle": "Interview mit Susanne Giehl, Geschäftsführerin",
+      "type": "interview",
+      "page": "15",
+      "pdfPages": [
+        10
+      ],
+      "summary": "Filiale autonome du groupe technologique allemand HARTING d'Espelkamp, HARTING AG produit à Bienne des connecteurs et des composants 3D-MID (circuits injectés tridimensionnels) et réalise des traitements de surface galvaniques. Sa business unit HARTING Mitronics développe des solutions de miniaturisation pour l'automobile, la medtech, l'industrie et les capteurs. La directrice explique que Bienne offre, grâce à l'horlogerie, des compétences en mécanique fine, du personnel qualifié et des fournisseurs, tout en bénéficiant des ressources du groupe (R&D, outillage, laboratoires).",
+      "quote": "",
+      "themes": [
+        "industrie"
+      ],
+      "region": "Bienne",
+      "language": "de",
+      "people": [
+        {
+          "name": "Susanne Giehl",
+          "role": "Geschäftsführerin"
+        }
+      ],
+      "companies": [
+        "harting"
+      ],
+      "imagePdf": "bennoise"
+    },
+    {
+      "slug": "region-bernoise-gymnase-francais-de-bienne",
+      "title": "Deux têtes valent mieux qu'une / Zwei Köpfe sind besser als einer",
+      "subtitle": "Gymnase français de Bienne",
+      "type": "publireportage",
+      "page": "16-17",
+      "pdfPages": [
+        11
+      ],
+      "summary": "Fondé en 1955, le Gymnase français de Bienne accueille près de 900 élèves de Bienne, du Jura bernois et de la Berne francophone avec 127 enseignants. Il est dirigé depuis deux ans par deux corecteurs, historiens de formation, Pierre-Etienne Zürcher et Christine Gagnebin. L'offre est très large : maturités monolingues et bilingues avec le GBSL (désormais en quatre ans), classes Passerelle, Ecole supérieure de commerce et maturités spécialisées à Moutier. Les bâtiments ont été rénovés en 2016 pour 90 millions ; deux tiers des diplômés poursuivent des études. Texte bilingue.",
+      "quote": "Le gymnase n'est pas une fin en soi, mais un tremplin pour autre chose.",
+      "themes": [
+        "formation"
+      ],
+      "region": "Bienne",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Pierre-Etienne Zürcher",
+          "role": "Corecteur"
+        },
+        {
+          "name": "Christine Gagnebin",
+          "role": "Corectrice"
+        }
+      ],
+      "companies": [
+        "gymnase-francais-de-bienne"
+      ],
+      "imagePdf": "bennoise"
+    },
+    {
+      "slug": "region-bernoise-international-school-of-berne",
+      "title": "« We prepare our students for life beyond school »",
+      "subtitle": "Interview with Ms Denise Coates, Director – International School of Berne",
+      "type": "interview",
+      "page": "18-19",
+      "pdfPages": [
+        12
+      ],
+      "summary": "Fondée en 1961 au service de la communauté expatriée, l'International School of Berne s'est installée dans un nouveau campus et accueille environ 330 élèves de 3 à 18 ans de plus de 50 nationalités. Sa nouvelle directrice décrit les trois programmes du Baccalauréat international (primaire, intermédiaire et diplôme) et le diplôme ISBerne reconnu comme diplôme américain, une pédagogie fondée sur l'enquête, l'allemand et le français comme langues additionnelles, les accréditations CIS et NEASC et l'implication des parents. Interview en anglais.",
+      "quote": "We prepare our students for life beyond school.",
+      "themes": [
+        "formation"
+      ],
+      "region": "Gümligen",
+      "language": "en",
+      "people": [
+        {
+          "name": "Denise Coates",
+          "role": "Director"
+        }
+      ],
+      "companies": [
+        "international-school-of-berne"
+      ],
+      "imagePdf": "bennoise"
+    },
+    {
+      "slug": "region-bernoise-nms-bern",
+      "title": "NMS Bern – « Lernende ganzheitlich fördern und fordern »",
+      "subtitle": "Interview Annette Geissbühler, Direktorin",
+      "type": "interview",
+      "page": "20-21",
+      "pdfPages": [
+        13
+      ],
+      "summary": "La NMS Bern offre un parcours complet, de l'école obligatoire (primaire, secondaire, progymnase) à l'école de culture générale, au gymnase et à la formation des enseignants du préscolaire et du primaire. Sa directrice insiste sur le développement de la personnalité, l'apprentissage autonome et des parcours individualisés (« Lernwelt », années Power-Up, cinq offres en 9e année). L'admission au gymnase se fait sur dossier et évaluation. L'école utilise le modèle « Weissenstein » pour préparer aux hautes écoles, a introduit le BYOD et propose seule dans le canton un cursus 30+ pour personnes en reconversion.",
+      "quote": "",
+      "themes": [
+        "formation"
+      ],
+      "region": "Berne",
+      "language": "de",
+      "people": [
+        {
+          "name": "Annette Geissbühler",
+          "role": "Direktorin"
+        }
+      ],
+      "companies": [
+        "nms-bern"
+      ],
+      "imagePdf": "bennoise"
+    },
+    {
+      "slug": "region-bernoise-revisia",
+      "title": "Revisia AG – Im Gespräch mit Christoph Schütz / Entretien avec Christoph Schütz",
+      "subtitle": "",
+      "type": "interview",
+      "page": "22",
+      "pdfPages": [
+        14
+      ],
+      "summary": "Fiduciaire biennoise fondée en 1926, Revisia propose révision, comptabilité, conseil fiscal, planification successorale, prévoyance et family office, en allemand et en français. Son associé Christoph Schütz insiste sur le contact personnel, raison des filiales de Morat et d'Aarberg. Ses 21 employés servent plus de 500 clients, PME familiales mais aussi communes et institutions de prévoyance, certains depuis la fondation. La numérisation accélère les processus, sans remplacer le conseil. Interview bilingue allemand-français.",
+      "quote": "",
+      "themes": [
+        "economie"
+      ],
+      "region": "Bienne",
+      "language": "de",
+      "people": [
+        {
+          "name": "Christoph Schütz",
+          "role": "Dipl. Wirtschaftsprüfer, Partner"
+        }
+      ],
+      "companies": [
+        "revisia"
+      ],
+      "imagePdf": "bennoise"
+    }
+  ],
+  "companies": [
+    {
+      "slug": "prefecture-biel-bienne",
+      "name": "Préfecture de Biel/Bienne",
+      "sector": "Administration cantonale",
+      "themes": [
+        "collectivites"
+      ],
+      "description": "Préfecture de l'arrondissement administratif de Biel/Bienne, qui délivre notamment les autorisations de construire et les patentes de l'hôtellerie-restauration.",
+      "address": "Château, Hauptstrasse 6",
+      "postalCode": "2560",
+      "city": "Nidau",
+      "canton": "BE",
+      "country": "Suisse",
+      "phone": "+41 031 635 25 00",
+      "email": "philippe.chetelat@jgk.be.ch",
+      "website": "www.jgk.be.ch/prefectures",
+      "contacts": [
+        {
+          "name": "Philippe Chételat",
+          "role": "Préfet"
+        }
+      ],
+      "page": "02",
+      "pdfPages": [
+        4
+      ],
+      "advertiserOnly": false,
+      "imagePdf": "bennoise"
+    },
+    {
+      "slug": "hiv-biel-seeland",
+      "name": "Handels- und Industrieverein des Kantons Bern – Sektion Biel-Seeland",
+      "sector": "Association économique",
+      "themes": [
+        "economie"
+      ],
+      "description": "Section biennoise de l'association du commerce et de l'industrie du canton de Berne, engagée pour la formation, le campus de la HES à Bienne, le Switzerland Innovation Park et les infrastructures de transport.",
+      "address": "Robert-Walser-Platz 7, Postfach 605",
+      "postalCode": "2501",
+      "city": "Biel",
+      "canton": "BE",
+      "country": "Suisse",
+      "phone": "032 344 06 84",
+      "email": "hiv-bielseeland@bern-cci.ch",
+      "website": "http://www.bern-cci.ch/biel-seeland/de/home.html",
+      "contacts": [
+        {
+          "name": "Fabian Engel",
+          "role": "Präsident"
+        }
+      ],
+      "page": "03",
+      "pdfPages": [
+        4
+      ],
+      "advertiserOnly": false,
+      "imagePdf": "bennoise"
+    },
+    {
+      "slug": "standortforderung-kanton-bern",
+      "name": "Standortförderung Kanton Bern",
+      "sector": "Promotion économique cantonale",
+      "themes": [
+        "economie",
+        "collectivites"
+      ],
+      "description": "Service de promotion économique du canton de Berne : accueil et suivi des entreprises, soutien aux start-ups via be-advanced, promotion internationale avec le GGBa, tourisme et politique régionale.",
+      "address": "Münsterplatz 3a, Postfach",
+      "postalCode": "3000",
+      "city": "Bern 8",
+      "canton": "BE",
+      "country": "Suisse",
+      "phone": "+41 31 633 41 20",
+      "email": "info@berninvest.be.ch",
+      "website": "www.berninvest.be.ch",
+      "contacts": [
+        {
+          "name": "Sebastian Friess",
+          "role": "Leiter Standortförderung"
+        }
+      ],
+      "page": "04",
+      "pdfPages": [
+        5
+      ],
+      "advertiserOnly": false,
+      "imagePdf": "bennoise"
+    },
+    {
+      "slug": "hiv-emmental",
+      "name": "Handels- und Industrieverein des Kantons Bern – Sektion Emmental",
+      "sector": "Association économique",
+      "themes": [
+        "economie"
+      ],
+      "description": "Section Emmental de l'association du commerce et de l'industrie (495 membres, environ 15 000 emplois), active pour les infrastructures routières, la formation et l'apprentissage (« 1000 Chancen »).",
+      "address": "c/o Bürgi & Partner, Schmiedengasse 27, Postfach 1352",
+      "postalCode": "3401",
+      "city": "Burgdorf",
+      "canton": "BE",
+      "country": "Suisse",
+      "phone": "+41 (0)34 420 13 33",
+      "email": "hiv-emmental@bern-cci.ch",
+      "website": "",
+      "contacts": [
+        {
+          "name": "Walter Gerber",
+          "role": "Präsident"
+        }
+      ],
+      "page": "05",
+      "pdfPages": [
+        5
+      ],
+      "advertiserOnly": false,
+      "imagePdf": "bennoise"
+    },
+    {
+      "slug": "stadt-biel",
+      "name": "Stadt Biel – Wirtschaft / Statistik",
+      "sector": "Administration communale",
+      "themes": [
+        "collectivites",
+        "economie"
+      ],
+      "description": "Service économique de la Ville de Bienne, plus grande ville bilingue de Suisse, plus grande propriétaire foncière locale, qui mène une politique foncière active et accompagne les investissements industriels et horlogers.",
+      "address": "Zentralstrasse 49",
+      "postalCode": "2501",
+      "city": "Biel-Bienne",
+      "canton": "BE",
+      "country": "Suisse",
+      "phone": "(+41) 32 326 13 21",
+      "email": "wirtschaft@biel-bienne.ch",
+      "website": "https://www.biel-bienne.ch",
+      "contacts": [
+        {
+          "name": "Thomas Gfeller",
+          "role": "Delegierter für Wirtschaft"
+        }
+      ],
+      "page": "06",
+      "pdfPages": [
+        6
+      ],
+      "advertiserOnly": false,
+      "imagePdf": "bennoise"
+    },
+    {
+      "slug": "wirtschaft-thun-oberland",
+      "name": "Verband WIRTSCHAFT THUN OBERLAND",
+      "sector": "Association économique",
+      "themes": [
+        "economie"
+      ],
+      "description": "Association économique née en 2017 de la fusion de la section de Thoune du HIV et de l'association patronale régionale ; environ 350 membres de la région de Thoune et de l'Oberland ouest.",
+      "address": "p.A. Handels- und Industrieverein des Kantons Bern, Kramgasse 2, Postfach",
+      "postalCode": "3001",
+      "city": "Bern",
+      "canton": "BE",
+      "country": "Suisse",
+      "phone": "+41 (0)31 388 87 87",
+      "email": "info@wirtschaftthunoberland.ch",
+      "website": "www.wirtschaftthunoberland.ch",
+      "contacts": [
+        {
+          "name": "Reto Heiz",
+          "role": "Präsident"
+        }
+      ],
+      "page": "07",
+      "pdfPages": [
+        6
+      ],
+      "advertiserOnly": false,
+      "imagePdf": "bennoise"
+    },
+    {
+      "slug": "universitat-bern",
+      "name": "Universität Bern – Rektorat",
+      "sector": "Université",
+      "themes": [
+        "formation",
+        "sante"
+      ],
+      "description": "Troisième université de Suisse, classée parmi les 150 meilleures du monde, qui vise à faire de Berne le premier site de santé du pays et forme davantage de médecins et pharmaciens.",
+      "address": "Hochschulstrasse 6",
+      "postalCode": "3012",
+      "city": "Bern",
+      "canton": "BE",
+      "country": "Suisse",
+      "phone": "+41 31 631 82 55",
+      "email": "",
+      "website": "www.rektorat.unibe.ch",
+      "contacts": [
+        {
+          "name": "Christian Leumann",
+          "role": "Rektor"
+        }
+      ],
+      "page": "08",
+      "pdfPages": [
+        7
+      ],
+      "advertiserOnly": false,
+      "imagePdf": "bennoise"
+    },
+    {
+      "slug": "wvo-oberaargau",
+      "name": "WVO – Wirtschaftsverband Oberaargau",
+      "sector": "Association économique",
+      "themes": [
+        "economie"
+      ],
+      "description": "Association économique de la Haute-Argovie bernoise (354 membres), qui organise conférences et visites d'entreprises et défend ses membres auprès des associations cantonales et fédérales.",
+      "address": "Postfach 1703",
+      "postalCode": "4901",
+      "city": "Langenthal",
+      "canton": "BE",
+      "country": "Suisse",
+      "phone": "062 922 50 27",
+      "email": "info@wvo-oberaargau.ch",
+      "website": "www.wvo-oberaargau.ch",
+      "contacts": [
+        {
+          "name": "Béatrice Lüthi",
+          "role": "Präsidentin"
+        }
+      ],
+      "page": "09",
+      "pdfPages": [
+        7
+      ],
+      "advertiserOnly": false,
+      "imagePdf": "bennoise"
+    },
+    {
+      "slug": "a115-gravures",
+      "name": "A 115 Gravures S.A.",
+      "sector": "Gravure de plaques de tampographie",
+      "themes": [
+        "horlogerie",
+        "industrie"
+      ],
+      "description": "Graveur biennois fondé en 1991 (SA depuis 2012), quatre collaborateurs, qui produit près de 9 000 plaques de décalque par an pour la tampographie des cadrans de montres, par ablation laser.",
+      "address": "Rue de Zurich 23A",
+      "postalCode": "2504",
+      "city": "Biel/Bienne",
+      "canton": "BE",
+      "country": "Suisse",
+      "phone": "+41 32 345 16 21",
+      "email": "a115@a115.ch",
+      "website": "",
+      "contacts": [],
+      "page": "10",
+      "pdfPages": [
+        8
+      ],
+      "advertiserOnly": false,
+      "imagePdf": "bennoise"
+    },
+    {
+      "slug": "a-a-z-emplois",
+      "name": "A à Z emplois SA – A bis Z Stellen AG",
+      "sector": "Placement de personnel",
+      "themes": [
+        "economie"
+      ],
+      "description": "Agence de placement temporaire et fixe fondée en 2000 à Moutier, 15 succursales, 45 collaborateurs, 500 entreprises partenaires ; membre du groupe français PROMAN depuis 2015.",
+      "address": "Place de la Gare 7, Case postale",
+      "postalCode": "2501",
+      "city": "Biel-Bienne",
+      "canton": "BE",
+      "country": "Suisse",
+      "phone": "+41 32 727 27 27",
+      "email": "biel-bienne@aazemplois.ch",
+      "website": "https://www.aazemplois.ch/",
+      "contacts": [],
+      "page": "11",
+      "pdfPages": [
+        8
+      ],
+      "advertiserOnly": false,
+      "imagePdf": "bennoise"
+    },
+    {
+      "slug": "alpha-wassertechnik",
+      "name": "Alpha Wassertechnik AG",
+      "sector": "Traitement de l'eau",
+      "themes": [
+        "energie",
+        "industrie"
+      ],
+      "description": "Entreprise fondée en 1928 à Nidau, active dans le traitement des eaux potables et usées depuis 1960, propriété de Membratec depuis 2016 ; une quinzaine de collaborateurs, technologie propre de stripping.",
+      "address": "Schlossstrasse 15",
+      "postalCode": "2560",
+      "city": "Nidau",
+      "canton": "BE",
+      "country": "Suisse",
+      "phone": "+41 32 331 54 54",
+      "email": "info@alphawt.ch",
+      "website": "https://www.alphawt.ch",
+      "contacts": [],
+      "page": "12",
+      "pdfPages": [
+        9
+      ],
+      "advertiserOnly": false,
+      "imagePdf": "bennoise"
+    },
+    {
+      "slug": "espace-real-estate",
+      "name": "Espace Real Estate Holding AG",
+      "sector": "Investissement immobilier",
+      "themes": [
+        "architecture",
+        "economie"
+      ],
+      "description": "Société d'investissement immobilier fondée en 2000, sièges à Bienne et Soleure, portefeuille de 639,82 millions de francs fin 2017 dans les cantons de Berne, Soleure, Argovie, Lucerne et Schaffhouse ; également annonceur en 4e de couverture.",
+      "address": "Zuchwilerstrasse 43, Postfach 331",
+      "postalCode": "4501",
+      "city": "Solothurn",
+      "canton": "SO",
+      "country": "Suisse",
+      "phone": "+41 (0)32 624 90 00",
+      "email": "info@espacereal.ch",
+      "website": "https://espacereal.ch",
+      "contacts": [
+        {
+          "name": "Lars Egger",
+          "role": "CEO"
+        }
+      ],
+      "page": "13",
+      "pdfPages": [
+        9,
+        17
+      ],
+      "advertiserOnly": false,
+      "imagePdf": "bennoise"
+    },
+    {
+      "slug": "etameca",
+      "name": "Etameca SA",
+      "sector": "Mécanique de précision (sous-traitance)",
+      "themes": [
+        "industrie",
+        "horlogerie"
+      ],
+      "description": "Sous-traitant en usinage de précision fondé en 1958 à Ipsach, cinq collaborateurs et une douzaine de machines CNC, au service de l'horlogerie, du médical et de la machine-outil.",
+      "address": "Keltenstrasse 1",
+      "postalCode": "2563",
+      "city": "Ipsach",
+      "canton": "BE",
+      "country": "Suisse",
+      "phone": "+41 (0)32 333 17 27",
+      "email": "",
+      "website": "www.etameca.ch",
+      "contacts": [
+        {
+          "name": "Jacques Jungen",
+          "role": "Directeur"
+        }
+      ],
+      "page": "14",
+      "pdfPages": [
+        10
+      ],
+      "advertiserOnly": false,
+      "imagePdf": "bennoise"
+    },
+    {
+      "slug": "harting",
+      "name": "HARTING AG",
+      "sector": "Connectique et composants 3D-MID",
+      "themes": [
+        "industrie"
+      ],
+      "description": "Filiale biennoise du groupe technologique HARTING (Espelkamp) : production de connecteurs et de composants 3D-MID, traitements de surface galvaniques, business unit HARTING Mitronics.",
+      "address": "Leugenestrasse 10",
+      "postalCode": "2504",
+      "city": "Biel",
+      "canton": "BE",
+      "country": "Suisse",
+      "phone": "+41 32 344 21 21",
+      "email": "",
+      "website": "http://www.HARTING.ch",
+      "contacts": [
+        {
+          "name": "Susanne Giehl",
+          "role": "Geschäftsführerin"
+        }
+      ],
+      "page": "15",
+      "pdfPages": [
+        10
+      ],
+      "advertiserOnly": false,
+      "imagePdf": "bennoise"
+    },
+    {
+      "slug": "gymnase-francais-de-bienne",
+      "name": "Gymnase français de Bienne",
+      "sector": "Ecole de maturité",
+      "themes": [
+        "formation"
+      ],
+      "description": "Gymnase francophone fondé en 1955, près de 900 élèves et 127 enseignants ; maturités monolingues et bilingues, classes Passerelle, Ecole supérieure de commerce, succursale à Moutier.",
+      "address": "Rue du Débarcadère 8",
+      "postalCode": "2503",
+      "city": "Bienne",
+      "canton": "BE",
+      "country": "Suisse",
+      "phone": "032 327 06 06",
+      "email": "",
+      "website": "www.gfbienne.ch",
+      "contacts": [
+        {
+          "name": "Pierre-Etienne Zürcher",
+          "role": "Corecteur"
+        },
+        {
+          "name": "Christine Gagnebin",
+          "role": "Corectrice"
+        }
+      ],
+      "page": "16-17",
+      "pdfPages": [
+        11
+      ],
+      "advertiserOnly": false,
+      "imagePdf": "bennoise"
+    },
+    {
+      "slug": "international-school-of-berne",
+      "name": "International School of Berne (ISBerne)",
+      "sector": "Ecole internationale",
+      "themes": [
+        "formation"
+      ],
+      "description": "Ecole internationale fondée en 1961, environ 330 élèves de 3 à 18 ans et plus de 50 nationalités, programmes du Baccalauréat international, nouveau campus à Gümligen.",
+      "address": "Allmendingenweg 9",
+      "postalCode": "3073",
+      "city": "Gümligen",
+      "canton": "BE",
+      "country": "Suisse",
+      "phone": "+41 (0)31 959 10 00",
+      "email": "office@isberne.ch",
+      "website": "www.isberne.ch",
+      "contacts": [
+        {
+          "name": "Denise Coates",
+          "role": "Director"
+        }
+      ],
+      "page": "18-19",
+      "pdfPages": [
+        12
+      ],
+      "advertiserOnly": false,
+      "imagePdf": "bennoise"
+    },
+    {
+      "slug": "nms-bern",
+      "name": "NMS Bern",
+      "sector": "Ecole privée et formation des enseignants",
+      "themes": [
+        "formation"
+      ],
+      "description": "Etablissement bernois couvrant l'école obligatoire, l'école de culture générale, le gymnase et la formation des enseignants du préscolaire et du primaire (bachelor, cursus 30+).",
+      "address": "Waisenhausplatz 29",
+      "postalCode": "3011",
+      "city": "Bern",
+      "canton": "BE",
+      "country": "Suisse",
+      "phone": "+41 (0)31 310 85 85",
+      "email": "info@nmsbern.ch",
+      "website": "www.nmsbern.ch",
+      "contacts": [
+        {
+          "name": "Annette Geissbühler",
+          "role": "Direktorin"
+        }
+      ],
+      "page": "20-21",
+      "pdfPages": [
+        13
+      ],
+      "advertiserOnly": false,
+      "imagePdf": "bennoise"
+    },
+    {
+      "slug": "revisia",
+      "name": "REVISIA AG – Treuhandgesellschaft",
+      "sector": "Fiduciaire et révision",
+      "themes": [
+        "economie"
+      ],
+      "description": "Fiduciaire fondée en 1926 à Bienne, 21 employés, plus de 500 clients (PME, communes, institutions de prévoyance), filiales à Morat et Aarberg ; services en allemand et en français.",
+      "address": "P.-E. Brandtstrasse 4",
+      "postalCode": "2500",
+      "city": "Biel-Bienne 4",
+      "canton": "BE",
+      "country": "Suisse",
+      "phone": "(+41) 32 344 85 20",
+      "email": "",
+      "website": "https://www.revisia.ch",
+      "contacts": [
+        {
+          "name": "Christoph Schütz",
+          "role": "Partner"
+        }
+      ],
+      "page": "22",
+      "pdfPages": [
+        14
+      ],
+      "advertiserOnly": false,
+      "imagePdf": "bennoise"
+    },
+    {
+      "slug": "aiguilla",
+      "name": "AIGUILLA SA",
+      "sector": "Non précisé",
+      "themes": [],
+      "description": "Annonceur répertorié dans l'index en 2e de couverture ; la page correspondante ne contient pas de texte exploitable.",
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "canton": "",
+      "country": "Suisse",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "contacts": [],
+      "page": "2e de couverture",
+      "pdfPages": [
+        2
+      ],
+      "advertiserOnly": true,
+      "imagePdf": "bennoise"
+    }
+  ]
+}
