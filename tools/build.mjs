@@ -26,7 +26,7 @@ const exists = (rel) => fs.existsSync(path.join(OUT, rel));
 const domainOf = (w) => fold(w).replace(/^https?:\/\//, '').replace(/^www\./, '').replace(/\/.*$/, '').trim();
 const webUrl = (w) => (/^https?:\/\//i.test(w) ? w : `https://${w.replace(/^\/+/, '')}`);
 const telUrl = (p) => 'tel:' + p.replace(/[^+\d]/g, '').replace(/^00/, '+');
-const initials = (name) => fold(name).replace(/\b(sa|ag|sarl|gmbh|ltd|inc|the|la|le|les|de|du|des|et)\b/g, ' ').trim().split(/\s+/).filter(Boolean).slice(0, 2).map((w) => w[0].toUpperCase()).join('') || '•';
+const initials = (name) => fold(name).replace(/[^a-z0-9]+/g, ' ').replace(/\b(sa|ag|sarl|gmbh|ltd|inc|the|la|le|les|l|d|de|du|des|et|en|un|une|a|au|aux|der|die|das|und|im|il)\b/g, ' ').trim().split(/\s+/).filter((w) => /^[a-z]/.test(w)).slice(0, 2).map((w) => w[0].toUpperCase()).join('') || '•';
 const driveView = (id) => `https://drive.google.com/file/d/${id}/view`;
 const driveDownload = (id) => `https://drive.google.com/uc?export=download&id=${id}`;
 const plural = (n, one, many) => `${n} ${n > 1 ? many : one}`;
@@ -220,9 +220,13 @@ ${body}
 }
 
 const themeChip = (id, r) => THEMES[id] ? `<a class="chip" style="--c:${THEMES[id].color}" href="${r}themes/${id}/">${themeIcon(id)}${esc(THEMES[id].label)}</a>` : '';
+// Visuels de thème (photos générées par IA) : docs/assets/themes/<id>.webp
+const themePhoto = (id) => (id && exists(`assets/themes/${id}.webp`) ? `assets/themes/${id}.webp` : '');
+let PH_ROOT = '';
 const placeholder = (name, themeId, cls = '') => {
   const t = THEMES[themeId] || { color: '#64748b' };
-  return `<div class="ph ${cls}" style="--c:${t.color}" aria-hidden="true"><span>${esc(initials(name))}</span>${themeId ? themeIcon(themeId, 'ph-ico') : ''}</div>`;
+  const photo = themePhoto(themeId);
+  return `<div class="ph ${photo ? 'ph-photo ' : ''}${cls}" style="--c:${t.color}" aria-hidden="true">${photo ? `<img src="${PH_ROOT}${photo}" alt="" loading="lazy" decoding="async">` : ''}<span>${esc(initials(name))}</span>${themeId && !photo ? themeIcon(themeId, 'ph-ico') : ''}</div>`;
 };
 const img = (src, alt, r, cls = '') => `<img class="${cls}" src="${r}${esc(src)}" alt="${esc(alt)}" loading="lazy" decoding="async">`;
 const location = (c) => [c.postalCode && c.city ? `${c.postalCode} ${c.city}` : c.city, c.canton && CANTONS[c.canton] ? CANTONS[c.canton] : (c.country && c.country !== 'Suisse' ? c.country : '')].filter(Boolean).join(' · ');
@@ -282,11 +286,18 @@ const crumbs = (items, r) => `<nav class="crumbs" aria-label="Fil d'Ariane"><a h
 
 // ---------- pages ----------
 function pageHome() {
-  const r = '';
+  const r = ''; PH_ROOT = r;
   const withImg = articles.filter((a) => a.images?.length && a.type !== 'annonce');
-  const featured = [...withImg, ...articles.filter((a) => !a.images?.length && a.type !== 'annonce')].slice(0, 6);
+  // Une : un article par thème, en privilégiant ceux qui ont une vraie photo
+  const pool = [...withImg, ...articles.filter((a) => !a.images?.length && a.type !== 'annonce' && a.summary)];
+  const featured = [];
+  for (const a of pool) {
+    if (featured.length >= 6) break;
+    if (!featured.some((f) => f.themes[0] === a.themes[0] || f.magazine === a.magazine)) featured.push(a);
+  }
+  for (const a of pool) if (featured.length < 6 && !featured.includes(a)) featured.push(a);
   const featCompanies = companies.filter((c) => c.images?.length && !c.advertiserOnly).slice(0, 8);
-  const heroImgs = uniq([...withImg.flatMap((a) => a.images.slice(0, 1))]).slice(0, 5);
+  const heroImgs = uniq([exists('assets/themes/hero.webp') ? 'assets/themes/hero.webp' : '', ...Object.keys(THEMES).map(themePhoto), ...withImg.flatMap((a) => a.images.slice(0, 1))]).slice(0, 5);
   const themeCounts = Object.keys(THEMES).map((id) => [id, companies.filter((c) => c.themes.includes(id)).length, articles.filter((a) => a.themes.includes(id)).length]);
   const body = `
 <section class="hero">
@@ -312,7 +323,7 @@ function pageHome() {
 <section class="wrap section">
   ${sectionHead('Explorer par thème', 'themes/', r)}
   <div class="theme-grid">
-    ${themeCounts.filter(([, c, a]) => c + a > 0).map(([id, c, a]) => `<a class="theme-card" href="${r}themes/${id}/" style="--c:${THEMES[id].color}">${themeIcon(id, 'theme-ico')}<h3>${esc(THEMES[id].label)}</h3><p>${plural(c, 'entreprise', 'entreprises')} · ${plural(a, 'article', 'articles')}</p></a>`).join('')}
+    ${themeCounts.filter(([, c, a]) => c + a > 0).map(([id, c, a]) => `<a class="theme-card${themePhoto(id) ? ' has-photo' : ''}" href="${r}themes/${id}/" style="--c:${THEMES[id].color}">${themePhoto(id) ? `<img class="tc-img" src="${r}${themePhoto(id)}" alt="" loading="lazy">` : ''}${themeIcon(id, 'theme-ico')}<h3>${esc(THEMES[id].label)}</h3><p>${plural(c, 'entreprise', 'entreprises')} · ${plural(a, 'article', 'articles')}</p></a>`).join('')}
   </div>
 </section>
 <section class="section band">
@@ -343,7 +354,7 @@ function filterBar({ withThemes = true, cantons = [], extra = '' }) {
 }
 
 function pageCompanies() {
-  const r = '../';
+  const r = '../'; PH_ROOT = r;
   const cantons = uniq(companies.map((c) => c.canton)).filter((c) => CANTONS[c]).sort((a, b) => CANTONS[a].localeCompare(CANTONS[b], 'fr'));
   const letters = uniq(companies.map((c) => (fold(c.name).match(/[a-z]/) || ['#'])[0])).sort();
   const body = `
@@ -362,7 +373,7 @@ function pageCompanies() {
 }
 
 function pageCompany(c) {
-  const r = '../../';
+  const r = '../../'; PH_ROOT = r;
   const th = c.themes[0];
   const apps = c.appearances.map((ap) => ({ ...ap, m: magBySlug[ap.magazine] })).filter((x) => x.m);
   const arts = uniq(apps.flatMap((x) => x.articles)).map((s) => artBySlug[s]).filter(Boolean);
@@ -414,7 +425,7 @@ ${related.length ? `<section class="wrap section">${sectionHead('Dans le même s
 }
 
 function pageArticles() {
-  const r = '../';
+  const r = '../'; PH_ROOT = r;
   const list = articles.filter((a) => a.type !== 'annonce');
   const typeSel = `<select data-filter-type aria-label="Type"><option value="">Tous les types</option>${Object.entries(TYPES).filter(([k]) => k !== 'annonce').map(([k, v]) => `<option value="${k}">${v}</option>`).join('')}</select>`;
   const magSel = `<select data-filter-mag aria-label="Magazine"><option value="">Tous les magazines</option>${magazines.map((m) => `<option value="${m.slug}">${esc(m.title)}</option>`).join('')}</select>`;
@@ -433,7 +444,7 @@ function pageArticles() {
 }
 
 function pageArticle(a) {
-  const r = '../../';
+  const r = '../../'; PH_ROOT = r;
   const m = magBySlug[a.magazine];
   const th = a.themes[0];
   const cos = a.companies.map((s) => companyMap.get(s)).filter(Boolean);
@@ -468,7 +479,7 @@ ${same.length ? `<section class="wrap section">${sectionHead('Sur le même thèm
 }
 
 function pageThemes() {
-  const r = '../';
+  const r = '../'; PH_ROOT = r;
   const body = `
 <section class="page-head wrap">
   ${crumbs([[null, 'Thèmes']], r)}
@@ -479,20 +490,21 @@ function pageThemes() {
 ${Object.entries(THEMES).map(([id, t]) => {
     const nc = companies.filter((c) => c.themes.includes(id)).length;
     const na = articles.filter((a) => a.themes.includes(id)).length;
-    return `<a class="theme-card" href="${r}themes/${id}/" style="--c:${t.color}">${themeIcon(id, 'theme-ico')}<h3>${esc(t.label)}</h3><p>${plural(nc, 'entreprise', 'entreprises')} · ${plural(na, 'article', 'articles')}</p></a>`;
+    return `<a class="theme-card${themePhoto(id) ? ' has-photo' : ''}" href="${r}themes/${id}/" style="--c:${t.color}">${themePhoto(id) ? `<img class="tc-img" src="${r}${themePhoto(id)}" alt="" loading="lazy">` : ''}${themeIcon(id, 'theme-ico')}<h3>${esc(t.label)}</h3><p>${plural(nc, 'entreprise', 'entreprises')} · ${plural(na, 'article', 'articles')}</p></a>`;
   }).join('')}
 </div></section>`;
   write('themes/index.html', layout({ depth: 1, title: 'Thèmes', description: 'Les thèmes de Swiss Knowhow : horlogerie, industrie, santé, construction, énergie, collectivités…', active: 'themes/', body }));
 }
 
 function pageTheme(id) {
-  const r = '../../';
+  const r = '../../'; PH_ROOT = r;
   const t = THEMES[id];
   const cs = companies.filter((c) => c.themes.includes(id));
   const as = articles.filter((a) => a.themes.includes(id) && a.type !== 'annonce');
   const ms = magazines.filter((m) => m.themes.includes(id));
   const body = `
-<section class="theme-hero" style="--c:${t.color}">
+<section class="theme-hero${themePhoto(id) ? ' has-photo' : ''}" style="--c:${t.color}">
+  ${themePhoto(id) ? `<img class="th-bg" src="${r}${themePhoto(id)}" alt="" fetchpriority="high">` : ''}
   <div class="wrap">
     ${crumbs([['themes/', 'Thèmes'], [null, t.label]], r)}
     <div class="theme-hero-row">${themeIcon(id, 'theme-ico xl')}<div><h1>${esc(t.label)}</h1><p class="lead">${plural(cs.length, 'entreprise', 'entreprises')} · ${plural(as.length, 'article', 'articles')} · ${plural(ms.length, 'magazine', 'magazines')}</p></div></div>
@@ -507,7 +519,7 @@ ${ms.length ? `<section class="section band"><div class="wrap">${sectionHead('Ma
 }
 
 function pageMagazines() {
-  const r = '../';
+  const r = '../'; PH_ROOT = r;
   const series = uniq(magazines.map((m) => m.series));
   const body = `
 <section class="page-head wrap">
@@ -528,7 +540,7 @@ function pageMagazines() {
 }
 
 function pageMagazine(m) {
-  const r = '../../';
+  const r = '../../'; PH_ROOT = r;
   const arts = m.articleSlugs.map((s) => artBySlug[s]).filter((a) => a && a.type !== 'annonce');
   const cos = m.companySlugs.map((s) => companyMap.get(s));
   const body = `

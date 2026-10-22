@@ -353,3 +353,23 @@ blockquote cite { display: block; margin-top: 10px; font: 500 .9rem var(--sans);
   *, *::before, *::after { animation: none !important; transition: none !important; scroll-behavior: auto !important; }
   .hero-bg img:not(:first-child) { display: none; }
 }
+
+/* ---------- visuels de thème (photos) ---------- */
+.ph-photo { background: #111827; }
+.ph-photo::before { display: none; }
+.ph-photo img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; filter: saturate(.85); }
+.ph-photo::after { content: ''; position: absolute; inset: 0; background: linear-gradient(160deg, color-mix(in srgb, var(--c) 55%, transparent) 0%, rgba(17, 24, 39, .72) 100%); }
+.ph-photo span { z-index: 1; font-size: clamp(1.3rem, 2.4vw, 2rem); padding: 6px 14px; border: 1.5px solid rgba(255, 255, 255, .7); border-radius: 10px; backdrop-filter: blur(2px); }
+.theme-card.has-photo { color: #fff; border: 0; min-height: 190px; display: flex; flex-direction: column; justify-content: flex-end; isolation: isolate; }
+.theme-card.has-photo::after { inset: 0; width: auto; height: auto; border-radius: 0; background: linear-gradient(180deg, rgba(17, 24, 39, .05) 0%, rgba(17, 24, 39, .82) 75%); z-index: -1; transform: none !important; }
+.theme-card .tc-img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; z-index: -2; transition: transform .5s ease; }
+.theme-card.has-photo:hover { color: #fff; }
+.theme-card.has-photo:hover .tc-img { transform: scale(1.06); }
+.theme-card.has-photo p { color: rgba(255, 255, 255, .82); }
+.theme-card.has-photo .theme-ico { color: #fff; background: color-mix(in srgb, var(--c) 75%, transparent); backdrop-filter: blur(4px); }
+.theme-grid.large .theme-card.has-photo { min-height: 240px; }
+.theme-hero.has-photo { position: relative; isolation: isolate; color: #fff; border-bottom: 0; padding: 48px 0 56px; overflow: hidden; }
+.theme-hero .th-bg { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; z-index: -2; }
+.theme-hero.has-photo::before { content: ''; position: absolute; inset: 0; z-index: -1; background: linear-gradient(100deg, rgba(17, 24, 39, .88) 0%, color-mix(in srgb, var(--c) 55%, rgba(17, 24, 39, .4)) 100%); }
+.theme-hero.has-photo .lead, .theme-hero.has-photo .crumbs, .theme-hero.has-photo .crumbs span[aria-current] { color: rgba(255, 255, 255, .85); }
+.theme-hero.has-photo .theme-ico { color: #fff; background: rgba(255, 255, 255, .14); }
