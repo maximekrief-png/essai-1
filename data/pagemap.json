@@ -1,5 +1,241 @@
 {
  "articles": {
+  "aee-suisse-energie:aee-suisse-energie-interview-gianni-operto": {
+   "pdf": "web-aee-suisse-energie",
+   "pages": [
+    4,
+    5,
+    6
+   ]
+  },
+  "aee-suisse-energie:aee-suisse-energie-interview-andreas-von-kaenel": {
+   "pdf": "web-aee-suisse-energie",
+   "pages": [
+    6,
+    26
+   ]
+  },
+  "aee-suisse-energie:aee-suisse-energie-interview-beat-vonlanthen": {
+   "pdf": "web-aee-suisse-energie",
+   "pages": [
+    38,
+    39
+   ]
+  },
+  "aee-suisse-energie:aee-suisse-energie-ville-de-vevey-jerome-christen": {
+   "pdf": "web-aee-suisse-energie",
+   "pages": [
+    8
+   ]
+  },
+  "aee-suisse-energie:aee-suisse-energie-sig-konrad-rieder": {
+   "pdf": "web-aee-suisse-energie",
+   "pages": [
+    9
+   ]
+  },
+  "aee-suisse-energie:aee-suisse-energie-energies-nouvelles-valais-francis-rossier": {
+   "pdf": "web-aee-suisse-energie",
+   "pages": [
+    10
+   ]
+  },
+  "aee-suisse-energie:aee-suisse-energie-energies-nouvelles-vaud-michel-herzen": {
+   "pdf": "web-aee-suisse-energie",
+   "pages": [
+    11
+   ]
+  },
+  "aee-suisse-energie:aee-suisse-energie-canton-de-vaud-laurent-balsiger": {
+   "pdf": "web-aee-suisse-energie",
+   "pages": [
+    12
+   ]
+  },
+  "aee-suisse-energie:aee-suisse-energie-energies-nouvelles-vaud-patrick-chiche": {
+   "pdf": "web-aee-suisse-energie",
+   "pages": [
+    11
+   ]
+  },
+  "aee-suisse-energie:aee-suisse-energie-pv-lab-christophe-ballif": {
+   "pdf": "web-aee-suisse-energie",
+   "pages": [
+    14
+   ]
+  },
+  "aee-suisse-energie:aee-suisse-energie-centre-energie-epfl-francois-vuille": {
+   "pdf": "web-aee-suisse-energie",
+   "pages": [
+    15
+   ]
+  },
+  "aee-suisse-energie:aee-suisse-energie-hei-valais-gaetan-cherix": {
+   "pdf": "web-aee-suisse-energie",
+   "pages": [
+    16
+   ]
+  },
+  "aee-suisse-energie:aee-suisse-energie-pole-energies-heig-vd": {
+   "pdf": "web-aee-suisse-energie",
+   "pages": [
+    17
+   ]
+  },
+  "aee-suisse-energie:aee-suisse-energie-canton-du-valais-joel-fournier": {
+   "pdf": "web-aee-suisse-energie",
+   "pages": [
+    18
+   ]
+  },
+  "aee-suisse-energie:aee-suisse-energie-energies-nouvelles-fribourg-laurent-caillere": {
+   "pdf": "web-aee-suisse-energie",
+   "pages": [
+    19
+   ]
+  },
+  "aee-suisse-energie:aee-suisse-energie-canton-de-fribourg-serge-boschung": {
+   "pdf": "web-aee-suisse-energie",
+   "pages": [
+    20
+   ]
+  },
+  "aee-suisse-energie:aee-suisse-energie-kanton-wallis-roberto-schmidt": {
+   "pdf": "web-aee-suisse-energie",
+   "pages": [
+    21
+   ]
+  },
+  "aee-suisse-energie:aee-suisse-energie-stadt-aarau-hanspeter-hilfiker": {
+   "pdf": "web-aee-suisse-energie",
+   "pages": [
+    22,
+    23
+   ]
+  },
+  "aee-suisse-energie:aee-suisse-energie-basel-stadt-christoph-brutschin": {
+   "pdf": "web-aee-suisse-energie",
+   "pages": [
+    24,
+    25
+   ]
+  },
+  "aee-suisse-energie:aee-suisse-energie-neyruz-avenir-durable": {
+   "pdf": "web-aee-suisse-energie",
+   "pages": [
+    26
+   ]
+  },
+  "aee-suisse-energie:aee-suisse-energie-ajs-ingenieurs-civils": {
+   "pdf": "web-aee-suisse-energie",
+   "pages": [
+    27
+   ]
+  },
+  "aee-suisse-energie:aee-suisse-energie-betelec-smart-electricity": {
+   "pdf": "web-aee-suisse-energie",
+   "pages": [
+    28,
+    29
+   ]
+  },
+  "aee-suisse-energie:aee-suisse-energie-cinelec": {
+   "pdf": "web-aee-suisse-energie",
+   "pages": [
+    30
+   ]
+  },
+  "aee-suisse-energie:aee-suisse-energie-drosera-ecologie-appliquee": {
+   "pdf": "web-aee-suisse-energie",
+   "pages": [
+    31
+   ]
+  },
+  "aee-suisse-energie:aee-suisse-energie-csd-ingenieurs": {
+   "pdf": "web-aee-suisse-energie",
+   "pages": [
+    33
+   ]
+  },
+  "aee-suisse-energie:aee-suisse-energie-dpe-electrotechnique": {
+   "pdf": "web-aee-suisse-energie",
+   "pages": [
+    34,
+    35
+   ]
+  },
+  "aee-suisse-energie:aee-suisse-energie-ecoscan-specialiste-polyvalent": {
+   "pdf": "web-aee-suisse-energie",
+   "pages": [
+    36,
+    37
+   ]
+  },
+  "aee-suisse-energie:aee-suisse-energie-groupe-e": {
+   "pdf": "web-aee-suisse-energie",
+   "pages": [
+    38,
+    39
+   ]
+  },
+  "aee-suisse-energie:aee-suisse-energie-energest": {
+   "pdf": "web-aee-suisse-energie",
+   "pages": [
+    40
+   ]
+  },
+  "aee-suisse-energie:aee-suisse-energie-monnay-electricite": {
+   "pdf": "web-aee-suisse-energie",
+   "pages": [
+    41
+   ]
+  },
+  "aee-suisse-energie:aee-suisse-energie-ep-electricite": {
+   "pdf": "web-aee-suisse-energie",
+   "pages": [
+    42
+   ]
+  },
+  "aee-suisse-energie:aee-suisse-energie-seic-gland": {
+   "pdf": "web-aee-suisse-energie",
+   "pages": [
+    42
+   ]
+  },
+  "aee-suisse-energie:aee-suisse-energie-gaznat-rene-bautz": {
+   "pdf": "web-aee-suisse-energie",
+   "pages": [
+    43
+   ]
+  },
+  "aee-suisse-energie:aee-suisse-energie-neo-technologies": {
+   "pdf": "web-aee-suisse-energie",
+   "pages": [
+    44,
+    45
+   ]
+  },
+  "aee-suisse-energie:aee-suisse-energie-sevt": {
+   "pdf": "web-aee-suisse-energie",
+   "pages": [
+    38,
+    39,
+    46
+   ]
+  },
+  "aee-suisse-energie:aee-suisse-energie-solstis": {
+   "pdf": "web-aee-suisse-energie",
+   "pages": [
+    47
+   ]
+  },
+  "aee-suisse-energie:aee-suisse-energie-heiniger-cables": {
+   "pdf": "web-aee-suisse-energie",
+   "pages": [
+    48,
+    49
+   ]
+  },
   "arc-lemanique:arc-lemanique-region-de-nyon-gerald-cretegny": {
    "pdf": "web-arc-lemanique",
    "pages": [
@@ -4293,42 +4529,294 @@
   "hug-2011:hug-2011-formation-erreurs-bloc-operatoire": {
    "pdf": "web-hug-2011",
    "pages": [
-    83,
-    84,
-    85,
-    86
+    9,
+    11,
+    12
    ]
   },
   "hug-2011:hug-2011-excellence-academique-succes-economique": {
    "pdf": "web-hug-2011",
    "pages": [
-    87,
-    88,
-    89,
-    90
+    9,
+    11,
+    12
    ]
   },
   "hug-2011:hug-2011-therapies-cellulaires": {
    "pdf": "web-hug-2011",
    "pages": [
-    91,
-    92,
-    93,
-    94
+    9,
+    11,
+    12
    ]
   },
   "hug-2011:hug-2011-osirix-imagerie-3d": {
    "pdf": "web-hug-2011",
    "pages": [
-    95,
-    96
+    9,
+    11,
+    12
    ]
   },
   "hug-2011:hug-2011-maladies-rares": {
    "pdf": "web-hug-2011",
    "pages": [
-    97,
-    98
+    9,
+    11,
+    12
+   ]
+  },
+  "hug-2011:hug-2011-alexion-pharma-international": {
+   "pdf": "web-hug-2011",
+   "pages": [
+    99,
+    101
+   ]
+  },
+  "hug-2011:hug-2011-atmos-medical": {
+   "pdf": "web-hug-2011",
+   "pages": [
+    102,
+    103,
+    104
+   ]
+  },
+  "hug-2011:hug-2011-cibm-company-profile": {
+   "pdf": "web-hug-2011",
+   "pages": [
+    9,
+    11,
+    12
+   ]
+  },
+  "hug-2011:hug-2011-croix-rouge-genevoise": {
+   "pdf": "web-hug-2011",
+   "pages": [
+    9,
+    11,
+    12
+   ]
+  },
+  "hug-2011:hug-2011-curmed": {
+   "pdf": "web-hug-2011",
+   "pages": [
+    9,
+    11,
+    12
+   ]
+  },
+  "hug-2011:hug-2011-dianalabs": {
+   "pdf": "web-hug-2011",
+   "pages": [
+    117,
+    118,
+    119
+   ]
+  },
+  "hug-2011:hug-2011-id-imagerie-developpement": {
+   "pdf": "web-hug-2011",
+   "pages": [
+    9,
+    11,
+    12
+   ]
+  },
+  "hug-2011:hug-2011-jp-muller": {
+   "pdf": "web-hug-2011",
+   "pages": [
+    122,
+    123
+   ]
+  },
+  "hug-2011:hug-2011-mayba": {
+   "pdf": "web-hug-2011",
+   "pages": [
+    9,
+    11,
+    12
+   ]
+  },
+  "hug-2011:hug-2011-medacta-international": {
+   "pdf": "web-hug-2011",
+   "pages": [
+    129
+   ]
+  },
+  "hug-2011:hug-2011-medicatech": {
+   "pdf": "web-hug-2011",
+   "pages": [
+    9,
+    11,
+    12
+   ]
+  },
+  "hug-2011:hug-2011-msd-merck-sharp-dohme": {
+   "pdf": "web-hug-2011",
+   "pages": [
+    133,
+    134,
+    135
+   ]
+  },
+  "hug-2011:hug-2011-mmm-sterilisatoren": {
+   "pdf": "web-hug-2011",
+   "pages": [
+    9,
+    11,
+    12
+   ]
+  },
+  "hug-2011:hug-2011-pwc": {
+   "pdf": "web-hug-2011",
+   "pages": [
+    138,
+    139
+   ]
+  },
+  "hug-2011:hug-2011-reactolab": {
+   "pdf": "web-hug-2011",
+   "pages": [
+    140,
+    141
+   ]
+  },
+  "hug-2011:hug-2011-rive-droite": {
+   "pdf": "web-hug-2011",
+   "pages": [
+    9,
+    11,
+    12
+   ]
+  },
+  "hug-2011:hug-2011-sca-hygiene-products": {
+   "pdf": "web-hug-2011",
+   "pages": [
+    144,
+    145
+   ]
+  },
+  "hug-2011:hug-2011-keramik-laufen-similor": {
+   "pdf": "web-hug-2011",
+   "pages": [
+    147,
+    148,
+    149
+   ]
+  },
+  "hug-2011:hug-2011-sipaec": {
+   "pdf": "web-hug-2011",
+   "pages": [
+    9,
+    11,
+    12
+   ]
+  },
+  "hug-2011:hug-2011-trb-chemedica": {
+   "pdf": "web-hug-2011",
+   "pages": [
+    9,
+    11,
+    12
+   ]
+  },
+  "hug-2011:hug-2011-tornier": {
+   "pdf": "web-hug-2011",
+   "pages": [
+    156
+   ]
+  },
+  "hug-2011:hug-2011-bugnion-propriete-industrielle": {
+   "pdf": "web-hug-2011",
+   "pages": [
+    157
+   ]
+  },
+  "hug-2011:hug-2011-bj-coffee": {
+   "pdf": "web-hug-2011",
+   "pages": [
+    9,
+    11,
+    12
+   ]
+  },
+  "hug-2011:hug-2011-gastromer": {
+   "pdf": "web-hug-2011",
+   "pages": [
+    159
+   ]
+  },
+  "hug-2011:hug-2011-casabat": {
+   "pdf": "web-hug-2011",
+   "pages": [
+    9,
+    11,
+    12
+   ]
+  },
+  "hug-2011:hug-2011-transferts-video-film": {
+   "pdf": "web-hug-2011",
+   "pages": [
+    161
+   ]
+  },
+  "hug-2011:hug-2011-citroen-geneve": {
+   "pdf": "web-hug-2011",
+   "pages": [
+    162,
+    163
+   ]
+  },
+  "hug-2011:hug-2011-emil-frey-geneve": {
+   "pdf": "web-hug-2011",
+   "pages": [
+    164,
+    165
+   ]
+  },
+  "hug-2011:hug-2011-gets-medical-safety-systems": {
+   "pdf": "web-hug-2011",
+   "pages": [
+    166,
+    167
+   ]
+  },
+  "hug-2011:hug-2011-veltigroup": {
+   "pdf": "web-hug-2011",
+   "pages": [
+    168,
+    169
+   ]
+  },
+  "hug-2011:hug-2011-my-private-care": {
+   "pdf": "web-hug-2011",
+   "pages": [
+    170
+   ]
+  },
+  "hug-2011:hug-2011-g-schweizer": {
+   "pdf": "web-hug-2011",
+   "pages": [
+    172,
+    173
+   ]
+  },
+  "hug-2011:hug-2011-sicli-utc-fire-security": {
+   "pdf": "web-hug-2011",
+   "pages": [
+    174,
+    175
+   ]
+  },
+  "hug-2011:hug-2011-as-ambulances-services": {
+   "pdf": "web-hug-2011",
+   "pages": [
+    176
+   ]
+  },
+  "hug-2011:hug-2011-medileg": {
+   "pdf": "web-hug-2011",
+   "pages": [
+    177
    ]
   },
   "sante-gesundheit:sante-gesundheit-ticino-in-salute-beltraminelli": {
@@ -5470,9 +5958,492 @@
     59,
     60
    ]
+  },
+  "zurich:zurich-stadt-zurich-corine-mauch": {
+   "pdf": "web-zurich",
+   "pages": [
+    1,
+    2,
+    3
+   ]
+  },
+  "zurich:zurich-zhk-karin-lenzlinger": {
+   "pdf": "web-zurich",
+   "pages": [
+    11,
+    12,
+    13
+   ]
+  },
+  "zurich:zurich-zhk-regine-sauter": {
+   "pdf": "web-zurich",
+   "pages": [
+    11,
+    12,
+    13
+   ]
+  },
+  "zurich:zurich-volkswirtschaftsdirektion-ernst-stocker": {
+   "pdf": "web-zurich",
+   "pages": [
+    8,
+    9
+   ]
+  },
+  "zurich:zurich-zhk-wirtschaftswochen": {
+   "pdf": "web-zurich",
+   "pages": [
+    11,
+    12,
+    13
+   ]
+  },
+  "zurich:zurich-zhk-export-dienstleistungen": {
+   "pdf": "web-zurich",
+   "pages": [
+    11,
+    12,
+    13
+   ]
+  },
+  "zurich:zurich-zhk-schiedsgericht": {
+   "pdf": "web-zurich",
+   "pages": [
+    11,
+    12,
+    13
+   ]
+  },
+  "zurich:zurich-zhk-beat-zimmermann": {
+   "pdf": "web-zurich",
+   "pages": [
+    11,
+    12,
+    13
+   ]
+  },
+  "zurich:zurich-aebi-kuehni": {
+   "pdf": "web-zurich",
+   "pages": [
+    14,
+    15
+   ]
+  },
+  "zurich:zurich-atelier-10-8": {
+   "pdf": "web-zurich",
+   "pages": [
+    16,
+    17,
+    18
+   ]
+  },
+  "zurich:zurich-atelier-ww": {
+   "pdf": "web-zurich",
+   "pages": [
+    20,
+    22
+   ]
+  },
+  "zurich:zurich-dr-j-grob-partner": {
+   "pdf": "web-zurich",
+   "pages": [
+    24,
+    25
+   ]
+  },
+  "zurich:zurich-eberhard-bau": {
+   "pdf": "web-zurich",
+   "pages": [
+    26,
+    27
+   ]
+  },
+  "zurich:zurich-elex": {
+   "pdf": "web-zurich",
+   "pages": [
+    28,
+    29
+   ]
+  },
+  "zurich:zurich-fabrimex-systems": {
+   "pdf": "web-zurich",
+   "pages": [
+    30,
+    31
+   ]
+  },
+  "zurich:zurich-fluckiger-bosshard": {
+   "pdf": "web-zurich",
+   "pages": [
+    32,
+    33
+   ]
+  },
+  "zurich:zurich-gebruder-loepfe": {
+   "pdf": "web-zurich",
+   "pages": [
+    34,
+    35
+   ]
+  },
+  "zurich:zurich-hardturm": {
+   "pdf": "web-zurich",
+   "pages": [
+    37,
+    38,
+    39
+   ]
+  },
+  "zurich:zurich-havells-sylvania": {
+   "pdf": "web-zurich",
+   "pages": [
+    40,
+    41
+   ]
+  },
+  "zurich:zurich-h-net": {
+   "pdf": "web-zurich",
+   "pages": [
+    42,
+    43
+   ]
+  },
+  "zurich:zurich-imt-masken-und-teilungen": {
+   "pdf": "web-zurich",
+   "pages": [
+    44,
+    45
+   ]
+  },
+  "zurich:zurich-itpc": {
+   "pdf": "web-zurich",
+   "pages": [
+    46,
+    47
+   ]
+  },
+  "zurich:zurich-jakob-stiefel": {
+   "pdf": "web-zurich",
+   "pages": [
+    48,
+    49
+   ]
+  },
+  "zurich:zurich-klinik-susenberg": {
+   "pdf": "web-zurich",
+   "pages": [
+    51,
+    52,
+    53
+   ]
+  },
+  "zurich:zurich-lernpaedagogisches-zentrum": {
+   "pdf": "web-zurich",
+   "pages": [
+    55,
+    56,
+    57
+   ]
+  },
+  "zurich:zurich-luzi": {
+   "pdf": "web-zurich",
+   "pages": [
+    58,
+    59
+   ]
+  },
+  "zurich:zurich-medizinisches-zentrum-roemerhof": {
+   "pdf": "web-zurich",
+   "pages": [
+    60,
+    61
+   ]
+  },
+  "zurich:zurich-meworla": {
+   "pdf": "web-zurich",
+   "pages": [
+    62,
+    63
+   ]
+  },
+  "zurich:zurich-nilan": {
+   "pdf": "web-zurich",
+   "pages": [
+    64,
+    65
+   ]
+  },
+  "zurich:zurich-poyry-schweiz": {
+   "pdf": "web-zurich",
+   "pages": [
+    66,
+    67,
+    68
+   ]
+  },
+  "zurich:zurich-spannverbund-bausysteme": {
+   "pdf": "web-zurich",
+   "pages": [
+    70,
+    72
+   ]
+  },
+  "zurich:zurich-swissmem": {
+   "pdf": "web-zurich",
+   "pages": [
+    74,
+    75
+   ]
+  },
+  "zurich:zurich-swissmill": {
+   "pdf": "web-zurich",
+   "pages": [
+    76,
+    77
+   ]
+  },
+  "zurich:zurich-universitatsspital-zurich": {
+   "pdf": "web-zurich",
+   "pages": [
+    79,
+    80,
+    81
+   ]
   }
  },
  "companies": {
+  "aee-suisse-energie:aee-suisse": {
+   "pdf": "web-aee-suisse-energie",
+   "pages": [
+    4,
+    5,
+    6
+   ]
+  },
+  "aee-suisse-energie:aee-suisse-romande": {
+   "pdf": "web-aee-suisse-energie",
+   "pages": [
+    6
+   ]
+  },
+  "aee-suisse-energie:ville-de-vevey": {
+   "pdf": "web-aee-suisse-energie",
+   "pages": [
+    8
+   ]
+  },
+  "aee-suisse-energie:sig": {
+   "pdf": "web-aee-suisse-energie",
+   "pages": [
+    9
+   ]
+  },
+  "aee-suisse-energie:energies-nouvelles-valais": {
+   "pdf": "web-aee-suisse-energie",
+   "pages": [
+    10
+   ]
+  },
+  "aee-suisse-energie:energies-nouvelles-vaud": {
+   "pdf": "web-aee-suisse-energie",
+   "pages": [
+    11
+   ]
+  },
+  "aee-suisse-energie:direction-energie-vaud": {
+   "pdf": "web-aee-suisse-energie",
+   "pages": [
+    12
+   ]
+  },
+  "aee-suisse-energie:epfl-pv-lab": {
+   "pdf": "web-aee-suisse-energie",
+   "pages": [
+    14
+   ]
+  },
+  "aee-suisse-energie:cen-epfl": {
+   "pdf": "web-aee-suisse-energie",
+   "pages": [
+    15
+   ]
+  },
+  "aee-suisse-energie:hei-valais": {
+   "pdf": "web-aee-suisse-energie",
+   "pages": [
+    16
+   ]
+  },
+  "aee-suisse-energie:pole-energies-heig-vd": {
+   "pdf": "web-aee-suisse-energie",
+   "pages": [
+    17
+   ]
+  },
+  "aee-suisse-energie:service-energie-valais": {
+   "pdf": "web-aee-suisse-energie",
+   "pages": [
+    18
+   ]
+  },
+  "aee-suisse-energie:energies-nouvelles-fribourg": {
+   "pdf": "web-aee-suisse-energie",
+   "pages": [
+    19
+   ]
+  },
+  "aee-suisse-energie:service-energie-fribourg": {
+   "pdf": "web-aee-suisse-energie",
+   "pages": [
+    20
+   ]
+  },
+  "aee-suisse-energie:kanton-wallis-dfe": {
+   "pdf": "web-aee-suisse-energie",
+   "pages": [
+    21
+   ]
+  },
+  "aee-suisse-energie:stadt-aarau": {
+   "pdf": "web-aee-suisse-energie",
+   "pages": [
+    22,
+    23
+   ]
+  },
+  "aee-suisse-energie:basel-stadt-wsu": {
+   "pdf": "web-aee-suisse-energie",
+   "pages": [
+    24,
+    25
+   ]
+  },
+  "aee-suisse-energie:commune-de-neyruz": {
+   "pdf": "web-aee-suisse-energie",
+   "pages": [
+    26
+   ]
+  },
+  "aee-suisse-energie:neyergie": {
+   "pdf": "web-aee-suisse-energie",
+   "pages": [
+    26
+   ]
+  },
+  "aee-suisse-energie:ajs-ingenieurs-civils": {
+   "pdf": "web-aee-suisse-energie",
+   "pages": [
+    27
+   ]
+  },
+  "aee-suisse-energie:betelec": {
+   "pdf": "web-aee-suisse-energie",
+   "pages": [
+    28,
+    29
+   ]
+  },
+  "aee-suisse-energie:cinelec": {
+   "pdf": "web-aee-suisse-energie",
+   "pages": [
+    30
+   ]
+  },
+  "aee-suisse-energie:drosera": {
+   "pdf": "web-aee-suisse-energie",
+   "pages": [
+    31
+   ]
+  },
+  "aee-suisse-energie:cgc-energie": {
+   "pdf": "web-aee-suisse-energie",
+   "pages": [
+    32
+   ]
+  },
+  "aee-suisse-energie:csd-ingenieurs": {
+   "pdf": "web-aee-suisse-energie",
+   "pages": [
+    33
+   ]
+  },
+  "aee-suisse-energie:dpe-electrotechnique": {
+   "pdf": "web-aee-suisse-energie",
+   "pages": [
+    34,
+    35
+   ]
+  },
+  "aee-suisse-energie:ecoscan": {
+   "pdf": "web-aee-suisse-energie",
+   "pages": [
+    36,
+    37
+   ]
+  },
+  "aee-suisse-energie:groupe-e": {
+   "pdf": "web-aee-suisse-energie",
+   "pages": [
+    38,
+    39
+   ]
+  },
+  "aee-suisse-energie:energest": {
+   "pdf": "web-aee-suisse-energie",
+   "pages": [
+    40
+   ]
+  },
+  "aee-suisse-energie:monnay-electricite": {
+   "pdf": "web-aee-suisse-energie",
+   "pages": [
+    41
+   ]
+  },
+  "aee-suisse-energie:ep-electricite": {
+   "pdf": "web-aee-suisse-energie",
+   "pages": [
+    42
+   ]
+  },
+  "aee-suisse-energie:seic": {
+   "pdf": "web-aee-suisse-energie",
+   "pages": [
+    42
+   ]
+  },
+  "aee-suisse-energie:gaznat": {
+   "pdf": "web-aee-suisse-energie",
+   "pages": [
+    43
+   ]
+  },
+  "aee-suisse-energie:neo-technologies": {
+   "pdf": "web-aee-suisse-energie",
+   "pages": [
+    44,
+    45
+   ]
+  },
+  "aee-suisse-energie:sevt": {
+   "pdf": "web-aee-suisse-energie",
+   "pages": [
+    46
+   ]
+  },
+  "aee-suisse-energie:solstis": {
+   "pdf": "web-aee-suisse-energie",
+   "pages": [
+    47
+   ]
+  },
+  "aee-suisse-energie:heiniger-cables": {
+   "pdf": "web-aee-suisse-energie",
+   "pages": [
+    48,
+    49
+   ]
+  },
   "arc-lemanique:region-de-nyon": {
    "pdf": "web-arc-lemanique",
    "pages": [
@@ -9688,25 +10659,25 @@
   "hug-2011:fondation-pour-les-nouvelles-technologies-chirurgicales": {
    "pdf": "web-hug-2011",
    "pages": [
-    42
+    41
    ]
   },
   "hug-2011:fondation-dr-henri-dubois-ferriere-dinu-lipatti": {
    "pdf": "web-hug-2011",
    "pages": [
-    65
+    64
    ]
   },
   "hug-2011:epfl": {
    "pdf": "web-hug-2011",
    "pages": [
-    69
+    68
    ]
   },
   "hug-2011:maxivax": {
    "pdf": "web-hug-2011",
    "pages": [
-    69
+    68
    ]
   },
   "hug-2011:cibm": {
@@ -9730,6 +10701,309 @@
     153,
     154,
     155
+   ]
+  },
+  "hug-2011:unitec": {
+   "pdf": "web-hug-2011",
+   "pages": [
+    87,
+    89
+   ]
+  },
+  "hug-2011:institut-suisse-de-therapies-cellulaires": {
+   "pdf": "web-hug-2011",
+   "pages": [
+    91,
+    93
+   ]
+  },
+  "hug-2011:fondation-osirix": {
+   "pdf": "web-hug-2011",
+   "pages": [
+    94,
+    95
+   ]
+  },
+  "hug-2011:orphanet-suisse": {
+   "pdf": "web-hug-2011",
+   "pages": [
+    96,
+    97
+   ]
+  },
+  "hug-2011:proraris": {
+   "pdf": "web-hug-2011",
+   "pages": [
+    96,
+    97
+   ]
+  },
+  "hug-2011:alexion-pharma-international": {
+   "pdf": "web-hug-2011",
+   "pages": [
+    99,
+    101
+   ]
+  },
+  "hug-2011:atmos-medical": {
+   "pdf": "web-hug-2011",
+   "pages": [
+    102,
+    103,
+    104
+   ]
+  },
+  "hug-2011:croix-rouge-genevoise": {
+   "pdf": "web-hug-2011",
+   "pages": [
+    109,
+    111
+   ]
+  },
+  "hug-2011:curmed": {
+   "pdf": "web-hug-2011",
+   "pages": [
+    114,
+    115
+   ]
+  },
+  "hug-2011:dianalabs": {
+   "pdf": "web-hug-2011",
+   "pages": [
+    117,
+    118,
+    119
+   ]
+  },
+  "hug-2011:id-imagerie-developpement": {
+   "pdf": "web-hug-2011",
+   "pages": [
+    120,
+    121
+   ]
+  },
+  "hug-2011:jp-muller": {
+   "pdf": "web-hug-2011",
+   "pages": [
+    122,
+    123
+   ]
+  },
+  "hug-2011:mayba": {
+   "pdf": "web-hug-2011",
+   "pages": [
+    124,
+    125
+   ]
+  },
+  "hug-2011:marflow": {
+   "pdf": "web-hug-2011",
+   "pages": [
+    127
+   ]
+  },
+  "hug-2011:johnson-johnson": {
+   "pdf": "web-hug-2011",
+   "pages": [
+    150
+   ]
+  },
+  "hug-2011:medacta-international": {
+   "pdf": "web-hug-2011",
+   "pages": [
+    129
+   ]
+  },
+  "hug-2011:medicatech": {
+   "pdf": "web-hug-2011",
+   "pages": [
+    130,
+    131
+   ]
+  },
+  "hug-2011:msd-merck-sharp-dohme": {
+   "pdf": "web-hug-2011",
+   "pages": [
+    133,
+    134,
+    135
+   ]
+  },
+  "hug-2011:mmm-sterilisatoren": {
+   "pdf": "web-hug-2011",
+   "pages": [
+    136,
+    137
+   ]
+  },
+  "hug-2011:pwc": {
+   "pdf": "web-hug-2011",
+   "pages": [
+    138,
+    139
+   ]
+  },
+  "hug-2011:reactolab": {
+   "pdf": "web-hug-2011",
+   "pages": [
+    140,
+    141
+   ]
+  },
+  "hug-2011:rive-droite": {
+   "pdf": "web-hug-2011",
+   "pages": [
+    142,
+    143
+   ]
+  },
+  "hug-2011:sca-hygiene-products": {
+   "pdf": "web-hug-2011",
+   "pages": [
+    144,
+    145
+   ]
+  },
+  "hug-2011:keramik-laufen": {
+   "pdf": "web-hug-2011",
+   "pages": [
+    147,
+    148,
+    149
+   ]
+  },
+  "hug-2011:similor": {
+   "pdf": "web-hug-2011",
+   "pages": [
+    147,
+    148,
+    149
+   ]
+  },
+  "hug-2011:sipaec": {
+   "pdf": "web-hug-2011",
+   "pages": [
+    151
+   ]
+  },
+  "hug-2011:tornier": {
+   "pdf": "web-hug-2011",
+   "pages": [
+    156
+   ]
+  },
+  "hug-2011:bugnion": {
+   "pdf": "web-hug-2011",
+   "pages": [
+    157
+   ]
+  },
+  "hug-2011:bj-coffee": {
+   "pdf": "web-hug-2011",
+   "pages": [
+    158
+   ]
+  },
+  "hug-2011:gastromer": {
+   "pdf": "web-hug-2011",
+   "pages": [
+    159
+   ]
+  },
+  "hug-2011:casabat": {
+   "pdf": "web-hug-2011",
+   "pages": [
+    160
+   ]
+  },
+  "hug-2011:transferts-video-film": {
+   "pdf": "web-hug-2011",
+   "pages": [
+    161
+   ]
+  },
+  "hug-2011:citroen-suisse-geneve": {
+   "pdf": "web-hug-2011",
+   "pages": [
+    162,
+    163
+   ]
+  },
+  "hug-2011:emil-frey-geneve": {
+   "pdf": "web-hug-2011",
+   "pages": [
+    164,
+    165
+   ]
+  },
+  "hug-2011:gets-medical-safety-systems": {
+   "pdf": "web-hug-2011",
+   "pages": [
+    166,
+    167
+   ]
+  },
+  "hug-2011:veltigroup": {
+   "pdf": "web-hug-2011",
+   "pages": [
+    168,
+    169
+   ]
+  },
+  "hug-2011:my-private-care": {
+   "pdf": "web-hug-2011",
+   "pages": [
+    170
+   ]
+  },
+  "hug-2011:g-schweizer": {
+   "pdf": "web-hug-2011",
+   "pages": [
+    172,
+    173
+   ]
+  },
+  "hug-2011:sicli-switzerland": {
+   "pdf": "web-hug-2011",
+   "pages": [
+    174,
+    175
+   ]
+  },
+  "hug-2011:as-ambulances-services": {
+   "pdf": "web-hug-2011",
+   "pages": [
+    176
+   ]
+  },
+  "hug-2011:binggeli-freres": {
+   "pdf": "web-hug-2011",
+   "pages": [
+    176
+   ]
+  },
+  "hug-2011:chemie-brunschwig": {
+   "pdf": "web-hug-2011",
+   "pages": [
+    177
+   ]
+  },
+  "hug-2011:medileg": {
+   "pdf": "web-hug-2011",
+   "pages": [
+    177
+   ]
+  },
+  "hug-2011:l-f-serrurerie": {
+   "pdf": "web-hug-2011",
+   "pages": [
+    178
+   ]
+  },
+  "hug-2011:centre-laser-victor-hugo": {
+   "pdf": "web-hug-2011",
+   "pages": [
+    112
    ]
   },
   "sante-gesundheit:dipartimento-della-sanita-e-della-socialita": {
@@ -10706,6 +11980,217 @@
    "pdf": "web-uvs-valais-neuchatel",
    "pages": [
     2
+   ]
+  },
+  "zurich:stadt-zurich": {
+   "pdf": "web-zurich",
+   "pages": [
+    1,
+    2,
+    3
+   ]
+  },
+  "zurich:zurcher-handelskammer": {
+   "pdf": "web-zurich",
+   "pages": [
+    11,
+    12,
+    13
+   ]
+  },
+  "zurich:volkswirtschaftsdirektion-kanton-zurich": {
+   "pdf": "web-zurich",
+   "pages": [
+    8,
+    9
+   ]
+  },
+  "zurich:aebi-kuehni": {
+   "pdf": "web-zurich",
+   "pages": [
+    14,
+    15
+   ]
+  },
+  "zurich:atelier-10-8": {
+   "pdf": "web-zurich",
+   "pages": [
+    16,
+    17,
+    18
+   ]
+  },
+  "zurich:atelier-ww": {
+   "pdf": "web-zurich",
+   "pages": [
+    20,
+    22
+   ]
+  },
+  "zurich:dr-j-grob-partner": {
+   "pdf": "web-zurich",
+   "pages": [
+    24,
+    25
+   ]
+  },
+  "zurich:eberhard-bau": {
+   "pdf": "web-zurich",
+   "pages": [
+    26,
+    27
+   ]
+  },
+  "zurich:elex": {
+   "pdf": "web-zurich",
+   "pages": [
+    28,
+    29
+   ]
+  },
+  "zurich:fabrimex-systems": {
+   "pdf": "web-zurich",
+   "pages": [
+    30,
+    31
+   ]
+  },
+  "zurich:fluckiger-bosshard": {
+   "pdf": "web-zurich",
+   "pages": [
+    32,
+    33
+   ]
+  },
+  "zurich:gebruder-loepfe": {
+   "pdf": "web-zurich",
+   "pages": [
+    34,
+    35
+   ]
+  },
+  "zurich:hardturm": {
+   "pdf": "web-zurich",
+   "pages": [
+    37,
+    38,
+    39
+   ]
+  },
+  "zurich:havells-sylvania": {
+   "pdf": "web-zurich",
+   "pages": [
+    40,
+    41
+   ]
+  },
+  "zurich:h-net": {
+   "pdf": "web-zurich",
+   "pages": [
+    42,
+    43
+   ]
+  },
+  "zurich:imt-masken-und-teilungen": {
+   "pdf": "web-zurich",
+   "pages": [
+    44,
+    45
+   ]
+  },
+  "zurich:itpc": {
+   "pdf": "web-zurich",
+   "pages": [
+    46,
+    47
+   ]
+  },
+  "zurich:jakob-stiefel": {
+   "pdf": "web-zurich",
+   "pages": [
+    48,
+    49
+   ]
+  },
+  "zurich:klinik-susenberg": {
+   "pdf": "web-zurich",
+   "pages": [
+    51,
+    52,
+    53
+   ]
+  },
+  "zurich:lernpaedagogisches-zentrum": {
+   "pdf": "web-zurich",
+   "pages": [
+    55,
+    56,
+    57
+   ]
+  },
+  "zurich:luzi": {
+   "pdf": "web-zurich",
+   "pages": [
+    58,
+    59
+   ]
+  },
+  "zurich:medizinisches-zentrum-roemerhof": {
+   "pdf": "web-zurich",
+   "pages": [
+    60,
+    61
+   ]
+  },
+  "zurich:meworla": {
+   "pdf": "web-zurich",
+   "pages": [
+    62,
+    63
+   ]
+  },
+  "zurich:nilan": {
+   "pdf": "web-zurich",
+   "pages": [
+    64,
+    65
+   ]
+  },
+  "zurich:poyry-schweiz": {
+   "pdf": "web-zurich",
+   "pages": [
+    66,
+    67,
+    68
+   ]
+  },
+  "zurich:spannverbund-bausysteme": {
+   "pdf": "web-zurich",
+   "pages": [
+    70,
+    72
+   ]
+  },
+  "zurich:swissmem": {
+   "pdf": "web-zurich",
+   "pages": [
+    74,
+    75
+   ]
+  },
+  "zurich:swissmill": {
+   "pdf": "web-zurich",
+   "pages": [
+    76,
+    77
+   ]
+  },
+  "zurich:universitatsspital-zurich": {
+   "pdf": "web-zurich",
+   "pages": [
+    79,
+    80,
+    81
    ]
   }
  }

@@ -4,11 +4,23 @@
   "series": "Santé",
   "year": 2011,
   "region": "Genève",
-  "languages": ["fr", "en"],
-  "description": "Numéro bilingue français-anglais consacré aux Hôpitaux Universitaires de Genève, publié en juin 2011 par Great Media SA. Le directeur général et les responsables de services y présentent le plan stratégique Vision 2015, les grands chantiers, la politique d'hôpital vert, l'engagement humanitaire et les domaines d'excellence : médecine génétique, chirurgie robotique, greffes pédiatriques, virologie, neurosciences, psychiatrie. Une partie « Partenaires » décrit les plateformes de recherche associées (recherche clinique, oncologie, CIBM, Brain and Behaviour Laboratory).",
-  "themes": ["sante", "formation", "collectivites"],
+  "languages": [
+    "fr",
+    "en"
+  ],
+  "description": "Numéro bilingue français-anglais consacré aux Hôpitaux Universitaires de Genève, publié en juin 2011 par Great Media SA. Le directeur général et les responsables de services y présentent le plan stratégique Vision 2015, les grands chantiers, la politique d'hôpital vert, l'engagement humanitaire et les domaines d'excellence : médecine génétique, chirurgie robotique, greffes pédiatriques, virologie, neurosciences, psychiatrie. Une partie « Partenaires » décrit les plateformes associées (recherche clinique, oncologie, CIBM, Brain and Behaviour Laboratory, UNITEC, thérapies cellulaires, OsiriX, maladies rares), puis une quarantaine de « Company profiles » (pages 98 à 178) présentent fournisseurs et partenaires des HUG : pharma, dispositifs médicaux, laboratoires, imagerie, services et construction.",
+  "themes": [
+    "sante",
+    "formation",
+    "collectivites"
+  ],
   "files": [
-    { "driveId": "1bE4Gjpw9dlGPVHFpEXu2yM3wGJSIaQr8", "name": "HUG-2011-web.pdf", "sizeMB": 19.7, "label": "Édition web" }
+    {
+      "driveId": "1bE4Gjpw9dlGPVHFpEXu2yM3wGJSIaQr8",
+      "name": "HUG-2011-web.pdf",
+      "sizeMB": 19.7,
+      "label": "Édition web"
+    }
   ],
   "pdfLocal": false,
   "articles": [
@@ -21,11 +33,21 @@
       "pdfPages": [],
       "summary": "Directeur général depuis 1999 d'un hôpital qui emploie près de 10 000 personnes et dispose d'un budget de plus de 1,6 milliard de francs, Bernard Gruson résume le plan stratégique Vision 2015 en un mot : qualité. Il identifie quatre défis : capacité face à une population en hausse et vieillissante, attractivité dans un contexte de libre choix de l'hôpital dès 2012, coopération avec le réseau genevois et les autres CHU, et financement. Il veut porter à 150 par an le nombre de diplômés en médecine, développer l'accueil, l'information des patients et les itinéraires cliniques. Après 85 millions d'économies en trois ans, il craint que la révision de la LAMal ampute le budget de 10 %. Il cite sept axes de recherche prioritaires et les collaborations avec le CHUV.",
       "quote": "Aujourd'hui, il ne suffit plus d'être bon, il faut le faire savoir. Le temps de la modestie est fini.",
-      "themes": ["sante", "collectivites"],
+      "themes": [
+        "sante",
+        "collectivites"
+      ],
       "region": "Genève",
       "language": "fr",
-      "people": [{ "name": "Bernard Gruson", "role": "Directeur général des HUG" }],
-      "companies": ["hopitaux-universitaires-de-geneve"]
+      "people": [
+        {
+          "name": "Bernard Gruson",
+          "role": "Directeur général des HUG"
+        }
+      ],
+      "companies": [
+        "hopitaux-universitaires-de-geneve"
+      ]
     },
     {
       "slug": "hug-2011-hug-font-peau-neuve",
@@ -36,11 +58,22 @@
       "pdfPages": [],
       "summary": "Le directeur général adjoint des HUG fait le point sur un parc immobilier évalué à 2 milliards de francs et sur quatre chantiers majeurs représentant près de 600 millions d'investissements, tous sur le site Cluse-Roseraie. Le nouveau bâtiment des lits, financé par un crédit de 253 millions, n'offrira que des chambres à un ou deux lits dès 2016 et ajoutera six salles d'opération. Un bâtiment des laboratoires de neuf étages, à 65 millions, regroupera une trentaine de laboratoires dispersés. La maternité, la plus grande de Suisse avec 4000 naissances par an, est rénovée par étapes pour 250 millions, et l'hôpital des enfants bénéficie d'un « lifting » de 22 millions. L'objectif n'est pas d'augmenter les 1800 lits, mais le confort et la qualité des soins.",
       "quote": "",
-      "themes": ["sante", "construction", "architecture"],
+      "themes": [
+        "sante",
+        "construction",
+        "architecture"
+      ],
       "region": "Genève",
       "language": "fr",
-      "people": [{ "name": "F. Taillard", "role": "Directeur général adjoint des HUG" }],
-      "companies": ["hopitaux-universitaires-de-geneve"]
+      "people": [
+        {
+          "name": "F. Taillard",
+          "role": "Directeur général adjoint des HUG"
+        }
+      ],
+      "companies": [
+        "hopitaux-universitaires-de-geneve"
+      ]
     },
     {
       "slug": "hug-2011-hopital-vert",
@@ -51,14 +84,26 @@
       "pdfPages": [],
       "summary": "Premier hôpital universitaire européen doté d'un programme de développement durable, les HUG ont réalisé un premier écobilan en 2009, qui a montré que les déplacements de leurs quelque 10 000 collaborateurs constituent le principal impact environnemental, devant les rejets de médicaments. Christian Decurnex, chef du Département d'exploitation, et Alain Samson, responsable du projet, détaillent les actions : prises à interrupteur Vigiwatt, économies d'électricité de près de 1,5 million de kWh, mandat « Manger local », prêts à taux zéro pour vélos, covoiturage, subvention de 50 % de l'abonnement Unireso et règles plus strictes pour les 900 places de parking. Le nouveau bâtiment des lits respectera la norme MOPEC avec 500 m² de panneaux solaires et la récupération des eaux de pluie.",
       "quote": "",
-      "themes": ["sante", "energie", "mobilite"],
+      "themes": [
+        "sante",
+        "energie",
+        "mobilite"
+      ],
       "region": "Genève",
       "language": "fr",
       "people": [
-        { "name": "Christian Decurnex", "role": "Chef du Département d'exploitation" },
-        { "name": "Alain Samson", "role": "Responsable opérationnel du projet" }
+        {
+          "name": "Christian Decurnex",
+          "role": "Chef du Département d'exploitation"
+        },
+        {
+          "name": "Alain Samson",
+          "role": "Responsable opérationnel du projet"
+        }
       ],
-      "companies": ["hopitaux-universitaires-de-geneve"]
+      "companies": [
+        "hopitaux-universitaires-de-geneve"
+      ]
     },
     {
       "slug": "hug-2011-geneve-internationale-humanitaire",
@@ -69,11 +114,21 @@
       "pdfPages": [],
       "summary": "Depuis 1999, les partenariats humanitaires et de développement figurent parmi les priorités stratégiques des HUG. Le professeur Louis Loutan, qui dirige le Service de médecine internationale et humanitaire créé en 2007, explique que l'hôpital agit d'institution à institution, en apportant formation, soins et gestion hospitalière dans des partenariats de long terme, financés par un prélèvement sur les honoraires privés des médecins. Une centaine de projets ont été menés en dix ans avec la DDC, le Corps suisse d'aide humanitaire, l'OMS, MSF ou le CICR : recherche sur la leishmaniose au Népal, partenariat de trente ans avec l'Hôpital central de Yaoundé, psychiatrie au Rwanda, formation d'ambulanciers en Jordanie, appui à l'hôpital de Kandahar et réseau de télémédecine en Afrique francophone.",
       "quote": "Nous avons vocation d'apporter notre expertise, souvent sous forme de formation.",
-      "themes": ["sante", "collectivites"],
+      "themes": [
+        "sante",
+        "collectivites"
+      ],
       "region": "Genève",
       "language": "fr",
-      "people": [{ "name": "Louis Loutan", "role": "Professeur, chef du Service de médecine internationale et humanitaire" }],
-      "companies": ["hopitaux-universitaires-de-geneve"]
+      "people": [
+        {
+          "name": "Louis Loutan",
+          "role": "Professeur, chef du Service de médecine internationale et humanitaire"
+        }
+      ],
+      "companies": [
+        "hopitaux-universitaires-de-geneve"
+      ]
     },
     {
       "slug": "hug-2011-indispensable-u-faculte-medecine",
@@ -84,14 +139,26 @@
       "pdfPages": [],
       "summary": "Doyen de la Faculté de médecine de l'Université de Genève depuis 2003, le professeur Jean-Louis Carpentier présente le nouveau règlement entré en vigueur le 27 janvier 2011, qui remplace les relations contractuelles entre l'hôpital et l'université par un partenariat : le doyen devient directeur de la formation et de la recherche des HUG et les professeurs n'ont plus qu'un seul cahier des charges. La Faculté, dotée d'environ 160 millions de francs, compte quelque 1400 étudiants et 50 à 60 groupes de recherche fondamentale, pour près de 200 groupes actifs à l'hôpital. Il évoque la pénurie de médecins formés en Suisse, les masters destinés aux étudiants étrangers et les postes de chefs de clinique scientifiques. Le professeur Henri Bounameaux lui succède le 15 juillet 2011.",
       "quote": "Pour nous, le modèle du partenariat est le plus équilibré.",
-      "themes": ["formation", "sante"],
+      "themes": [
+        "formation",
+        "sante"
+      ],
       "region": "Genève",
       "language": "fr",
       "people": [
-        { "name": "Jean-Louis Carpentier", "role": "Professeur, doyen de la Faculté de médecine de l'UNIGE" },
-        { "name": "Henri Bounameaux", "role": "Professeur, nouveau doyen dès le 15 juillet 2011" }
+        {
+          "name": "Jean-Louis Carpentier",
+          "role": "Professeur, doyen de la Faculté de médecine de l'UNIGE"
+        },
+        {
+          "name": "Henri Bounameaux",
+          "role": "Professeur, nouveau doyen dès le 15 juillet 2011"
+        }
       ],
-      "companies": ["universite-de-geneve-faculte-de-medecine", "hopitaux-universitaires-de-geneve"]
+      "companies": [
+        "universite-de-geneve-faculte-de-medecine",
+        "hopitaux-universitaires-de-geneve"
+      ]
     },
     {
       "slug": "hug-2011-securite-qualite",
@@ -102,14 +169,24 @@
       "pdfPages": [],
       "summary": "Depuis le 1er janvier 2011, la direction médicale dirigée par le professeur Pierre Dayer est devenue direction médicale et qualité. Le Dr Pierre Chopard, responsable du service qualité des soins, explique que les principaux risques à maîtriser sont infectieux et médicamenteux, ces derniers étant limités notamment par la prescription électronique. Un système de déclaration des incidents recueille environ 5800 annonces par an, analysées par des groupes de gestion pour corriger les processus. Les HUG ont réduit la prévalence des infections nosocomiales à 8,4 % en 2010 grâce à l'hygiène des mains, appliquent des contrôles croisés au bloc opératoire et des protocoles standardisés de chimiothérapie. Quatorze « quality officers » entreront en fonction à l'automne 2011 et le modèle EFQM est adopté dans plusieurs domaines.",
       "quote": "",
-      "themes": ["sante"],
+      "themes": [
+        "sante"
+      ],
       "region": "Genève",
       "language": "fr",
       "people": [
-        { "name": "Pierre Chopard", "role": "Dr, responsable du service qualité des soins" },
-        { "name": "Pierre Dayer", "role": "Professeur, directeur médical" }
+        {
+          "name": "Pierre Chopard",
+          "role": "Dr, responsable du service qualité des soins"
+        },
+        {
+          "name": "Pierre Dayer",
+          "role": "Professeur, directeur médical"
+        }
       ],
-      "companies": ["hopitaux-universitaires-de-geneve"]
+      "companies": [
+        "hopitaux-universitaires-de-geneve"
+      ]
     },
     {
       "slug": "hug-2011-medecine-de-premier-recours",
@@ -120,11 +197,21 @@
       "pdfPages": [],
       "summary": "Le chef du Département de médecine communautaire, de premier recours et des urgences présente un projet transversal visant à mieux orienter les urgences et à placer les HUG au centre du réseau sanitaire genevois. Il prévoit une unité mobile de gériatrie à Cluse-Roseraie, une structure d'urgence gériatrique à Trois-Chêne, des hôpitaux de jour et des équipes mobiles à domicile, ainsi que l'éducation thérapeutique des malades chroniques. Il insiste sur la prise en charge des personnes précaires, employées de maison sans assurance, migrants ou travailleurs pauvres exclus de l'assurance, pour lesquels l'hôpital a dépensé un million de francs en médicaments en 2010. Depuis 2009, le Réseau des urgences de Genève associe les HUG à l'Hôpital de la Tour, aux Grangettes, à la Clinique de Carouge et au Groupe médical d'Onex.",
       "quote": "Ce ne sont pas des « profiteurs », mais des gens précarisés par des problèmes de perte d'emploi.",
-      "themes": ["sante", "collectivites"],
+      "themes": [
+        "sante",
+        "collectivites"
+      ],
       "region": "Genève",
       "language": "fr",
-      "people": [{ "name": "Jean-Michel Gaspoz", "role": "Professeur, chef du Département de médecine communautaire, de premier recours et des urgences" }],
-      "companies": ["hopitaux-universitaires-de-geneve"]
+      "people": [
+        {
+          "name": "Jean-Michel Gaspoz",
+          "role": "Professeur, chef du Département de médecine communautaire, de premier recours et des urgences"
+        }
+      ],
+      "companies": [
+        "hopitaux-universitaires-de-geneve"
+      ]
     },
     {
       "slug": "hug-2011-sport-sante-performance",
@@ -135,14 +222,24 @@
       "pdfPages": [],
       "summary": "Dirigée par le Dr Jacques Menetrey, l'Unité d'orthopédie et de traumatologie du sport des HUG est labellisée Swiss Olympic Medical Center, avec le centre Cressy Santé à Confignon. Elle réalise environ 15 000 consultations et 600 à 800 tests fonctionnels par an ; les sportifs professionnels représentent 5 à 7 % des consultations, et l'unité suit notamment le Genève-Servette Hockey Club et le Ballet du Grand Théâtre. Le médecin distingue blessures traumatiques et de surcharge, cite le football puis le ski comme sports les plus pourvoyeurs de lésions et met en garde les « guerriers du dimanche ». Pour lui, le sport de loisir est un gage de santé, contrairement au sport professionnel. Il plaide pour la prévention : préparation physique, matériel adapté, casque au ski et casques de hockey mieux conçus.",
       "quote": "Il existe deux mots dangereux dans le sport : spécialisation et professionnalisation.",
-      "themes": ["sante"],
+      "themes": [
+        "sante"
+      ],
       "region": "Genève",
       "language": "fr",
       "people": [
-        { "name": "Jacques Menetrey", "role": "Dr, responsable de l'Unité d'orthopédie et de traumatologie du sport" },
-        { "name": "Daniel Fritschy", "role": "Professeur, initiateur de l'activité" }
+        {
+          "name": "Jacques Menetrey",
+          "role": "Dr, responsable de l'Unité d'orthopédie et de traumatologie du sport"
+        },
+        {
+          "name": "Daniel Fritschy",
+          "role": "Professeur, initiateur de l'activité"
+        }
       ],
-      "companies": ["hopitaux-universitaires-de-geneve"]
+      "companies": [
+        "hopitaux-universitaires-de-geneve"
+      ]
     },
     {
       "slug": "hug-2011-infarctus-programme-elips",
@@ -153,14 +250,25 @@
       "pdfPages": [],
       "summary": "En Suisse, quelque 30 000 personnes subissent chaque année un syndrome coronarien aigu et 10 000 en meurent ; une sur sept rechute dans l'année et seuls 70 % des patients suivent correctement leur traitement. Initié par le Dr Pierre-Frédéric Keller avec le service de cardiologie du professeur François Mach, le programme ELIPS® réunit pour la première fois les cinq hôpitaux universitaires du pays. Il vise à améliorer la prescription des cinq ou six médicaments recommandés, souvent sous-utilisés, et à motiver les patients face à une maladie chronique, l'athérosclérose. Il propose un carnet de sortie, un film, un site, une application mobile, un e-learning et des entretiens motivationnels, déjà enseignés à plus de 300 infirmières. Une étude financée par le FNS compare 1200 patients à un groupe témoin.",
       "quote": "Il n'y a pas de petits infarctus.",
-      "themes": ["sante", "formation"],
+      "themes": [
+        "sante",
+        "formation"
+      ],
       "region": "Genève",
       "language": "fr",
       "people": [
-        { "name": "Pierre-Frédéric Keller", "role": "Dr, initiateur du programme ELIPS®" },
-        { "name": "François Mach", "role": "Professeur, chef du service de cardiologie" }
+        {
+          "name": "Pierre-Frédéric Keller",
+          "role": "Dr, initiateur du programme ELIPS®"
+        },
+        {
+          "name": "François Mach",
+          "role": "Professeur, chef du service de cardiologie"
+        }
       ],
-      "companies": ["hopitaux-universitaires-de-geneve"]
+      "companies": [
+        "hopitaux-universitaires-de-geneve"
+      ]
     },
     {
       "slug": "hug-2011-medecine-genetique-antonarakis",
@@ -171,11 +279,22 @@
       "pdfPages": [],
       "summary": "Arrivé à Genève en 1993, le professeur Stylianos Antonarakis dirige le service de médecine génétique, le plus important de Suisse avec 65 personnes, qui assure soins, enseignement et recherche. Environ 1200 patients et familles le consultent chaque année pour des maladies à forte composante génétique ou des grossesses à risque. Il rappelle que le séquençage d'un génome, qui a coûté 3 milliards de dollars en quinze ans, se fait désormais en un mois pour 10 000 francs, et évoque les enjeux éthiques de cette lecture complète. Il vient de créer une clinique du génome visant à séquencer l'ADN de quelque 100 000 personnes. Les HUG ont ouvert en 2010 le premier centre suisse dédié à la trisomie 21, avec des essais cliniques de médicaments prévus début 2012.",
       "quote": "C'est un progrès extraordinaire, plus rapide encore que celui de l'informatique elle-même.",
-      "themes": ["sante", "formation"],
+      "themes": [
+        "sante",
+        "formation"
+      ],
       "region": "Genève",
       "language": "fr",
-      "people": [{ "name": "Stylianos Antonarakis", "role": "Professeur, chef du service de médecine génétique" }],
-      "companies": ["departement-de-medecine-genetique-et-developpement-unige", "hopitaux-universitaires-de-geneve"]
+      "people": [
+        {
+          "name": "Stylianos Antonarakis",
+          "role": "Professeur, chef du service de médecine génétique"
+        }
+      ],
+      "companies": [
+        "departement-de-medecine-genetique-et-developpement-unige",
+        "hopitaux-universitaires-de-geneve"
+      ]
     },
     {
       "slug": "hug-2011-chirurgie-robotique-philippe-morel",
@@ -186,11 +305,22 @@
       "pdfPages": [],
       "summary": "En mars 2011, les HUG ont réalisé une première mondiale : vingt ablations de la vésicule biliaire par robot, en passant tous les instruments par un seul orifice au nombril. Le professeur Philippe Morel, médecin-chef de la chirurgie viscérale, retrace l'évolution de la chirurgie ouverte à la chirurgie mini-invasive, qui a fait perdre au chirurgien la vision en relief et la liberté de mouvement que le robot restitue grâce à une vision 3D agrandie dix fois et des bras articulés. Équipés depuis 2005 de robots Intuitive, les HUG sont le premier centre suisse et un centre de formation accrédité ; ils ont opéré quelque 210 patients obèses par robot. La Fondation pour les Nouvelles Technologies Chirurgicales, créée en 2000, développe de nouveaux outils avec l'EPFL, le CSEM et Karl Storz.",
       "quote": "La robotique est l'avenir de la chirurgie.",
-      "themes": ["sante", "formation"],
+      "themes": [
+        "sante",
+        "formation"
+      ],
       "region": "Genève",
       "language": "fr",
-      "people": [{ "name": "Philippe Morel", "role": "Professeur, médecin-chef du service de chirurgie viscérale" }],
-      "companies": ["hopitaux-universitaires-de-geneve", "fondation-pour-les-nouvelles-technologies-chirurgicales"]
+      "people": [
+        {
+          "name": "Philippe Morel",
+          "role": "Professeur, médecin-chef du service de chirurgie viscérale"
+        }
+      ],
+      "companies": [
+        "hopitaux-universitaires-de-geneve",
+        "fondation-pour-les-nouvelles-technologies-chirurgicales"
+      ]
     },
     {
       "slug": "hug-2011-greffes-du-foie-enfant",
@@ -201,15 +331,28 @@
       "pdfPages": [],
       "summary": "Le service de chirurgie pédiatrique des HUG, dirigé par la professeure Barbara Wildhaber, est le centre suisse de référence pour les maladies hépatobiliaires de l'enfant. Il a réalisé 114 transplantations hépatiques pédiatriques depuis 1989, avec une survie de 92 % sur l'ensemble de la série et de 95 % sur les dix dernières années, parmi les meilleurs résultats mondiaux. L'indication la plus fréquente est l'atrésie des voies biliaires. Le greffon provient le plus souvent d'un donneur décédé, le don vivant d'un parent restant réservé aux urgences en raison des risques. L'article souligne l'importance d'une équipe pluridisciplinaire et du suivi global de l'enfant et de sa famille : développement, scolarité, santé osseuse et rénale, soutien psychiatrique, avec la Dre Valérie McLin et le professeur Dominique Belli.",
       "quote": "Nul coup de baguette magique pour guérir !",
-      "themes": ["sante"],
+      "themes": [
+        "sante"
+      ],
       "region": "Genève",
       "language": "fr",
       "people": [
-        { "name": "Barbara Wildhaber", "role": "Professeure, cheffe du service de chirurgie pédiatrique" },
-        { "name": "Valérie McLin", "role": "Dre" },
-        { "name": "Dominique Belli", "role": "Professeur" }
+        {
+          "name": "Barbara Wildhaber",
+          "role": "Professeure, cheffe du service de chirurgie pédiatrique"
+        },
+        {
+          "name": "Valérie McLin",
+          "role": "Dre"
+        },
+        {
+          "name": "Dominique Belli",
+          "role": "Professeur"
+        }
       ],
-      "companies": ["hopitaux-universitaires-de-geneve"]
+      "companies": [
+        "hopitaux-universitaires-de-geneve"
+      ]
     },
     {
       "slug": "hug-2011-anevrismes-intracraniens-neurist",
@@ -220,11 +363,21 @@
       "pdfPages": [],
       "summary": "Les anévrismes intracrâniens touchent 2 à 3 % de la population, mais seules dix personnes sur 100 000 subissent chaque année une rupture, parfois fatale. Le Dr Philippe Bijlenga, du service de neurochirurgie, a participé au projet européen @neurIST, doté de 17 millions d'euros et réunissant douze pays de 2006 à 2010, qui a créé une base de données et un outil d'aide à la décision pour évaluer le risque de rupture et choisir le traitement. Il décrit les facteurs de risque, la hausse des découvertes fortuites liée à l'imagerie, qui pose la question de traiter ou non, ainsi que les traitements par clippage chirurgical ou endovasculaires, dont les stents qui font disparaître l'anévrisme. Il regrette que le prototype manque encore de financement pour bénéficier aux patients.",
       "quote": "Nous avons véritablement corrigé le vaisseau.",
-      "themes": ["sante", "formation"],
+      "themes": [
+        "sante",
+        "formation"
+      ],
       "region": "Genève",
       "language": "fr",
-      "people": [{ "name": "Philippe Bijlenga", "role": "Dr, service de neurochirurgie" }],
-      "companies": ["hopitaux-universitaires-de-geneve"]
+      "people": [
+        {
+          "name": "Philippe Bijlenga",
+          "role": "Dr, service de neurochirurgie"
+        }
+      ],
+      "companies": [
+        "hopitaux-universitaires-de-geneve"
+      ]
     },
     {
       "slug": "hug-2011-laboratoire-de-virologie",
@@ -235,14 +388,25 @@
       "pdfPages": [],
       "summary": "Le laboratoire de virologie des HUG réalise environ 130 000 analyses par an et assume deux mandats de l'OFSP : centre de compétence pour les virus émergents et centre national de référence pour la grippe. Le professeur Laurent Kaiser présente la plateforme P4D, unique centre médical fonctionnel de ce type en Suisse, capable de diagnostiquer des virus des groupes 3 et 4 comme Ebola, pour lesquels aucun kit commercial n'existe. Il explique que les virus émergents sont souvent des variantes ou des virus oubliés comme la rougeole, et que l'émergence reste imprévisible, comme l'ont montré le VIH ou le SRAS. Un encadré présente myViavac, carnet de vaccination sur iPhone lancé en 2011 par la professeure Claire-Anne Siegrist.",
       "quote": "Il est très difficile de prédire quoi que ce soit, sinon que quelque chose va se produire.",
-      "themes": ["sante", "formation"],
+      "themes": [
+        "sante",
+        "formation"
+      ],
       "region": "Genève",
       "language": "fr",
       "people": [
-        { "name": "Laurent Kaiser", "role": "Professeur, responsable du laboratoire de virologie" },
-        { "name": "Claire-Anne Siegrist", "role": "Professeure, responsable de l'unité d'immuno-vaccinologie, présidente de la Commission fédérale pour les vaccinations" }
+        {
+          "name": "Laurent Kaiser",
+          "role": "Professeur, responsable du laboratoire de virologie"
+        },
+        {
+          "name": "Claire-Anne Siegrist",
+          "role": "Professeure, responsable de l'unité d'immuno-vaccinologie, présidente de la Commission fédérale pour les vaccinations"
+        }
       ],
-      "companies": ["hopitaux-universitaires-de-geneve"]
+      "companies": [
+        "hopitaux-universitaires-de-geneve"
+      ]
     },
     {
       "slug": "hug-2011-prometheus-parkinson",
@@ -253,14 +417,25 @@
       "pdfPages": [],
       "summary": "Doté de 2,1 millions de francs par le Fonds national suisse et coordonné par le professeur Karl-Heinz Krause, le projet Prometheus réunit sept groupes de recherche à Genève, Fribourg et Lund pour développer une thérapie cellulaire de la maladie de Parkinson, qui touche environ 20 000 personnes en Suisse. Le neurologue Pierre Burkhard rappelle que les traitements actuels compensent le manque de dopamine pendant une « lune de miel » de trois à cinq ans, sans arrêter la maladie. L'idée est de dériver des cellules souches en neurones dopaminergiques à implanter dans le cerveau. Les essais se font sur des rongeurs, avant un modèle de singe prévu en 2012. Le risque de tumeurs et les questions éthiques restent les principaux obstacles.",
       "quote": "",
-      "themes": ["sante", "formation"],
+      "themes": [
+        "sante",
+        "formation"
+      ],
       "region": "Genève",
       "language": "fr",
       "people": [
-        { "name": "Pierre Burkhard", "role": "Professeur, neurologue aux HUG" },
-        { "name": "Karl-Heinz Krause", "role": "Professeur, coordinateur du projet Prometheus" }
+        {
+          "name": "Pierre Burkhard",
+          "role": "Professeur, neurologue aux HUG"
+        },
+        {
+          "name": "Karl-Heinz Krause",
+          "role": "Professeur, coordinateur du projet Prometheus"
+        }
       ],
-      "companies": ["hopitaux-universitaires-de-geneve"]
+      "companies": [
+        "hopitaux-universitaires-de-geneve"
+      ]
     },
     {
       "slug": "hug-2011-defis-de-la-psychiatrie",
@@ -271,11 +446,20 @@
       "pdfPages": [],
       "summary": "Chef du Département de santé mentale et de psychiatrie, le professeur Pandelis Giannakopoulos défend un virage communautaire : limiter l'hospitalisation et privilégier les soins ambulatoires. La durée médiane de séjour à Belle-Idée est d'environ douze jours. Des centres de consultation et de thérapies brèves sont implantés aux Pâquis, à la Servette, aux Eaux-Vives et à la Jonction, un centre d'addictologie ouvre au Grand-Pré en 2011 et une unité de huit lits de proximité est prévue en ville. En psychiatrie de l'âgé, les lits sont passés de 180 à moins de cent grâce à l'ambulatoire. Il observe la fragilisation de nouvelles populations, comme les personnes âgées, les adolescents ou les travailleurs pauvres, et affirme l'efficacité bien documentée des traitements.",
       "quote": "Moins on hospitalise, mieux c'est.",
-      "themes": ["sante"],
+      "themes": [
+        "sante"
+      ],
       "region": "Genève",
       "language": "fr",
-      "people": [{ "name": "Pandelis Giannakopoulos", "role": "Professeur, chef du Département de santé mentale et de psychiatrie" }],
-      "companies": ["hopitaux-universitaires-de-geneve"]
+      "people": [
+        {
+          "name": "Pandelis Giannakopoulos",
+          "role": "Professeur, chef du Département de santé mentale et de psychiatrie"
+        }
+      ],
+      "companies": [
+        "hopitaux-universitaires-de-geneve"
+      ]
     },
     {
       "slug": "hug-2011-recherche-clinique",
@@ -286,15 +470,30 @@
       "pdfPages": [],
       "summary": "Opérationnel depuis début 2008, le Centre de recherche clinique des HUG et de la Faculté de médecine soutient une recherche translationnelle orientée patient, dans le cadre de la loi sur les produits thérapeutiques et de l'ordonnance sur les essais cliniques. Le professeur Bernard Hirschel décrit ses deux unités : l'appui méthodologique dirigé par Thomas Perneger et l'investigation clinique dirigée par Jules Desmeules. Le centre dispose d'environ 1,5 million de francs par an, issus des HUG et de fondations comme la Fondation Jeantet, pour financer des bourses de 20 000 à 600 000 francs ; seuls 30 % des projets peuvent être soutenus. La recherche aux HUG a produit quelque 600 publications en 2010-2011. Il souligne le rôle complémentaire de la recherche publique et les progrès contre le VIH.",
       "quote": "",
-      "themes": ["sante", "formation"],
+      "themes": [
+        "sante",
+        "formation"
+      ],
       "region": "Genève",
       "language": "fr",
       "people": [
-        { "name": "Bernard Hirschel", "role": "Professeur, président du Comité de gestion du Centre de recherche clinique" },
-        { "name": "Thomas Perneger", "role": "Professeur, Unité d'appui méthodologique" },
-        { "name": "Jules Desmeules", "role": "Professeur, Unité d'investigation clinique" }
+        {
+          "name": "Bernard Hirschel",
+          "role": "Professeur, président du Comité de gestion du Centre de recherche clinique"
+        },
+        {
+          "name": "Thomas Perneger",
+          "role": "Professeur, Unité d'appui méthodologique"
+        },
+        {
+          "name": "Jules Desmeules",
+          "role": "Professeur, Unité d'investigation clinique"
+        }
       ],
-      "companies": ["hopitaux-universitaires-de-geneve", "universite-de-geneve-faculte-de-medecine"]
+      "companies": [
+        "hopitaux-universitaires-de-geneve",
+        "universite-de-geneve-faculte-de-medecine"
+      ]
     },
     {
       "slug": "hug-2011-oncologie-dietrich",
@@ -305,11 +504,22 @@
       "pdfPages": [],
       "summary": "Environ 150 médicaments anticancéreux sont utilisés dans le monde et quelque 500 pourraient l'être d'ici dix à quinze ans. L'unité de traitement expérimental de phase 1 des HUG, ouverte en 2010 grâce à la Fondation Dr Henri Dubois-Ferrière Dinu Lipatti, teste une trentaine de molécules et donne aux patients romands accès à des traitements non encore homologués. Le professeur Pierre-Yves Dietrich, médecin-chef du service d'oncologie, mène des recherches sur les tumeurs du cerveau, première cause de mortalité par cancer chez l'enfant : un vaccin thérapeutique contre le gliome malin, dont les premiers tests humains sont prévus fin 2011, et une thérapie cellulaire à base de lymphocytes. Les HUG ont aussi créé un centre du sein pluridisciplinaire à la maternité.",
       "quote": "Chaque nouveau médicament est une pièce d'un gigantesque puzzle et constitue un petit progrès.",
-      "themes": ["sante", "formation"],
+      "themes": [
+        "sante",
+        "formation"
+      ],
       "region": "Genève",
       "language": "fr",
-      "people": [{ "name": "Pierre-Yves Dietrich", "role": "Professeur, médecin-chef du service d'oncologie" }],
-      "companies": ["hopitaux-universitaires-de-geneve", "fondation-dr-henri-dubois-ferriere-dinu-lipatti"]
+      "people": [
+        {
+          "name": "Pierre-Yves Dietrich",
+          "role": "Professeur, médecin-chef du service d'oncologie"
+        }
+      ],
+      "companies": [
+        "hopitaux-universitaires-de-geneve",
+        "fondation-dr-henri-dubois-ferriere-dinu-lipatti"
+      ]
     },
     {
       "slug": "hug-2011-hug-epfl-vaccin-cancer",
@@ -320,11 +530,23 @@
       "pdfPages": [],
       "summary": "Le Dr Nicolas Mach, responsable du projet au service d'oncologie, explique la vaccination thérapeutique contre le cancer, qui vise à apprendre au système immunitaire à reconnaître des cellules tumorales trop proches des cellules saines. Les HUG développent depuis 2003 une stratégie « sur mesure » combinant les cellules tumorales inactivées du patient et une capsule biocompatible conçue par l'EPFL, qui libère un adjuvant puissant directement au site de vaccination. Une étude de phase I, la première au monde de ce type, portera dès fin 2011 sur une vingtaine de patients réfractaires aux traitements, en s'appuyant sur le Laboratoire de thérapies cellulaires et le Centre de recherche clinique. Le projet est financé par la start-up MaxiVAX, après un cofinancement initial de la CTI.",
       "quote": "Le passage de la souris à l'homme est une étape très complexe.",
-      "themes": ["sante", "formation"],
+      "themes": [
+        "sante",
+        "formation"
+      ],
       "region": "Genève",
       "language": "fr",
-      "people": [{ "name": "Nicolas Mach", "role": "Dr, responsable du projet au service d'oncologie" }],
-      "companies": ["hopitaux-universitaires-de-geneve", "epfl", "maxivax"]
+      "people": [
+        {
+          "name": "Nicolas Mach",
+          "role": "Dr, responsable du projet au service d'oncologie"
+        }
+      ],
+      "companies": [
+        "hopitaux-universitaires-de-geneve",
+        "epfl",
+        "maxivax"
+      ]
     },
     {
       "slug": "hug-2011-cibm-imagerie-biomedicale",
@@ -335,11 +557,24 @@
       "pdfPages": [],
       "summary": "Le Centre d'imagerie biomédicale (CIBM) est issu d'un programme commun à l'EPFL, l'UNIL, l'UNIGE, le CHUV et les HUG, qui met à disposition une plateforme combinant IRM, PET, cartographie EEG et traitement des images. Sur le site des HUG, une quinzaine d'ingénieurs et de chercheurs travaillent sous la direction du Dr François Lazeyras ; plus de 25 groupes utilisent l'IRM, réservée à la clinique le matin et à la recherche jusqu'à minuit. Les projets portent sur le développement cérébral des grands prématurés, la schizophrénie, l'autisme ou le vieillissement avec le BBL, les ultrasons focalisés (HIFU) contre le cancer du foie, des biosenseurs au xénon, l'imagerie cardiaque et l'épilepsie. Plus de 8 millions de francs de fonds ont été obtenus.",
       "quote": "",
-      "themes": ["formation", "sante"],
+      "themes": [
+        "formation",
+        "sante"
+      ],
       "region": "Bassin lémanique",
       "language": "fr",
-      "people": [{ "name": "François Lazeyras", "role": "Dr, directeur du CIBM Genève" }],
-      "companies": ["cibm", "hopitaux-universitaires-de-geneve", "epfl", "universite-de-geneve-faculte-de-medecine"]
+      "people": [
+        {
+          "name": "François Lazeyras",
+          "role": "Dr, directeur du CIBM Genève"
+        }
+      ],
+      "companies": [
+        "cibm",
+        "hopitaux-universitaires-de-geneve",
+        "epfl",
+        "universite-de-geneve-faculte-de-medecine"
+      ]
     },
     {
       "slug": "hug-2011-micropet-imagerie-moleculaire",
@@ -350,104 +585,1127 @@
       "pdfPages": [],
       "summary": "Les HUG disposent, sous la direction du professeur Osman Ratib, d'une plateforme d'imagerie moléculaire préclinique ouverte aux chercheurs des cinq institutions du CIBM. Un scanner adapté aux petits animaux combine depuis fin 2010 les techniques PET, SPECT et CT, permettant de superposer informations fonctionnelles et anatomiques en un seul examen. Des molécules radioactives injectées en microquantités, comme le FDG analogue du glucose, permettent d'observer des processus biologiques en cardiologie, neurologie, oncologie et pharmacologie, de prédire la réponse à une chimiothérapie et de comprendre comment les médicaments se diffusent et s'éliminent. Cette approche accélère l'évaluation préclinique et clinique de nouveaux agents et élimine tôt les produits sans avenir.",
       "quote": "",
-      "themes": ["formation", "sante"],
+      "themes": [
+        "formation",
+        "sante"
+      ],
       "region": "Genève",
       "language": "fr",
       "people": [
-        { "name": "Osman Ratib", "role": "Professeur, directeur de la plateforme" },
-        { "name": "Yann Seimbille", "role": "Contact, laboratoire MicroPET/SPECT/CT" }
+        {
+          "name": "Osman Ratib",
+          "role": "Professeur, directeur de la plateforme"
+        },
+        {
+          "name": "Yann Seimbille",
+          "role": "Contact, laboratoire MicroPET/SPECT/CT"
+        }
       ],
-      "companies": ["cibm", "hopitaux-universitaires-de-geneve"]
+      "companies": [
+        "cibm",
+        "hopitaux-universitaires-de-geneve"
+      ]
     },
     {
       "slug": "hug-2011-brain-and-behaviour-laboratory",
       "title": "Un centre d'étude en neurosciences unique en Europe",
-      "subtitle": "Brain and Behaviour Laboratory (BBL) – avec le professeur Patrik Vuilleumier (version anglaise partiellement incluse)",
+      "subtitle": "Brain and Behaviour Laboratory (BBL) – avec le professeur Patrik Vuilleumier, codirecteur",
       "type": "dossier",
-      "page": "78-80",
+      "page": "78-81",
       "pdfPages": [],
-      "summary": "Créé en 2009 par le Centre de neurosciences, le Pôle national en sciences affectives et les facultés de médecine et de psychologie de l'UNIGE, le Brain and Behaviour Laboratory réunit sur plus de 400 m² une unité d'IRM fonctionnelle, deux laboratoires d'électroencéphalographie, un laboratoire acoustique, une salle d'étude du sommeil, un laboratoire de réalité virtuelle immersive et un système de stimulation olfactive. Son codirecteur, le professeur Patrik Vuilleumier, explique que cette combinaison permet d'étudier émotions, cognition et comportement et leurs troubles : sclérose en plaques, Alzheimer, épilepsie, autisme, dépression, sommeil ou récupération après un AVC. L'objectif est de décrire les dysfonctionnements en termes de circuits cérébraux et non plus seulement de symptômes, pour mieux diagnostiquer les patients.",
-      "quote": "",
-      "themes": ["formation", "sante"],
+      "summary": "Créé en 2009 par le Centre de neurosciences, le Pôle national en sciences affectives et les facultés de médecine et de psychologie de l'UNIGE, le Brain and Behaviour Laboratory réunit sur plus de 400 m² une unité d'IRM fonctionnelle, deux laboratoires d'électroencéphalographie, un laboratoire acoustique, une salle d'étude du sommeil, un laboratoire de réalité virtuelle immersive et un système de stimulation olfactive. Son codirecteur, le professeur Patrik Vuilleumier, explique que cette combinaison permet d'étudier émotions, cognition et comportement et leurs troubles : sclérose en plaques, Alzheimer, épilepsie, autisme, dépression, sommeil ou récupération après un AVC. L'objectif est de décrire les dysfonctionnements en termes de circuits cérébraux et non plus seulement de symptômes, pour mieux diagnostiquer les patients. Le laboratoire veut aussi dépasser les critères purement cliniques, notamment en psychiatrie, afin de mieux comprendre et dépister les maladies chez chaque patient.",
+      "quote": "Le centre fait le lien entre la clinique et la recherche pure.",
+      "themes": [
+        "formation",
+        "sante"
+      ],
       "region": "Genève",
       "language": "fr",
-      "people": [{ "name": "Patrik Vuilleumier", "role": "Professeur, codirecteur du BBL" }],
-      "companies": ["brain-and-behaviour-laboratory", "universite-de-geneve-faculte-de-medecine"]
+      "people": [
+        {
+          "name": "Patrik Vuilleumier",
+          "role": "Professeur, codirecteur du BBL"
+        }
+      ],
+      "companies": [
+        "brain-and-behaviour-laboratory",
+        "universite-de-geneve-faculte-de-medecine"
+      ]
     },
     {
       "slug": "hug-2011-formation-erreurs-bloc-operatoire",
       "title": "Une formation pour éviter les erreurs au bloc opératoire",
-      "subtitle": "Training to prevent mistakes in the operating theatre",
+      "subtitle": "Le cours « Crew Resource Management » Swiss-HUG – entretien avec le Dr Domizio Suva",
       "type": "dossier",
       "page": "82-85",
       "pdfPages": [],
-      "summary": "Article listé au sommaire du magazine, dans la partie Partenaires. Son texte n'a pas pu être lu : l'extraction Google Drive du PDF s'interrompt à la page imprimée 80. Aucun résumé n'est proposé pour ne rien inventer.",
-      "quote": "",
-      "themes": ["sante", "formation"],
+      "summary": "Les erreurs médicales font chaque année des milliers de victimes, dont une bonne part au bloc opératoire. Pour renforcer la sécurité des soins, le département de chirurgie des HUG a lancé en 2009, après un premier essai en salle d'accouchement, une formation inspirée de l'aviation : le Crew Resource Management. Le Dr Domizio Suva, médecin adjoint en chirurgie orthopédique, explique que les défauts de communication et de travail en équipe pèsent davantage que la seule habileté du chirurgien dans la survenue des incidents. Conçu avec la compagnie Swiss, le cours d'une journée réunit des groupes de 10 à 12 personnes reproduisant une équipe de bloc, animés par un pilote-instructeur et un chirurgien, autour de situations vécues discutées sans jugement. Plus de 150 collaborateurs ont été formés, la satisfaction est très élevée et le programme a été présenté au CHUV, dans le Jura, à Sion et à l'étranger.",
+      "quote": "Les problèmes de travail en équipe et les défauts de communication sont deux causes majeures d'accidents.",
+      "themes": [
+        "sante",
+        "formation"
+      ],
       "region": "Genève",
       "language": "fr",
-      "people": [],
-      "companies": []
+      "people": [
+        {
+          "name": "Domizio Suva",
+          "role": "Médecin adjoint, service de chirurgie orthopédique et traumatologie de l'appareil locomoteur (HUG)"
+        }
+      ],
+      "companies": [
+        "hopitaux-universitaires-de-geneve"
+      ]
     },
     {
       "slug": "hug-2011-excellence-academique-succes-economique",
       "title": "De l'excellence académique au succès économique",
-      "subtitle": "From academic excellence to economic success",
+      "subtitle": "UNITEC, dix ans de transfert de technologies – entretien avec Laurent Mieville",
       "type": "dossier",
       "page": "86-89",
       "pdfPages": [],
-      "summary": "Article listé au sommaire du magazine, dans la partie Partenaires. Son texte n'a pas pu être lu : l'extraction Google Drive du PDF s'interrompt à la page imprimée 80. Aucun résumé n'est proposé pour ne rien inventer.",
-      "quote": "",
-      "themes": ["formation", "economie"],
+      "summary": "Créé par l'Université de Genève il y a onze ans et rejoint par les HUG en 2003, le bureau UNITEC repère les découvertes des chercheurs susceptibles d'intéresser l'industrie. Son responsable, Laurent Mieville, détaille le processus : 40 à 80 annonces d'inventions par an, cinq à quinze demandes de brevet, dix à quinze accords de transfert et deux à trois start-up, pour un portefeuille d'environ 150 projets. Un délai de 30 mois est fixé pour trouver un partenaire, en échange de royalties, d'un pourcentage des ventes ou d'un versement annuel. Si les coûts dépassent encore les revenus, l'impact se mesure autrement : 25 entreprises créées en dix ans, un demi-milliard de francs d'investissements privés et 200 emplois, surtout dans la région genevoise. L'article cite Stemergie Biotechnology et GenKyoTex parmi les jeunes sociétés issues de l'UNIGE et des HUG.",
+      "quote": "En matière de création d'entreprise, nous mettons plus l'accent sur les personnes que sur les projets.",
+      "themes": [
+        "formation",
+        "economie"
+      ],
       "region": "Genève",
       "language": "fr",
-      "people": [],
-      "companies": []
+      "people": [
+        {
+          "name": "Laurent Mieville",
+          "role": "Responsable d'UNITEC depuis sa création"
+        },
+        {
+          "name": "George Haour",
+          "role": "Professeur, coauteur de « From Science to business »"
+        }
+      ],
+      "companies": [
+        "unitec",
+        "hopitaux-universitaires-de-geneve",
+        "universite-de-geneve-faculte-de-medecine"
+      ]
     },
     {
       "slug": "hug-2011-therapies-cellulaires",
       "title": "Thérapies cellulaires en plein développement",
-      "subtitle": "The boom in cell therapies",
+      "subtitle": "SICT, une fondation qui accélère le mouvement – entretien avec la Dre Marisa Jaconi",
       "type": "dossier",
       "page": "90-93",
       "pdfPages": [],
-      "summary": "Article listé au sommaire du magazine, dans la partie Partenaires. Son texte n'a pas pu être lu : l'extraction Google Drive du PDF s'interrompt à la page imprimée 80. Aucun résumé n'est proposé pour ne rien inventer.",
-      "quote": "",
-      "themes": ["sante", "formation"],
+      "summary": "En mai 2010, les HUG et la Faculté de médecine de Genève ont fondé, avec des partenaires publics et privés, le Swiss Institute of Cell Therapies (SICT), dirigé par le professeur Philippe Morel. Sa vice-directrice, la Dre Marisa Jaconi, explique comment l'apport de nouvelles cellules peut aider des tissus lésés à se régénérer : greffes de moelle, diabète, grands brûlés, Parkinson ou lésions de la moelle épinière. L'institut veut accélérer le passage de la recherche à l'application clinique, coordonner équipes et entreprises, former des spécialistes et fournir des ressources techniques, juridiques et éthiques. Les HUG disposent du premier centre public suisse de thérapie cellulaire aux normes GMP. Parmi les projets : îlots de Langerhans contre le diabète, vaccination antitumorale par cellules encapsulées, cryoconservation de tissus, pansements cellulaires pour brûlés et régénération de l'os, du cartilage et du muscle.",
+      "quote": "L'institut se veut exemplaire d'une nouvelle manière de travailler en Suisse dans le domaine de la recherche et de la thérapie cellulaire.",
+      "themes": [
+        "sante",
+        "formation"
+      ],
       "region": "Genève",
       "language": "fr",
-      "people": [],
-      "companies": []
+      "people": [
+        {
+          "name": "Marisa Jaconi",
+          "role": "Vice-directrice du SICT"
+        },
+        {
+          "name": "Philippe Morel",
+          "role": "Professeur, directeur du SICT"
+        },
+        {
+          "name": "Thierry Berney",
+          "role": "Professeur, transplantation d'îlots de Langerhans"
+        },
+        {
+          "name": "Nicolas Mach",
+          "role": "Professeur, vaccination antitumorale"
+        },
+        {
+          "name": "Wassim Raffoul",
+          "role": "Professeur, CHUV"
+        }
+      ],
+      "companies": [
+        "institut-suisse-de-therapies-cellulaires",
+        "hopitaux-universitaires-de-geneve",
+        "universite-de-geneve-faculte-de-medecine"
+      ]
     },
     {
       "slug": "hug-2011-osirix-imagerie-3d",
       "title": "OsiriX, l'imagerie médicale en 3D à la portée de tous",
-      "subtitle": "OsiriX, 3D medical imaging available to everyone",
+      "subtitle": "Un logiciel libre né aux HUG – professeur Osman Ratib et Dr Antoine Rosset",
       "type": "dossier",
       "page": "94-95",
       "pdfPages": [],
-      "summary": "Article listé au sommaire du magazine, dans la partie Partenaires. Son texte n'a pas pu être lu : l'extraction Google Drive du PDF s'interrompt à la page imprimée 80. Aucun résumé n'est proposé pour ne rien inventer.",
-      "quote": "",
-      "themes": ["sante", "formation"],
+      "summary": "Mis au point aux HUG par le radiologue Antoine Rosset et le professeur Osman Ratib, médecin-chef du service de médecine nucléaire, OsiriX permet de visualiser, manipuler et interpréter sur un simple ordinateur Macintosh les images issues de tous types de scanners (PET, CT, IRM). Le programme reconstitue le corps en 3D, suit son évolution dans le temps (4D) et intègre son fonctionnement (5D), en attribuant couleurs et opacités aux organes pour une meilleure lisibilité. Lancée gratuitement en 2004 grâce à une bourse du Fonds national, la première version a connu un tel succès que près de 50 000 professionnels l'utilisent chaque mois. Développé en open source, l'outil met l'imagerie à la portée des chirurgiens et oncologues. Une fondation créée en décembre 2008, avec notamment le soutien des HUG et de l'EPFL, finance de jeunes programmeurs et décerne l'OsiriX Plugin Award.",
+      "quote": "Grâce à cet outil gratuit, les médecins peuvent facilement visualiser, manipuler et interpréter les images du corps humain en 3D",
+      "themes": [
+        "sante",
+        "formation"
+      ],
       "region": "Genève",
       "language": "fr",
-      "people": [],
-      "companies": []
+      "people": [
+        {
+          "name": "Osman Ratib",
+          "role": "Professeur, médecin-chef du service de médecine nucléaire (HUG)"
+        },
+        {
+          "name": "Antoine Rosset",
+          "role": "Radiologue, chef de clinique (HUG)"
+        },
+        {
+          "name": "Bernard Gruson",
+          "role": "Directeur général des HUG"
+        },
+        {
+          "name": "Patrick Aebischer",
+          "role": "Président de l'EPFL"
+        }
+      ],
+      "companies": [
+        "fondation-osirix",
+        "hopitaux-universitaires-de-geneve",
+        "epfl"
+      ]
     },
     {
       "slug": "hug-2011-maladies-rares",
       "title": "Maladies rares, nombreuses souffrances",
-      "subtitle": "Rare diseases, common suffering",
+      "subtitle": "Pour une stratégie nationale – entretien avec la Dre Loredana D'Amato Sizonenko (Orphanet, ProRaris)",
       "type": "dossier",
       "page": "96-97",
       "pdfPages": [],
-      "summary": "Article listé au sommaire du magazine, dans la partie Partenaires. Son texte n'a pas pu être lu : l'extraction Google Drive du PDF s'interrompt à la page imprimée 80. Aucun résumé n'est proposé pour ne rien inventer.",
+      "summary": "Une maladie est dite rare lorsqu'elle touche moins d'une personne sur 2 000 ; on en recense plus de 7 000, qui concernent ensemble 6 à 8 % de la population, soit quelque 500 000 personnes en Suisse. Coordinatrice suisse d'Orphanet, hébergé aux HUG, et cofondatrice de l'alliance ProRaris, la Dre Loredana D'Amato Sizonenko décrit des pathologies d'origine génétique à 80 %, souvent chroniques et invalidantes, et des patients confrontés à des erreurs de diagnostic pendant 5 à 35 ans. La Suisse accuse un retard sur l'Union européenne : pas de centres de référence reconnus ni de financement de recherche spécifique. Des signes encourageants apparaissent néanmoins : procédure simplifiée pour les médicaments orphelins, postulat de Ruth Humbel pour une stratégie nationale, cofinancement cantonal d'Orphanet, dont l'encyclopédie en ligne est disponible en six langues.",
+      "quote": "Notre système de santé doit fournir à chaque patient des prestations de qualité, quelle que soit la fréquence de la maladie dont il est atteint.",
+      "themes": [
+        "sante"
+      ],
+      "region": "Genève",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Loredana D'Amato Sizonenko",
+          "role": "Coordinatrice suisse d'Orphanet, cofondatrice de ProRaris"
+        },
+        {
+          "name": "Ruth Humbel",
+          "role": "Conseillère nationale"
+        }
+      ],
+      "companies": [
+        "orphanet-suisse",
+        "proraris",
+        "hopitaux-universitaires-de-geneve"
+      ]
+    },
+    {
+      "slug": "hug-2011-alexion-pharma-international",
+      "title": "Alexion Pharma International",
+      "subtitle": "An interview with Patrice Coissac – “Delivering hope, restoring health, enhancing life”",
+      "type": "publireportage",
+      "page": "98-101, 113",
+      "pdfPages": [],
+      "summary": "Fondée en 1992 à Cheshire (Connecticut), Alexion Pharmaceuticals se consacre aux maladies graves et ultra-rares. Patrice Coissac, vice-président senior et président d'Alexion Pharma International Sàrl, présente le siège européen de Lausanne, ouvert en 2005 : près de 100 collaborateurs de 18 nationalités y pilotent les activités de la région Europe, Moyen-Orient et Afrique, ainsi que des fonctions mondiales (qualité, chaîne d'approvisionnement, informatique, affaires réglementaires, finances). Le groupe a développé le Soliris (eculizumab), premier inhibiteur du complément, approuvé en 2007 contre l'hémoglobinurie paroxystique nocturne, une maladie du sang ultra-rare, et autorisé dans plus de 35 pays. L'entretien évoque les difficultés propres aux maladies ultra-rares, les nouvelles indications à l'étude, dont le syndrome hémolytique et urémique atypique, et un traitement expérimental du déficit en cofacteur molybdène de type A.",
+      "quote": "Delivering hope, restoring health, enhancing life",
+      "themes": [
+        "sante",
+        "industrie"
+      ],
+      "region": "Lausanne",
+      "language": "en",
+      "people": [
+        {
+          "name": "Patrice Coissac",
+          "role": "Corporate Sr. Vice President, président d'Alexion Pharma International Sàrl"
+        },
+        {
+          "name": "Leonard Bell",
+          "role": "CEO et fondateur d'Alexion"
+        }
+      ],
+      "companies": [
+        "alexion-pharma-international"
+      ]
+    },
+    {
+      "slug": "hug-2011-atmos-medical",
+      "title": "ATMOS Medical AG",
+      "subtitle": "Entretien avec M. Jacky Noll, directeur",
+      "type": "publireportage",
+      "page": "102-105",
+      "pdfPages": [],
+      "summary": "Filiale suisse du groupe allemand Atmos, plus que centenaire, ATMOS Medical AG distribue depuis Bâle des équipements médicaux fabriqués à Lenzkirch, en Forêt-Noire, par une usine d'environ 200 personnes. Son directeur Jacky Noll décrit quatre domaines : l'ORL, où l'entreprise détient 60 % du marché suisse avec des postes de travail complets ; la gynécologie, abordée en 2008, avec un poste unique pour le traitement de la dysplasie ; la chirurgie, avec l'aspiration de bloc et le système de drainage thoracique autonome S201 ; enfin les soins généraux et les pompes pour le traitement des plaies. Issue du rachat en 2004 de Saffiro AG, distributeur des produits ATMOS depuis 1987, la filiale emploie une demi-douzaine de personnes et assure stock, atelier de maintenance et service après-vente de proximité.",
+      "quote": "Nous sommes le seul fabricant au monde à proposer un système aussi puissant et entièrement autonome.",
+      "themes": [
+        "sante",
+        "industrie"
+      ],
+      "region": "Bâle",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Jacky Noll",
+          "role": "Directeur"
+        }
+      ],
+      "companies": [
+        "atmos-medical"
+      ]
+    },
+    {
+      "slug": "hug-2011-cibm-company-profile",
+      "title": "Centre d'imagerie biomédicale (CIBM)",
+      "subtitle": "Un modèle de collaboration dans le domaine de la recherche",
+      "type": "publireportage",
+      "page": "106-107",
+      "pdfPages": [],
+      "summary": "Dirigé par le professeur Rolf Gruetter, le Centre d'imagerie biomédicale est né du projet Sciences-Vie-Société réunissant l'Université de Genève, les HUG, l'EPFL, l'Université de Lausanne et le CHUV. Financé à l'origine par les fondations Leenards et Louis-Jeantet, il se résume par une équation de chiffres impairs : un centre, trois sites (HUG, EPFL, CHUV), cinq institutions, sept modules de recherche et neuf professeurs. Sa spécialité est l'imagerie par résonance magnétique, complétée par la tomographie par émission de positons, l'imagerie isotopique, la cartographie cérébrale par électroencéphalographie et un module de traitement des signaux et des images. Ce fonctionnement multisite et multi-institutionnel, unique en Suisse romande, permet de partager des équipements de pointe, dont un aimant de 7 teslas, et vise à faire du CIBM une référence de la recherche biomédicale.",
       "quote": "",
-      "themes": ["sante"],
+      "themes": [
+        "formation",
+        "sante"
+      ],
+      "region": "Genève / Lausanne",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Rolf Gruetter",
+          "role": "Professeur, directeur du CIBM"
+        }
+      ],
+      "companies": [
+        "cibm",
+        "hopitaux-universitaires-de-geneve",
+        "epfl",
+        "universite-de-geneve-faculte-de-medecine"
+      ]
+    },
+    {
+      "slug": "hug-2011-croix-rouge-genevoise",
+      "title": "La Croix-Rouge genevoise, au service de la population",
+      "subtitle": "Entretien avec Mme Eliane Babel-Guérin, directrice",
+      "type": "publireportage",
+      "page": "108-111",
+      "pdfPages": [],
+      "summary": "Fondée le 17 mars 1864, la Croix-Rouge genevoise est la première association cantonale créée en Suisse. Sa directrice, Eliane Babel-Guérin, présente une institution de 350 collaborateurs organisée en deux secteurs appuyés par le service du bénévolat. « Formation et santé » propose la formation d'auxiliaire de santé, avec un stage d'un an aux HUG pour des chômeurs en fin de droits, des cours au public, la garde d'enfants Chaperon Rouge, Présence Seniors et un soutien aux proches de malades d'Alzheimer. « Migration et intégration » regroupe notamment le Service d'interprétariat communautaire, plus de cent interprètes en 72 langues et 20 000 heures en 2010, surtout aux HUG, ainsi qu'une bibliothèque de 30 000 ouvrages, l'aide au retour, des logements pour jeunes et les Vet'Shop. Près de 600 bénévoles s'engagent chaque année.",
+      "quote": "La Croix-Rouge genevoise offre ses services là où les pouvoirs publics ou d'autres acteurs n'interviennent pas ou peu.",
+      "themes": [
+        "sante",
+        "collectivites",
+        "formation"
+      ],
+      "region": "Genève",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Eliane Babel-Guérin",
+          "role": "Directrice"
+        }
+      ],
+      "companies": [
+        "croix-rouge-genevoise",
+        "hopitaux-universitaires-de-geneve"
+      ]
+    },
+    {
+      "slug": "hug-2011-curmed",
+      "title": "Curmed SA, Ostermundigen",
+      "subtitle": "Un partenaire fort en chirurgie de la main, orthopédie et traumatologie – entretien avec M. David Perron, directeur",
+      "type": "publireportage",
+      "page": "114-115",
+      "pdfPages": [],
+      "summary": "Distributeur depuis plus de 20 ans de produits de niche pour la chirurgie du membre supérieur, en particulier de la main, et du membre inférieur, Curmed propose des implants pour toutes les articulations sauf le crâne et le rachis. Son directeur David Perron vise les patients trop âgés pour un traitement conservateur mais trop jeunes pour une prothèse totale ou une arthrodèse. Il présente l'Amandys, implant d'interposition en pyrocarbone pour le poignet conçu par le Dr Philippe Bellemère : libre, à double mobilité et sans fixation, il répartit les contraintes et n'exige que des résections minimales, laissant possibles des solutions classiques ultérieures. Le pyrocarbone séduit par une élasticité proche de l'os, une friction très faible et une parfaite biocompatibilité. Aux HUG, son utilisation, lancée par le Dr Dominique Della Santa, est poursuivie par le Dr Jean-Yves Beaulieu.",
+      "quote": "",
+      "themes": [
+        "sante",
+        "industrie"
+      ],
+      "region": "Ostermundigen (BE)",
+      "language": "fr",
+      "people": [
+        {
+          "name": "David Perron",
+          "role": "Directeur"
+        },
+        {
+          "name": "Philippe Bellemère",
+          "role": "Chirurgien, concepteur de l'implant Amandys"
+        },
+        {
+          "name": "Dominique Della Santa",
+          "role": "Dr, HUG"
+        },
+        {
+          "name": "Jean-Yves Beaulieu",
+          "role": "Dr, HUG"
+        }
+      ],
+      "companies": [
+        "curmed",
+        "hopitaux-universitaires-de-geneve"
+      ]
+    },
+    {
+      "slug": "hug-2011-dianalabs",
+      "title": "Dianalabs",
+      "subtitle": "Un laboratoire à l'écoute des patients et des médecins",
+      "type": "publireportage",
+      "page": "116-119",
+      "pdfPages": [],
+      "summary": "Créé en 1988 par des médecins pour assurer le meilleur suivi biologique, d'abord en maternité, le laboratoire genevois Dianalabs s'est fait connaître internationalement pour la qualité de sa sérologie dans le suivi de la grossesse. Il réunit médecins, biologistes et pharmaciens titulaires du titre de spécialiste FAMH et offre une gamme complète d'analyses, en se voulant laboratoire multispécialités en dialogue avec chaque discipline. Membre du réseau Medisupport avec Aurigen, Axeslab, BBV, Bio-Analytica, Bioexam, MCL, Polyanalytic et Toggweiler, il dessert de nombreuses villes, de Genève à Winterthur. Ses missions : technologies de pointe, services d'interprétation à forte valeur ajoutée, suivi local et formation continue du personnel. Indépendant des groupes financiers, il conserve aussi des sérums à très basse température et se situe à Plainpalais, près des HUG.",
+      "quote": "Les métiers de la santé sont avant tout humains.",
+      "themes": [
+        "sante"
+      ],
       "region": "Genève",
       "language": "fr",
       "people": [],
-      "companies": []
+      "companies": [
+        "dianalabs"
+      ]
+    },
+    {
+      "slug": "hug-2011-id-imagerie-developpement",
+      "title": "ID Imagerie & Développement : qualité, disponibilité et service",
+      "subtitle": "Instituts Imagerive et Radiologie La Colline",
+      "type": "publireportage",
+      "page": "120-121",
+      "pdfPages": [],
+      "summary": "Société faîtière des instituts Imagerive et Radiologie La Colline, ID Imagerie & Développement couvre presque tous les actes d'imagerie médicale de l'adulte à Genève. Imagerive s'est d'abord imposé en imagerie de la femme, tandis que La Colline est leader privé genevois en imagerie ORL et leader suisse de la coloscopie virtuelle. Fondée en 2002 par des médecins, la structure mise sur une approche multicompétences avec douze radiologues, un accueil attentif et une grande disponibilité. Elle collabore avec les HUG pour la formation pratique des assistants en imagerie mammaire et avec la Fondation genevoise pour la détection du cancer du sein. Ses deux sites disposent notamment de deux mammographes numériques MicroDose à faible dose, deux IRM, deux scanners, six échographes et d'un cone beam CT, reliés par un système d'archivage PACS bientôt ouvert aux médecins prescripteurs.",
+      "quote": "",
+      "themes": [
+        "sante"
+      ],
+      "region": "Genève",
+      "language": "fr",
+      "people": [],
+      "companies": [
+        "id-imagerie-developpement",
+        "hopitaux-universitaires-de-geneve"
+      ]
+    },
+    {
+      "slug": "hug-2011-jp-muller",
+      "title": "J.P. Müller AG",
+      "subtitle": "Tradition et compétences : le savoir-faire de J.P. Müller AG",
+      "type": "publireportage",
+      "page": "122-123",
+      "pdfPages": [],
+      "summary": "Fondée en 1955 sous le nom de P. Müller & Co. par Paul Müller et ses fils Roger et Jean-Pierre, la société de Horgen importe des articles techniques qu'elle vend exclusivement en Suisse grâce à un réseau national de vendeurs et de techniciens. D'abord fournisseuse de systèmes d'identification du linge pour les blanchisseries industrielles, elle a évolué vers la gestion informatisée du linge et des vêtements loués, puis vers la technique de fixation du bois, devenue son principal segment, complétée par les compresseurs et les assembleuses de cadres. Transformée en société anonyme en 1995, elle emploie 18 personnes ; son directeur Norbert Tüscher en détient la majorité depuis 2001. Son catalogue, l'un des plus fournis du pays, réunit des marques comme Senco, Jun-Air, Cassese, Thermopatch ou Kress, accompagnées de conseils personnalisés.",
+      "quote": "",
+      "themes": [
+        "industrie",
+        "economie"
+      ],
+      "region": "Horgen (ZH)",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Norbert Tüscher",
+          "role": "Directeur, actionnaire majoritaire"
+        }
+      ],
+      "companies": [
+        "jp-muller"
+      ]
+    },
+    {
+      "slug": "hug-2011-mayba",
+      "title": "MayBa.ch, le spécialiste en stérilisation hospitalière",
+      "subtitle": "Avec Stéphane Mayor et Ralf Bachman, fondateurs",
+      "type": "publireportage",
+      "page": "124-125",
+      "pdfPages": [],
+      "summary": "Fondée en mai 2005 par Stéphane Mayor et Ralf Bachman, MayBa.ch SA est spécialisée dans la stérilisation hospitalière et couvre toute la Suisse depuis Pully et Saint-Gall. Avec treize collaborateurs, elle conseille et réalise des projets de mobilier en inox et Corian, de la planification au montage, et fournit à plus de 800 hôpitaux, cliniques et laboratoires emballages, conteneurs, soudeuses, instruments et désinfectants stockés sur 1 000 m². Représentante exclusive de Landanger et Delacroix-Chevalier, elle livre des instruments gravés d'un code Data-matrix GS1 assurant leur traçabilité : elle a ainsi gravé les plus de 120 000 instruments des HUG, qui deviennent les premiers en Europe à suivre le parcours de tout leur parc. Certifiée ISO 9001 et ISO 13485, elle compte aussi parmi ses clients le CHUV, l'Hôpital de l'Île, l'USZ et l'USB.",
+      "quote": "",
+      "themes": [
+        "sante",
+        "industrie"
+      ],
+      "region": "Pully (VD) / Saint-Gall",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Stéphane Mayor",
+          "role": "Cofondateur, secrétaire du comité central de la Société Suisse de Stérilisation Hospitalière"
+        },
+        {
+          "name": "Ralf Bachman",
+          "role": "Cofondateur"
+        }
+      ],
+      "companies": [
+        "mayba",
+        "hopitaux-universitaires-de-geneve"
+      ]
+    },
+    {
+      "slug": "hug-2011-medacta-international",
+      "title": "Medacta International",
+      "subtitle": "Une vie meilleure grâce aux progrès orthopédiques",
+      "type": "publireportage",
+      "page": "129",
+      "pdfPages": [],
+      "summary": "PME tessinoise établie à Castel San Pietro, Medacta International SA conçoit, fabrique et commercialise des prothèses orthopédiques ainsi que des équipements d'assistance à la chirurgie mini-invasive. Ce court publireportage rappelle que la douleur articulaire de la hanche ou du genou limite les activités quotidiennes, affecte l'humeur et détériore le bien-être, et présente l'innovation dans le traitement de l'arthrose comme l'un des axes de développement de l'entreprise. Forte d'une longue expérience entrepreneuriale et d'une tradition familiale vivante, la société se donne pour mission de permettre aux patients de retrouver une vie active et satisfaisante, grâce à des produits et des services qui simplifient et raccourcissent les opérations ainsi que la période de réadaptation.",
+      "quote": "Vaincre la douleur est aujourd'hui possible !",
+      "themes": [
+        "sante",
+        "industrie"
+      ],
+      "region": "Castel San Pietro (TI)",
+      "language": "fr",
+      "people": [],
+      "companies": [
+        "medacta-international"
+      ]
+    },
+    {
+      "slug": "hug-2011-medicatech",
+      "title": "Medicatech",
+      "subtitle": "Entretien avec M. Stéphane Andrist",
+      "type": "publireportage",
+      "page": "130-131",
+      "pdfPages": [],
+      "summary": "Installée à Aubonne, la petite entreprise familiale Medicatech répare les instruments chirurgicaux les plus précis et délicats pour de grands hôpitaux romands et alémaniques, des cliniques, des médecins et des revendeurs. Fondée en 1979 par le maître mécanicien Daniel Andrist, elle a été reprise en 2002 par Stéphane Andrist, qui l'avait rejointe en 1996, et compte six collaborateurs. La remise à neuf coûte moins cher qu'un remplacement, se fait en sept jours, voire en 24 heures en urgence, et ménage l'environnement. Medicatech traite les instruments de chirurgie générale, laparoscopique, arthroscopique et de microchirurgie, assure le service après-vente de grandes marques et fabrique aussi des instruments et des prototypes. Certifiée ISO 9001 et ISO 13485, elle a développé un programme capable de lire, mémoriser et regraver les codes Datamatrix exigés pour la traçabilité aux HUG.",
+      "quote": "Notre philosophie lorsque nous révisons un instrument est bien sûr de penser au praticien qui l'utilisera, mais aussi au patient",
+      "themes": [
+        "sante",
+        "industrie"
+      ],
+      "region": "Aubonne (VD)",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Stéphane Andrist",
+          "role": "Directeur"
+        },
+        {
+          "name": "Daniel Andrist",
+          "role": "Fondateur, maître mécanicien"
+        }
+      ],
+      "companies": [
+        "medicatech",
+        "hopitaux-universitaires-de-geneve"
+      ]
+    },
+    {
+      "slug": "hug-2011-msd-merck-sharp-dohme",
+      "title": "Merck Sharp & Dohme AG (MSD) Switzerland",
+      "subtitle": "“Well being and good health is our mission” – interview with Adriaan Ruijs, Managing Director",
+      "type": "publireportage",
+      "page": "132-135, 171",
+      "pdfPages": [],
+      "summary": "Interrogé par Peter Stöferle, Adriaan Ruijs, directeur général de MSD Suisse, présente l'une des trois premières entreprises pharmaceutiques du pays pour les médicaments sur ordonnance. Depuis la fusion mondiale de Merck & Co. et de Schering-Plough en novembre 2009, le groupe se veut entreprise de santé, active notamment dans les domaines osseux, respiratoire, cardiovasculaire, du diabète, des maladies infectieuses, des neurosciences, de l'oncologie et de la santé féminine. Environ 700 personnes travaillent en Suisse, où les activités se regroupent à Lucerne : recherche, production, distribution, marketing, fonctions globales et direction des marchés émergents. Werthenstein BioPharma, à Schachen, produit des substances biotechnologiques pour les essais cliniques. M. Ruijs annonce deux nouveautés (hépatite C, fibrillation auriculaire) et cite les Hilleman Laboratories en Inde et le partenariat ACHAP au Botswana.",
+      "quote": "Well being and good health is our mission",
+      "themes": [
+        "sante",
+        "industrie"
+      ],
+      "region": "Opfikon-Glattbrugg (ZH) / Lucerne",
+      "language": "en",
+      "people": [
+        {
+          "name": "Adriaan Ruijs",
+          "role": "Managing Director"
+        },
+        {
+          "name": "Peter Stöferle",
+          "role": "Auteur de l'interview"
+        }
+      ],
+      "companies": [
+        "msd-merck-sharp-dohme"
+      ]
+    },
+    {
+      "slug": "hug-2011-mmm-sterilisatoren",
+      "title": "MMM Sterilisatoren AG – Tradition und Innovation",
+      "subtitle": "Ein Gespräch mit Kamel Henni, Geschäftsführer",
+      "type": "publireportage",
+      "page": "136-137",
+      "pdfPages": [],
+      "summary": "Basée à Rudolfstetten, MMM Sterilisatoren AG appartient au groupe familial MMM (Münchener Medizin Mechanik GmbH), fondé en 1954 par Johann Koller, qui développe, fabrique et commercialise des solutions de désinfection et de stérilisation pour les hôpitaux, les cliniques, l'industrie pharmaceutique et les laboratoires. Son directeur Kamel Henni rappelle le rôle stratégique de la stérilisation dans l'hygiène hospitalière et la nécessité d'adapter chaque méthode au dispositif à traiter. Les équipements MMM sont présents dans les cinq hôpitaux universitaires suisses, dont les HUG, et dans plus de 200 hôpitaux et cliniques du pays. Dans un marché très concurrentiel, l'entreprise mise sur la qualité, la fiabilité, le service après-vente et des partenariats à long terme. Le groupe emploie 980 personnes, possède des filiales dans 20 pays et produit en Allemagne et en République tchèque.",
+      "quote": "Die Sicherheit des Patienten ist nicht verhandelbar",
+      "themes": [
+        "sante",
+        "industrie"
+      ],
+      "region": "Rudolfstetten (AG)",
+      "language": "de",
+      "people": [
+        {
+          "name": "Kamel Henni",
+          "role": "Geschäftsführer (directeur)"
+        }
+      ],
+      "companies": [
+        "mmm-sterilisatoren",
+        "hopitaux-universitaires-de-geneve"
+      ]
+    },
+    {
+      "slug": "hug-2011-pwc",
+      "title": "PwC",
+      "subtitle": "Entretien avec M. Philippe Tzaud et M. Dominique Perron – le nouveau visage d'un groupe international",
+      "type": "publireportage",
+      "page": "138-139",
+      "pdfPages": [],
+      "summary": "Leader suisse de l'audit et du conseil, PwC a abandonné le nom PricewaterhouseCoopers et adopté une nouvelle identité visuelle dans les 154 pays où il est présent. Philippe Tzaud, associé responsable du bureau de Genève, et Dominique Perron, responsable du secteur public pour la Romandie, présentent une succursale de 25 associés et 420 collaborateurs, forte en conseil juridique et fiscal, en banque privée, auprès des PME, qui forment 60 % de la clientèle, et des ONG. Ils veulent développer les mandats du secteur public, notamment en gestion des risques, domaine en plein essor après plusieurs fraudes retentissantes. L'audit représente environ 54 % des revenus nets, le conseil juridique et fiscal 33 % et le conseil économique 13 %. En Suisse, PwC a réalisé 704 millions de francs de chiffre d'affaires brut en 2009-2010 avec 2 623 collaborateurs dans 15 succursales.",
+      "quote": "",
+      "themes": [
+        "economie"
+      ],
+      "region": "Genève",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Philippe Tzaud",
+          "role": "Associé responsable du bureau de Genève"
+        },
+        {
+          "name": "Dominique Perron",
+          "role": "Responsable du secteur public pour la Romandie"
+        }
+      ],
+      "companies": [
+        "pwc"
+      ]
+    },
+    {
+      "slug": "hug-2011-reactolab",
+      "title": "Reactolab SA",
+      "subtitle": "Une distribution multiqualitative et personnalisée",
+      "type": "publireportage",
+      "page": "140-141",
+      "pdfPages": [],
+      "summary": "Créée en 1988 et établie à Servion, dans le canton de Vaud, Reactolab SA distribue dans toute la Suisse une vaste gamme de produits chimiques, de verrerie et de matériel de laboratoire. Cette PME de six personnes travaille avec des fournisseurs comme Merck, Acros Organics, Whatman, Chroma, Carlo Erba, Semadeni et Vircell, et représente en exclusivité la gamme Vector Laboratories. Ses quelque 2 000 clients se trouvent dans l'industrie, les laboratoires d'analyses et de recherche, les universités, l'EPFL, les hôpitaux et même les collèges. Pour son administrateur Philippe Chassot, l'essentiel est de répondre vite et au meilleur prix : l'entreprise gère elle-même stock et livraisons, avec un camion quotidien vers Lausanne et tous les deux jours vers les autres cantons romands, ce qui permet aux laboratoires de regrouper achats, transport et facturation.",
+      "quote": "",
+      "themes": [
+        "sante",
+        "formation",
+        "industrie"
+      ],
+      "region": "Servion (VD)",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Philippe Chassot",
+          "role": "Administrateur"
+        }
+      ],
+      "companies": [
+        "reactolab"
+      ]
+    },
+    {
+      "slug": "hug-2011-rive-droite",
+      "title": "La radiologie est un secteur médical ultra-spécialisé",
+      "subtitle": "Entretien avec le professeur Frank Pilleul, radiologue au sein de Rive Droite SA",
+      "type": "publireportage",
+      "page": "142-143",
+      "pdfPages": [],
+      "summary": "Proche de la gare Cornavin, le centre d'imagerie médicale et de radiologie interventionnelle Rive Droite SA s'organise sur trois étages : imagerie de la femme et échographie, imagerie standard et en coupes (scanner, IRM), puis radiologie interventionnelle et angiographique avec chambres d'hospitalisation de jour. Le professeur Frank Pilleul met en avant le seul scanner basse dose du canton, dont la reconstruction ASIR réduit l'irradiation jusqu'à 70 %, utile en pédiatrie, en dépistage et en oncologie, ainsi qu'un double générateur combinant radiofréquence et micro-ondes pour traiter en ambulatoire, en moins d'une heure, des tumeurs digestives ou osseuses jusqu'à 10 cm. L'équipe de spécialistes FMH, ayant tous une position universitaire, notamment aux HUG, couvre l'ostéo-articulaire, la neuroradiologie, l'imagerie digestive et de la femme, la coloscopie virtuelle et le traitement de la douleur.",
+      "quote": "",
+      "themes": [
+        "sante"
+      ],
+      "region": "Genève",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Frank Pilleul",
+          "role": "Professeur, radiologue"
+        },
+        {
+          "name": "F. Kolo",
+          "role": "Dr, radiologie ostéo-articulaire"
+        },
+        {
+          "name": "M. Quinodoz",
+          "role": "Dr, imagerie digestive et de la femme"
+        }
+      ],
+      "companies": [
+        "rive-droite",
+        "hopitaux-universitaires-de-geneve"
+      ]
+    },
+    {
+      "slug": "hug-2011-sca-hygiene-products",
+      "title": "SCA Hygiene Products AG – Der unangefochtene Inkontinenz-Spezialist",
+      "subtitle": "Im Gespräch mit Franco Cesario, Sales Director Schweiz",
+      "type": "publireportage",
+      "page": "144-145",
+      "pdfPages": [],
+      "summary": "Filiale suisse du groupe suédois SCA (Svenska Cellulosa Aktiebolaget), qui compte quelque 45 000 collaborateurs et réalise environ 11,5 milliards d'euros de chiffre d'affaires avec des marques comme Tempo, Tork et Zewa, SCA Hygiene Products est leader mondial des produits absorbants pour l'incontinence vendus sous la marque TENA. Son directeur des ventes Franco Cesario présente une équipe de 40 personnes en Suisse et une gamme de plus de 120 produits, accompagnée de formations pour le commerce spécialisé, les institutions de soins et les organisations Spitex, ainsi que de standards de soins développés avec des experts : c'est le « TENA 360° Inkontinenzmanagement ». Il souligne l'engagement environnemental du groupe, avec des forêts gérées en Suède, des déchets réduits de près de 70 % et un objectif de –20 % de CO2 d'ici 2020, et s'inquiète d'appels d'offres cantonaux fondés sur le seul prix.",
+      "quote": "",
+      "themes": [
+        "sante",
+        "industrie"
+      ],
+      "region": "Zoug",
+      "language": "de",
+      "people": [
+        {
+          "name": "Franco Cesario",
+          "role": "Sales Director Schweiz"
+        }
+      ],
+      "companies": [
+        "sca-hygiene-products"
+      ]
+    },
+    {
+      "slug": "hug-2011-keramik-laufen-similor",
+      "title": "Das Komplettbad aus einer Hand",
+      "subtitle": "Im Gespräch mit Klaus Schneider, Managing Director Keramik Laufen AG und Similor AG",
+      "type": "publireportage",
+      "page": "146-149",
+      "pdfPages": [],
+      "summary": "Rachetées par le groupe espagnol Roca, leader mondial des équipements de salle de bains, en 1999 pour Keramik Laufen AG et en 2007 pour Similor AG, les deux entreprises sont dirigées par Klaus Schneider. Tout en restant autonomes sur le marché, elles partagent marketing, vente, service clients, logistique et centre de formation, et développent ensemble le « Total Bathroom Concept » : céramique sanitaire, meubles, baignoires, douches et robinetterie dans un même langage de design. Le site de Laufen, avec la production de céramique et de robinetterie et le LAUFEN Forum, bâtiment primé en forme de lavabo construit selon le standard Minergie, devient un centre de compétences pour la salle de bains et affirme la Swissness des marques LAUFEN, arwa, Similor Kugler et Sanimatic. La collaboration avec des designers et les nouveautés présentées à l'ISH 2011 doivent soutenir la croissance à l'export.",
+      "quote": "",
+      "themes": [
+        "construction",
+        "architecture",
+        "industrie"
+      ],
+      "region": "Laufen (BL)",
+      "language": "de",
+      "people": [
+        {
+          "name": "Klaus Schneider",
+          "role": "Managing Director Keramik Laufen AG et Similor AG"
+        }
+      ],
+      "companies": [
+        "keramik-laufen",
+        "similor"
+      ]
+    },
+    {
+      "slug": "hug-2011-sipaec",
+      "title": "SIPAEC SA",
+      "subtitle": "Une gamme complète de produits et de machines de nettoyage",
+      "type": "publireportage",
+      "page": "151",
+      "pdfPages": [],
+      "summary": "Basée à Genève, SIPAEC SA fournit aux professionnels du nettoyage et de l'hygiène une gamme complète de produits chimiques, de machines et d'accessoires. Fondée en 1975 par Alexandre Tollis et Georges A. Zannidakis, l'entreprise a conservé une structure familiale ; sa directrice adjointe Marina Tollis voit sa force dans l'étendue et la qualité de son offre. Avec quatre succursales, à Genève, Monthey, Lausanne et Däniken, elle sert plus de 3 600 clients, entreprises de nettoyage, régies, industries, hôpitaux et homes médicalisés, et travaille depuis plus de quinze ans avec les HUG. Elle propose 7 500 articles sur 2 700 m² de surfaces de vente et en ligne, des partenariats avec Ecolab, Comac, 3M ou NSS, des conseils et des cours d'utilisation, ainsi qu'un service technique capable de réparer toutes les marques. Elle entend désormais renforcer sa présence en Suisse alémanique.",
+      "quote": "",
+      "themes": [
+        "industrie",
+        "sante"
+      ],
+      "region": "Genève",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Marina Tollis",
+          "role": "Directrice adjointe"
+        },
+        {
+          "name": "Alexandre Tollis",
+          "role": "Cofondateur"
+        },
+        {
+          "name": "Georges A. Zannidakis",
+          "role": "Cofondateur"
+        }
+      ],
+      "companies": [
+        "sipaec",
+        "hopitaux-universitaires-de-geneve"
+      ]
+    },
+    {
+      "slug": "hug-2011-trb-chemedica",
+      "title": "TRB Chemedica International SA : le patient d'abord...",
+      "subtitle": "La relève : Alessandro Di Napoli, vice-président Marketing",
+      "type": "publireportage",
+      "page": "152-155",
+      "pdfPages": [],
+      "summary": "Installé à Genève depuis sa fondation en 1980, le laboratoire TRB Chemedica International SA développe, fabrique et commercialise des médicaments et des dispositifs médicaux brevetés en ophtalmologie, rhumatologie et neurologie. Il maîtrise en interne les produits à base d'acide hyaluronique obtenu par fermentation : régénération du cartilage, soins des tendons en médecine du sport, traitements de l'œil sec et des glandes de Meibomius, ainsi qu'un remède injectable contre la maladie de Parkinson. Le groupe compte quatorze filiales en Europe, en Amérique latine et en Asie, est présent dans plus de 55 pays, exploite deux usines à Vouvry et Buenos Aires et emploie environ 70 personnes en Suisse et plus de 500 dans le monde. Restée familiale, l'entreprise investit environ 15 % de son chiffre d'affaires en R+D, collabore avec les HUG et prévoit des lancements jusqu'en 2020, avec une ouverture vers le vétérinaire, la dermatologie et de nouveaux marchés.",
+      "quote": "",
+      "themes": [
+        "sante",
+        "industrie"
+      ],
+      "region": "Genève",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Alessandro Di Napoli",
+          "role": "Vice-président Marketing"
+        }
+      ],
+      "companies": [
+        "trb-chemedica",
+        "hopitaux-universitaires-de-geneve"
+      ]
+    },
+    {
+      "slug": "hug-2011-tornier",
+      "title": "Tornier AG",
+      "subtitle": "Entretien avec M. Christian Beyeler, directeur – Des spécialistes au service de spécialistes",
+      "type": "publireportage",
+      "page": "156",
+      "pdfPages": [],
+      "summary": "Tornier conçoit, fabrique et commercialise des dispositifs médicaux pour l'orthopédie et la traumatologie des extrémités : épaule, coude, main, poignet, cheville et pied. Se présentant comme un « spécialiste au service de spécialistes », l'entreprise soutient la communauté scientifique et distribue plus de 70 lignes de produits dans plus de 35 pays. Son directeur Christian Beyeler rappelle qu'elle propose aussi, notamment en Suisse, des prothèses de hanche et de genou : la gamme de genou a été développée dès les années 1980 avec l'École lyonnaise de chirurgie du genou, et la prothèse d'épaule anatomique Aequalis dans les années 1990 avec le Dr Gilles Walch et le Pr Pascal Boileau. Tournée vers l'innovation, avec 126 brevets déposés et 117 en attente, la société explore les produits biologiques de réparation osseuse et tendineuse et la technologie du pyrocarbone.",
+      "quote": "",
+      "themes": [
+        "sante",
+        "industrie"
+      ],
+      "region": "Cham (ZG)",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Christian Beyeler",
+          "role": "Directeur"
+        }
+      ],
+      "companies": [
+        "tornier"
+      ]
+    },
+    {
+      "slug": "hug-2011-bugnion-propriete-industrielle",
+      "title": "Industrial property and health",
+      "subtitle": "Interview with Mr Jean-Alain Schulz – Bugnion SA, conseils en propriété intellectuelle",
+      "type": "publireportage",
+      "page": "157",
+      "pdfPages": [],
+      "summary": "Dans cette tribune, Jean-Alain Schulz défend l'utilité des brevets dans le domaine de la santé, alors que le système est souvent critiqué ; le texte est signé par le cabinet de conseils en propriété intellectuelle Bugnion SA. Il rappelle que la technologie de l'ADN recombinant, jamais brevetée, aurait pu rapporter l'équivalent de 15 milliards de dollars, et que le litige entre Medtronic et Siemens sur les stimulateurs cardiaques s'est soldé par 75 millions de dollars de redevances. Aucun industriel n'investit sans exclusivité. Il compare les approches américaine et européenne, évoque les brevets biologiques et salue le pragmatisme suisse en matière de transfert de technologies entre hôpitaux universitaires et industrie. Il conclut par cinq conseils aux chercheurs : déposer le brevet avant toute publication ou divulgation, ignorer le délai de grâce et la demande provisoire américains, et transmettre vite tout nouveau résultat.",
+      "quote": "First file your patent, and then send your sensational publication to The Lancet or Nature",
+      "themes": [
+        "formation",
+        "economie",
+        "sante"
+      ],
+      "region": "Genève",
+      "language": "en",
+      "people": [
+        {
+          "name": "Jean-Alain Schulz",
+          "role": ""
+        }
+      ],
+      "companies": [
+        "bugnion"
+      ]
+    },
+    {
+      "slug": "hug-2011-bj-coffee",
+      "title": "BJ-Coffee SA",
+      "subtitle": "« Un service de qualité pour les clients les plus exigeants »",
+      "type": "publireportage",
+      "page": "158",
+      "pdfPages": [],
+      "summary": "Issue de Baumann-Jeanneret, société familiale fondée en 1910 qui a scindé ses activités en 2006 entre bj-office SA, dédiée à l'aménagement d'espaces de travail, et bj-coffee SA, l'entreprise genevoise distribue les produits Nespresso depuis 1989 et en est, depuis 1997, le partenaire exclusif pour toute la gamme professionnelle dans le canton de Genève. Son directeur général Christian Wahl s'appuie sur plus de 30 collaborateurs pour proposer à plus de 5 000 clients, dont les HUG, un large choix de machines et huit grands crus. Depuis 2008, bj-coffee offre aussi un service global sur site avec des distributeurs semi-automatiques payables par badge, jeton ou monnaie, et s'apprête à lancer l'Aguila, capable de servir plus de 400 cafés par heure en restauration d'entreprise. Tous ses départements sont certifiés ISO 9001 depuis 2003.",
+      "quote": "",
+      "themes": [
+        "economie"
+      ],
+      "region": "Genève",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Christian Wahl",
+          "role": "Directeur général"
+        }
+      ],
+      "companies": [
+        "bj-coffee",
+        "hopitaux-universitaires-de-geneve"
+      ]
+    },
+    {
+      "slug": "hug-2011-gastromer",
+      "title": "Gastromer",
+      "subtitle": "Poissons, coquillages et crustacés à Plan-les-Ouates",
+      "type": "publireportage",
+      "page": "159",
+      "pdfPages": [],
+      "summary": "Fondée en 1993 par Laurent Isoux, actif dans le métier depuis 1979, Gastromer importe et distribue depuis Plan-les-Ouates plus de 900 références de poissons, coquillages et crustacés frais, vivants, transformés ou surgelés. Devenue familiale avec l'arrivée de son épouse et de leurs deux fils, l'entreprise emploie 38 personnes dans des locaux agréés CE et livre hôtels, restaurants, collectivités, entreprises et hôpitaux de toute la Suisse romande. Dès 3 h 30, les acheteurs traitent avec une trentaine de criées dans une vingtaine de pays ; la marchandise transite par une plateforme lyonnaise avant d'être préparée à Genève, où le poisson peut aussi être vidé ou fileté à la demande. Dix-huit camions assurent environ 250 livraisons par jour. Soucieuse d'éthique, la société a renoncé au thon rouge de Méditerranée et s'installe dans de nouveaux locaux à Saxon pour Gastromer Valais.",
+      "quote": "Les produits de la mer sont parmi les derniers que la nature nous donne. Cela mérite respect et éthique.",
+      "themes": [
+        "economie"
+      ],
+      "region": "Plan-les-Ouates (GE)",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Laurent Isoux",
+          "role": "Fondateur"
+        }
+      ],
+      "companies": [
+        "gastromer"
+      ]
+    },
+    {
+      "slug": "hug-2011-casabat",
+      "title": "Casabat SA",
+      "subtitle": "Entretien avec M. Juan Casanova, directeur",
+      "type": "publireportage",
+      "page": "160",
+      "pdfPages": [],
+      "summary": "Fondée en 1990 par le père de son directeur actuel, Juan Casanova, qui en a repris les rênes il y a cinq ans, Casabat SA est une petite entreprise familiale genevoise du bâtiment comptant une vingtaine d'ouvriers. Sa force est la polyvalence : elle réalise aussi bien des constructions d'importance, en entreprise générale ou totale, que de petites réparations, avec un suivi de chantier rapproché. Elle vient d'achever La Saconnésienne, ensemble de six appartements et six villas au Grand-Saconnex, et travaille beaucoup pour les Services industriels de Genève, l'État et les communes. Les HUG figurent parmi ses clients fidèles : entretien courant des sites et aménagement d'une piste cyclable entre Trois-Chêne et Belle-Idée. En 2011, l'entreprise s'installe dans ses propres locaux, dépôt et bureaux, construits au Bois-de-Bay à Satigny.",
+      "quote": "",
+      "themes": [
+        "construction"
+      ],
+      "region": "Genève",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Juan Casanova",
+          "role": "Directeur"
+        }
+      ],
+      "companies": [
+        "casabat",
+        "hopitaux-universitaires-de-geneve"
+      ]
+    },
+    {
+      "slug": "hug-2011-transferts-video-film",
+      "title": "Transferts Vidéo & Film SA",
+      "subtitle": "Entretien avec M. Eric Von Büren, directeur",
+      "type": "publireportage",
+      "page": "161",
+      "pdfPages": [],
+      "summary": "Depuis 26 ans, la société carougeoise Transferts Vidéo & Film SA aide à sauvegarder les films en les transférant sur des supports fiables, modernes et durables. Son directeur Eric Von Büren décrit un laboratoire capable de relire presque tous les formats, de la pellicule aux fichiers numériques récents en passant par les bandes vidéo les plus obsolètes, grâce à un important parc de machines. Les spécialistes peuvent stabiliser l'image, éliminer poussières et rayures, et convertir les innombrables formats de fichiers vers des standards usuels en réduisant leur taille sans perte de qualité. La clientèle réunit la plupart des chaînes de télévision romandes et nationales, des sociétés de production, de grandes entreprises et institutions, ainsi que des particuliers désireux de préserver leurs souvenirs. Membre de Memoriav, TVF se prépare à de nouveaux défis comme la 3D.",
+      "quote": "Nous faisons office de plaque tournante entre les différents supports existants",
+      "themes": [
+        "economie",
+        "territoire"
+      ],
+      "region": "Carouge (GE)",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Eric Von Büren",
+          "role": "Directeur"
+        }
+      ],
+      "companies": [
+        "transferts-video-film"
+      ]
+    },
+    {
+      "slug": "hug-2011-citroen-geneve",
+      "title": "Citroën Suisse SA – Succursale de Genève",
+      "subtitle": "Entretien avec M. Denis Picard, directeur",
+      "type": "publireportage",
+      "page": "162-163",
+      "pdfPages": [],
+      "summary": "La succursale genevoise de Citroën (Suisse) SA vend chaque année environ 1 500 véhicules neufs et 700 occasions. Son directeur Denis Picard souligne sa première place sur le marché des utilitaires du canton, avec près de 22 % de parts de marché, et sa deuxième place pour les voitures particulières ; Genève représente 10 % des ventes nationales de la marque. Il explique ce succès par la proximité de la France, la présence de l'importateur à Genève et la disponibilité des équipes. Installée aux Acacias, l'une des cinq succursales suisses emploie 65 collaborateurs et dispose d'un showroom de 1 100 m², d'un atelier, d'une carrosserie toutes marques et d'un dépôt de pièces. Côté nouveautés figurent la C-Zéro 100 % électrique, la DS4 et la future DS5 hybride diesel-électrique, tandis que les petites voitures bien équipées comme la DS3, la C3 et la C1 se vendent le mieux.",
+      "quote": "",
+      "themes": [
+        "mobilite",
+        "economie"
+      ],
+      "region": "Genève",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Denis Picard",
+          "role": "Directeur"
+        }
+      ],
+      "companies": [
+        "citroen-suisse-geneve"
+      ]
+    },
+    {
+      "slug": "hug-2011-emil-frey-geneve",
+      "title": "Garage Emil Frey SA Genève",
+      "subtitle": "Entretien avec M. Alexandre Farago, directeur",
+      "type": "publireportage",
+      "page": "164-165",
+      "pdfPages": [],
+      "summary": "Probablement le plus grand garage de la région genevoise, l'agence Emil Frey de Genève distribue BMW et Mini ainsi que les marques du groupe Subaru, Kia, Suzuki et Daihatsu. Son directeur Alexandre Farago décrit un bâtiment de trois niveaux long de 120 mètres et 147 employés, dont 90 au service après-vente, avec ateliers et carrosserie. Fondé en 1953 par le groupe Perrot Duval, le garage a été racheté par Emil Frey, premier importateur automobile suisse par le nombre de marques représentées. BMW et Mini forment l'essentiel des ventes, portées par la série X et la Countryman. La clientèle des voitures neuves est surtout locale, celle de l'occasion et de l'atelier vient aussi d'ailleurs et de France voisine, et les diplomates bénéficient de conditions spéciales. L'année 2010 a été excellente et 2011 s'annonce bonne.",
+      "quote": "",
+      "themes": [
+        "mobilite",
+        "economie"
+      ],
+      "region": "Genève",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Alexandre Farago",
+          "role": "Directeur"
+        }
+      ],
+      "companies": [
+        "emil-frey-geneve"
+      ]
+    },
+    {
+      "slug": "hug-2011-gets-medical-safety-systems",
+      "title": "Gets Medical Safety Systems SA",
+      "subtitle": "Le leader en appel malade",
+      "type": "publireportage",
+      "page": "166-167",
+      "pdfPages": [],
+      "summary": "Créée en 1986 à Lausanne, Gets Medical Safety Systems SA développe et produit, avec 22 employés, des systèmes d'appel malade et de sécurité pour les établissements médicaux. Son directeur Stéphane Oechslin revendique une position de quasi-monopole en Suisse : tous les hôpitaux universitaires, la plupart des hôpitaux régionaux et environ la moitié des maisons de retraite, soit plus de 1 200 établissements, sont équipés. Les solutions vont de l'appel classique à la surveillance anti-errance, avec afficheurs, téléphones DECT ou SMS pour visualiser l'urgence des appels et communiquer avec les patients, ainsi que l'enregistrement et l'analyse de l'activité. Les nouveaux produits restent compatibles avec les anciens, ce qui limite les investissements. Déjà présente en France, avec 350 établissements équipés, et en Autriche, l'entreprise vise l'Allemagne et peut-être l'Italie en 2012.",
+      "quote": "",
+      "themes": [
+        "sante",
+        "industrie"
+      ],
+      "region": "Lausanne",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Stéphane Oechslin",
+          "role": "Directeur"
+        }
+      ],
+      "companies": [
+        "gets-medical-safety-systems"
+      ]
+    },
+    {
+      "slug": "hug-2011-veltigroup",
+      "title": "Veltigroup",
+      "subtitle": "Entretien avec M. Nicolas Fulpius, CEO",
+      "type": "publireportage",
+      "page": "168-169",
+      "pdfPages": [],
+      "summary": "Prestataire suisse de services informatiques et de télécommunication (ICT), Veltigroup emploie plus de 300 spécialistes à travers ses sociétés LANexpert, Pragmantic, Perhalion et ITS. Son CEO Nicolas Fulpius explique que, contrairement aux nombreuses petites sociétés spécialisées, le groupe propose une offre à 360° pour analyser, réaliser et exploiter l'ensemble des besoins ICT d'entreprises et d'organismes publics, en intégrateur indépendant de tout constructeur ou éditeur. Son réseau national permet de suivre de près des clients répartis sur plusieurs sites. Le label Swiss Made symbolise pour lui une collaboration de proximité, indispensable dans des secteurs exigeants comme la santé, la banque ou l'administration. En croissance depuis sa création il y a quinze ans, leader en Suisse romande et présent à Berne et Zurich, Veltigroup développe des prestations autour du cloud, des smartphones et des tablettes.",
+      "quote": "Seule la proximité permet de développer des partenariats sur le long terme.",
+      "themes": [
+        "economie"
+      ],
+      "region": "Lausanne / Genève",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Nicolas Fulpius",
+          "role": "CEO"
+        }
+      ],
+      "companies": [
+        "veltigroup"
+      ]
+    },
+    {
+      "slug": "hug-2011-my-private-care",
+      "title": "My Private Care",
+      "subtitle": "Entretien avec Mme Florence Baudoin, directrice",
+      "type": "publireportage",
+      "page": "170",
+      "pdfPages": [],
+      "summary": "Jeune société genevoise issue de Oneplacement, spécialisée dans le placement de personnel médical, My Private Care est une institution de santé privée proposant des soins à domicile haut de gamme, en complément du réseau de soins genevois. Sa directrice Florence Baudoin décrit des prestations à la carte, non remboursées par les assurances : soins infirmiers qualifiés avec suivi continu, services de bien-être comme les massages, accompagnement intergénérationnel mettant en relation personnes âgées isolées et étudiants, animations personnalisées en EMS et service de placement de personnel fixe dans le domaine médical. L'entreprise s'appuie sur une petite structure et sur un réseau de professionnels à temps partiel. Sollicitée pour intervenir en France voisine et dans le canton de Vaud, elle préfère maîtriser son développement pour préserver la qualité de ses services.",
+      "quote": "",
+      "themes": [
+        "sante"
+      ],
+      "region": "Genève",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Florence Baudoin",
+          "role": "Directrice"
+        }
+      ],
+      "companies": [
+        "my-private-care"
+      ]
+    },
+    {
+      "slug": "hug-2011-g-schweizer",
+      "title": "G. Schweizer SA",
+      "subtitle": "Le paradis des cuisiniers professionnels",
+      "type": "publireportage",
+      "page": "172-173",
+      "pdfPages": [],
+      "summary": "Établie à Lausanne depuis sa création à la fin des années 1950, G. Schweizer SA est spécialisée dans les machines et fournitures pour boucheries et cuisines professionnelles. Sa directrice Marie-Louise Déjardin perpétue une tradition d'équipements de qualité et de service chaleureux. D'abord centrée sur la boucherie (hachoirs, poussoirs, clipseuses, pistolets d'équarrissage), l'entreprise s'est ouverte dans les années 1970 aux grandes cuisines de restaurants et cafétérias, puis aux machines sous vide. Elle propose aujourd'hui grills, trancheuses, casseroles, vaisselle, centrifugeuses, coupe-légumes, mixers et couteaux, avec leurs pièces de rechange, aux hôtels, hôpitaux, cliniques, EMS et collectivités publiques, des prisons aux cantines scolaires. Active dans toute la Suisse romande, elle assure visites régulières, livraisons hebdomadaires par son propre camion, démonstrations, réparations et prêt de machine en cas de panne.",
+      "quote": "",
+      "themes": [
+        "industrie",
+        "economie"
+      ],
+      "region": "Lausanne",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Marie-Louise Déjardin",
+          "role": "Directrice"
+        }
+      ],
+      "companies": [
+        "g-schweizer"
+      ]
+    },
+    {
+      "slug": "hug-2011-sicli-utc-fire-security",
+      "title": "UTC Fire & Security Services et SICLI : deux alliés contre les incendies",
+      "subtitle": "Prévention, extinction, évacuation et secours",
+      "type": "publireportage",
+      "page": "174-175",
+      "pdfPages": [],
+      "summary": "Nouvel acteur sur le marché suisse, UTC Fire & Security Services a été reconnu par l'AEAI comme entreprise spécialisée en installations de détection incendie. Le groupe, présenté comme leader mondial de l'offre globale de sécurité, réunit plusieurs marques actives dans la sécurité incendie et la sûreté électronique et protège des sites prestigieux comme la tour Eiffel ou le stade de Wembley. Sa société SICLI accompagne ses clients dans toutes les étapes de leur politique de prévention : analyse des risques, audits, formation, plans et consignes de sécurité, éclairage de secours et signalétique. Elle fournit aussi une gamme complète de moyens d'extinction, extincteurs portatifs ou sur roues et postes incendie, et en assure la maintenance. Le texte rappelle qu'une lutte efficace suppose de pouvoir intervenir dans les trois premières minutes, avec des moyens dimensionnés selon l'activité et les installations.",
+      "quote": "",
+      "themes": [
+        "industrie",
+        "construction"
+      ],
+      "region": "Genève",
+      "language": "fr",
+      "people": [],
+      "companies": [
+        "sicli-switzerland"
+      ]
+    },
+    {
+      "slug": "hug-2011-as-ambulances-services",
+      "title": "AS Ambulances Services SA",
+      "subtitle": "Urgence, transport préhospitalier et rapatriement",
+      "type": "publireportage",
+      "page": "176",
+      "pdfPages": [],
+      "summary": "Active depuis 1990, AS Ambulances Services SA intervient à Genève dans l'urgence, le transport préhospitalier, le transport de patients à mobilité réduite et le rapatriement de patients. Ce court portrait souligne que l'entreprise est devenue un interlocuteur apprécié des institutions cantonales et internationales, et que ses équipes interviennent chaque jour pour assurer à chaque patient qui leur est confié la meilleure prise en charge possible. En 2010, elle a obtenu la première certification qualité de l'Interassociation suisse de sauvetage (IAS) attribuée à un service de sauvetage genevois. La société affiche sa volonté de continuer à offrir à ses patients, aux institutions et à ses partenaires des prestations de la meilleure qualité possible.",
+      "quote": "",
+      "themes": [
+        "sante",
+        "mobilite"
+      ],
+      "region": "Genève",
+      "language": "fr",
+      "people": [],
+      "companies": [
+        "as-ambulances-services"
+      ]
+    },
+    {
+      "slug": "hug-2011-medileg",
+      "title": "Medileg SA",
+      "subtitle": "Entretien avec Mme Françoise de Peyerimhoff, directrice",
+      "type": "publireportage",
+      "page": "177",
+      "pdfPages": [],
+      "summary": "Fondée en 2008 par Françoise de Peyerimhoff et son mari, après le retrait du marché suisse d'un important acteur du bas de compression, Medileg SA distribue en exclusivité en Suisse les produits de la maison italienne Cizeta Medicali, sous les marques VARISAN, VIVA et CIZETA ORTÒ, ainsi que les produits CADENCE. Ces bas et collants de compression sont prescrits en cas d'insuffisance veineuse ou utilisés en prévention des varices et des jambes lourdes ; l'offre s'est récemment étendue aux produits orthopédiques. Les clients sont des pharmacies, orthopédistes, médecins, hôpitaux et homes, auxquels la société propose des formations et qu'elle rencontre lors des congrès médicaux. Face à une grande marque nationale dominante, la directrice juge les perspectives excellentes, vu le vieillissement et la sédentarité de la population, et mise sur la situation centrale de Domdidier, près de l'autoroute.",
+      "quote": "",
+      "themes": [
+        "sante"
+      ],
+      "region": "Domdidier (FR)",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Françoise de Peyerimhoff",
+          "role": "Directrice"
+        }
+      ],
+      "companies": [
+        "medileg"
+      ]
     }
   ],
   "companies": [
@@ -455,7 +1713,11 @@
       "slug": "hopitaux-universitaires-de-geneve",
       "name": "Hôpitaux Universitaires de Genève (HUG)",
       "sector": "Hôpital universitaire",
-      "themes": ["sante", "formation", "collectivites"],
+      "themes": [
+        "sante",
+        "formation",
+        "collectivites"
+      ],
       "description": "Premier hôpital universitaire de Suisse : près de 10 000 collaborateurs dont quelque 1500 médecins, budget de plus de 1,6 milliard de francs, 680 000 journées d'hospitalisation par an, 12 départements et 65 services médicaux répartis sur quatre sites (Cluse-Roseraie, Belle-Idée, Bellerive, Loëx). Pionnier de l'hôpital vert, de la chirurgie robotique et de la médecine génétique, il mène environ 200 groupes de recherche.",
       "address": "Rue Gabrielle-Perret-Gentil 4",
       "postalCode": "1211",
@@ -466,26 +1728,96 @@
       "email": "",
       "website": "www.hug-ge.ch",
       "contacts": [
-        { "name": "Bernard Gruson", "role": "Directeur général" },
-        { "name": "F. Taillard", "role": "Directeur général adjoint" },
-        { "name": "Pierre Dayer", "role": "Directeur médical et qualité" },
-        { "name": "Christian Decurnex", "role": "Chef du Département d'exploitation" },
-        { "name": "Louis Loutan", "role": "Chef du Service de médecine internationale et humanitaire" },
-        { "name": "Pierre Chopard", "role": "Responsable du service qualité des soins" },
-        { "name": "Jean-Michel Gaspoz", "role": "Chef du Département de médecine communautaire, de premier recours et des urgences" },
-        { "name": "Jacques Menetrey", "role": "Responsable de l'Unité d'orthopédie et de traumatologie du sport" },
-        { "name": "Pierre-Frédéric Keller", "role": "Cardiologie, programme ELIPS®" },
-        { "name": "Philippe Morel", "role": "Médecin-chef, chirurgie viscérale" },
-        { "name": "Barbara Wildhaber", "role": "Cheffe du service de chirurgie pédiatrique" },
-        { "name": "Philippe Bijlenga", "role": "Neurochirurgie" },
-        { "name": "Laurent Kaiser", "role": "Laboratoire de virologie" },
-        { "name": "Pierre Burkhard", "role": "Neurologie" },
-        { "name": "Pandelis Giannakopoulos", "role": "Chef du Département de santé mentale et de psychiatrie" },
-        { "name": "Bernard Hirschel", "role": "Centre de recherche clinique" },
-        { "name": "Pierre-Yves Dietrich", "role": "Médecin-chef, oncologie" },
-        { "name": "Nicolas Mach", "role": "Oncologie" }
+        {
+          "name": "Bernard Gruson",
+          "role": "Directeur général"
+        },
+        {
+          "name": "F. Taillard",
+          "role": "Directeur général adjoint"
+        },
+        {
+          "name": "Pierre Dayer",
+          "role": "Directeur médical et qualité"
+        },
+        {
+          "name": "Christian Decurnex",
+          "role": "Chef du Département d'exploitation"
+        },
+        {
+          "name": "Louis Loutan",
+          "role": "Chef du Service de médecine internationale et humanitaire"
+        },
+        {
+          "name": "Pierre Chopard",
+          "role": "Responsable du service qualité des soins"
+        },
+        {
+          "name": "Jean-Michel Gaspoz",
+          "role": "Chef du Département de médecine communautaire, de premier recours et des urgences"
+        },
+        {
+          "name": "Jacques Menetrey",
+          "role": "Responsable de l'Unité d'orthopédie et de traumatologie du sport"
+        },
+        {
+          "name": "Pierre-Frédéric Keller",
+          "role": "Cardiologie, programme ELIPS®"
+        },
+        {
+          "name": "Philippe Morel",
+          "role": "Médecin-chef, chirurgie viscérale"
+        },
+        {
+          "name": "Barbara Wildhaber",
+          "role": "Cheffe du service de chirurgie pédiatrique"
+        },
+        {
+          "name": "Philippe Bijlenga",
+          "role": "Neurochirurgie"
+        },
+        {
+          "name": "Laurent Kaiser",
+          "role": "Laboratoire de virologie"
+        },
+        {
+          "name": "Pierre Burkhard",
+          "role": "Neurologie"
+        },
+        {
+          "name": "Pandelis Giannakopoulos",
+          "role": "Chef du Département de santé mentale et de psychiatrie"
+        },
+        {
+          "name": "Bernard Hirschel",
+          "role": "Centre de recherche clinique"
+        },
+        {
+          "name": "Pierre-Yves Dietrich",
+          "role": "Médecin-chef, oncologie"
+        },
+        {
+          "name": "Nicolas Mach",
+          "role": "Oncologie"
+        },
+        {
+          "name": "Domizio Suva",
+          "role": "Médecin adjoint, chirurgie orthopédique et traumatologie"
+        },
+        {
+          "name": "Osman Ratib",
+          "role": "Médecin-chef, service de médecine nucléaire"
+        },
+        {
+          "name": "Antoine Rosset",
+          "role": "Radiologue, chef de clinique"
+        },
+        {
+          "name": "Loredana D'Amato Sizonenko",
+          "role": "Coordinatrice suisse d'Orphanet"
+        }
       ],
-      "page": "4-80",
+      "page": "4-97",
       "pdfPages": [],
       "advertiserOnly": false
     },
@@ -493,7 +1825,10 @@
       "slug": "universite-de-geneve-faculte-de-medecine",
       "name": "Université de Genève – Faculté de médecine",
       "sector": "Faculté universitaire de médecine",
-      "themes": ["formation", "sante"],
+      "themes": [
+        "formation",
+        "sante"
+      ],
       "description": "Faculté formant médecins cliniciens et chercheurs, organisée en trois sections (médecine fondamentale, dentaire et clinique). Budget d'environ 160 millions de francs, quelque 1400 étudiants et 50 à 60 groupes de recherche fondamentale ; liée aux HUG par un partenariat depuis janvier 2011.",
       "address": "CMU - 1, rue Michel-Servet",
       "postalCode": "1211",
@@ -504,8 +1839,14 @@
       "email": "jean-louis.carpentier@unige.ch",
       "website": "www.unige.ch/medecine/",
       "contacts": [
-        { "name": "Jean-Louis Carpentier", "role": "Doyen jusqu'en juillet 2011" },
-        { "name": "Henri Bounameaux", "role": "Doyen dès le 15 juillet 2011" }
+        {
+          "name": "Jean-Louis Carpentier",
+          "role": "Doyen jusqu'en juillet 2011"
+        },
+        {
+          "name": "Henri Bounameaux",
+          "role": "Doyen dès le 15 juillet 2011"
+        }
       ],
       "page": "16-19",
       "pdfPages": [],
@@ -515,7 +1856,10 @@
       "slug": "departement-de-medecine-genetique-et-developpement-unige",
       "name": "Centre de médecine universitaire CMU – Département de médecine génétique et développement",
       "sector": "Recherche et diagnostic en médecine génétique",
-      "themes": ["formation", "sante"],
+      "themes": [
+        "formation",
+        "sante"
+      ],
       "description": "Département universitaire lié au service de médecine génétique des HUG (65 personnes), reconnu pour ses travaux sur le chromosome 21. Il réalise environ 2500 tests cytogénétiques et 1200 tests moléculaires par an et a lancé une clinique du génome.",
       "address": "Rue Michel-Servet 1",
       "postalCode": "1211",
@@ -525,7 +1869,12 @@
       "phone": "+41 (0)22 379 57 07",
       "email": "stylianos.antonarakis@unige.ch",
       "website": "http://medgen.unige.ch/",
-      "contacts": [{ "name": "Stylianos Antonarakis", "role": "Professeur" }],
+      "contacts": [
+        {
+          "name": "Stylianos Antonarakis",
+          "role": "Professeur"
+        }
+      ],
       "page": "36-39",
       "pdfPages": [],
       "advertiserOnly": false
@@ -534,7 +1883,10 @@
       "slug": "fondation-pour-les-nouvelles-technologies-chirurgicales",
       "name": "Fondation pour les Nouvelles Technologies Chirurgicales (FNTC)",
       "sector": "Fondation de recherche en technologies chirurgicales",
-      "themes": ["formation", "sante"],
+      "themes": [
+        "formation",
+        "sante"
+      ],
       "description": "Fondation créée en 2000 par le professeur Philippe Morel, réunissant les hôpitaux de Berne et Fribourg, le CHUV et les HUG pour transformer les idées des chirurgiens en produits industriels, avec l'EPFL, le CSEM et Karl Storz. Elle possède un robot chirurgical dédié à la formation.",
       "address": "",
       "postalCode": "",
@@ -544,7 +1896,12 @@
       "phone": "",
       "email": "",
       "website": "",
-      "contacts": [{ "name": "Philippe Morel", "role": "Fondateur" }],
+      "contacts": [
+        {
+          "name": "Philippe Morel",
+          "role": "Fondateur"
+        }
+      ],
       "page": "41",
       "pdfPages": [],
       "advertiserOnly": false
@@ -553,7 +1910,10 @@
       "slug": "fondation-dr-henri-dubois-ferriere-dinu-lipatti",
       "name": "Fondation Dr Henri Dubois-Ferrière Dinu Lipatti",
       "sector": "Fondation de soutien à la recherche contre le cancer",
-      "themes": ["sante", "formation"],
+      "themes": [
+        "sante",
+        "formation"
+      ],
       "description": "Fondation ayant permis la création de l'unité de traitement expérimental (phase 1) en oncologie des HUG et disposant d'une unité de recherche clinique impliquée dans les essais de vaccination thérapeutique contre le cancer.",
       "address": "",
       "postalCode": "",
@@ -572,7 +1932,9 @@
       "slug": "epfl",
       "name": "École polytechnique fédérale de Lausanne (EPFL)",
       "sector": "Haute école polytechnique",
-      "themes": ["formation"],
+      "themes": [
+        "formation"
+      ],
       "description": "Partenaire des HUG pour la vaccination thérapeutique contre le cancer (capsule biocompatible du laboratoire des sciences de la vie), cofondatrice du CIBM et partenaire de la FNTC via son groupe de robotique.",
       "address": "",
       "postalCode": "",
@@ -591,7 +1953,10 @@
       "slug": "maxivax",
       "name": "MaxiVAX",
       "sector": "Start-up biotechnologique – vaccins thérapeutiques",
-      "themes": ["sante", "industrie"],
+      "themes": [
+        "sante",
+        "industrie"
+      ],
       "description": "Start-up créée pour mener et financer le développement clinique du vaccin antitumoral « sur mesure » des HUG et de l'EPFL, après un cofinancement initial de la CTI, dans le cadre d'un partenariat public-privé.",
       "address": "",
       "postalCode": "",
@@ -610,8 +1975,11 @@
       "slug": "cibm",
       "name": "Centre d'imagerie biomédicale (CIBM)",
       "sector": "Plateforme de recherche en imagerie biomédicale",
-      "themes": ["formation", "sante"],
-      "description": "Centre commun à l'EPFL, l'UNIL, l'UNIGE, le CHUV et les HUG, combinant IRM, PET, SPECT, EEG et traitement du signal. Le module genevois compte une quinzaine de personnes, plus de 25 groupes utilisateurs et une plateforme MicroPET/SPECT/CT préclinique ; plus de 8 millions de francs de fonds obtenus.",
+      "themes": [
+        "formation",
+        "sante"
+      ],
+      "description": "Centre commun à l'EPFL, l'UNIL, l'UNIGE, le CHUV et les HUG, combinant IRM, PET, SPECT, EEG et traitement du signal. Le module genevois compte une quinzaine de personnes, plus de 25 groupes utilisateurs et une plateforme MicroPET/SPECT/CT préclinique ; plus de 8 millions de francs de fonds obtenus. Contact principal (profil d'entreprise) : EPFL SB IPSB LIFMET, Station 6, CH-1015 Lausanne, tél. +41 21 693 44 67, info@cibm.ch, www.cibm.ch.",
       "address": "c/o HUG, Département d'imagerie et des sciences de l'information médicale, Rue Gabrielle-Perret-Gentil 4",
       "postalCode": "1211",
       "city": "Genève 14",
@@ -621,11 +1989,24 @@
       "email": "Francois.Lazeyras@unige.ch",
       "website": "www.medecine.unige.ch/organisation/services/CIBM/index.php",
       "contacts": [
-        { "name": "François Lazeyras", "role": "Directeur du CIBM Genève" },
-        { "name": "Osman Ratib", "role": "Directeur de la plateforme d'imagerie moléculaire" },
-        { "name": "Yann Seimbille", "role": "Laboratoire MicroPET/SPECT/CT" }
+        {
+          "name": "Rolf Gruetter",
+          "role": "Professeur, directeur du CIBM"
+        },
+        {
+          "name": "François Lazeyras",
+          "role": "Directeur du CIBM Genève"
+        },
+        {
+          "name": "Osman Ratib",
+          "role": "Directeur de la plateforme d'imagerie moléculaire"
+        },
+        {
+          "name": "Yann Seimbille",
+          "role": "Laboratoire MicroPET/SPECT/CT"
+        }
       ],
-      "page": "72-77",
+      "page": "72-77, 106-107",
       "pdfPages": [],
       "advertiserOnly": false
     },
@@ -633,7 +2014,10 @@
       "slug": "brain-and-behaviour-laboratory",
       "name": "Brain and Behaviour Laboratory (BBL)",
       "sector": "Centre de recherche en neurosciences",
-      "themes": ["formation", "sante"],
+      "themes": [
+        "formation",
+        "sante"
+      ],
       "description": "Centre créé en 2009 à l'Université de Genève, réunissant sur plus de 400 m² IRM fonctionnelle, EEG, laboratoires acoustique, du sommeil, de réalité virtuelle et de stimulation olfactive pour étudier cerveau, émotions et comportement.",
       "address": "CMU Rue Michel-Servet 1",
       "postalCode": "1206",
@@ -643,27 +2027,1209 @@
       "phone": "+41 (0)22 379 53 81",
       "email": "Patrik.Vuilleumier@unige.ch",
       "website": "www.bbl.unige.ch",
-      "contacts": [{ "name": "Patrik Vuilleumier", "role": "Professeur, codirecteur" }],
-      "page": "78-80",
+      "contacts": [
+        {
+          "name": "Patrik Vuilleumier",
+          "role": "Professeur, codirecteur"
+        }
+      ],
+      "page": "78-81",
       "pdfPages": [],
       "advertiserOnly": false
     },
     {
       "slug": "trb-chemedica",
       "name": "TRB Chemedica",
-      "sector": "Produits pharmaceutiques (ophtalmologie, rhumatologie, neurologie)",
-      "themes": ["sante", "industrie"],
-      "description": "Annonce en début de magazine : « Swiss Quality in Health Care », avec les domaines ophtalmologie, rhumatologie et neurologie.",
+      "sector": "Laboratoire pharmaceutique (ophtalmologie, rhumatologie, neurologie)",
+      "themes": [
+        "sante",
+        "industrie"
+      ],
+      "description": "Laboratoire genevois fondé en 1980, qui développe, fabrique et commercialise des médicaments et dispositifs médicaux brevetés en ophtalmologie, rhumatologie et neurologie, notamment à base d'acide hyaluronique obtenu par fermentation. Quatorze filiales, présence dans plus de 55 pays, usines à Vouvry et Buenos Aires, environ 70 collaborateurs en Suisse et plus de 500 dans le monde ; environ 15 % du chiffre d'affaires investi en R+D. Annonce en page 3.",
+      "address": "12, rue Michel-Servet, Case postale 352",
+      "postalCode": "1211",
+      "city": "Genève 12",
+      "canton": "GE",
+      "country": "Suisse",
+      "phone": "+41 (0)22 703 49 00",
+      "email": "international@trbchemedica.com",
+      "website": "www.trbchemedica.com",
+      "contacts": [
+        {
+          "name": "Alessandro Di Napoli",
+          "role": "Vice-président Marketing"
+        }
+      ],
+      "page": "3, 152-155",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "unitec",
+      "name": "HUG - UNITEC, Office of Technology Transfer (Université de Genève)",
+      "sector": "Transfert de technologies",
+      "themes": [
+        "formation",
+        "economie",
+        "sante"
+      ],
+      "description": "Bureau de transfert de technologies créé il y a onze ans par l'Université de Genève et rejoint par les HUG en 2003. Il évalue 40 à 80 inventions par an, dépose cinq à quinze demandes de brevet, conclut dix à quinze accords de transfert et accompagne deux à trois start-up par an ; 25 entreprises et 200 emplois créés en dix ans.",
+      "address": "24, rue Général-Dufour",
+      "postalCode": "1211",
+      "city": "Genève 4",
+      "canton": "GE",
+      "country": "Suisse",
+      "phone": "+41 (0)22 379 03 50",
+      "email": "laurent.mieville@unige.ch",
+      "website": "www.unige.ch/unitec",
+      "contacts": [
+        {
+          "name": "Laurent Mieville",
+          "role": "Responsable"
+        }
+      ],
+      "page": "86-89",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "institut-suisse-de-therapies-cellulaires",
+      "name": "Institut suisse de thérapies cellulaires (Swiss Institute of Cell Therapies, SICT)",
+      "sector": "Fondation de recherche en thérapies cellulaires",
+      "themes": [
+        "sante",
+        "formation"
+      ],
+      "description": "Fondation créée en mai 2010 par les HUG et la Faculté de médecine de Genève avec des partenaires publics et privés, dirigée par le professeur Philippe Morel. Elle vise à développer des thérapies cellulaires innovantes, à accélérer leur passage en clinique, à coordonner chercheurs et entreprises et à former des spécialistes.",
+      "address": "Chemin Rieu 17, Case postale 270",
+      "postalCode": "1211",
+      "city": "Genève 17",
+      "canton": "GE",
+      "country": "Suisse",
+      "phone": "+41 22 704 36 34",
+      "email": "contact@swiss-ict.ch",
+      "website": "www.swiss-ict.ch",
+      "contacts": [
+        {
+          "name": "Philippe Morel",
+          "role": "Professeur, directeur"
+        },
+        {
+          "name": "Marisa Jaconi",
+          "role": "Vice-directrice"
+        }
+      ],
+      "page": "90-93",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "fondation-osirix",
+      "name": "Fondation OsiriX",
+      "sector": "Fondation (logiciel libre d'imagerie médicale)",
+      "themes": [
+        "sante",
+        "formation"
+      ],
+      "description": "Fondation sise à Genève, créée en décembre 2008 pour soutenir et promouvoir le logiciel libre d'imagerie médicale 3D OsiriX, développé aux HUG et utilisé chaque mois par près de 50 000 professionnels. Elle finance de jeunes programmeurs et décerne l'OsiriX Plugin Award ; logiciel : www.osirix-viewer.com.",
+      "address": "",
+      "postalCode": "",
+      "city": "Genève",
+      "canton": "GE",
+      "country": "Suisse",
+      "phone": "",
+      "email": "osirix@osirixfoundation.com",
+      "website": "www.foundation.osirixfoundation.com",
+      "contacts": [
+        {
+          "name": "Antoine Rosset",
+          "role": "Cocréateur du logiciel"
+        },
+        {
+          "name": "Osman Ratib",
+          "role": "Cocréateur du logiciel"
+        }
+      ],
+      "page": "94-95",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "orphanet-suisse",
+      "name": "Orphanet Suisse – Service de médecine génétique (HUG)",
+      "sector": "Information sur les maladies rares",
+      "themes": [
+        "sante",
+        "collectivites"
+      ],
+      "description": "Partenaire suisse du site de référence européen Orphanet sur les maladies rares, institutionnalisé aux HUG depuis 2001 : encyclopédie en ligne rédigée par des experts et répertoire des consultations, laboratoires, projets de recherche et associations de malades dans 40 pays, en six langues.",
+      "address": "Centre médical universitaire, Rue Michel-Servet 1",
+      "postalCode": "1211",
+      "city": "Genève 4",
+      "canton": "GE",
+      "country": "Suisse",
+      "phone": "+41(0)22 379 56 96",
+      "email": "contact@orphanet.ch",
+      "website": "www.orphanet.ch",
+      "contacts": [
+        {
+          "name": "Loredana D'Amato Sizonenko",
+          "role": "Coordinatrice suisse"
+        }
+      ],
+      "page": "96-97",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "proraris",
+      "name": "ProRaris, Alliance des maladies rares – Suisse",
+      "sector": "Association faîtière de patients",
+      "themes": [
+        "sante",
+        "collectivites"
+      ],
+      "description": "Alliance constituée en juin 2010 pour regrouper la centaine d'associations de maladies rares existant en Suisse et accélérer la prise de conscience des institutions et du public.",
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "canton": "",
+      "country": "Suisse",
+      "phone": "",
+      "email": "",
+      "website": "www.proraris.ch",
+      "contacts": [
+        {
+          "name": "Loredana D'Amato Sizonenko",
+          "role": "Cofondatrice"
+        }
+      ],
+      "page": "96-97",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "alexion-pharma-international",
+      "name": "Alexion Pharma International Sàrl",
+      "sector": "Biopharmaceutique (maladies ultra-rares)",
+      "themes": [
+        "sante",
+        "industrie"
+      ],
+      "description": "Siège européen et centre des opérations internationales du groupe biopharmaceutique américain Alexion, spécialisé dans les maladies sévères et ultra-rares. Près de 100 collaborateurs à Lausanne et plus de 240 dans la région EMEA. Produit phare : Soliris (eculizumab), approuvé dans plus de 35 pays contre l'hémoglobinurie paroxystique nocturne. Annonces pleine page (www.alexionpharma.com) aux pages 98 et 113.",
+      "address": "Av. du Tribunal Fédéral 34",
+      "postalCode": "1005",
+      "city": "Lausanne",
+      "canton": "VD",
+      "country": "Suisse",
+      "phone": "+41 21 318 40 00",
+      "email": "",
+      "website": "www.alxn.com",
+      "contacts": [
+        {
+          "name": "Patrice Coissac",
+          "role": "Corporate Sr. Vice President, président"
+        }
+      ],
+      "page": "98-101, 113",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "atmos-medical",
+      "name": "ATMOS Medical AG",
+      "sector": "Distribution d'équipements médicaux (ORL, gynécologie, chirurgie)",
+      "themes": [
+        "sante",
+        "industrie"
+      ],
+      "description": "Filiale suisse du groupe allemand Atmos, plus que centenaire, qui fabrique ses produits à Lenzkirch. Elle distribue postes de travail ORL (60 % du marché suisse), équipements de gynécologie, aspiration chirurgicale, drainage thoracique S201 et pompes pour plaies, avec stock et atelier de maintenance à Bâle.",
+      "address": "Reinacherstrasse 129",
+      "postalCode": "4053",
+      "city": "Basel",
+      "canton": "BS",
+      "country": "Suisse",
+      "phone": "+41 61 691 41 51",
+      "email": "",
+      "website": "www.atmosmed.ch",
+      "contacts": [
+        {
+          "name": "Jacky Noll",
+          "role": "Directeur"
+        }
+      ],
+      "page": "102-105",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "croix-rouge-genevoise",
+      "name": "Croix-Rouge genevoise",
+      "sector": "Association humanitaire et sociale",
+      "themes": [
+        "sante",
+        "collectivites",
+        "formation"
+      ],
+      "description": "Première association cantonale de la Croix-Rouge en Suisse, fondée en 1864. Avec 350 collaborateurs et près de 600 bénévoles, elle propose formations (auxiliaires de santé, cours au public), garde d'enfants, soutien aux seniors, interprétariat communautaire en 72 langues, aide à l'intégration des migrants et réinsertion des jeunes.",
+      "address": "Route des Acacias 9, Case postale 288",
+      "postalCode": "1211",
+      "city": "Genève 4",
+      "canton": "GE",
+      "country": "Suisse",
+      "phone": "+41 22 304 04 04",
+      "email": "info@croix-rouge-ge.ch",
+      "website": "www.croix-rouge-ge.ch",
+      "contacts": [
+        {
+          "name": "Eliane Babel-Guérin",
+          "role": "Directrice"
+        }
+      ],
+      "page": "108-111",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "curmed",
+      "name": "Curmed SA",
+      "sector": "Distribution d'implants orthopédiques et de traumatologie",
+      "themes": [
+        "sante",
+        "industrie"
+      ],
+      "description": "Distributeur depuis plus de 20 ans de produits de niche pour la chirurgie de la main, du membre supérieur et du membre inférieur, avec des implants pour toutes les articulations hormis le crâne et le rachis, dont l'implant de poignet en pyrocarbone Amandys.",
+      "address": "Untere Zollgasse 28",
+      "postalCode": "3072",
+      "city": "Ostermundigen",
+      "canton": "BE",
+      "country": "Suisse",
+      "phone": "+41 (0)31 932 44 22",
+      "email": "info@curmed.ch",
+      "website": "http://www.curmed.ch",
+      "contacts": [
+        {
+          "name": "David Perron",
+          "role": "Directeur"
+        }
+      ],
+      "page": "114-115",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "dianalabs",
+      "name": "Dianalabs",
+      "sector": "Laboratoire d'analyses médicales",
+      "themes": [
+        "sante"
+      ],
+      "description": "Laboratoire genevois créé en 1988 par des médecins, reconnu pour sa sérologie dans le suivi de la grossesse. Équipe de spécialistes FAMH (médecins, biologistes, pharmaciens), gamme complète d'analyses, membre du réseau Medisupport ; situé à Plainpalais, près des HUG.",
+      "address": "Rue de la Colline 6",
+      "postalCode": "1205",
+      "city": "Genève",
+      "canton": "GE",
+      "country": "Suisse",
+      "phone": "+41 (0)22 807 12 40",
+      "email": "info@dianalabs.ch",
+      "website": "www.dianalabs.ch",
+      "contacts": [],
+      "page": "116-119",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "id-imagerie-developpement",
+      "name": "ID Imagerie & Développement (Imagerive et Institut de radiologie de la Colline)",
+      "sector": "Imagerie médicale",
+      "themes": [
+        "sante"
+      ],
+      "description": "Structure fondée en 2002 par des médecins, à la tête des instituts Imagerive (imagerie de la femme) et Radiologie La Colline (imagerie ORL, coloscopie virtuelle). Douze radiologues, deux sites reliés par un système PACS, mammographie numérique MicroDose, IRM, scanners, échographie et cone beam CT.",
+      "address": "",
+      "postalCode": "",
+      "city": "Genève",
+      "canton": "GE",
+      "country": "Suisse",
+      "phone": "+41 (0) 22 818 58 58",
+      "email": "institut@imadev.ch",
+      "website": "www.imadev.ch",
+      "contacts": [],
+      "page": "120-121",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "jp-muller",
+      "name": "J.P. Müller AG",
+      "sector": "Importation et distribution d'outillage technique",
+      "themes": [
+        "industrie",
+        "economie"
+      ],
+      "description": "Entreprise commerciale fondée en 1955 qui importe des articles techniques vendus exclusivement en Suisse : technique de fixation du bois (agrafeuses, cloueurs, visseuses), compresseurs, assembleuses de cadres et systèmes d'identification du linge. Marques Senco, Jun-Air, Cassese, Thermopatch, Kress ; 18 collaborateurs.",
+      "address": "Tödistrasse 48",
+      "postalCode": "8812",
+      "city": "Horgen",
+      "canton": "ZH",
+      "country": "Suisse",
+      "phone": "043 244 10 50",
+      "email": "info@jpmuellerag.ch",
+      "website": "www.jpmuellerag.ch",
+      "contacts": [
+        {
+          "name": "Norbert Tüscher",
+          "role": "Directeur"
+        }
+      ],
+      "page": "122-123",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "mayba",
+      "name": "MayBa.ch SA",
+      "sector": "Stérilisation hospitalière",
+      "themes": [
+        "sante",
+        "industrie"
+      ],
+      "description": "Spécialiste suisse de la stérilisation hospitalière fondé en 2005 : mobilier en inox et Corian, emballages, conteneurs, soudeuses, instruments chirurgicaux gravés Data-matrix GS1 (représentant exclusif Landanger et Delacroix-Chevalier), désinfectants. Treize collaborateurs, plus de 800 clients, certifié ISO 9001 et ISO 13485. Second site : MayBa.ch AG, Piccardstrasse 13, CH-9015 St-Gallen, tél. +41 (0)71 310 03 20.",
+      "address": "Ch. des Anciens Moulins 2a, CP 431",
+      "postalCode": "1009",
+      "city": "Pully",
+      "canton": "VD",
+      "country": "Suisse",
+      "phone": "+41 (0)21 721 78 21",
+      "email": "info@mayba.ch",
+      "website": "www.mayba.ch",
+      "contacts": [
+        {
+          "name": "Stéphane Mayor",
+          "role": "Cofondateur"
+        },
+        {
+          "name": "Ralf Bachman",
+          "role": "Cofondateur"
+        }
+      ],
+      "page": "124-125",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "marflow",
+      "name": "Marflow AG",
+      "sector": "Matériel médical pour l'urologie et la gastro-entérologie",
+      "themes": [
+        "sante",
+        "industrie"
+      ],
+      "description": "Entreprise suisse basée à Adliswil, spécialisée dans le matériel médical pour l'urologie et la gastro-entérologie (électrodes, paniers à calculs, cathéters, stents, anses à polypectomie, ballons de dilatation…). Active depuis 20 ans dans plus de 70 pays, elle réalise environ 95 % de son chiffre d'affaires à l'export. ISO 9001:2000 / ISO 13485.",
+      "address": "Soodstrasse 57",
+      "postalCode": "8134",
+      "city": "Adliswil",
+      "canton": "ZH",
+      "country": "Suisse",
+      "phone": "+41 44 709 01 01",
+      "email": "marflow@bluewin.ch",
+      "website": "www.marflow.ch",
+      "contacts": [],
+      "page": "126-127",
+      "pdfPages": [],
+      "advertiserOnly": true
+    },
+    {
+      "slug": "johnson-johnson",
+      "name": "Johnson & Johnson AG",
+      "sector": "Produits et dispositifs médicaux",
+      "themes": [
+        "sante",
+        "industrie"
+      ],
+      "description": "Annonces reprenant le credo de Johnson & Johnson, inchangé depuis près de 60 ans, qui place au premier rang la responsabilité envers les médecins, les infirmières et les patients.",
+      "address": "Rotzenbühlstrasse 55",
+      "postalCode": "8957",
+      "city": "Spreitenbach",
+      "canton": "AG",
+      "country": "Suisse",
+      "phone": "+41(0)56 417 33 33",
+      "email": "jnj@its.jnj.com",
+      "website": "www.jnj.com",
+      "contacts": [],
+      "page": "128, 150",
+      "pdfPages": [],
+      "advertiserOnly": true
+    },
+    {
+      "slug": "medacta-international",
+      "name": "Medacta International SA",
+      "sector": "Prothèses orthopédiques et chirurgie mini-invasive",
+      "themes": [
+        "sante",
+        "industrie"
+      ],
+      "description": "PME tessinoise familiale qui conçoit, fabrique et commercialise des prothèses orthopédiques, notamment de hanche et de genou, et des équipements d'assistance à la chirurgie mini-invasive, pour simplifier les opérations et raccourcir la réadaptation.",
+      "address": "Strada Regina",
+      "postalCode": "6874",
+      "city": "Castel San Pietro",
+      "canton": "TI",
+      "country": "Suisse",
+      "phone": "+41 91 696 60 60",
+      "email": "info@medacta.ch",
+      "website": "www.medacta.ch",
+      "contacts": [],
+      "page": "129",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "medicatech",
+      "name": "Medicatech Sàrl",
+      "sector": "Maintenance et réparation d'instruments chirurgicaux",
+      "themes": [
+        "sante",
+        "industrie"
+      ],
+      "description": "Entreprise familiale fondée en 1979, spécialisée dans la remise à neuf d'instruments de chirurgie générale, laparoscopique, arthroscopique et de microchirurgie, la fabrication d'instruments et de prototypes, et le regravage des codes Datamatrix. Six collaborateurs, certifiée ISO 9001 et ISO 13485.",
+      "address": "Rue de l'Ouriette 139",
+      "postalCode": "1170",
+      "city": "Aubonne",
+      "canton": "VD",
+      "country": "Suisse",
+      "phone": "+41 21 800 42 55",
+      "email": "info@medicatech.ch",
+      "website": "www.medicatech.ch",
+      "contacts": [
+        {
+          "name": "Stéphane Andrist",
+          "role": "Directeur"
+        }
+      ],
+      "page": "130-131",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "msd-merck-sharp-dohme",
+      "name": "Merck Sharp & Dohme AG (MSD)",
+      "sector": "Industrie pharmaceutique",
+      "themes": [
+        "sante",
+        "industrie"
+      ],
+      "description": "Filiale suisse de Merck & Co. (MSD), parmi les trois premiers laboratoires du pays pour les médicaments sur ordonnance ; environ 700 collaborateurs en Suisse, activités regroupées à Lucerne et R&D biotechnologique chez Werthenstein BioPharma à Schachen. Adresse annoncée dès septembre 2011 : Werftestrasse 4, 6003 Luzern. Annonce « Humancare » en page 171.",
+      "address": "Schaffhauserstrasse 136",
+      "postalCode": "8152",
+      "city": "Opfikon-Glattbrugg",
+      "canton": "ZH",
+      "country": "Suisse",
+      "phone": "+41 (0)44 828 71 11",
+      "email": "info@msd.ch",
+      "website": "http://www.msd.ch",
+      "contacts": [
+        {
+          "name": "Adriaan Ruijs",
+          "role": "Managing Director"
+        }
+      ],
+      "page": "132-135, 171",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "mmm-sterilisatoren",
+      "name": "MMM Sterilisatoren AG",
+      "sector": "Solutions de stérilisation et de désinfection",
+      "themes": [
+        "sante",
+        "industrie"
+      ],
+      "description": "Filiale suisse du groupe familial MMM (Münchener Medizin Mechanik GmbH), fondé en 1954 : stérilisateurs et solutions de contrôle des infections pour hôpitaux, cliniques, industrie pharmaceutique et laboratoires. Équipements dans les cinq hôpitaux universitaires et plus de 200 hôpitaux suisses ; le groupe emploie 980 personnes.",
+      "address": "Grossmattstrasse 14",
+      "postalCode": "8964",
+      "city": "Rudolfstetten",
+      "canton": "AG",
+      "country": "Suisse",
+      "phone": "+41 (0)56 204 22 20",
+      "email": "info@mmmgroup.ch",
+      "website": "www.mmmgroup.ch",
+      "contacts": [
+        {
+          "name": "Kamel Henni",
+          "role": "Geschäftsführer"
+        }
+      ],
+      "page": "136-137",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "pwc",
+      "name": "PwC",
+      "sector": "Audit et conseil",
+      "themes": [
+        "economie"
+      ],
+      "description": "Première société d'audit et de conseil de Suisse (anciennement PricewaterhouseCoopers) : 704 millions de francs de chiffre d'affaires brut en 2009-2010, 2 623 collaborateurs dans 15 succursales. Le bureau de Genève compte 25 associés et 420 collaborateurs (audit, conseil juridique et fiscal, conseil économique, secteur public, ONG).",
+      "address": "Avenue Giuseppe-Motta 50, Case postale",
+      "postalCode": "1211",
+      "city": "Genève 2",
+      "canton": "GE",
+      "country": "Suisse",
+      "phone": "+41 58 792 91 00",
+      "email": "",
+      "website": "www.pwc.ch",
+      "contacts": [
+        {
+          "name": "Philippe Tzaud",
+          "role": "Associé responsable du bureau de Genève"
+        },
+        {
+          "name": "Dominique Perron",
+          "role": "Responsable du secteur public pour la Romandie"
+        }
+      ],
+      "page": "138-139",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "reactolab",
+      "name": "Reactolab SA",
+      "sector": "Distribution de produits chimiques et de matériel de laboratoire",
+      "themes": [
+        "sante",
+        "formation",
+        "industrie"
+      ],
+      "description": "PME vaudoise créée en 1988 qui distribue dans toute la Suisse produits chimiques, verrerie et matériel de laboratoire (Merck, Acros Organics, Whatman, Carlo Erba, Vircell…), distributrice exclusive de Vector Laboratories. Six personnes, environ 2 000 clients, livraisons assurées par ses propres moyens.",
+      "address": "Rte Cantonale 10",
+      "postalCode": "1077",
+      "city": "Servion",
+      "canton": "VD",
+      "country": "Suisse",
+      "phone": "+41 21 903 32 32",
+      "email": "info@reactolab.ch",
+      "website": "www.reactolab.ch",
+      "contacts": [
+        {
+          "name": "Philippe Chassot",
+          "role": "Administrateur"
+        }
+      ],
+      "page": "140-141",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "rive-droite",
+      "name": "Rive Droite SA",
+      "sector": "Imagerie médicale et radiologie interventionnelle",
+      "themes": [
+        "sante"
+      ],
+      "description": "Centre genevois d'imagerie médicale et de traitement percutané situé près de la gare Cornavin : imagerie de la femme, échographie, scanner basse dose, IRM, radiologie interventionnelle, traitement de la douleur et traitements mini-invasifs des tumeurs par radiofréquence et micro-ondes.",
+      "address": "21, Rue Chantepoulet",
+      "postalCode": "1201",
+      "city": "Genève",
+      "canton": "GE",
+      "country": "Suisse",
+      "phone": "+41(0)22 545 50 50",
+      "email": "info@cird.ch",
+      "website": "www.cird.ch",
+      "contacts": [
+        {
+          "name": "Frank Pilleul",
+          "role": "Professeur, radiologue"
+        }
+      ],
+      "page": "142-143",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "sca-hygiene-products",
+      "name": "SCA Hygiene Products AG",
+      "sector": "Produits d'hygiène et d'incontinence (TENA)",
+      "themes": [
+        "sante",
+        "industrie"
+      ],
+      "description": "Filiale suisse du groupe suédois SCA, leader mondial des produits pour l'incontinence sous la marque TENA. Plus de 120 produits, formations pour le personnel soignant et concept « TENA 360° » ; 40 collaborateurs en Suisse.",
+      "address": "Baarerstrasse 133",
+      "postalCode": "6301",
+      "city": "Zug",
+      "canton": "ZG",
+      "country": "Suisse",
+      "phone": "+41 (0)41 768 93 10",
+      "email": "info@sca.com",
+      "website": "www.sca.com",
+      "contacts": [
+        {
+          "name": "Franco Cesario",
+          "role": "Sales Director Schweiz"
+        }
+      ],
+      "page": "144-145",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "keramik-laufen",
+      "name": "Keramik Laufen AG",
+      "sector": "Céramique sanitaire et équipements de salle de bains",
+      "themes": [
+        "construction",
+        "architecture",
+        "industrie"
+      ],
+      "description": "Fabricant suisse de céramique sanitaire, membre du groupe espagnol Roca depuis 1999, qui propose avec Similor le « Total Bathroom Concept ». Production à Laufen et LAUFEN Forum, bâtiment d'exposition primé en forme de lavabo.",
+      "address": "Wahlenstrasse 46",
+      "postalCode": "4242",
+      "city": "Laufen",
+      "canton": "BL",
+      "country": "Suisse",
+      "phone": "+41 (0)61 765 75 75",
+      "email": "forum@laufen.ch",
+      "website": "www.laufen.ch",
+      "contacts": [
+        {
+          "name": "Klaus Schneider",
+          "role": "Managing Director"
+        }
+      ],
+      "page": "146-149",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "similor",
+      "name": "Similor AG",
+      "sector": "Robinetterie sanitaire",
+      "themes": [
+        "construction",
+        "architecture",
+        "industrie"
+      ],
+      "description": "Fabricant de robinetterie (marques arwa, Similor Kugler, Sanimatic) acquis en 2007 par le groupe Roca, dirigé conjointement avec Keramik Laufen AG, avec une nouvelle unité de production à Laufen.",
+      "address": "Wahlenstrasse 46",
+      "postalCode": "4242",
+      "city": "Laufen",
+      "canton": "BL",
+      "country": "Suisse",
+      "phone": "+41 (0)61 765 73 33",
+      "email": "",
+      "website": "www.similorgroup.com",
+      "contacts": [
+        {
+          "name": "Klaus Schneider",
+          "role": "Managing Director"
+        }
+      ],
+      "page": "146-149",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "sipaec",
+      "name": "SIPAEC SA",
+      "sector": "Produits et machines de nettoyage professionnel",
+      "themes": [
+        "industrie",
+        "sante"
+      ],
+      "description": "Entreprise familiale fondée en 1975 qui fournit produits chimiques, machines et accessoires de nettoyage : 7 500 articles, quatre succursales (Genève, Monthey, Lausanne, Däniken), plus de 3 600 clients dont les HUG depuis plus de 15 ans, service après-vente toutes marques.",
+      "address": "1, rue Pedro-Meylan",
+      "postalCode": "1208",
+      "city": "Genève",
+      "canton": "GE",
+      "country": "Suisse",
+      "phone": "+41 22 840 51 00",
+      "email": "sipaec@sipaec.ch",
+      "website": "www.sipaec.ch",
+      "contacts": [
+        {
+          "name": "Marina Tollis",
+          "role": "Directrice adjointe"
+        }
+      ],
+      "page": "151",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "tornier",
+      "name": "Tornier AG",
+      "sector": "Dispositifs médicaux orthopédiques (extrémités)",
+      "themes": [
+        "sante",
+        "industrie"
+      ],
+      "description": "Concepteur, fabricant et distributeur de dispositifs pour l'orthopédie et la traumatologie des extrémités (épaule, coude, main, poignet, cheville, pied) ainsi que de prothèses de hanche et de genou : plus de 70 lignes de produits dans plus de 35 pays, 126 brevets.",
+      "address": "Alte Steinhauserstrasse 19",
+      "postalCode": "6330",
+      "city": "Cham",
+      "canton": "ZG",
+      "country": "Suisse",
+      "phone": "+41 41 760 26 12",
+      "email": "",
+      "website": "www.tornier.com",
+      "contacts": [
+        {
+          "name": "Christian Beyeler",
+          "role": "Directeur"
+        }
+      ],
+      "page": "156",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "bugnion",
+      "name": "Bugnion SA",
+      "sector": "Conseils en propriété intellectuelle",
+      "themes": [
+        "economie",
+        "formation"
+      ],
+      "description": "Cabinet genevois de conseils en propriété intellectuelle, auteur d'une tribune sur les brevets dans le domaine de la santé et de conseils aux chercheurs souhaitant protéger leurs découvertes avant publication.",
+      "address": "10, route de Florissant, Case 375",
+      "postalCode": "1211",
+      "city": "Genève 12",
+      "canton": "GE",
+      "country": "Suisse",
+      "phone": "022 346 87 44",
+      "email": "bugnion@bugnion.ch",
+      "website": "www.bugnion.ch",
+      "contacts": [
+        {
+          "name": "Jean-Alain Schulz",
+          "role": ""
+        }
+      ],
+      "page": "157",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "bj-coffee",
+      "name": "bj-coffee SA",
+      "sector": "Distribution de machines et cafés Nespresso (professionnels)",
+      "themes": [
+        "economie"
+      ],
+      "description": "Partenaire exclusif depuis 1997 de la gamme professionnelle Nespresso pour le canton de Genève, issu de la société familiale Baumann-Jeanneret (1910). Plus de 30 collaborateurs, plus de 5 000 clients dont les HUG, distributeurs sur site, certifié ISO 9001.",
+      "address": "Route des Jeunes 5d",
+      "postalCode": "1227",
+      "city": "Les Acacias",
+      "canton": "GE",
+      "country": "Suisse",
+      "phone": "+41 (0)22 708 08 60",
+      "email": "info@bj-coffee.ch",
+      "website": "",
+      "contacts": [
+        {
+          "name": "Christian Wahl",
+          "role": "Directeur général"
+        }
+      ],
+      "page": "158",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "gastromer",
+      "name": "Gastromer SA",
+      "sector": "Importation et distribution de produits de la mer",
+      "themes": [
+        "economie"
+      ],
+      "description": "Entreprise familiale fondée en 1993 qui importe et distribue plus de 900 références de produits de la mer pour l'hôtellerie, la restauration, les collectivités et les hôpitaux de Suisse romande. 38 collaborateurs, locaux agréés CE, 18 camions et environ 250 livraisons par jour ; antenne Gastromer Valais à Saxon.",
+      "address": "14, chemin du Champ-Blanchod",
+      "postalCode": "1228",
+      "city": "Plan-les-Ouates",
+      "canton": "GE",
+      "country": "Suisse",
+      "phone": "+ 41 22 / 794 39 10",
+      "email": "",
+      "website": "www.gastromer.ch",
+      "contacts": [
+        {
+          "name": "Laurent Isoux",
+          "role": "Fondateur"
+        }
+      ],
+      "page": "159",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "casabat",
+      "name": "Casabat SA",
+      "sector": "Entreprise de construction",
+      "themes": [
+        "construction"
+      ],
+      "description": "Petite entreprise familiale genevoise du bâtiment fondée en 1990, avec une vingtaine d'ouvriers : constructions en entreprise générale ou totale et petits travaux de réparation, pour des privés, les Services industriels de Genève, l'État, les communes et les HUG.",
+      "address": "Chemin des Léchères 6",
+      "postalCode": "1217",
+      "city": "Meyrin",
+      "canton": "GE",
+      "country": "Suisse",
+      "phone": "022 753 03 56",
+      "email": "",
+      "website": "www.casabat.ch",
+      "contacts": [
+        {
+          "name": "Juan Casanova",
+          "role": "Directeur"
+        }
+      ],
+      "page": "160",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "transferts-video-film",
+      "name": "Transferts Vidéo & Film SA (TVF)",
+      "sector": "Transfert et sauvegarde de films et vidéos",
+      "themes": [
+        "economie",
+        "territoire"
+      ],
+      "description": "Laboratoire carougeois actif depuis 26 ans dans le transfert de films et de vidéos de tous formats vers des supports durables, la restauration d'images et la conversion de fichiers ; clients : chaînes de télévision, producteurs, entreprises, institutions et particuliers. Membre de Memoriav.",
+      "address": "43 rte des Jeunes",
+      "postalCode": "1227",
+      "city": "Carouge",
+      "canton": "GE",
+      "country": "Suisse",
+      "phone": "0041-22-342 38 39",
+      "email": "",
+      "website": "www.tvf.ch",
+      "contacts": [
+        {
+          "name": "Eric Von Büren",
+          "role": "Directeur"
+        }
+      ],
+      "page": "161",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "citroen-suisse-geneve",
+      "name": "Citroën (Suisse) SA – Succursale de Genève",
+      "sector": "Garage et concession automobile",
+      "themes": [
+        "mobilite",
+        "economie"
+      ],
+      "description": "Succursale genevoise de Citroën, numéro un des véhicules utilitaires dans le canton : environ 1 500 véhicules neufs et 700 occasions par an, 65 collaborateurs, showroom de 1 100 m², atelier, carrosserie toutes marques et dépôt de pièces.",
+      "address": "Route des Acacias 27",
+      "postalCode": "1211",
+      "city": "Genève 26",
+      "canton": "GE",
+      "country": "Suisse",
+      "phone": "022 308 01 11",
+      "email": "",
+      "website": "www.citroen-geneve.ch",
+      "contacts": [
+        {
+          "name": "Denis Picard",
+          "role": "Directeur"
+        }
+      ],
+      "page": "162-163",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "emil-frey-geneve",
+      "name": "Emil Frey SA – Agence BMW-Mini Genève",
+      "sector": "Garage et concession automobile",
+      "themes": [
+        "mobilite",
+        "economie"
+      ],
+      "description": "Plus grand garage de la région genevoise, distributeur de BMW et Mini ainsi que de Subaru, Kia, Suzuki et Daihatsu : 147 employés, dont 90 au service après-vente, ateliers et carrosserie, ventes aux diplomates.",
+      "address": "23, route des Acacias",
+      "postalCode": "1227",
+      "city": "Genève-Acacias",
+      "canton": "GE",
+      "country": "Suisse",
+      "phone": "022 308 5 308",
+      "email": "bmw.geneve@emilfrey.ch",
+      "website": "",
+      "contacts": [
+        {
+          "name": "Alexandre Farago",
+          "role": "Directeur"
+        }
+      ],
+      "page": "164-165",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "gets-medical-safety-systems",
+      "name": "Gets Medical Safety Systems SA (Gets MSS)",
+      "sector": "Systèmes d'appel malade et de sécurité",
+      "themes": [
+        "sante",
+        "industrie"
+      ],
+      "description": "Entreprise lausannoise fondée en 1986, leader suisse des systèmes d'appel malade et de surveillance (anti-errance) : plus de 1 200 hôpitaux et établissements pour personnes âgées équipés en Suisse, 350 en France ; 22 employés.",
+      "address": "Avenue des Boveresses 52",
+      "postalCode": "1010",
+      "city": "Lausanne",
+      "canton": "VD",
+      "country": "Suisse",
+      "phone": "+41 21 654 27 70",
+      "email": "info@gets.ch",
+      "website": "",
+      "contacts": [
+        {
+          "name": "Stéphane Oechslin",
+          "role": "Directeur"
+        }
+      ],
+      "page": "166-167",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "veltigroup",
+      "name": "Veltigroup",
+      "sector": "Services informatiques et de télécommunication (ICT)",
+      "themes": [
+        "economie"
+      ],
+      "description": "Prestataire ICT suisse indépendant de plus de 300 spécialistes (sociétés LANexpert, Pragmantic, Perhalion et ITS), leader en Suisse romande et présent à Berne et Zurich, offrant analyse, réalisation et exploitation des systèmes d'information.",
+      "address": "Av. de Provence 4",
+      "postalCode": "1007",
+      "city": "Lausanne",
+      "canton": "VD",
+      "country": "Suisse",
+      "phone": "+41 22 989 44 44",
+      "email": "info@veltigroup.com",
+      "website": "www.veltigroup.com",
+      "contacts": [
+        {
+          "name": "Nicolas Fulpius",
+          "role": "CEO"
+        }
+      ],
+      "page": "168-169",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "my-private-care",
+      "name": "My Private Care Sàrl",
+      "sector": "Soins à domicile privés",
+      "themes": [
+        "sante"
+      ],
+      "description": "Institution de santé privée genevoise, issue de la société de placement Oneplacement, proposant des soins à domicile haut de gamme, des services de bien-être, un accompagnement intergénérationnel, des animations en EMS et le placement de personnel médical.",
+      "address": "Rue du Contrat social 1",
+      "postalCode": "1203",
+      "city": "Genève",
+      "canton": "GE",
+      "country": "Suisse",
+      "phone": "022 340 56 56",
+      "email": "",
+      "website": "www.myprivatecare.ch",
+      "contacts": [
+        {
+          "name": "Florence Baudoin",
+          "role": "Directrice"
+        }
+      ],
+      "page": "170",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "g-schweizer",
+      "name": "G. Schweizer SA",
+      "sector": "Machines et fournitures pour boucheries et cuisines professionnelles",
+      "themes": [
+        "industrie",
+        "economie"
+      ],
+      "description": "Maison lausannoise créée à la fin des années 1950 qui équipe boucheries, restaurants, hôtels, hôpitaux, EMS et collectivités de Suisse romande : machines, ustensiles, machines sous vide et pièces de rechange, avec livraisons hebdomadaires et service de réparation.",
+      "address": "Avenue de Morges 161",
+      "postalCode": "1004",
+      "city": "Lausanne",
+      "canton": "VD",
+      "country": "Suisse",
+      "phone": "021 625 35 25",
+      "email": "schweizergsa@bluewin.ch",
+      "website": "",
+      "contacts": [
+        {
+          "name": "Marie-Louise Déjardin",
+          "role": "Directrice"
+        }
+      ],
+      "page": "172-173",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "sicli-switzerland",
+      "name": "SICLI Switzerland – UTC Fire & Security Services",
+      "sector": "Protection et sécurité incendie",
+      "themes": [
+        "industrie",
+        "construction"
+      ],
+      "description": "Société de protection incendie du groupe UTC Fire & Security : détection incendie, analyse des risques, audits, formation, plans et signalétique de sécurité, éclairage de secours, extincteurs et postes incendie avec leur maintenance.",
+      "address": "Route des Acacias, 45",
+      "postalCode": "1211",
+      "city": "Genève",
+      "canton": "GE",
+      "country": "Suisse",
+      "phone": "(41)02 23 42 18 18",
+      "email": "",
+      "website": "www.utcfireandsecurity.com",
+      "contacts": [],
+      "page": "174-175",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "as-ambulances-services",
+      "name": "AS Ambulances Services SA",
+      "sector": "Service d'ambulances et de transport de patients",
+      "themes": [
+        "sante",
+        "mobilite"
+      ],
+      "description": "Service genevois actif depuis 1990 dans l'urgence, le transport préhospitalier, le transport de patients à mobilité réduite et le rapatriement ; premier service de sauvetage genevois certifié IAS (2010).",
+      "address": "55, rue du XXXI-Décembre, Case postale 6274",
+      "postalCode": "1211",
+      "city": "Genève 6",
+      "canton": "GE",
+      "country": "Suisse",
+      "phone": "022 786 39 39",
+      "email": "",
+      "website": "",
+      "contacts": [],
+      "page": "176",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "binggeli-freres",
+      "name": "Binggeli Frères SA",
+      "sector": "Distribution de produits alimentaires",
+      "themes": [
+        "economie"
+      ],
+      "description": "Entreprise familiale romande spécialisée dans la distribution de produits alimentaires (œufs et produits d'œufs, charcuterie, produits surgelés, conserves) pour les boulangers-pâtissiers-confiseurs, l'hôtellerie, les hôpitaux et les EMS. Annonce en page 176.",
+      "address": "En Budron A1",
+      "postalCode": "1052",
+      "city": "Le Mont s/Lausanne",
+      "canton": "VD",
+      "country": "Suisse",
+      "phone": "021 651 41 00",
+      "email": "",
+      "website": "",
+      "contacts": [],
+      "page": "176",
+      "pdfPages": [],
+      "advertiserOnly": true
+    },
+    {
+      "slug": "chemie-brunschwig",
+      "name": "Chemie Brunschwig AG",
+      "sector": "Fournitures pour laboratoires et production",
+      "themes": [
+        "sante",
+        "formation",
+        "industrie"
+      ],
+      "description": "Distributeur bâlois fondé en 1948 (20 collaborateurs) qui commercialise en Suisse plus de 300 000 produits pour la recherche, l'analyse et la production : chimie, sciences de la vie (biologie cellulaire et moléculaire, microbiologie, histologie) et matériel de laboratoire.",
+      "address": "Belchenstrasse 12 / PO Box",
+      "postalCode": "4009",
+      "city": "Basel",
+      "canton": "BS",
+      "country": "Suisse",
+      "phone": "+41 (0)61 308 91 11",
+      "email": "info@brunschwig-ch.com",
+      "website": "www.brunschwig-ch.com",
+      "contacts": [],
+      "page": "177",
+      "pdfPages": [],
+      "advertiserOnly": true
+    },
+    {
+      "slug": "medileg",
+      "name": "Medileg SA",
+      "sector": "Distribution de bas de compression et produits orthopédiques",
+      "themes": [
+        "sante"
+      ],
+      "description": "Entreprise familiale fondée en 2008, distributrice exclusive en Suisse des bas et collants de compression et produits orthopédiques de l'italien Cizeta Medicali (VARISAN, VIVA, CIZETA ORTÒ) et des produits CADENCE, pour pharmacies, orthopédistes, médecins, hôpitaux et homes.",
+      "address": "Pra-Riond 2",
+      "postalCode": "1564",
+      "city": "Domdidier",
+      "canton": "FR",
+      "country": "Suisse",
+      "phone": "+41 (0)26 510 11 00",
+      "email": "",
+      "website": "www.medileg.ch",
+      "contacts": [
+        {
+          "name": "Françoise de Peyerimhoff",
+          "role": "Directrice"
+        }
+      ],
+      "page": "177",
+      "pdfPages": [],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "l-f-serrurerie",
+      "name": "L&F Serrurerie & Constructions Métalliques SA",
+      "sector": "Serrurerie et constructions métalliques",
+      "themes": [
+        "construction"
+      ],
+      "description": "Serrurerie genevoise spécialisée dans les ascenseurs et monte-charges (gaines métalliques tôlées ou vitrées, fermetures grillagées, décoration de cabines, protections de chantier), ainsi que dans la serrurerie traditionnelle, la ferronnerie d'art et les huisseries métalliques.",
+      "address": "Rue de Lyon 110",
+      "postalCode": "1203",
+      "city": "Genève",
+      "canton": "GE",
+      "country": "Suisse",
+      "phone": "022 340 73 04",
+      "email": "lf-sarl@bluewin.ch",
+      "website": "",
+      "contacts": [],
+      "page": "178",
+      "pdfPages": [],
+      "advertiserOnly": true
+    },
+    {
+      "slug": "centre-laser-victor-hugo",
+      "name": "Centre Laser Victor Hugo (CLVH)",
+      "sector": "Chirurgie réfractive au laser",
+      "themes": [
+        "sante"
+      ],
+      "description": "Annonce pleine page pour INTRACOR, traitement de la presbytie au laser : « Quelques secondes de laser pour dire adieu à vos lunettes ! »",
       "address": "",
       "postalCode": "",
       "city": "",
       "canton": "",
       "country": "",
-      "phone": "",
+      "phone": "01 55 73 02 02",
       "email": "",
-      "website": "www.trbchemedica.com",
+      "website": "www.operation-presbytie.com",
       "contacts": [],
-      "page": "3",
+      "page": "112",
       "pdfPages": [],
       "advertiserOnly": true
     }
