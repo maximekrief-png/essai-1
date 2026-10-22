@@ -1,0 +1,152 @@
+{
+  "arc-lemanique": {
+    "page": "https://swissknowhow.ch/arc-lemanique/",
+    "pdf": "https://swissknowhow.ch/wp-content/uploads/2022/11/SWISS_ARC_LEMANIQUE-v7-web.pdf",
+    "thumb": "https://swissknowhow.ch/wp-content/uploads/2022/11/arc-lemoniac.jpg"
+  },
+  "region-bernoise": {
+    "page": "https://swissknowhow.ch/economie-bennoise/",
+    "pdf": "https://swissknowhow.ch/wp-content/uploads/2022/10/BENNOISE.pdf",
+    "thumb": "https://swissknowhow.ch/wp-content/uploads/2022/10/Capturedecran2019-10-28a23.00.10-1280w.webp"
+  },
+  "economie-publique": {
+    "page": "https://swissknowhow.ch/economie-publique/",
+    "pdf": "https://swissknowhow.ch/wp-content/uploads/2022/10/ECONOMIE-PUBLIQUE.pdf",
+    "thumb": ""
+  },
+  "geneve-la-cote": {
+    "page": "https://swissknowhow.ch/geneve-et-la-cote/",
+    "pdf": "https://swissknowhow.ch/wp-content/uploads/2022/11/GENEVE-ET-LA-COTE.pdf",
+    "thumb": "https://swissknowhow.ch/wp-content/uploads/2022/11/Geneve-et-la-cote.webp"
+  },
+  "grands-travaux-2026": {
+    "page": "https://swissknowhow.ch/grands-travaux-2026/",
+    "pdf": "https://swissknowhow.ch/wp-content/uploads/2026/03/SWISS_GrandsTravaux_2026_Web3.pdf",
+    "thumb": "https://swissknowhow.ch/wp-content/uploads/2026/03/infra-26.webp"
+  },
+  "horlogerie-2024": {
+    "page": "https://swissknowhow.ch/horlogere-2024/",
+    "pdf": "https://swissknowhow.ch/wp-content/uploads/2024/04/SWISS_HORLOGERIE_2024_WEB.pdf",
+    "thumb": "https://swissknowhow.ch/wp-content/uploads/2024/04/SWISS_HORLOGERIE_2024.webp"
+  },
+  "horlogerie-2025": {
+    "page": "https://swissknowhow.ch/horlogere-2025/",
+    "pdf": "https://swissknowhow.ch/wp-content/uploads/2026/03/SWISS_HORLOGERIE_2025_v8_WEB.pdf",
+    "thumb": "https://swissknowhow.ch/wp-content/uploads/2026/03/Horlogerie-2025.webp"
+  },
+  "horlogerie-2015": {
+    "page": "https://swissknowhow.ch/horlogerie-2015/",
+    "pdf": "https://swissknowhow.ch/wp-content/uploads/2023/02/SWISS_INDUSTRIE_HORLOGERE_2015_WEB.pdf",
+    "thumb": "https://swissknowhow.ch/wp-content/uploads/2022/11/couverture-h2015.webp"
+  },
+  "horlogerie-2016": {
+    "page": "https://swissknowhow.ch/horlogerie-2016/",
+    "pdf": "https://swissknowhow.ch/wp-content/uploads/2023/02/SWISS_INDUST_HORLOGERE_2016_WEB.pdf",
+    "thumb": "https://swissknowhow.ch/wp-content/uploads/2022/11/couv-2016.webp"
+  },
+  "hug-2011": {
+    "page": "https://swissknowhow.ch/hug-2011/",
+    "pdf": "https://swissknowhow.ch/wp-content/uploads/2022/11/HUG-2011-web.pdf",
+    "thumb": "https://swissknowhow.ch/wp-content/uploads/2022/11/HUG-2011-scaled.webp"
+  },
+  "horlogerie-2023": {
+    "page": "https://swissknowhow.ch/la-sous-traitance-horlogere-2023/",
+    "pdf": "https://swissknowhow.ch/wp-content/uploads/2023/02/SWISS_HORLOGERIE_2023_INTEGRAL-web-3.pdf",
+    "thumb": "https://swissknowhow.ch/wp-content/uploads/2023/02/couvr23.webp"
+  },
+  "lausanne": {
+    "page": "https://swissknowhow.ch/lausanne/",
+    "pdf": "https://swissknowhow.ch/wp-content/uploads/2022/10/LAUSANNE.pdf",
+    "thumb": "https://swissknowhow.ch/wp-content/uploads/2022/10/Capturedecran2019-10-28a23.00.20-1280w.webp"
+  },
+  "sante-gesundheit": {
+    "page": "https://swissknowhow.ch/sante-2015/",
+    "pdf": "https://swissknowhow.ch/wp-content/uploads/2022/11/SWISS_SANTE_GESUNDHEIT-web.pdf",
+    "thumb": "https://swissknowhow.ch/wp-content/uploads/2022/11/Sante-swiss.webp"
+  },
+  "sommary": {
+    "page": "https://swissknowhow.ch/sommario/",
+    "pdf": "https://swissknowhow.ch/wp-content/uploads/2022/10/SOMMARY-SUMMORY.pdf",
+    "thumb": "https://swissknowhow.ch/wp-content/uploads/2022/10/Capturedecran2019-10-28a23.00.28-1280w.webp"
+  },
+  "grands-travaux": {
+    "page": "https://swissknowhow.ch/swiss-grands-travaux/",
+    "pdf": "https://swissknowhow.ch/wp-content/uploads/2022/11/SWISS_GRANDS_TRAVAUX-web.pdf",
+    "thumb": "https://swissknowhow.ch/wp-content/uploads/2022/11/Grand-traveaux-couv.webp"
+  },
+  "horlogerie-2017": {
+    "page": "https://swissknowhow.ch/swiss-horlogerie-2017/",
+    "pdf": "https://swissknowhow.ch/wp-content/uploads/2023/02/SWISS_HORLOGERIE_2017_WEB.pdf",
+    "thumb": "https://swissknowhow.ch/wp-content/uploads/2022/11/Swiss-Horlogrie-2017.webp"
+  },
+  "horlogerie-2018": {
+    "page": "https://swissknowhow.ch/swiss-horlogerie-2018/",
+    "pdf": "https://swissknowhow.ch/wp-content/uploads/2023/02/SWISS_HORLOGERIE_2018_WEB.pdf",
+    "thumb": "https://swissknowhow.ch/wp-content/uploads/2022/11/Swiss-Horlogrie-2018.webp"
+  },
+  "horlogerie-2019": {
+    "page": "https://swissknowhow.ch/swiss-horlogerie-2019/",
+    "pdf": "https://swissknowhow.ch/wp-content/uploads/2023/02/SWISS_HORLOGERIE_2019_OK-3-WEB.pdf",
+    "thumb": "https://swissknowhow.ch/wp-content/uploads/2022/11/Swiss-Horlogrie-2020.webp"
+  },
+  "horlogerie-2020": {
+    "page": "https://swissknowhow.ch/swiss-horlogerie-2020/",
+    "pdf": "https://swissknowhow.ch/wp-content/uploads/2023/02/SWISS_HORLOGERIE_2020-v7-WEB.pdf",
+    "thumb": "https://swissknowhow.ch/wp-content/uploads/2022/11/Swiss-Horlogrie-2020-1.webp"
+  },
+  "horlogerie-2021": {
+    "page": "https://swissknowhow.ch/swiss-horlogerie-2021/",
+    "pdf": "https://swissknowhow.ch/wp-content/uploads/2023/02/SWISS_HORLOGERIE_2021-v7_WEB.pdf",
+    "thumb": "https://swissknowhow.ch/wp-content/uploads/2022/11/SWISS_HORLOGERIE_2021_COUV.webp"
+  },
+  "horlogerie-2022": {
+    "page": "https://swissknowhow.ch/swiss-horlogerie-2022/",
+    "pdf": "https://swissknowhow.ch/wp-content/uploads/2022/11/SWISS_HORLOGERIE_2022_INT.pdf",
+    "thumb": "https://swissknowhow.ch/wp-content/uploads/2022/11/SWISS_HORLOGERIE_2022_COUV-scaled.webp"
+  },
+  "horlogerie-2026": {
+    "page": "https://swissknowhow.ch/swiss-horlogerie-2026/",
+    "pdf": "https://swissknowhow.ch/wp-content/uploads/2026/06/SWISS_HORLOGERIE_Mai-2026_WEB.pdf",
+    "thumb": "https://swissknowhow.ch/wp-content/uploads/2026/06/SWISS_HORLOGERIE_Mai-2026_WEB-1.jpg"
+  },
+  "sante-2024": {
+    "page": "https://swissknowhow.ch/swiss-sante-2024/",
+    "pdf": "https://swissknowhow.ch/wp-content/uploads/2024/07/SWISS_SANTE_2024_2nde-Impression_Web.pdf",
+    "thumb": ""
+  },
+  "fribourg-bienne-tessin": {
+    "page": "https://swissknowhow.ch/union-des-villes-suisses/",
+    "pdf": "https://swissknowhow.ch/wp-content/uploads/2022/11/SWISSFRIBOURG-BIENNE-TESSINBD.pdf",
+    "thumb": "https://swissknowhow.ch/wp-content/uploads/2022/11/Union-des-villes-Suisses.webp"
+  },
+  "uvs-suisse-alemanique": {
+    "page": "https://swissknowhow.ch/uvs-alemanique/",
+    "pdf": "https://swissknowhow.ch/wp-content/uploads/2022/11/SWISS_UVS_ALEMAN-web.pdf",
+    "thumb": "https://swissknowhow.ch/wp-content/uploads/2022/11/US-german.webp"
+  },
+  "uvs-valais-neuchatel": {
+    "page": "https://swissknowhow.ch/uvs-valais/",
+    "pdf": "https://swissknowhow.ch/wp-content/uploads/2022/11/SWISS_UVS_VALAIS_NEUCHATEL-web.pdf",
+    "thumb": "https://swissknowhow.ch/wp-content/uploads/2022/11/UVS-VALAIS.webp"
+  },
+  "ccig": {
+    "page": "https://swissknowhow.ch/chambre-de-commerce-et-dindustrie-de-geneve/",
+    "pdf": "https://swissknowhow.ch/wp-content/uploads/2022/11/CCIG.pdf",
+    "thumb": ""
+  },
+  "zurich": {
+    "page": "https://swissknowhow.ch/economie-zurichoise-2013/",
+    "pdf": "https://swissknowhow.ch/wp-content/uploads/2022/11/SWISS_ECO_ZURICH-web.pdf",
+    "thumb": "https://swissknowhow.ch/wp-content/uploads/2022/11/ecp-zurich.webp"
+  },
+  "directeurs-cantonaux-travaux-publics": {
+    "page": "https://swissknowhow.ch/wp-content/uploads/Directeurs-cantonauxdestravauxpublics.pdf",
+    "pdf": "https://swissknowhow.ch/wp-content/uploads/Directeurs-cantonauxdestravauxpublics.pdf",
+    "thumb": ""
+  },
+  "aee-suisse-energie": {
+    "page": "https://swissknowhow.ch/wp-content/uploads/AEE-SUISSE-INDUSTRIE-ELECTRIQUE-ET-ENERGIE.pdf",
+    "pdf": "https://swissknowhow.ch/wp-content/uploads/AEE-SUISSE-INDUSTRIE-ELECTRIQUE-ET-ENERGIE.pdf",
+    "thumb": ""
+  }
+}

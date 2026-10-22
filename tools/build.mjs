@@ -29,6 +29,18 @@ const telUrl = (p) => 'tel:' + p.replace(/[^+\d]/g, '').replace(/^00/, '+');
 const initials = (name) => fold(name).replace(/[^a-z0-9]+/g, ' ').replace(/\b(sa|ag|sarl|gmbh|ltd|inc|the|la|le|les|l|d|de|du|des|et|en|un|une|a|au|aux|der|die|das|und|im|il)\b/g, ' ').trim().split(/\s+/).filter((w) => /^[a-z]/.test(w)).slice(0, 2).map((w) => w[0].toUpperCase()).join('') || '•';
 const driveView = (id) => `https://drive.google.com/file/d/${id}/view`;
 const driveDownload = (id) => `https://drive.google.com/uc?export=download&id=${id}`;
+// PDF publics hébergés sur swissknowhow.ch (data/sources.json) : prioritaires sur Google Drive
+const SOURCES = fs.existsSync(path.join(ROOT, 'data', 'sources.json')) ? JSON.parse(fs.readFileSync(path.join(ROOT, 'data', 'sources.json'), 'utf8')) : {};
+const pdfLinks = (m) => {
+  const src = SOURCES[m.slug];
+  if (src?.pdf) {
+    const name = decodeURIComponent(src.pdf.split('/').pop());
+    const f = m.files.find((x) => x.name === name);
+    return { download: src.pdf, read: src.page || src.pdf, name, sizeMB: f?.sizeMB || '' };
+  }
+  const f = m.files[0];
+  return f ? { download: driveDownload(f.driveId), read: driveView(f.driveId), name: f.name, sizeMB: f.sizeMB || '' } : null;
+};
 const plural = (n, one, many) => `${n} ${n > 1 ? many : one}`;
 
 // ---------- chargement ----------
@@ -145,6 +157,7 @@ const NAV = [
   ['articles/', 'Articles'],
   ['themes/', 'Thèmes'],
   ['magazines/', 'Magazines PDF'],
+  ['contact/', 'Contact'],
 ];
 
 function layout({ depth, title, description = '', active = '', body, jsonld = '', image = '' }) {
@@ -206,7 +219,7 @@ ${body}
       ${Object.entries(THEMES).slice(0, 6).map(([id, t]) => `<a href="${r}themes/${id}/">${esc(t.label)}</a>`).join('')}
     </div>
   </div>
-  <div class="wrap footer-bottom">© ${new Date().getFullYear()} ${SITE_NAME} · Contenus issus des éditions imprimées du magazine.</div>
+  <div class="wrap footer-bottom">© ${new Date().getFullYear()} ${SITE_NAME} · Une marque de Com Consulting Sàrl, Rue Fritz-Courvoisier 40, 2300 La Chaux-de-Fonds · <a href="mailto:info@comconsulting.ch">info@comconsulting.ch</a></div>
 </footer>
 <div class="search-overlay" data-search-overlay hidden>
   <div class="search-panel" role="dialog" aria-modal="true" aria-label="Recherche">
@@ -266,7 +279,7 @@ function articleCard(a, r, { showMag = true } = {}) {
 }
 
 function magCard(m, r) {
-  const f = m.files[0];
+  const f = pdfLinks(m);
   return `<article class="mag-card" data-series="${esc(m.series || '')}" data-q="${esc(fold([m.title, m.series, m.region, m.year].join(' ')))}">
   <a href="${r}magazines/${m.slug}/" class="mag-cover-link">${magCover(m, r)}</a>
   <div class="mag-body">
@@ -274,8 +287,8 @@ function magCard(m, r) {
     <h3><a href="${r}magazines/${m.slug}/">${esc(m.title)}</a></h3>
     <p class="meta">${plural(m.articleSlugs.length, 'article', 'articles')} · ${plural(m.companySlugs.length, 'entreprise', 'entreprises')}</p>
     <div class="mag-actions">
-      ${f ? `<a class="btn btn-primary btn-sm" href="${driveDownload(f.driveId)}" target="_blank" rel="noopener">${icon('download', 'ico sm')}PDF${f.sizeMB ? ` · ${f.sizeMB} Mo` : ''}</a>
-      <a class="btn btn-ghost btn-sm" href="${driveView(f.driveId)}" target="_blank" rel="noopener">${icon('eye', 'ico sm')}Lire</a>` : ''}
+      ${f ? `<a class="btn btn-primary btn-sm" href="${esc(f.download)}" download target="_blank" rel="noopener">${icon('download', 'ico sm')}PDF${f.sizeMB ? ` · ${f.sizeMB} Mo` : ''}</a>
+      <a class="btn btn-ghost btn-sm" href="${esc(f.read)}" target="_blank" rel="noopener">${icon('eye', 'ico sm')}Lire</a>` : ''}
     </div>
   </div>
 </article>`;
@@ -404,7 +417,7 @@ function pageCompany(c) {
     ${c.description ? `<section><h2>Présentation</h2><p class="prose">${esc(c.description)}</p></section>` : ''}
     ${gallery.length > 1 ? `<section><h2>Photos</h2><div class="gallery">${gallery.map((s) => `<a href="${r}${esc(s)}" data-lightbox>${img(s, c.name, r)}</a>`).join('')}</div></section>` : ''}
     ${arts.length ? `<section><h2>Articles</h2><div class="grid grid-2">${arts.map((a) => articleCard(a, r)).join('')}</div></section>` : ''}
-    <section><h2>Parutions</h2><ul class="appear-list">${apps.map((x) => `<li><a href="${r}magazines/${x.m.slug}/">${magCover(x.m, r, 'xs')}<span><b>${esc(x.m.title)}</b><span class="muted">${x.m.year || ''}${x.page ? ` · page ${esc(x.page)}` : ''}</span></span></a>${x.m.files[0] ? `<a class="btn btn-ghost btn-sm" href="${driveView(x.m.files[0].driveId)}" target="_blank" rel="noopener">${icon('eye', 'ico sm')}PDF</a>` : ''}</li>`).join('')}</ul></section>
+    <section><h2>Parutions</h2><ul class="appear-list">${apps.map((x) => `<li><a href="${r}magazines/${x.m.slug}/">${magCover(x.m, r, 'xs')}<span><b>${esc(x.m.title)}</b><span class="muted">${x.m.year || ''}${x.page ? ` · page ${esc(x.page)}` : ''}</span></span></a>${pdfLinks(x.m) ? `<a class="btn btn-ghost btn-sm" href="${esc(pdfLinks(x.m).read)}" target="_blank" rel="noopener">${icon('eye', 'ico sm')}PDF</a>` : ''}</li>`).join('')}</ul></section>
   </article>
   <aside class="detail-side">
     <div class="contact-card">
@@ -449,7 +462,7 @@ function pageArticle(a) {
   const th = a.themes[0];
   const cos = a.companies.map((s) => companyMap.get(s)).filter(Boolean);
   const same = articles.filter((o) => o !== a && o.type !== 'annonce' && o.themes.some((t) => a.themes.includes(t))).slice(0, 3);
-  const f = m?.files?.[0];
+  const f = m ? pdfLinks(m) : null;
   const body = `
 <article>
 <header class="article-head wrap narrow">
@@ -468,7 +481,7 @@ function pageArticle(a) {
   ${m ? `<div class="source-box">
     <a href="${r}magazines/${m.slug}/">${magCover(m, r, 'sm')}</a>
     <div><p class="eyebrow">Paru dans</p><h3><a href="${r}magazines/${m.slug}/">${esc(m.title)}</a></h3><p class="muted">${m.year || ''}${a.page ? ` · page ${esc(a.page)}` : ''}${a.language ? ` · article original en ${({ fr: 'français', de: 'allemand', it: 'italien', en: 'anglais' })[a.language] || a.language}` : ''}</p>
-    ${f ? `<a class="btn btn-primary btn-sm" href="${driveView(f.driveId)}" target="_blank" rel="noopener">${icon('book', 'ico sm')}Lire l'article complet (PDF)</a>` : ''}</div>
+    ${f ? `<a class="btn btn-primary btn-sm" href="${esc(f.read)}" target="_blank" rel="noopener">${icon('book', 'ico sm')}Lire l'article complet</a> <a class="btn btn-ghost btn-sm" href="${esc(f.download)}" download target="_blank" rel="noopener">${icon('download', 'ico sm')}PDF</a>` : ''}</div>
   </div>` : ''}
 </div>
 </article>
@@ -553,7 +566,7 @@ function pageMagazine(m) {
       <h1>${esc(m.title)}</h1>
       ${m.description ? `<p class="lead">${esc(m.description)}</p>` : ''}
       <div class="chips">${m.themes.map((id) => themeChip(id, r)).join('')}</div>
-      <div class="file-list">${m.files.map((f) => `<div class="file-row"><span>${icon('book')}<span><b>${esc(f.label || 'PDF intégral')}</b><span class="muted">${esc(f.name)}${f.sizeMB ? ` · ${f.sizeMB} Mo` : ''}</span></span></span><span class="file-actions"><a class="btn btn-primary btn-sm" href="${driveDownload(f.driveId)}" target="_blank" rel="noopener">${icon('download', 'ico sm')}Télécharger</a><a class="btn btn-ghost btn-sm" href="${driveView(f.driveId)}" target="_blank" rel="noopener">${icon('eye', 'ico sm')}Lire en ligne</a></span></div>`).join('')}</div>
+      ${(() => { const f = pdfLinks(m); return f ? `<div class="file-list"><div class="file-row"><span>${icon('book')}<span><b>PDF intégral</b><span class="muted">${esc(f.name)}${f.sizeMB ? ` · ${f.sizeMB} Mo` : ''}</span></span></span><span class="file-actions"><a class="btn btn-primary btn-sm" href="${esc(f.download)}" download target="_blank" rel="noopener">${icon('download', 'ico sm')}Télécharger</a><a class="btn btn-ghost btn-sm" href="${esc(f.read)}" target="_blank" rel="noopener">${icon('eye', 'ico sm')}Lire en ligne</a></span></div></div>` : ''; })()}
     </div>
   </div>
 </section>
@@ -574,6 +587,37 @@ function pageSearch() {
   write('recherche/index.html', layout({ depth: 1, title: 'Recherche', description: 'Rechercher dans l’annuaire Swiss Knowhow.', active: '', body }));
 }
 
+const PUBLISHER = { name: 'Com Consulting Sàrl', address: 'Rue Fritz-Courvoisier 40', city: '2300 La Chaux-de-Fonds', phone: '+41 (0)32 967 95 83', email: 'info@comconsulting.ch' };
+
+function pageContact() {
+  const r = '../';
+  PH_ROOT = r;
+  const body = `
+<section class="page-head wrap">
+  ${crumbs([[null, 'Contact']], r)}
+  <h1>Contact & éditeur</h1>
+  <p class="lead">Swiss Knowhow est une marque de la société d'édition ${PUBLISHER.name}, à La Chaux-de-Fonds. Depuis une vingtaine d'années, ses magazines présentent les entreprises et les institutions qui incarnent la qualité et le savoir-faire suisses.</p>
+</section>
+<div class="wrap detail-grid">
+  <article class="detail-main">
+    <section><h2>Paraître dans Swiss Knowhow</h2><p class="prose">Entreprise, institution ou collectivité, vous souhaitez présenter votre savoir-faire dans une prochaine édition (horlogerie, santé, grands travaux, économie régionale) ou mettre à jour votre fiche dans l'annuaire ? Écrivez-nous en précisant le nom de votre organisation et la fiche concernée.</p>
+    <p><a class="btn btn-primary" href="mailto:${PUBLISHER.email}?subject=${encodeURIComponent('Annuaire Swiss Knowhow')}">${icon('mail', 'ico sm')}Écrire à la rédaction</a></p></section>
+    <section><h2>Nos collections</h2><div class="chips">${uniq(magazines.map((m) => m.series)).map((s) => `<a class="chip" style="--c:#c8102e" href="${r}magazines/">${esc(s)}</a>`).join('')}</div></section>
+  </article>
+  <aside class="detail-side">
+    <div class="contact-card">
+      <h2>${esc(PUBLISHER.name)}</h2>
+      <p class="ci">${icon('pin')}<span>${esc(PUBLISHER.address)}<br>${esc(PUBLISHER.city)}<br>Suisse</span></p>
+      <p class="ci">${icon('phone')}<a href="${telUrl(PUBLISHER.phone)}">${esc(PUBLISHER.phone)}</a></p>
+      <p class="ci">${icon('mail')}<a href="mailto:${PUBLISHER.email}">${PUBLISHER.email}</a></p>
+      <p class="ci">${icon('web')}<a href="${SITE_URL}" target="_blank" rel="noopener">swissknowhow.ch</a></p>
+      <a class="btn btn-ghost btn-block" href="https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(PUBLISHER.address + ', ' + PUBLISHER.city)}" target="_blank" rel="noopener">${icon('map', 'ico sm')}Voir sur la carte</a>
+    </div>
+  </aside>
+</div>`;
+  write('contact/index.html', layout({ depth: 1, title: 'Contact', description: `Contacter ${PUBLISHER.name}, éditeur du magazine Swiss Knowhow à La Chaux-de-Fonds.`, active: 'contact/', body }));
+}
+
 function page404() {
   const body = `<section class="page-head wrap"><h1>Page introuvable</h1><p class="lead">Cette page n'existe pas ou a été déplacée.</p><p><a class="btn btn-primary" href="./">Retour à l'accueil</a></p></section>`;
   write('404.html', layout({ depth: 0, title: 'Page introuvable', body }));
@@ -591,7 +635,7 @@ function searchIndex() {
 
 // ---------- génération ----------
 // Repart de zéro pour les pages générées (les assets statiques sont conservés)
-for (const d of ['entreprises', 'articles', 'themes', 'magazines', 'recherche']) fs.rmSync(path.join(OUT, d), { recursive: true, force: true });
+for (const d of ['entreprises', 'articles', 'themes', 'magazines', 'recherche', 'contact']) fs.rmSync(path.join(OUT, d), { recursive: true, force: true });
 pageHome();
 pageCompanies();
 companies.forEach(pageCompany);
@@ -602,6 +646,7 @@ Object.keys(THEMES).forEach(pageTheme);
 pageMagazines();
 magazines.forEach(pageMagazine);
 pageSearch();
+pageContact();
 page404();
 const n = searchIndex();
 write('.nojekyll', '');

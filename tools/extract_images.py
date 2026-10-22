@@ -16,6 +16,8 @@ from pathlib import Path
 
 from PIL import Image, ImageStat
 
+Image.MAX_IMAGE_PIXELS = 200_000_000
+
 ROOT = Path(__file__).resolve().parent.parent
 WORK = Path(os.environ.get("WORK", "/tmp/claude-0/-home-user-essai-1/47dc13f7-8829-53ad-81e9-612d09b1bf8b/scratchpad"))
 OUT = ROOT / "docs" / "assets" / "img"
@@ -24,13 +26,13 @@ MAX_W, MAX_H = 1400, 1000
 _cache = {}  # (pdf, page) -> [chemins webp relatifs à docs/]
 
 
-def good(im):
-    w, h = im.size
+def good(w, h, small):
+    """small : version réduite (≤ 256 px) de l'image, déjà en niveaux de gris."""
     if w < 380 or h < 260 or w * h < 150_000:
         return False
     if not 0.42 <= w / h <= 2.8:
         return False
-    st = ImageStat.Stat(im.convert("L").resize((64, 64)))
+    st = ImageStat.Stat(small.resize((64, 64)))
     if st.stddev[0] < 18:  # aplat, fond uni
         return False
     if st.mean[0] > 242:  # page quasi blanche (texte)
@@ -39,6 +41,7 @@ def good(im):
 
 
 def page_images(pdf_slug, page):
+    """Extrait les photos d'une page ; une seule image décodée en mémoire à la fois."""
     key = (pdf_slug, page)
     if key in _cache:
         return _cache[key]
@@ -50,36 +53,47 @@ def page_images(pdf_slug, page):
             cands = []
             for f in sorted(Path(tmp).glob("i-*.png")):
                 try:
-                    im = Image.open(f)
-                    im.load()
+                    with Image.open(f) as im:
+                        w, h = im.size
+                        if w * h > 60_000_000 or w < 380 or h < 260:
+                            continue
+                        im.draft("RGB", (w // 4, h // 4))
+                        small = im.convert("L")
+                        small.thumbnail((256, 256))
                 except Exception:
                     continue
-                if im.mode not in ("RGB", "L"):
-                    im = im.convert("RGB")
-                if good(im):
-                    cands.append(im)
-            cands.sort(key=lambda im: im.size[0] * im.size[1], reverse=True)
+                if good(w, h, small):
+                    fp = hashlib.md5(bytes(p // 32 for p in small.resize((12, 12)).getdata())).hexdigest()[:12]
+                    cands.append((w * h, f, fp))
+            cands.sort(reverse=True)
             seen = set()
-            for im in cands[:5]:
-                thumb = im.convert("L").resize((12, 12))
-                fp = hashlib.md5(bytes(p // 32 for p in thumb.getdata())).hexdigest()[:12]
+            for _, f, fp in cands[:5]:
                 if fp in seen:
                     continue
                 seen.add(fp)
-                im = im.convert("RGB")
-                im.thumbnail((MAX_W, MAX_H), Image.LANCZOS)
                 dest = OUT / pdf_slug / f"p{page:03d}-{fp}.webp"
                 dest.parent.mkdir(parents=True, exist_ok=True)
                 if not dest.exists():
-                    im.save(dest, "WEBP", quality=74, method=5)
+                    with Image.open(f) as im:
+                        im = im.convert("RGB")
+                        im.thumbnail((MAX_W, MAX_H), Image.LANCZOS)
+                        im.save(dest, "WEBP", quality=74, method=4)
                 res.append(str(dest.relative_to(ROOT / "docs")))
     _cache[key] = res
     return res
 
 
-def collect(item, mag, limit):
+PAGEMAP = {}
+
+
+def collect(item, mag, limit, kind):
     pages = item.get("pdfPages") or []
     pdf_slug = item.get("imagePdf") or mag["slug"]
+    if not pages or not (WORK / "pdfs" / f"{pdf_slug}.pdf").exists():
+        # pages retrouvées dans le PDF complet du site (tools/match_pages.py)
+        m = PAGEMAP.get(kind, {}).get(f"{mag['slug']}:{item.get('slug')}")
+        if m:
+            pages, pdf_slug = m["pages"], m["pdf"]
     out = []
     for p in pages[:6]:
         if not isinstance(p, int) or p < 1:
@@ -93,6 +107,9 @@ def collect(item, mag, limit):
 
 
 def main():
+    global PAGEMAP
+    pm = ROOT / "data" / "pagemap.json"
+    PAGEMAP = json.loads(pm.read_text(encoding="utf-8")) if pm.exists() else {}
     result = {"articles": {}, "companies": {}}
     files = sorted((ROOT / "data" / "magazines").glob("*.json"))
     for f in files:
@@ -100,12 +117,12 @@ def main():
         mag.setdefault("slug", f.stem)
         n = 0
         for a in mag.get("articles", []):
-            imgs = collect(a, mag, 6)
+            imgs = collect(a, mag, 6, "articles")
             if imgs:
                 result["articles"][f"{mag['slug']}:{a.get('slug')}"] = imgs
                 n += 1
         for c in mag.get("companies", []):
-            imgs = collect(c, mag, 4)
+            imgs = collect(c, mag, 4, "companies")
             if imgs:
                 result["companies"][f"{mag['slug']}:{c.get('slug')}"] = imgs
                 n += 1
