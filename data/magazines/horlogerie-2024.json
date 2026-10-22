@@ -165,7 +165,7 @@
       "type": "publireportage",
       "page": "11",
       "pdfPages": [],
-      "summary": "Installé depuis 2008 dans une usine moderne à Tramelan, ArteCad SA maîtrise depuis 1885 la fabrication de tous les types de cadrans et d'appliques, de la grande série à la pièce unique. L'entreprise, qui compte quelque 190 collaborateurs et fait partie du groupe LVMH Swiss Manufactures depuis 2011, travaille aussi pour de nombreuses autres marques. Environ 130 opérations sont nécessaires à la réalisation d'un cadran et quelque 350 000 pièces sortent chaque année de ses ateliers. Certifiée RJC pour la traçabilité et les bonnes pratiques ainsi qu'ISO 14001, la société a ajouté la restauration de cadrans anciens à ses activités, un savoir-faire rare parmi les cadranniers.",
+      "summary": "Installé depuis 2008 dans une usine moderne à Tramelan, ArteCad SA maîtrise depuis 1885 la fabrication de tous les types de cadrans et d'appliques, de la grande série à la pièce unique. L'entreprise, qui compte quelque 190 collaborateurs et fait partie du groupe LVMH Swiss Manufactures depuis 2011, travaille aussi pour de nombreuses autres marques. Environ 130 opérations sont nécessaires à la réalisation d'un cadran et quelque 350 000 pièces sortent chaque année de ses ateliers. Certifiée RJC pour la traçabilité et les bonnes pratiques ainsi qu'ISO 14001, la société a ajouté la restauration de cadrans anciens à ses activités, un savoir-faire rare parmi les cadraniers.",
       "quote": "",
       "themes": [
         "horlogerie",
@@ -240,7 +240,7 @@
       "page": "14",
       "pdfPages": [],
       "summary": "Au printemps 2023, Cyrille Monnin, déjà propriétaire de Productec SA à Rossemaison, a racheté ICAM SA à Nidau, une société de 19 collaborateurs active depuis 32 ans et forte de 750 clients. L'objectif est d'atteindre une taille critique pour accompagner la transformation digitale des ateliers d'usinage. ICAM est spécialisée dans la mise en réseau des machines avec ICAMNet et distribue le logiciel de FAO ESPRIT, tandis que Productec diffuse GibbsCAM, ses modules ProAXYZ et la solution ProCONNECT. Les deux sociétés restent indépendantes et gardent leur identité, mais développeront des synergies et des collaborations commerciales.",
-      "quote": "A deux, on est plus forts que chacun de son côté.",
+      "quote": "À deux, on est plus forts que chacun de son côté.",
       "themes": [
         "industrie",
         "horlogerie"
@@ -326,12 +326,12 @@
     },
     {
       "slug": "horlogerie-2024-inhotec-manufacture-precision",
-      "title": "INHOTEC SA – La manufacture au service de la précision",
+      "title": "Inhotec SA – La manufacture au service de la précision",
       "subtitle": "Composants et ébauches pour mouvements haute horlogerie au Locle",
       "type": "publireportage",
       "page": "18",
       "pdfPages": [],
-      "summary": "Fondée en 2011 au Locle, INHOTEC SA fabrique des composants et des ébauches pour les mouvements de haute horlogerie et se présente comme une « manufacture de précision » intégrant une quinzaine de métiers. Elle compte près de quarante centres d'usinage CNC robotisés en 3 et 5 axes, une vingtaine de machines d'électroérosion à fil, un atelier de mécanique pour ses outillages et un nouveau laser cinq axes capable de graver verre, saphir et polymères. Elle gère son propre stock de matière et contrôle la qualité tout au long du processus. Installée depuis 2019 dans de nouveaux locaux, l'entreprise emploie quelque 190 collaborateurs et prévoit de s'agrandir.",
+      "summary": "Fondée en 2011 au Locle, Inhotec SA fabrique des composants et des ébauches pour les mouvements de haute horlogerie et se présente comme une « manufacture de précision » intégrant une quinzaine de métiers. Elle compte près de quarante centres d'usinage CNC robotisés en 3 et 5 axes, une vingtaine de machines d'électroérosion à fil, un atelier de mécanique pour ses outillages et un nouveau laser cinq axes capable de graver verre, saphir et polymères. Elle gère son propre stock de matière et contrôle la qualité tout au long du processus. Installée depuis 2019 dans de nouveaux locaux, l'entreprise emploie quelque 190 collaborateurs et prévoit de s'agrandir.",
       "quote": "Progresser constamment, c'est l'essence même de notre philosophie.",
       "themes": [
         "horlogerie",
@@ -376,7 +376,7 @@
     },
     {
       "slug": "horlogerie-2024-metafil-la-girolle-decolleteuses",
-      "title": "Metafil - La Girolle SA – Des décolleteuses 100% swiss made",
+      "title": "Métafil-La Girolle SA – Des décolleteuses 100 % Swiss made",
       "subtitle": "Les décolleteuses MTF développées et fabriquées à Lajoux",
       "type": "publireportage",
       "page": "20",
@@ -453,7 +453,7 @@
       "page": "25",
       "pdfPages": [],
       "summary": "Créée en 2016 à L'Orient, à la vallée de Joux, Protofil Sàrl s'est fait une spécialité de l'électroérosion à fil avec des fils de l'ordre de 0,02 mm, permettant la découpe de pièces petites, précises et complexes. À la demande de ses clients horlogers, elle a ajouté fraisage, gravage, perçage rapide et polissage pour livrer des pièces terminées. Elle emploie 15 personnes autour de 6 centres d'usinage CNC et 9 machines à fil, et gère son propre stock de matières. Réputée pour les composants de mouvements et d'habillage, elle est certifiée ISO 13485 et travaille aussi pour le médical, l'aéronautique, le spatial, la recherche, le nucléaire et la connectique.",
-      "quote": "Nous travaillons avec des fils extrêmement fins, de l'ordre de 0.02mm.",
+      "quote": "Nous travaillons avec des fils extrêmement fins, de l'ordre de 0,02 mm.",
       "themes": [
         "horlogerie",
         "industrie"
@@ -522,12 +522,12 @@
     },
     {
       "slug": "horlogerie-2024-sebal-verres-saphir",
-      "title": "SEBAL SA – Producteur de verres saphir entièrement suisses",
+      "title": "Sebal SA – Producteur de verres saphir entièrement suisses",
       "subtitle": "Glaces de montres en saphir 100 % suisses à Bassecourt",
       "type": "publireportage",
       "page": "28",
       "pdfPages": [],
-      "summary": "Depuis la création en 2015 de sa société sœur TIMSAPH SA, qui produit la matière première, SEBAL SA à Bassecourt peut proposer des verres de montres en saphir entièrement suisses, un atout dans le contexte du Swiss Made. Fondée en 1978 par le père de l'actuel directeur Sébastien Sangsue, l'entreprise compte 28 collaborateurs et un parc d'environ 80 machines, dont des centres CNC trois et cinq axes. Elle livre glaces plates, bombées, sphériques ou de type box, mais aussi cadrans et carrures, en petites et moyennes séries pour le moyen et haut de gamme. Une extension des locaux est en cours et l'automatisation des procédés constitue son prochain défi.",
+      "summary": "Depuis la création en 2015 de sa société sœur Timsaph SA, qui produit la matière première, Sebal SA à Bassecourt peut proposer des verres de montres en saphir entièrement suisses, un atout dans le contexte du Swiss Made. Fondée en 1978 par le père de l'actuel directeur Sébastien Sangsue, l'entreprise compte 28 collaborateurs et un parc d'environ 80 machines, dont des centres CNC trois et cinq axes. Elle livre glaces plates, bombées, sphériques ou de type box, mais aussi cadrans et carrures, en petites et moyennes séries pour le moyen et haut de gamme. Une extension des locaux est en cours et l'automatisation des procédés constitue son prochain défi.",
       "quote": "Nous pouvons désormais proposer des verres saphir entièrement suisses.",
       "themes": [
         "horlogerie",
@@ -548,13 +548,13 @@
     },
     {
       "slug": "horlogerie-2024-timsaph-saphir-synthetique",
-      "title": "TIMSAPH SA – Le saphir synthétique 100 % suisse",
+      "title": "Timsaph SA – Le saphir synthétique 100 % suisse",
       "subtitle": "Production de saphir synthétique à Delémont",
       "type": "publireportage",
       "page": "29",
       "pdfPages": [],
-      "summary": "Fondée en 2015 par SEBAL SA pour sécuriser son approvisionnement, TIMSAPH SA produit à Delémont du saphir synthétique selon le procédé Verneuil, en fondant de la poudre d'alumine au chalumeau oxhydrique à plus de 2000 degrés. Partie de zéro, l'entreprise a développé ses propres procédés et machines ; elle est passée d'une rampe de dix chalumeaux à quatre rampes de trente et emploie six personnes. Ses réglages fins lui permettent de produire des diamètres de 46 à 49 mm, au-delà du standard de 40 mm. Fournisseur unique de SEBAL, elle s'ouvre aussi aux clients externes et tient un stock de saphirs de 27 à 44 mm.",
-      "quote": "On est parti de “zéro”. Il a fallu tout créer.",
+      "summary": "Fondée en 2015 par Sebal SA pour sécuriser son approvisionnement, Timsaph SA produit à Delémont du saphir synthétique selon le procédé Verneuil, en fondant de la poudre d'alumine au chalumeau oxhydrique à plus de 2000 degrés. Partie de zéro, l'entreprise a développé ses propres procédés et machines ; elle est passée d'une rampe de dix chalumeaux à quatre rampes de trente et emploie six personnes. Ses réglages fins lui permettent de produire des diamètres de 46 à 49 mm, au-delà du standard de 40 mm. Fournisseur unique de Sebal, elle s'ouvre aussi aux clients externes et tient un stock de saphirs de 27 à 44 mm.",
+      "quote": "On est parti de « zéro ». Il a fallu tout créer.",
       "themes": [
         "horlogerie",
         "industrie"
@@ -604,12 +604,12 @@
     },
     {
       "slug": "horlogerie-2024-stoco-pre-assemblage",
-      "title": "STOCO SA – Le pré-assemblage au service des manufactures",
+      "title": "Stoco SA – Le pré-assemblage au service des manufactures",
       "subtitle": "Garnissage, empierrage et machines de pré-assemblage à Cortaillod",
       "type": "publireportage",
       "page": "31",
       "pdfPages": [],
-      "summary": "Spécialiste du T0, l'étape de pré-assemblage des éléments du mouvement, STOCO SA propose aux manufactures des prestations de garnissage et d'empierrage en sous-traitance, ce qui leur permet de double-sourcer ces opérations. Son nouvel atelier accroît sa capacité d'environ 30 %. Fondée en 1960 par Hans Stocker à Vaumarcus, la société a inventé le conditionnement des pierres d'horlogerie en tubes calibrés souples, puis développé ses propres machines de pré-assemblage et sa servopresse Colibri. Intégrée au groupe Lecureux via la holding Mayco et installée à Cortaillod depuis 2014, elle annonce pour 2025 une nouvelle génération de machines modulables pour les grands volumes.",
+      "summary": "Spécialiste du T0, l'étape de pré-assemblage des éléments du mouvement, Stoco SA propose aux manufactures des prestations de garnissage et d'empierrage en sous-traitance, ce qui leur permet de double-sourcer ces opérations. Son nouvel atelier accroît sa capacité d'environ 30 %. Fondée en 1960 par Hans Stocker à Vaumarcus, la société a inventé le conditionnement des pierres d'horlogerie en tubes calibrés souples, puis développé ses propres machines de pré-assemblage et sa servopresse Colibri. Intégrée au groupe Lécureux via la holding Mayco et installée à Cortaillod depuis 2014, elle annonce pour 2025 une nouvelle génération de machines modulables pour les grands volumes.",
       "quote": "Aucun compromis ne sera fait à la précision, facteur déterminant de l'identité de l'entreprise.",
       "themes": [
         "horlogerie",
@@ -629,12 +629,12 @@
     },
     {
       "slug": "horlogerie-2024-technofinish-robot-polissage",
-      "title": "Technofinish SA – La robotique comme soutien au polissage",
+      "title": "TechnoFinish SA – La robotique comme soutien au polissage",
       "subtitle": "Un cobot pour reproduire le geste du polisseur",
       "type": "publireportage",
       "page": "32",
       "pdfPages": [],
-      "summary": "Connue pour ses bancs de polissage, produits dans sa filiale italienne de Vicenza et appréciés pour leur système d'aspiration qui réduit poussières et bruit, Technofinish SA à Bienne développe depuis plus de deux ans un robot collaboratif capable d'enregistrer puis de reproduire au centième près les gestes d'un polisseur. Le prototype doit être présenté aux clients horlogers et joailliers en 2024 ; la finition restera manuelle. Fondée au début des années 2000 pour distribuer des consommables, l'entreprise produit environ 200 machines par an et fournit rapidement pâtes, brosses et bandes grâce à son stock. Elle partage avec Technoformage SA une nouvelle halle de 1300 m² à Bienne-Boujean.",
+      "summary": "Connue pour ses bancs de polissage, produits dans sa filiale italienne de Vicenza et appréciés pour leur système d'aspiration qui réduit poussières et bruit, TechnoFinish SA à Bienne développe depuis plus de deux ans un robot collaboratif capable d'enregistrer puis de reproduire au centième près les gestes d'un polisseur. Le prototype doit être présenté aux clients horlogers et joailliers en 2024 ; la finition restera manuelle. Fondée au début des années 2000 pour distribuer des consommables, l'entreprise produit environ 200 machines par an et fournit rapidement pâtes, brosses et bandes grâce à son stock. Elle partage avec TechnoFormage SA une nouvelle halle de 1300 m² à Bienne-Boujean.",
       "quote": "",
       "themes": [
         "horlogerie",
@@ -650,12 +650,12 @@
     },
     {
       "slug": "horlogerie-2024-technoformage-emballages-biodegradables",
-      "title": "Technoformage SA – Le biodégradable pour emballages et conditionnements",
+      "title": "TechnoFormage SA – Le biodégradable pour emballages et conditionnements",
       "subtitle": "Plateaux de conditionnement en copeaux de bois et résine",
       "type": "publireportage",
       "page": "33",
       "pdfPages": [],
-      "summary": "Créée en 2005 pour étendre les activités de Technofinish SA, Technoformage SA conçoit à Bienne des emballages techniques thermoformés et injectés pour l'horlogerie et la bijouterie : plateaux avec ou sans couvercle, compartiments rigides ou en mousse, boîtiers transparents ou socles colorés. Elle propose désormais des conditionnements biodégradables fabriqués à partir de copeaux de bois et de résine injectés à chaud. Inertes et adaptés au stockage de longue durée, ils se dégradent en quelques mois dans la nature et répondent aux critères ESG pour un surcoût limité. Les plus grandes marques font appel à son bureau d'étude et à son parc de machines récent.",
+      "summary": "Créée en 2005 pour étendre les activités de TechnoFinish SA, TechnoFormage SA conçoit à Bienne des emballages techniques thermoformés et injectés pour l'horlogerie et la bijouterie : plateaux avec ou sans couvercle, compartiments rigides ou en mousse, boîtiers transparents ou socles colorés. Elle propose désormais des conditionnements biodégradables fabriqués à partir de copeaux de bois et de résine injectés à chaud. Inertes et adaptés au stockage de longue durée, ils se dégradent en quelques mois dans la nature et répondent aux critères ESG pour un surcoût limité. Les plus grandes marques font appel à son bureau d'étude et à son parc de machines récent.",
       "quote": "",
       "themes": [
         "horlogerie",
@@ -812,7 +812,7 @@
     },
     {
       "slug": "aqc",
-      "name": "AQC – Association pour l'assurance Qualité des fabricants de bracelets Cuir",
+      "name": "AQC – Association pour l'assurance qualité des fabricants de bracelets cuir",
       "sector": "Conformité chimique des matériaux",
       "themes": [
         "horlogerie",
@@ -965,7 +965,7 @@
         "industrie"
       ],
       "description": "Entreprise familiale fondée en 2003 à Cernier, pionnière de la relance du guillochage dans l'horlogerie grâce aux machines anciennes restaurées par son fondateur René von Kaenel. Elle décore ponts, lunettes, boîtes et cadrans, propose plusieurs centaines de motifs, emploie neuf personnes et délivre un certificat « fait main » signé par le guillocheur.",
-      "address": "Route de la taille 1B",
+      "address": "Route de la Taille 1B",
       "postalCode": "2053",
       "city": "Cernier",
       "canton": "NE",
@@ -1135,7 +1135,7 @@
     },
     {
       "slug": "inhotec",
-      "name": "INHOTEC SA",
+      "name": "Inhotec SA",
       "sector": "Composants et ébauches horlogers",
       "themes": [
         "horlogerie",
@@ -1171,7 +1171,7 @@
       "description": "Société vaudoise fondée en 2009 par Suat Güldür, qui conçoit en « private label » des écrins de montres et de bijoux, coffrets, vide-poches et articles promotionnels en cuir pour les marques horlogères et joaillières. La fabrication a lieu dans sa manufacture d'Istanbul ; le contrôle et le conditionnement se font au siège suisse.",
       "address": "Z.I. La Pierreire, Bâtiment Polypole, Route de Bellevue 7/L32",
       "postalCode": "1029",
-      "city": "Villars-Ste-Croix",
+      "city": "Villars-Sainte-Croix",
       "canton": "VD",
       "country": "Suisse",
       "phone": "+41 21 635 95 30",
@@ -1224,7 +1224,7 @@
       "description": "Entreprise familiale de Brügg active depuis plus d'un siècle dans les machines-outils de seconde main, avec un stock de plus de 2000 unités révisées et rétrofitées dans ses ateliers ; huit machines sur dix sont exportées. Elle représente aussi les machines neuves Schaublin et exploite le musée Centre Muller à Bienne.",
       "address": "Industriestrasse 22",
       "postalCode": "2555",
-      "city": "Bruegg",
+      "city": "Brügg",
       "canton": "BE",
       "country": "Suisse",
       "phone": "+41 (0)32 373 34 44",
@@ -1293,7 +1293,7 @@
         "industrie"
       ],
       "description": "Atelier créé en 2016 à L'Orient (vallée de Joux), spécialisé dans l'électroérosion à fil très fin et le micro-usinage de pièces terminées pour mouvements et habillage. Il emploie 15 personnes, dispose de 6 centres CNC et 9 machines à fil, est certifié ISO 13485 et sert aussi le médical, l'aéronautique et le spatial.",
-      "address": "Rue centrale 3",
+      "address": "Rue Centrale 3",
       "postalCode": "1341",
       "city": "L'Orient",
       "canton": "VD",
@@ -1367,13 +1367,13 @@
     },
     {
       "slug": "sebal",
-      "name": "SEBAL SA",
+      "name": "Sebal SA",
       "sector": "Verres de montres en saphir",
       "themes": [
         "horlogerie",
         "industrie"
       ],
-      "description": "Fabricant de glaces de montres en saphir fondé en 1978 à Bassecourt, capable de garantir des verres 100 % suisses grâce à sa société sœur TIMSAPH. Il compte 28 collaborateurs et environ 80 machines, livre aussi cadrans et carrures pour le moyen et haut de gamme, et agrandit ses locaux.",
+      "description": "Fabricant de glaces de montres en saphir fondé en 1978 à Bassecourt, capable de garantir des verres 100 % suisses grâce à sa société sœur Timsaph. Il compte 28 collaborateurs et environ 80 machines, livre aussi cadrans et carrures pour le moyen et haut de gamme, et agrandit ses locaux.",
       "address": "Espace industriel 26",
       "postalCode": "2854",
       "city": "Bassecourt",
@@ -1394,13 +1394,13 @@
     },
     {
       "slug": "timsaph",
-      "name": "TIMSAPH SA",
+      "name": "Timsaph SA",
       "sector": "Production de saphir synthétique",
       "themes": [
         "horlogerie",
         "industrie"
       ],
-      "description": "Société fondée en 2015 par SEBAL SA à Delémont, qui produit du saphir synthétique selon le procédé Verneuil avec quatre rampes de 30 chalumeaux et six collaborateurs. Elle atteint des diamètres de 46 à 49 mm, contrôle toute sa production et fournit aussi des clients externes à partir d'un stock de 27 à 44 mm.",
+      "description": "Société fondée en 2015 par Sebal SA à Delémont, qui produit du saphir synthétique selon le procédé Verneuil avec quatre rampes de 30 chalumeaux et six collaborateurs. Elle atteint des diamètres de 46 à 49 mm, contrôle toute sa production et fournit aussi des clients externes à partir d'un stock de 27 à 44 mm.",
       "address": "Route de Bellerive 29",
       "postalCode": "2800",
       "city": "Delémont",
@@ -1452,13 +1452,13 @@
     },
     {
       "slug": "stoco",
-      "name": "STOCO SA",
+      "name": "Stoco SA",
       "sector": "Pré-assemblage horloger (garnissage, empierrage) et machines",
       "themes": [
         "horlogerie",
         "industrie"
       ],
-      "description": "Société fondée en 1960 par Hans Stocker, inventrice du conditionnement des pierres d'horlogerie en tubes souples, installée à Cortaillod depuis 2014 au sein du groupe Lecureux. Elle sous-traite le garnissage et l'empierrage pour les manufactures et développe des machines de pré-assemblage animées par sa servopresse Colibri.",
+      "description": "Société fondée en 1960 par Hans Stocker, inventrice du conditionnement des pierres d'horlogerie en tubes souples, installée à Cortaillod depuis 2014 au sein du groupe Lécureux. Elle sous-traite le garnissage et l'empierrage pour les manufactures et développe des machines de pré-assemblage animées par sa servopresse Colibri.",
       "address": "Route de l'Areuse 8",
       "postalCode": "2016",
       "city": "Cortaillod",

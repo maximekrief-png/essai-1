@@ -204,7 +204,7 @@
         7
       ],
       "summary": "Riche de plus de 75 ans d’expérience dans le polissage de précision, Auchlin SA à La Neuveville accueille la troisième génération : Maxime Auchlin, petit-fils du fondateur Marius Auchlin, ingénieur en science des matériaux de l’EPFL ayant collaboré avec le Centre spatial suisse, l’ESA et le CSEM, a rejoint en 2021 Catherine Frioud Auchlin et Thierry Auchlin à la direction. L’entreprise inaugure un département de métallurgie pour la trempe et le revenu de petites pièces, avec duromètre et rapports de dureté. Elle a introduit une imprimante 3D FDM pour concevoir ses posages et produire des pièces en polymère, et développe des méthodes de finition pour les composants issus de l’impression 3D métal. Ses clients horlogers, médicaux, automobiles et de la connectique exigent une précision au micron ; la certification ISO 9001 est visée d’ici 2023, en collaboration avec le Swiss Innovation Park, le CSEM et l’EPFL.",
-      "quote": "Un souhait, un besoin ou un renseignement ? AUCHLIN SA est à disposition.",
+      "quote": "Un souhait, un besoin ou un renseignement ? Auchlin SA est à disposition.",
       "themes": [
         "horlogerie",
         "industrie",
@@ -318,7 +318,7 @@
     },
     {
       "slug": "horlogerie-2022-diametal",
-      "title": "Micromécanique et horlogerie, des synonymes de précision et d’excellence du Groupe DIAMETAL",
+      "title": "Micromécanique et horlogerie, des synonymes de précision et d’excellence du Groupe Diametal",
       "subtitle": "Outils de coupe, abrasifs et pièces d’usure depuis 1936",
       "type": "publireportage",
       "page": "18-19",
@@ -379,7 +379,7 @@
         12
       ],
       "summary": "Spécialiste biennois des lignes de transfert modulaires, Fleury SA se positionne aussi comme un fabricant de composants horlogers compétitif à l’heure de la reprise. Son produit phare, le modulo, système de fabrication entièrement automatisé à transfert linéaire, usine platines et ponts en un seul passage, sans étampe de rectification, 24 heures sur 24. L’entreprise s’appuie sur des ingénieurs et des experts en micromécanique et a investi dans des instruments de mesure de nouvelle génération et des processus de contrôle stricts. Son centre de compétences de Balerna, au Tessin, produit chaque année plus de 100’000 kits d’ébauches brutes, décorées, garnies ou galvanisées pour des marques renommées. Maurice Lacroix témoigne d’un partenariat lancé en 2019 couvrant la fabrication, la décoration, la mise en couleur et le garnissage de ses ébauches manufacture. Texte bilingue français-anglais.",
-      "quote": "L’équipe FLEURY SA nous garantit et nous fournit un produit fini de qualité dans un délai maîtrisé.",
+      "quote": "L’équipe Fleury SA nous garantit et nous fournit un produit fini de qualité dans un délai maîtrisé.",
       "themes": [
         "horlogerie",
         "industrie"
@@ -503,7 +503,7 @@
         14
       ],
       "summary": "Créée en 2016 à L’Orient, à la Vallée de Joux, Protofil Sàrl est spécialisée dans l’électroérosion à fil et le micro-usinage de pièces petites, précises et délicates. Son fondateur et directeur Donovan Beaufour souligne qu’elle travaille avec des fils d’environ 0,02 mm, ce que peu d’entreprises maîtrisent. À la demande de clients horlogers souhaitant des pièces terminées, l’atelier a ajouté fraisage, enfonçage, gravage, perçage rapide et polissage. Il a déménagé dans des locaux de 600 m² et emploie six personnes autour de trois centres d’usinage CNC et sept machines à fil, avec un stock complet de matières qui permet de livrer des petites séries rapidement. Reconnue pour ses pièces de mouvement et d’habillage, l’entreprise, certifiée ISO 13485, s’ouvre aussi au médical, à l’aéronautique, à l’aérospatial, à la recherche, au nucléaire et à la connectique.",
-      "quote": "Nous travaillons avec des fils extrêmement petits, de l’ordre de 0.02 mm.",
+      "quote": "Nous travaillons avec des fils extrêmement petits, de l’ordre de 0,02 mm.",
       "themes": [
         "horlogerie",
         "industrie",
@@ -892,7 +892,7 @@
     },
     {
       "slug": "horlogerie-2022-wostep",
-      "title": "Wostep – Former les meilleurs polisseurs, un engagement du WOSTEP",
+      "title": "WOSTEP – Former les meilleurs polisseurs, un engagement du WOSTEP",
       "subtitle": "La Fondation WOSTEP et ses formations en polissage",
       "type": "publireportage",
       "page": "46-47",
@@ -1101,7 +1101,7 @@
     },
     {
       "slug": "broquet-decolletage",
-      "name": "Broquet décolletage SA",
+      "name": "Broquet Décolletage SA",
       "sector": "Décolletage de micro-pièces",
       "themes": [
         "horlogerie",
@@ -1130,7 +1130,7 @@
     },
     {
       "slug": "auchlin",
-      "name": "AUCHLIN SA",
+      "name": "Auchlin SA",
       "sector": "Polissage de précision et traitements thermiques",
       "themes": [
         "horlogerie",
@@ -1167,7 +1167,7 @@
     },
     {
       "slug": "bandi",
-      "name": "BANDI SA",
+      "name": "Bandi SA",
       "sector": "Décolletage de composants horlogers haut de gamme",
       "themes": [
         "horlogerie",
@@ -1260,7 +1260,7 @@
     },
     {
       "slug": "cyberis",
-      "name": "CYBERIS SA",
+      "name": "Cyberis SA",
       "sector": "Décolletage et barrettes haut de gamme",
       "themes": [
         "horlogerie",
@@ -1284,7 +1284,7 @@
     },
     {
       "slug": "diametal",
-      "name": "DIAMETAL",
+      "name": "Diametal",
       "sector": "Outils de coupe, abrasifs et pièces d’usure en métal dur",
       "themes": [
         "industrie",
@@ -1427,7 +1427,7 @@
       "description": "Sous-traitant genevois fondé en 2011 par Sébastien Billières, une quarantaine de collaborateurs. Assemblage, emboîtage, garnissage, certifications COSC et SAV, y compris pour des calibres Poinçon de Genève ; partenaire de la marque Genus.",
       "address": "Route de la Galaise 24",
       "postalCode": "1228",
-      "city": "Plan-Les-Ouates",
+      "city": "Plan-les-Ouates",
       "canton": "GE",
       "country": "Suisse",
       "phone": "022 525 02 07",
@@ -1447,7 +1447,7 @@
     },
     {
       "slug": "inhotec",
-      "name": "INHOTEC SA",
+      "name": "Inhotec SA",
       "sector": "Usinage de précision de composants horlogers",
       "themes": [
         "horlogerie",
@@ -1480,7 +1480,7 @@
       "description": "Entreprise familiale fondée en 2009 par Suat Güldür à Villars-Sainte-Croix, qui conçoit écrins, coffrets et accessoires en cuir sur mesure pour les marques horlogères, fabriqués par une manufacture partenaire d’Istanbul et contrôlés en Suisse.",
       "address": "Z.I. La Pierreire, Bâtiment Polypole, Route de Bellevue 7/L32",
       "postalCode": "1029",
-      "city": "Villars-Ste-Croix",
+      "city": "Villars-Sainte-Croix",
       "canton": "VD",
       "country": "Suisse",
       "phone": "+41 21 635 95 30",
@@ -1508,7 +1508,7 @@
         "sante"
       ],
       "description": "Entreprise de L’Orient créée en 2016 par Donovan Beaufour, spécialisée dans l’électroérosion à fil de 0,02 mm et le micro-usinage de pièces complexes. Six personnes, 600 m², trois centres CNC et sept machines à fil ; certifiée ISO 13485.",
-      "address": "Rue centrale 3",
+      "address": "Rue Centrale 3",
       "postalCode": "1341",
       "city": "L’Orient",
       "canton": "VD",
@@ -1530,7 +1530,7 @@
     },
     {
       "slug": "label-surface",
-      "name": "LABEL SURFACE SA",
+      "name": "Label Surface SA",
       "sector": "Décoration artistique de cadrans et casting de précision",
       "themes": [
         "horlogerie"
@@ -1662,7 +1662,7 @@
     },
     {
       "slug": "oesch",
-      "name": "OESCH GmbH",
+      "name": "Oesch GmbH",
       "sector": "Boucles, fermoirs, barrettes et accessoires",
       "themes": [
         "horlogerie",
@@ -1792,7 +1792,7 @@
     },
     {
       "slug": "stoco",
-      "name": "Stoco S.A.",
+      "name": "Stoco SA",
       "sector": "Machines de pré-assemblage (T0) et conditionnement de pierres",
       "themes": [
         "horlogerie",
@@ -1876,7 +1876,7 @@
     },
     {
       "slug": "stl-swiss",
-      "name": "STL SWISS SA",
+      "name": "STL Swiss SA",
       "sector": "Bracelets et boucles métalliques haut de gamme",
       "themes": [
         "horlogerie",
@@ -1905,7 +1905,7 @@
     },
     {
       "slug": "schmidt-technology",
-      "name": "SCHMIDT Technology GmbH",
+      "name": "Schmidt Technology GmbH",
       "sector": "Presses et servopresses",
       "themes": [
         "industrie",
@@ -1929,7 +1929,7 @@
     },
     {
       "slug": "sebal",
-      "name": "SEBAL SA",
+      "name": "Sebal SA",
       "sector": "Verres de montres en saphir",
       "themes": [
         "horlogerie",
@@ -1958,7 +1958,7 @@
     },
     {
       "slug": "timsaph",
-      "name": "TIMSAPH SA",
+      "name": "Timsaph SA",
       "sector": "Production de saphir synthétique",
       "themes": [
         "horlogerie",
