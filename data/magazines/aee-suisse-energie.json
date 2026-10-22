@@ -4,11 +4,24 @@
   "series": "Énergie",
   "year": 2018,
   "region": "Suisse romande, Valais, Argovie, Bâle",
-  "languages": ["fr", "de"],
+  "languages": [
+    "fr",
+    "de"
+  ],
   "description": "Numéro de novembre 2018 réalisé avec l’AEE Suisse, faîtière de l’économie des énergies renouvelables et de l’efficacité énergétique. Il réunit une vingtaine d’entretiens avec des responsables associatifs, des élus, des chefs de services cantonaux de l’énergie et des chercheurs (EPFL, CSEM, HES) sur la mise en œuvre de la Stratégie énergétique 2050. Des portraits d’entreprises électriques, de bureaux d’ingénieurs, de spécialistes du solaire, du gaz et de l’environnement complètent l’ensemble.",
-  "themes": ["energie", "collectivites", "formation", "construction"],
+  "themes": [
+    "energie",
+    "collectivites",
+    "formation",
+    "construction"
+  ],
   "files": [
-    { "driveId": "1Mvad-_TysmuDKDZBgYUysV3eI5o6KI1x", "name": "AEE-SUISSE-INDUSTRIE-ELECTRIQUE-ET-ENERGIE.pdf", "sizeMB": 7.2, "label": "Édition web" }
+    {
+      "driveId": "1Mvad-_TysmuDKDZBgYUysV3eI5o6KI1x",
+      "name": "AEE-SUISSE-INDUSTRIE-ELECTRIQUE-ET-ENERGIE.pdf",
+      "sizeMB": 7.2,
+      "label": "Édition web"
+    }
   ],
   "pdfLocal": false,
   "articles": [
@@ -21,11 +34,21 @@
       "pdfPages": [],
       "summary": "Président de l’AEE SUISSE, faîtière qui représente 15 000 entreprises et 20 associations des énergies renouvelables et de l’efficacité énergétique, Gianni Operto présente son action de sensibilisation et de lobbying, appuyée par les initiatives d’entrepreneurs NEUE ENERGIE dans 16 cantons. L’association a mené la campagne de l’économie pour la Stratégie énergétique 2050 avec plus de 150 entreprises et participé aux consultations sur les ordonnances. Elle a proposé un programme en neuf points pour la construction, insistant sur le taux de rénovation et le coût sur tout le cycle de vie des bâtiments. Selon lui, la Suisse a d’excellents atouts, dont l’hydraulique, mais doit préparer un second paquet de mesures, lier énergie et climat et adopter un modèle de marché adapté à la transition.",
       "quote": "Mit der Wasserkraft haben wir für die Energiewende einen fliegenden Start.",
-      "themes": ["energie", "economie"],
+      "themes": [
+        "energie",
+        "economie"
+      ],
       "region": "Suisse",
       "language": "de",
-      "people": [{ "name": "Gianni Operto", "role": "Präsident AEE SUISSE" }],
-      "companies": ["aee-suisse"]
+      "people": [
+        {
+          "name": "Gianni Operto",
+          "role": "Präsident AEE SUISSE"
+        }
+      ],
+      "companies": [
+        "aee-suisse"
+      ]
     },
     {
       "slug": "aee-suisse-energie-interview-andreas-von-kaenel",
@@ -36,11 +59,22 @@
       "pdfPages": [],
       "summary": "Ingénieur ayant dirigé des sociétés phares du photovoltaïque, Andréas von Kaenel dirige l’AEE Suisse romande. Il rappelle que le solaire n’est devenu rentable que grâce au soutien de l’Allemagne, du Japon et de la Chine, et que le prix trop bas des énergies traditionnelles freine aussi l’isolation des bâtiments. La Suisse, exemplaire grâce à ses barrages et pionnière du solaire, reste en queue de peloton pour le renouvelable non hydraulique, avec un taux de rénovation trois fois trop faible. Il juge que la loi votée ne suffit pas et cite l’exemple de Neyruz et de son réseau local d’énergie comme une disruption vers une production décentralisée. L’AEE veut accélérer la transition par une information objective, notamment au niveau cantonal.",
       "quote": "Nous avons les capacités de façonner notre avenir, mettons-nous au travail.",
-      "themes": ["energie", "economie"],
+      "themes": [
+        "energie",
+        "economie"
+      ],
       "region": "Suisse romande",
       "language": "fr",
-      "people": [{ "name": "Andréas von Kaenel", "role": "Directeur AEE Suisse romande" }],
-      "companies": ["aee-suisse-romande", "commune-de-neyruz"]
+      "people": [
+        {
+          "name": "Andréas von Kaenel",
+          "role": "Directeur AEE Suisse romande"
+        }
+      ],
+      "companies": [
+        "aee-suisse-romande",
+        "commune-de-neyruz"
+      ]
     },
     {
       "slug": "aee-suisse-energie-interview-beat-vonlanthen",
@@ -51,11 +85,21 @@
       "pdfPages": [],
       "summary": "Conseiller aux États, vice-président du conseil d’administration de Groupe E et ancien président de la conférence des directeurs cantonaux de l’énergie, Beat Vonlanthen voit dans la politique énergétique un domaine d’avenir étroitement lié au climat et à l’aménagement du territoire. Il souhaite que les installations renouvelables soient mises sur un pied d’égalité avec les autres intérêts nationaux et plaide pour la reconnaissance mutuelle des certificats d’émission entre la Suisse et l’UE. Il déplore les blocages des projets éoliens fribourgeois, neuchâtelois et vaudois, et cite le barrage du glacier de Trift comme exemple de processus participatif réussi. Pour lui, les investissements préventifs coûtent moins que les dommages futurs, et la cleantech offre de grandes perspectives.",
       "quote": "Man kann den Bären nicht waschen, ohne das Fell nass zu machen.",
-      "themes": ["energie", "collectivites"],
+      "themes": [
+        "energie",
+        "collectivites"
+      ],
       "region": "Fribourg / Suisse",
       "language": "de",
-      "people": [{ "name": "Beat Vonlanthen", "role": "Ständerat, VR-Vizepräsident Groupe E" }],
-      "companies": ["groupe-e"]
+      "people": [
+        {
+          "name": "Beat Vonlanthen",
+          "role": "Ständerat, VR-Vizepräsident Groupe E"
+        }
+      ],
+      "companies": [
+        "groupe-e"
+      ]
     },
     {
       "slug": "aee-suisse-energie-ville-de-vevey-jerome-christen",
@@ -66,11 +110,21 @@
       "pdfPages": [],
       "summary": "Ancien directeur de l’AEE Suisse romande de 2011 à 2017, député vaudois et municipal veveysan chargé de l’urbanisme, de la mobilité et du développement durable, Jérôme Christen rappelle que l’énergie la moins chère est celle qu’on ne consomme pas. Il préconise d’analyser d’abord l’enveloppe des bâtiments, regrette un droit du bail qui décourage les assainissements et propose un « bail vert ». Il plaide pour la ville intelligente et pour simplifier des procédures éoliennes devenues interminables. Labellisée Cité de l’énergie « or » depuis 2012, Vevey examine depuis 2006 chaque décision sous l’angle énergétique, s’est dotée d’un plan directeur des énergies et développe un chauffage à distance au bois local en partenariat public-privé.",
       "quote": "Les mesures en faveur du virage énergétique, ce n’est pas demain, c’est maintenant !",
-      "themes": ["energie", "collectivites"],
+      "themes": [
+        "energie",
+        "collectivites"
+      ],
       "region": "Vevey (VD)",
       "language": "fr",
-      "people": [{ "name": "Jérôme Christen", "role": "Municipal à Vevey, député au Grand Conseil vaudois" }],
-      "companies": ["ville-de-vevey"]
+      "people": [
+        {
+          "name": "Jérôme Christen",
+          "role": "Municipal à Vevey, député au Grand Conseil vaudois"
+        }
+      ],
+      "companies": [
+        "ville-de-vevey"
+      ]
     },
     {
       "slug": "aee-suisse-energie-sig-konrad-rieder",
@@ -81,11 +135,21 @@
       "pdfPages": [],
       "summary": "Membre romand du comité de l’AEE Suisse, Konrad Rieder explique le rôle des Services industriels de Genève, « bras industriel » de la politique énergétique cantonale. Genève interdit le nucléaire dans sa constitution depuis plus de 30 ans et l’électricité des SIG est certifiée 100 % renouvelable depuis 2017. Les réseaux de chauffage à distance desservent plus de 50 000 ménages et GeniLac refroidit les organisations internationales grâce au lac. Le programme éco21 a permis d’économiser 155 GWh en dix ans, et les SIG ont reçu deux Watts d’or, pour les chaufferies efficientes et le bus électrique TOSA. Ils s’opposent toutefois à une libéralisation totale du marché électrique, qui favoriserait des importations nucléaires ou fossiles bon marché.",
       "quote": "Produire et commercialiser de l’électricité renouvelable c’est bien, l’économiser c’est indispensable.",
-      "themes": ["energie", "collectivites"],
+      "themes": [
+        "energie",
+        "collectivites"
+      ],
       "region": "Genève",
       "language": "fr",
-      "people": [{ "name": "Konrad Rieder", "role": "Directeur des Affaires régulatoires des SIG, membre du comité directeur de l’AEE Suisse" }],
-      "companies": ["sig"]
+      "people": [
+        {
+          "name": "Konrad Rieder",
+          "role": "Directeur des Affaires régulatoires des SIG, membre du comité directeur de l’AEE Suisse"
+        }
+      ],
+      "companies": [
+        "sig"
+      ]
     },
     {
       "slug": "aee-suisse-energie-energies-nouvelles-valais-francis-rossier",
@@ -96,11 +160,20 @@
       "pdfPages": [],
       "summary": "Ingénieur en microtechnique et directeur depuis dix ans de Solalpes Energie, entreprise pionnière du solaire en Valais, Francis Rossier préside Energies Nouvelles Valais, petite association de seize entrepreneurs aux spécialités variées. Il estime que le photovoltaïque n’en est qu’à ses débuts, ne couvrant que 3 % de la consommation électrique, mais qu’il conserve un énorme potentiel d’innovation, d’autant que les particuliers peuvent désormais vendre leurs surplus à leurs voisins. L’association veut faire vivre la Stratégie énergétique 2050, gagner en visibilité cantonale, renforcer ses liens avec l’AEE et faire le pont entre professionnels et communes. Il appelle le Valais à valoriser son potentiel hydraulique et à agir sans attendre.",
       "quote": "Le Valais ne doit plus attendre ; le changement c’est maintenant !",
-      "themes": ["energie"],
+      "themes": [
+        "energie"
+      ],
       "region": "Valais",
       "language": "fr",
-      "people": [{ "name": "Francis Rossier", "role": "Président Energies Nouvelles Valais, directeur de Solalpes Energie" }],
-      "companies": ["energies-nouvelles-valais"]
+      "people": [
+        {
+          "name": "Francis Rossier",
+          "role": "Président Energies Nouvelles Valais, directeur de Solalpes Energie"
+        }
+      ],
+      "companies": [
+        "energies-nouvelles-valais"
+      ]
     },
     {
       "slug": "aee-suisse-energie-energies-nouvelles-vaud-michel-herzen",
@@ -111,11 +184,21 @@
       "pdfPages": [],
       "summary": "Ingénieur et architecte EPFL, chargé de cours à l’Université de Genève et à l’EPFL et coauteur d’ouvrages sur l’architecture et la conception énergétique, Michel Herzen préside Energies Nouvelles Vaud, association partenaire de l’AEE Suisse qui réunit surtout des entrepreneurs. Elle sert d’intermédiaire, organise des débats et cherche des synergies et des solutions applicables pour ses membres. Il aimerait davantage d’influence sur les décisions politiques et souhaite que les élus fassent pencher les grands choix du côté de l’environnement. Il plaide pour raisonner en coût-efficacité plutôt qu’en coût-bénéfice, regrettant que le retour sur investissement énergétique dépasse la durée d’une législature. En tant qu’architecte, il estime pouvoir faire changer concrètement les choses.",
       "quote": "L’écologie, c’est l’affaire de tous !",
-      "themes": ["energie", "architecture"],
+      "themes": [
+        "energie",
+        "architecture"
+      ],
       "region": "Vaud",
       "language": "fr",
-      "people": [{ "name": "Michel Herzen", "role": "Président d’Energies Nouvelles Vaud" }],
-      "companies": ["energies-nouvelles-vaud"]
+      "people": [
+        {
+          "name": "Michel Herzen",
+          "role": "Président d’Energies Nouvelles Vaud"
+        }
+      ],
+      "companies": [
+        "energies-nouvelles-vaud"
+      ]
     },
     {
       "slug": "aee-suisse-energie-canton-de-vaud-laurent-balsiger",
@@ -126,11 +209,21 @@
       "pdfPages": [],
       "summary": "Ingénieur EPFL passé par les déchets et l’eau puis par les services industriels de Pully, Laurent Balsiger est directeur de l’énergie du canton de Vaud depuis 2013. Il rappelle que l’énergie est au cœur de notre société mais que les ressources arrivent à leur terme, et appelle à davantage de sobriété. Sa mission repose sur trois axes : informer et sensibiliser pour consommer moins, remplacer les sources classiques par des renouvelables et garantir la sécurité d’approvisionnement durant la transition, grâce à la mobilisation des acteurs, à des conditions-cadres évolutives et à l’exemplarité. Il souligne le potentiel éolien vaudois, complémentaire du solaire en hiver, et cite une étude de l’EPFL selon laquelle renouvelables et efficacité créeront des emplois.",
       "quote": "De l’énergie locale et renouvelable pour tous grâce à l’implication de chacun.",
-      "themes": ["energie", "collectivites"],
+      "themes": [
+        "energie",
+        "collectivites"
+      ],
       "region": "Vaud",
       "language": "fr",
-      "people": [{ "name": "Laurent Balsiger", "role": "Directeur de l’énergie du Canton de Vaud" }],
-      "companies": ["direction-energie-vaud"]
+      "people": [
+        {
+          "name": "Laurent Balsiger",
+          "role": "Directeur de l’énergie du Canton de Vaud"
+        }
+      ],
+      "companies": [
+        "direction-energie-vaud"
+      ]
     },
     {
       "slug": "aee-suisse-energie-energies-nouvelles-vaud-patrick-chiche",
@@ -141,11 +234,21 @@
       "pdfPages": [],
       "summary": "Architecte EPFL, enseignant à l’école Athénaeum de Lausanne et auteur de plusieurs ouvrages sur les concepts énergétiques intégrés, Patrick Chiché dirige son propre bureau, auteur de bâtiments précurseurs primés. Malgré un bilan peu réjouissant, il voit des pistes encourageantes dans l’inventivité et la responsabilité de chacun, et fait confiance aux jeunes générations. Pour réduire la consommation des bâtiments, il préconise de limiter les surfaces au strict nécessaire, de soigner l’enveloppe, de favoriser les apports passifs par des vitrages bien orientés et actifs par des capteurs solaires thermiques et photovoltaïques. Il passe en revue les labels reconnus par l’OFEN (Minergie, CECB, Société à 2000 watts, SNBS) et met en garde contre leur multiplication.",
       "quote": "Dans certains cas, il est possible de produire plus d’énergie que nécessaire.",
-      "themes": ["energie", "architecture"],
+      "themes": [
+        "energie",
+        "architecture"
+      ],
       "region": "Vaud",
       "language": "fr",
-      "people": [{ "name": "Patrick Chiché", "role": "Vice-président d’Energies Nouvelles Vaud, architecte" }],
-      "companies": ["energies-nouvelles-vaud"]
+      "people": [
+        {
+          "name": "Patrick Chiché",
+          "role": "Vice-président d’Energies Nouvelles Vaud, architecte"
+        }
+      ],
+      "companies": [
+        "energies-nouvelles-vaud"
+      ]
     },
     {
       "slug": "aee-suisse-energie-pv-lab-christophe-ballif",
@@ -156,11 +259,22 @@
       "pdfPages": [],
       "summary": "Christophe Ballif dirige à Neuchâtel le laboratoire de photovoltaïque de l’EPFL et le PV-center du CSEM, ce dernier orienté vers l’industrie avec salles blanches et lignes pilotes. Depuis 2005, ses équipes ont développé des cellules en silicium à hétérojonction à très haut rendement et leurs interconnexions, commercialisées notamment par Meyer Burger, ainsi que des cellules tandem pérovskite sur silicium dépassant 25 % de rendement. Elles ont aussi inventé les premiers modules blancs et couleur terre cuite pour l’intégration architecturale, des solutions ultralégères pour l’avion SolarStratos ou résistantes à l’Arctique, et travaillent sur le stockage, la gestion intelligente de l’énergie, l’intelligence artificielle pour la maintenance prédictive et des capteurs autonomes du projet Wear-a-watt.",
       "quote": "Avec cette nouvelle approche, nous avons récemment dépassé les 25% de rendement. Une première !",
-      "themes": ["energie", "formation", "industrie"],
+      "themes": [
+        "energie",
+        "formation",
+        "industrie"
+      ],
       "region": "Neuchâtel",
       "language": "fr",
-      "people": [{ "name": "Christophe Ballif", "role": "Professeur EPFL, directeur du PV-Lab et du PV-center du CSEM" }],
-      "companies": ["epfl-pv-lab"]
+      "people": [
+        {
+          "name": "Christophe Ballif",
+          "role": "Professeur EPFL, directeur du PV-Lab et du PV-center du CSEM"
+        }
+      ],
+      "companies": [
+        "epfl-pv-lab"
+      ]
     },
     {
       "slug": "aee-suisse-energie-centre-energie-epfl-francois-vuille",
@@ -171,11 +285,21 @@
       "pdfPages": [],
       "summary": "Depuis une dizaine d’années, le Centre de l’énergie de l’EPFL met en réseau les compétences internes liées à l’énergie. Son directeur depuis début 2018, François Vuille, décrit une petite unité chargée de casser les silos entre près d’une centaine de laboratoires répartis sur quatre campus : Energypolis à Sion, le Smart Living Lab à Fribourg, le photovoltaïque et la microtechnique à Neuchâtel, et Lausanne. Le centre organise trois à quatre fois par an des EPFL Energy Events, accueille des délégations industrielles, cherche des financements pour le transfert technologique et prépare un outil de recherche interne des compétences. Il vulgarise aussi l’énergie avec le calculateur en ligne Swiss-Energyscope et le livre « Comprendre la transition énergétique ».",
       "quote": "Nous sommes un peu une sorte de courroie de transmission, des facilitateurs.",
-      "themes": ["energie", "formation"],
+      "themes": [
+        "energie",
+        "formation"
+      ],
       "region": "Lausanne / Suisse romande",
       "language": "fr",
-      "people": [{ "name": "François Vuille", "role": "Directeur du Centre de l’énergie de l’EPFL" }],
-      "companies": ["cen-epfl"]
+      "people": [
+        {
+          "name": "François Vuille",
+          "role": "Directeur du Centre de l’énergie de l’EPFL"
+        }
+      ],
+      "companies": [
+        "cen-epfl"
+      ]
     },
     {
       "slug": "aee-suisse-energie-hei-valais-gaetan-cherix",
@@ -186,11 +310,21 @@
       "pdfPages": [],
       "summary": "La Haute École d’Ingénierie de Sion fête ses trente ans et emménagera à l’été 2020 dans un bâtiment de 180 millions de francs près de la gare, au sein du campus Energypolis partagé avec l’EPFL et la fondation The Ark, avec l’objectif d’au moins 400 étudiants. Son directeur Gaëtan Chérix présente trois filières, dont « Énergie et techniques environnementales » créée en 2013 avec la HEIG-VD, Sion se chargeant de l’électricité, des renouvelables et des smart grids. La recherche appliquée porte sur l’hydraulique, avec les petites centrales Duo turbo et des hydroliennes, et sur les réseaux multiénergies, comme le projet GoFlex qui gère 200 logements sédunois. Un nouvel institut de recherche en énergie verra le jour.",
       "quote": "Il s’agit de formations très typées, qui anticipent les besoins de l’industrie pour les 15 prochaines années.",
-      "themes": ["formation", "energie"],
+      "themes": [
+        "formation",
+        "energie"
+      ],
       "region": "Sion (VS)",
       "language": "fr",
-      "people": [{ "name": "Gaëtan Chérix", "role": "Directeur de la Haute Ecole d’Ingénierie du Valais" }],
-      "companies": ["hei-valais"]
+      "people": [
+        {
+          "name": "Gaëtan Chérix",
+          "role": "Directeur de la Haute Ecole d’Ingénierie du Valais"
+        }
+      ],
+      "companies": [
+        "hei-valais"
+      ]
     },
     {
       "slug": "aee-suisse-energie-pole-energies-heig-vd",
@@ -201,11 +335,21 @@
       "pdfPages": [],
       "summary": "Créé en avril 2017 au sein de la HEIG-VD à Yverdon-les-Bains, qui compte plus de 2000 étudiants, le Pôle Energies coordonne les recherches liées à l’énergie pour éviter que les chaires fonctionnent en silo. Son responsable, le professeur Massimiliano Capezzali, se voit comme un constructeur de ponts entre les laboratoires de génie électrique, de stockage, notamment par l’hydrogène, et de génie thermique, mais aussi avec le génie civil, la gestion et l’industrie. Le pôle monte des projets nationaux et internationaux, cherche des financements et organise des événements. Il a lancé le projet Networks_In_City sur l’avenir des réseaux de gaz urbains et mis en service le laboratoire ReIne, unique en Suisse, qui simule des réseaux de distribution à échelle réelle.",
       "quote": "J’agis un peu comme un facilitateur, un constructeur de ponts entre les instituts de recherche.",
-      "themes": ["formation", "energie"],
+      "themes": [
+        "formation",
+        "energie"
+      ],
       "region": "Yverdon-les-Bains (VD)",
       "language": "fr",
-      "people": [{ "name": "Massimiliano Capezzali", "role": "Professeur, responsable du Pôle Energies HEIG-VD" }],
-      "companies": ["pole-energies-heig-vd"]
+      "people": [
+        {
+          "name": "Massimiliano Capezzali",
+          "role": "Professeur, responsable du Pôle Energies HEIG-VD"
+        }
+      ],
+      "companies": [
+        "pole-energies-heig-vd"
+      ]
     },
     {
       "slug": "aee-suisse-energie-canton-du-valais-joel-fournier",
@@ -216,11 +360,21 @@
       "pdfPages": [],
       "summary": "Ingénieur électricien EPFL entré au service de l’énergie en 1990, Joël Fournier a participé aux réformes législatives, aux programmes de promotion et à la stratégie « Efficacité et approvisionnement énergétique » du Valais. Il observe une stabilisation de la consommation globale et une baisse par habitant dans le canton. Avec environ 10 milliards de kilowattheures, le Valais produit quelque 16 % de l’électricité suisse et près d’un quart de l’électricité renouvelable du pays, ce qui en fait le cœur énergétique de la Suisse. Les défis restent l’acceptation des infrastructures décentralisées, la rentabilité des investissements et les pertes hydroélectriques liées à la protection des eaux. Le canton accompagne activement les communes, notamment vers le label Cité de l’énergie.",
       "quote": "Le Valais constitue donc en quelque sorte le cœur énergétique de notre pays.",
-      "themes": ["energie", "collectivites"],
+      "themes": [
+        "energie",
+        "collectivites"
+      ],
       "region": "Valais",
       "language": "fr",
-      "people": [{ "name": "Joël Fournier", "role": "Chef du service de l’énergie et des forces hydrauliques" }],
-      "companies": ["service-energie-valais"]
+      "people": [
+        {
+          "name": "Joël Fournier",
+          "role": "Chef du service de l’énergie et des forces hydrauliques"
+        }
+      ],
+      "companies": [
+        "service-energie-valais"
+      ]
     },
     {
       "slug": "aee-suisse-energie-energies-nouvelles-fribourg-laurent-caillere",
@@ -231,11 +385,21 @@
       "pdfPages": [],
       "summary": "Ingénieur agronome devenu spécialiste de l’écologie des matériaux de construction, Laurent Caillère a fondé et préside Energies Nouvelles Fribourg, qui rassemble les professionnels pour partager connaissances et bonnes pratiques en efficacité énergétique et renouvelables. Il estime que Fribourg est sur la bonne voie, parfois cité en exemple, et dispose de fortes capacités éoliennes, solaires et hydrauliques ainsi que d’un grand potentiel de rénovation. L’association veut accompagner les autorités, convaincre les communes selon leurs moyens et démontrer que l’écologie et l’économie, qui partagent la même racine grecque, vont de pair. Il note que le besoin d’énergie d’un bâtiment a été divisé par quatre en quarante ans.",
       "quote": "Ecologie et économie sont donc très proches et interdépendantes.",
-      "themes": ["energie", "construction"],
+      "themes": [
+        "energie",
+        "construction"
+      ],
       "region": "Fribourg",
       "language": "fr",
-      "people": [{ "name": "Laurent Caillère", "role": "Fondateur et président d’Energies Nouvelles Fribourg" }],
-      "companies": ["energies-nouvelles-fribourg"]
+      "people": [
+        {
+          "name": "Laurent Caillère",
+          "role": "Fondateur et président d’Energies Nouvelles Fribourg"
+        }
+      ],
+      "companies": [
+        "energies-nouvelles-fribourg"
+      ]
     },
     {
       "slug": "aee-suisse-energie-canton-de-fribourg-serge-boschung",
@@ -246,11 +410,21 @@
       "pdfPages": [],
       "summary": "Chef du Service de l’énergie fribourgeois, Serge Boschung constate la dégradation du climat due au CO2 et juge que la Suisse est encore loin d’avoir fait le nécessaire. Son action porte d’abord sur les bâtiments, la défense des intérêts énergétiques et une planification territoriale cohérente des infrastructures. Il estime que remplacer les énergies fossiles par des renouvelables indigènes pourrait rapporter près d’un milliard de francs au seul canton. Le plan sectoriel de l’énergie de juillet 2017 a recensé le potentiel renouvelable cantonal et confirmé le réalisme des objectifs votés en mai 2017. Les communes doivent établir une planification énergétique compatible avec celle du canton, qui les soutient financièrement et renforcera son accompagnement.",
       "quote": "Le plus dur reste néanmoins à réaliser, à savoir de passer de la parole aux actes.",
-      "themes": ["energie", "collectivites"],
+      "themes": [
+        "energie",
+        "collectivites"
+      ],
       "region": "Fribourg",
       "language": "fr",
-      "people": [{ "name": "Serge Boschung", "role": "Chef du Service de l’énergie" }],
-      "companies": ["service-energie-fribourg"]
+      "people": [
+        {
+          "name": "Serge Boschung",
+          "role": "Chef du Service de l’énergie"
+        }
+      ],
+      "companies": [
+        "service-energie-fribourg"
+      ]
     },
     {
       "slug": "aee-suisse-energie-kanton-wallis-roberto-schmidt",
@@ -261,11 +435,21 @@
       "pdfPages": [],
       "summary": "Auteur en 2011 de la motion ouvrant la voie à la sortie progressive du nucléaire, le conseiller d’État valaisan Roberto Schmidt se félicite que la transition énergétique soit devenue une réalité. Il craint toutefois que la Stratégie 2050 ne devienne une stratégie d’importation, la Confédération misant trop sur le courant étranger, notamment issu du charbon allemand. Il réclame un soutien rapide à l’hydraulique, première source renouvelable du pays, une garantie d’achat de la production indigène en cas d’ouverture du marché et une meilleure rémunération du rôle de stockage des barrages. Il défend la redevance hydraulique, qui n’est pas une subvention mais une juste indemnisation, et voit dans la transition un moteur d’innovation et d’emplois.",
       "quote": "Die richtig aufgegleiste Energiestrategie 2050 darf nicht zu einer Importstrategie verkommen.",
-      "themes": ["energie", "collectivites"],
+      "themes": [
+        "energie",
+        "collectivites"
+      ],
       "region": "Valais",
       "language": "de",
-      "people": [{ "name": "Roberto Schmidt", "role": "Staatsrat, Chef des Departements für Finanzen und Energie" }],
-      "companies": ["kanton-wallis-dfe"]
+      "people": [
+        {
+          "name": "Roberto Schmidt",
+          "role": "Staatsrat, Chef des Departements für Finanzen und Energie"
+        }
+      ],
+      "companies": [
+        "kanton-wallis-dfe"
+      ]
     },
     {
       "slug": "aee-suisse-energie-stadt-aarau-hanspeter-hilfiker",
@@ -276,11 +460,21 @@
       "pdfPages": [],
       "summary": "Labellisée Cité de l’énergie « Gold » en 2017 avec 77,5 % des points, la ville d’Aarau s’est particulièrement distinguée dans l’organisation interne, la communication et l’aménagement. Son président Hanspeter Hilfiker détaille les objectifs de la société à 2000 watts inscrits dans le règlement communal : baisse de la consommation d’énergie primaire de 15 % d’ici 2020 et de 30 % d’ici 2035 par rapport à 2010, recul des énergies non renouvelables et réduction de moitié des émissions de gaz à effet de serre d’ici 2035. Un plan d’action 2016-2022 couvre six domaines, des bâtiments à la mobilité. Deux centrales hydroélectriques sur l’Aar couvrent environ les besoins électriques de la ville, qui élabore depuis 2018 un concept de Smart City.",
       "quote": "Die Energiestadt Aarau bekennt sich zu den Zielen der 2000-Watt-Gesellschaft.",
-      "themes": ["energie", "collectivites"],
+      "themes": [
+        "energie",
+        "collectivites"
+      ],
       "region": "Aarau (AG)",
       "language": "de",
-      "people": [{ "name": "Hanspeter Hilfiker", "role": "Stadtpräsident" }],
-      "companies": ["stadt-aarau"]
+      "people": [
+        {
+          "name": "Hanspeter Hilfiker",
+          "role": "Stadtpräsident"
+        }
+      ],
+      "companies": [
+        "stadt-aarau"
+      ]
     },
     {
       "slug": "aee-suisse-energie-basel-stadt-christoph-brutschin",
@@ -291,11 +485,21 @@
       "pdfPages": [],
       "summary": "Né du refus de la centrale de Kaiseraugst dans les années 1970, la politique énergétique bâloise, qui interdit le nucléaire dans la constitution, repose sur l’efficacité et les renouvelables. Christoph Brutschin présente la loi révisée de 2017, qui ajoute un objectif de décarbonisation : passer de près de quatre à une tonne de CO2 par habitant d’ici 2050. Cette loi, qui est en fait une loi sur la construction, impose des bâtiments neufs proches du zéro énergie et oblige les propriétaires remplaçant une chaudière fossile à étudier un système renouvelable, subventionné. Les grands consommateurs doivent conclure des conventions d’objectifs. Depuis 2009, le courant du réseau local est 100 % renouvelable ; le défi reste le rythme des rénovations et la chaleur.",
       "quote": "Wir möchten keine neuen fossilen Heizsysteme mehr.",
-      "themes": ["energie", "collectivites"],
+      "themes": [
+        "energie",
+        "collectivites"
+      ],
       "region": "Bâle-Ville",
       "language": "de",
-      "people": [{ "name": "Christoph Brutschin", "role": "Regierungsrat, Vorsteher Departement für Wirtschaft, Soziales und Umwelt" }],
-      "companies": ["basel-stadt-wsu"]
+      "people": [
+        {
+          "name": "Christoph Brutschin",
+          "role": "Regierungsrat, Vorsteher Departement für Wirtschaft, Soziales und Umwelt"
+        }
+      ],
+      "companies": [
+        "basel-stadt-wsu"
+      ]
     },
     {
       "slug": "aee-suisse-energie-neyruz-avenir-durable",
@@ -306,11 +510,22 @@
       "pdfPages": [],
       "summary": "Labellisée Cité de l’énergie en 2015, la commune fribourgeoise de Neyruz a concentré ses moyens sur de grands projets. Elle a fondé la société Neyergie SA, dont le capital a été approuvé par la population, pour promouvoir les renouvelables. Celle-ci a construit un réseau de chaleur alimenté par une chaudière à plaquettes de bois desservant bâtiments publics et privés du centre. Lors d’un projet de huit immeubles face à la gare, la commune a obtenu leur raccordement et l’usage des toitures pour une centrale photovoltaïque de 500 000 kWh par an, financée en partie par les citoyens et complétée par un stockage et un microgrid subventionnés par l’OFEN. Le syndic Martial Wicht évoque aussi le soutien aux assainissements privés et des actions de sensibilisation.",
       "quote": "Neyruz pour un avenir durable.",
-      "themes": ["energie", "collectivites"],
+      "themes": [
+        "energie",
+        "collectivites"
+      ],
       "region": "Fribourg",
       "language": "fr",
-      "people": [{ "name": "Martial Wicht", "role": "Syndic de Neyruz" }],
-      "companies": ["commune-de-neyruz", "neyergie"]
+      "people": [
+        {
+          "name": "Martial Wicht",
+          "role": "Syndic de Neyruz"
+        }
+      ],
+      "companies": [
+        "commune-de-neyruz",
+        "neyergie"
+      ]
     },
     {
       "slug": "aee-suisse-energie-ajs-ingenieurs-civils",
@@ -321,11 +536,21 @@
       "pdfPages": [],
       "summary": "Actif depuis 1960 et consultant pour l’OFROU, le bureau neuchâtelois AJS Ingénieurs civils compte une quarantaine d’employés et des succursales à Brügg et Genève. Il est intervenu sur l’assainissement de la N9 entre Vennes et Chexbres, l’appui au maître d’ouvrage pour le goulet de Crissier, la Voie verte genevoise, le chauffage à distance de Couvet, l’îlot B de La Chaux-de-Fonds et le siège de Celgene à Boudry. Pour David Quesada, membre de la direction, il faut investir juste, tenir compte de l’énergie grise et privilégier des matériaux durables et régionaux. Depuis deux ans, le bureau s’est aussi spécialisé dans le chauffage et la ventilation, propose des diagnostics énergétiques et délivre des certificats CECB et CECB Plus.",
       "quote": "Il faut se poser les véritables questions, savoir ce qui est vraiment nécessaire et investir juste.",
-      "themes": ["construction", "energie"],
+      "themes": [
+        "construction",
+        "energie"
+      ],
       "region": "Neuchâtel / Suisse romande",
       "language": "fr",
-      "people": [{ "name": "David Quesada", "role": "Chef de projet et membre de la direction" }],
-      "companies": ["ajs-ingenieurs-civils"]
+      "people": [
+        {
+          "name": "David Quesada",
+          "role": "Chef de projet et membre de la direction"
+        }
+      ],
+      "companies": [
+        "ajs-ingenieurs-civils"
+      ]
     },
     {
       "slug": "aee-suisse-energie-betelec-smart-electricity",
@@ -336,11 +561,21 @@
       "pdfPages": [],
       "summary": "Fondé en 1976 à Lausanne, avec une succursale à Genève depuis 2006, le bureau d’ingénieurs Betelec compte une quarantaine de collaborateurs et a créé en 2013 son département Greentech Expert. Il part du constat que la transition reporte les besoins thermiques et de mobilité vers l’électricité, via pompes à chaleur et moteurs électriques, ce qui exige une expertise électrique pour optimiser la consommation. Il maîtrise le comptage intelligent, l’éclairage LED, la domotique et l’optimisation des data centers, avec des audits au Palais Wilson, au Palais de Rumine et pour la DSI vaudoise, et a dirigé la construction du data center Safe Host à Gland. Il met aussi en place des communautés d’autoconsommation, comme à la Migros MMM de Crissier.",
       "quote": "Le futur de l’énergie est électrique mais écologique !",
-      "themes": ["energie", "construction"],
+      "themes": [
+        "energie",
+        "construction"
+      ],
       "region": "Vaud / Genève",
       "language": "fr",
-      "people": [{ "name": "Guillaume Thouvenin", "role": "Chef de projet sénior, responsable du département Greentech Expert" }],
-      "companies": ["betelec"]
+      "people": [
+        {
+          "name": "Guillaume Thouvenin",
+          "role": "Chef de projet sénior, responsable du département Greentech Expert"
+        }
+      ],
+      "companies": [
+        "betelec"
+      ]
     },
     {
       "slug": "aee-suisse-energie-cinelec",
@@ -351,11 +586,21 @@
       "pdfPages": [],
       "summary": "Fondée en 2004 à Matran et détenue par les distributeurs d’électricité fribourgeois Groupe E, Gruyère Energie, IB Murten et EV Jaun, Cinelec SA est exclusivement agréée pour le contrôle des installations électriques et non pour leur réalisation, gage d’une indépendance qui lui vaut des mandats d’expertise en cas d’accident ou de litige. Une dizaine de contrôleurs brevetés interviennent dans le canton de Fribourg, la Broye vaudoise et la Riviera, selon les fréquences fixées par l’OIBT, de un à vingt ans selon les bâtiments. Son directeur Michel Castella évoque de nouvelles accréditations pour les abris antinucléaires, la certification Swissgrid du photovoltaïque, les certificats énergétiques et un projet de thermographie, ainsi qu’une extension vers Neuchâtel et l’Arc jurassien.",
       "quote": "Nous pouvons donc garantir de ne pas être juges et parties.",
-      "themes": ["energie", "construction"],
+      "themes": [
+        "energie",
+        "construction"
+      ],
       "region": "Fribourg / Broye / Riviera",
       "language": "fr",
-      "people": [{ "name": "Michel Castella", "role": "Directeur" }],
-      "companies": ["cinelec"]
+      "people": [
+        {
+          "name": "Michel Castella",
+          "role": "Directeur"
+        }
+      ],
+      "companies": [
+        "cinelec"
+      ]
     },
     {
       "slug": "aee-suisse-energie-drosera-ecologie-appliquee",
@@ -366,11 +611,16 @@
       "pdfPages": [],
       "summary": "Créé en 1991 à Sion, avec des succursales à Saint-Maurice et Bex, le bureau d’études Drosera compte 13 collaborateurs et a réalisé plus de 1200 études en environnement, nature, paysage et gestion de grands projets territoriaux. Certifié ISO 9001 et 14001, Valais excellence et Entreprise citoyenne, il maîtrise les procédures d’autorisation, de concessions hydroélectriques ou d’installations à câbles et la négociation avec les ONG. Ses références incluent la planification des domaines skiables de Téléverbier et des Portes du Soleil, la revitalisation de la Dranse à Sembrancher et Vollèges et le Concept nature et paysage du Valais. Il travaille sur la concession de la Haute Vièze, la troisième correction du Rhône et des réseaux agro-écologiques.",
       "quote": "Innover pour nos clients, pour la qualité de nos projets, pour le respect qu’on porte à notre environnement : c’est notre philosophie.",
-      "themes": ["energie", "territoire"],
+      "themes": [
+        "energie",
+        "territoire"
+      ],
       "region": "Valais / Vaud",
       "language": "fr",
       "people": [],
-      "companies": ["drosera"]
+      "companies": [
+        "drosera"
+      ]
     },
     {
       "slug": "aee-suisse-energie-csd-ingenieurs",
@@ -381,11 +631,22 @@
       "pdfPages": [],
       "summary": "Fondé en 1970 à Berne et Fribourg comme spécialiste scientifique de l’environnement, le groupe CSD s’est étendu aux infrastructures ferroviaires et routières dans les années 1990, puis à la planification générale dans les années 2000. Fort d’environ 550 collaborateurs dans une vingtaine de succursales, dont Genève, Lausanne, Yverdon, Fribourg, Sion et Porrentruy, et de filiales en Belgique, Allemagne, Italie et Lituanie, il appartient à ses cadres. Son CEO Jean-Pascal Gendre cite les études du projet Cargo souterrain, l’assainissement de la décharge de la Pila, l’avant-projet de la gare de Lausanne, les trams lausannois, l’A1 Vennes–Chexbres et la géothermie profonde de Saint-Gall. CSD pilote aussi pour la Confédération le standard de construction durable SNBS.",
       "quote": "A l’origine, CSD est un spécialiste de l’environnement et cela n’a pas changé.",
-      "themes": ["energie", "construction", "architecture"],
+      "themes": [
+        "energie",
+        "construction",
+        "architecture"
+      ],
       "region": "Suisse",
       "language": "fr",
-      "people": [{ "name": "Jean-Pascal Gendre", "role": "CEO du groupe CSD" }],
-      "companies": ["csd-ingenieurs"]
+      "people": [
+        {
+          "name": "Jean-Pascal Gendre",
+          "role": "CEO du groupe CSD"
+        }
+      ],
+      "companies": [
+        "csd-ingenieurs"
+      ]
     },
     {
       "slug": "aee-suisse-energie-dpe-electrotechnique",
@@ -396,14 +657,26 @@
       "pdfPages": [],
       "summary": "Fondé en 1992 à Sierre, le bureau d’ingénieurs en électricité DPE Electrotechnique emploie 17 personnes, dont onze ingénieurs HES. Il couvre la planification d’installations électriques pour hôpitaux, bâtiments publics, banques ou écoles, et l’engineering industriel clés en main avec des constructeurs de machines. Il s’est spécialisé dans des niches liées à l’eau : télégestion de réseaux d’eau potable, contrôle-commande de stations de pompage et d’épuration, petite hydroélectricité et pompage-turbinage. Il a récemment ajouté la signalisation routière, avec le contrôle-commande des tunnels autoroutiers de Sion et de Tourtemagne et du contournement sud de Viège. L’administrateur fondateur Pierre-Alain Gabbud envisage un nouveau bâtiment dans la région sierroise.",
       "quote": "Nous nous devons donc d’être toujours en avance, du moins n’être jamais en retard.",
-      "themes": ["energie", "industrie", "mobilite"],
+      "themes": [
+        "energie",
+        "industrie",
+        "mobilite"
+      ],
       "region": "Valais",
       "language": "fr",
       "people": [
-        { "name": "Pierre-Alain Gabbud", "role": "Administrateur et fondateur" },
-        { "name": "Fabian Hintz", "role": "Directeur technique" }
+        {
+          "name": "Pierre-Alain Gabbud",
+          "role": "Administrateur et fondateur"
+        },
+        {
+          "name": "Fabian Hintz",
+          "role": "Directeur technique"
+        }
       ],
-      "companies": ["dpe-electrotechnique"]
+      "companies": [
+        "dpe-electrotechnique"
+      ]
     },
     {
       "slug": "aee-suisse-energie-ecoscan-specialiste-polyvalent",
@@ -414,15 +687,29 @@
       "pdfPages": [],
       "summary": "Fondé par Christian Junker, qui le compare à un médecin généraliste de l’environnement, le bureau lausannois Ecoscan réunit une dizaine de spécialistes : biologistes, géologue, géographe et ingénieurs en environnement. Le sous-directeur Jérôme Duval explique comment le bureau identifie, dès la planification, les contraintes légales d’un projet (bruit, rayonnement non ionisant, milieux naturels, sols) et propose des solutions avec urbanistes, architectes et ingénieurs, en établissant les rapports d’impact exigés par la LPE. Il souligne la complexité des questions de bruit, différentes pour la route et le rail, et décrit l’évaluation de l’électrosmog des antennes de téléphonie mobile. Le bureau intervient dans les cantons de Vaud, Genève, Fribourg, Valais et Neuchâtel.",
       "quote": "Il est possible de construire des quartiers agréables à vivre même à proximité d’autoroutes ou de voies ferrées.",
-      "themes": ["energie", "territoire"],
+      "themes": [
+        "energie",
+        "territoire"
+      ],
       "region": "Suisse romande",
       "language": "fr",
       "people": [
-        { "name": "Jérôme Duval", "role": "Sous-directeur" },
-        { "name": "Christian Junker", "role": "Fondateur et directeur" },
-        { "name": "Samuel Bocherens", "role": "Sous-directeur" }
+        {
+          "name": "Jérôme Duval",
+          "role": "Sous-directeur"
+        },
+        {
+          "name": "Christian Junker",
+          "role": "Fondateur et directeur"
+        },
+        {
+          "name": "Samuel Bocherens",
+          "role": "Sous-directeur"
+        }
       ],
-      "companies": ["ecoscan"]
+      "companies": [
+        "ecoscan"
+      ]
     },
     {
       "slug": "aee-suisse-energie-groupe-e",
@@ -433,15 +720,29 @@
       "pdfPages": [],
       "summary": "Passé du statut d’électricien à celui d’entreprise générale de l’énergie, Groupe E propose électricité, gaz, chaleur et froid, installations électriques, chauffage, ventilation, mobilité électrique, éclairage public et facility management. Son directeur général Dominique Gachoud veut aider les clients à consommer moins et mieux. Groupe E Greenwatt réalise des audits énergétiques et des planifications énergétiques territoriales, tandis que Groupe E Connect, leader romand des installations et tableaux électriques, a mené 19 000 chantiers en 2017, dont le CEVA, l’hôpital de Rennaz et le bâtiment des hautes écoles de santé et de travail social de Fribourg. Avec 1800 collaborateurs et une trentaine de sites, le groupe renforce sa présence régionale et forme via la Connect Academy.",
       "quote": "Nous nous devons d’amener des solutions intelligentes, tournées vers l’avenir.",
-      "themes": ["energie", "construction"],
+      "themes": [
+        "energie",
+        "construction"
+      ],
       "region": "Suisse romande",
       "language": "fr",
       "people": [
-        { "name": "Dominique Gachoud", "role": "Directeur général" },
-        { "name": "Florian Buchter", "role": "Responsable Efficacité énergétique, Groupe E Greenwatt" },
-        { "name": "Michel Beaud", "role": "Responsable de Groupe E Connect" }
+        {
+          "name": "Dominique Gachoud",
+          "role": "Directeur général"
+        },
+        {
+          "name": "Florian Buchter",
+          "role": "Responsable Efficacité énergétique, Groupe E Greenwatt"
+        },
+        {
+          "name": "Michel Beaud",
+          "role": "Responsable de Groupe E Connect"
+        }
       ],
-      "companies": ["groupe-e"]
+      "companies": [
+        "groupe-e"
+      ]
     },
     {
       "slug": "aee-suisse-energie-energest",
@@ -452,11 +753,21 @@
       "pdfPages": [],
       "summary": "Fondée en 2005 par Pascal Angéloz à Matran, Energest applique les automates industriels, principalement de marque SAIA, à la gestion des bâtiments : centres commerciaux, écoles, halles de sport, réseaux de chauffage urbain et maisons individuelles. Les installations de chauffage, éclairage, ventilation, climatisation, stores et sanitaires sont reliées à un automate programmé selon les besoins, qui centralise commandes et données et détecte les pannes. Des outils d’analyse permettent de repérer les dysfonctionnements et les consommations simultanées inutiles, générant des économies d’énergie à moyen et long terme. L’entreprise, qui compte quatre techniciens en automation, travaille en management de projet, un seul responsable menant chaque dossier, et propose des contrats d’entretien pour les grandes structures.",
       "quote": "On peut voir une maison comme une machine à habiter.",
-      "themes": ["energie", "construction"],
+      "themes": [
+        "energie",
+        "construction"
+      ],
       "region": "Fribourg",
       "language": "fr",
-      "people": [{ "name": "Pascal Angéloz", "role": "Fondateur" }],
-      "companies": ["energest"]
+      "people": [
+        {
+          "name": "Pascal Angéloz",
+          "role": "Fondateur"
+        }
+      ],
+      "companies": [
+        "energest"
+      ]
     },
     {
       "slug": "aee-suisse-energie-monnay-electricite",
@@ -467,15 +778,29 @@
       "pdfPages": [],
       "summary": "Fondée en 1988 par Alain Monnay et reprise en avril 2015 par Gaïl Rappaz et Tobias Gaillard, Monnay Electricité SA compte 13 collaborateurs dont 4 apprentis, à Saint-Maurice. Elle propose études, conseil et réalisations en installations électrotechniques, courant faible, domotique KNX et photovoltaïque, avec près de 62 kW installés en 2018, ainsi que des solutions multimédias et de téléphonie. Ses références incluent la rénovation des installations de l’Abbaye, la Maison de Commune, la Banque cantonale du Valais, le centre autoroutier du Bas-Valais, les Bains de Lavey et le Grand Hôtel des Bains. Elle déploie actuellement la fibre optique pour l’administration communale et veut développer le solaire et la domotique.",
       "quote": "",
-      "themes": ["energie", "construction"],
+      "themes": [
+        "energie",
+        "construction"
+      ],
       "region": "Chablais valaisan",
       "language": "fr",
       "people": [
-        { "name": "Gaïl Rappaz", "role": "Repreneur et dirigeant" },
-        { "name": "Tobias Gaillard", "role": "Repreneur et dirigeant" },
-        { "name": "Alain Monnay", "role": "Fondateur" }
+        {
+          "name": "Gaïl Rappaz",
+          "role": "Repreneur et dirigeant"
+        },
+        {
+          "name": "Tobias Gaillard",
+          "role": "Repreneur et dirigeant"
+        },
+        {
+          "name": "Alain Monnay",
+          "role": "Fondateur"
+        }
       ],
-      "companies": ["monnay-electricite"]
+      "companies": [
+        "monnay-electricite"
+      ]
     },
     {
       "slug": "aee-suisse-energie-ep-electricite",
@@ -486,11 +811,16 @@
       "pdfPages": [],
       "summary": "Créée en 1981, EP Electricité SA emploie 123 personnes et a réalisé 23 millions de francs de chiffre d’affaires en 2013, dans les cantons de Genève, Neuchâtel et du Jura. Elle est active en électricité, télématique, automation, sécurité et maintenance 24 heures sur 24, avec une priorité donnée à la qualité et au suivi des projets, de l’étude à la maintenance. Ses références comprennent la transformation d’un bâtiment de l’OMC, le Rolex Learning Center de l’EPFL, l’agrandissement de l’usine Philip Morris à Neuchâtel, l’hôtel des Bergues et l’usine Willemin-Macodel. Parmi les projets annoncés figurent un complexe avec hôtel et parking à Versoix, les bâtiments de la RTS, un data center de Philip Morris à Onnens et la manufacture ETA à Villeret.",
       "quote": "",
-      "themes": ["energie", "construction"],
+      "themes": [
+        "energie",
+        "construction"
+      ],
       "region": "Genève / Neuchâtel / Jura",
       "language": "fr",
       "people": [],
-      "companies": ["ep-electricite"]
+      "companies": [
+        "ep-electricite"
+      ]
     },
     {
       "slug": "aee-suisse-energie-seic-gland",
@@ -501,11 +831,16 @@
       "pdfPages": [],
       "summary": "Encart de la SEIC, société locale de distribution d’énergie et de signaux numériques de la région de La Côte, forte de 110 ans d’expérience. Elle met en avant trois valeurs partagées par ses actionnaires, dirigeants et employés dans une culture de service public : l’équité, avec une énergie distribuée à prix équitable, la proximité, au service de 10 000 clients dans les communes de Gland, Prangins, Begnins, Duillier, Vich et Coinsins grâce à un réseau sûr et fiable, et la durabilité, en aidant clients et partenaires à améliorer leurs habitudes de consommation et en réduisant l’impact environnemental de ses activités. Les horaires d’accueil et les coordonnées figurent dans l’annonce.",
       "quote": "",
-      "themes": ["energie", "collectivites"],
+      "themes": [
+        "energie",
+        "collectivites"
+      ],
       "region": "La Côte (VD)",
       "language": "fr",
       "people": [],
-      "companies": ["seic"]
+      "companies": [
+        "seic"
+      ]
     },
     {
       "slug": "aee-suisse-energie-gaznat-rene-bautz",
@@ -516,11 +851,20 @@
       "pdfPages": [],
       "summary": "Basée à Vevey avec un centre technique à Aigle, Gaznat SA approvisionne en gaz naturel toute la Suisse occidentale à l’exception du Jura, soit environ un million et demi de personnes et dix milliards de kilowattheures par an. Son directeur général René Bautz retrace sa naissance comme société d’études à la fin des années 1960 et la mise en service du réseau en 1974. L’entreprise d’une cinquantaine de personnes gère achat, vente, transport et stockage via 620 km de gazoducs haute pression reliés à cinq points d’entrée. Ses 14 clients-actionnaires sont des sociétés gazières, des services industriels et quatre industriels. Le gaz provient surtout de l’UE et de Norvège ; des projets portent sur un gazoduc Nyon–Genève, le stockage et le gaz carburant.",
       "quote": "Il s’agit d’une énergie de transition vers le futur.",
-      "themes": ["energie"],
+      "themes": [
+        "energie"
+      ],
       "region": "Suisse occidentale",
       "language": "fr",
-      "people": [{ "name": "René Bautz", "role": "Directeur général" }],
-      "companies": ["gaznat"]
+      "people": [
+        {
+          "name": "René Bautz",
+          "role": "Directeur général"
+        }
+      ],
+      "companies": [
+        "gaznat"
+      ]
     },
     {
       "slug": "aee-suisse-energie-neo-technologies",
@@ -531,11 +875,16 @@
       "pdfPages": [],
       "summary": "Créée en 2004, neo technologies réunit une cinquantaine de consultants à Renens, Zurich et dans la région de Lugano. Spécialisée dans le processus « meter to cash », du relevé des compteurs à la facturation, elle a anticipé dès 2010 le déploiement des compteurs intelligents en Suisse et exploite une plateforme de smart metering multifluide hébergée en Suisse, renouvelée en 2016-2017, qui permet aux petits distributeurs comme les communes de mutualiser les coûts. En 2011, elle a lancé Green E-Value, dont les versions Kiosk et Building affichent et suivent les consommations des immeubles, avec alertes et signature thermique. En partenariat avec Signa-Terre, elle prépare une offre intégrant décomptes de chauffage et gestion de l’autoconsommation électrique.",
       "quote": "Un partenariat d’avenir !",
-      "themes": ["energie", "economie"],
+      "themes": [
+        "energie",
+        "economie"
+      ],
       "region": "Vaud / Suisse",
       "language": "fr",
       "people": [],
-      "companies": ["neo-technologies"]
+      "companies": [
+        "neo-technologies"
+      ]
     },
     {
       "slug": "aee-suisse-energie-sevt",
@@ -546,11 +895,17 @@
       "pdfPages": [],
       "summary": "Créée en 1996, la Société électrique du Val-de-Travers compte 33 collaborateurs, dont 5 apprentis, pour un chiffre d’affaires de près de 6,5 millions de francs et un bénéfice de 500 000 francs. Elle exploite le dernier magasin d’électroménager de la région, avec un service de réparation et une boutique en ligne prévue fin 2018, et réalise des installations électriques de la simple réparation aux sites industriels. Productrice d’électricité depuis ses deux usines hydroélectriques de 1896, elle prépare un renouvellement de son parc pour produire 20 GWh d’énergie locale. Ses partenariats avec Groupe E pour l’énergie et ELITE Electro pour les achats renforcent sa compétitivité ; un nouveau siège est envisagé à Couvet d’ici 2021.",
       "quote": "",
-      "themes": ["energie", "territoire"],
+      "themes": [
+        "energie",
+        "territoire"
+      ],
       "region": "Val-de-Travers (NE)",
       "language": "fr",
       "people": [],
-      "companies": ["sevt", "groupe-e"]
+      "companies": [
+        "sevt",
+        "groupe-e"
+      ]
     },
     {
       "slug": "aee-suisse-energie-solstis",
@@ -561,16 +916,32 @@
       "pdfPages": [],
       "summary": "Double lauréate du Prix solaire suisse 2018, Solstis, à Lausanne, compte plus de 22 ans d’existence et une soixantaine de collaborateurs, avec des succursales à Genève et La Chaux-de-Fonds. Ensemblier-installateur dans les cantons de Vaud, Genève, Neuchâtel et Valais et distributeur ailleurs, elle gère tout le projet solaire : études, simulations, autorisations, subventions, pose, stockage, bornes de recharge et maintenance. Elle totalise 1754 installations dans plus de 495 communes, soit 126 280 kWc, pour des clients comme le CIO, l’EPFL, le CHUV, l’ONU ou les SIG. Dirigée depuis 2018 par Stéphane Krattinger et Raphaël Parera, elle développe des micro-réseaux pour des écoquartiers à Lausanne, Coppet et Rolle et de grandes batteries industrielles.",
       "quote": "",
-      "themes": ["energie"],
+      "themes": [
+        "energie"
+      ],
       "region": "Vaud / Suisse romande",
       "language": "fr",
       "people": [
-        { "name": "Stéphane Krattinger", "role": "Directeur" },
-        { "name": "Raphaël Parera", "role": "Directeur" },
-        { "name": "Jacques Bonvin", "role": "Fondateur, administrateur" },
-        { "name": "Pascal Affolter", "role": "Fondateur, administrateur" }
+        {
+          "name": "Stéphane Krattinger",
+          "role": "Directeur"
+        },
+        {
+          "name": "Raphaël Parera",
+          "role": "Directeur"
+        },
+        {
+          "name": "Jacques Bonvin",
+          "role": "Fondateur, administrateur"
+        },
+        {
+          "name": "Pascal Affolter",
+          "role": "Fondateur, administrateur"
+        }
       ],
-      "companies": ["solstis"]
+      "companies": [
+        "solstis"
+      ]
     },
     {
       "slug": "aee-suisse-energie-heiniger-cables",
@@ -581,11 +952,21 @@
       "pdfPages": [],
       "summary": "François Wüthrich présente Heiniger Câbles SA (Heiniger Kabel AG), spécialisée dans les câbles d’installation et industriels, les réseaux de câblage structuré, la fibre optique et le FTTH, les réseaux informatiques sans fil et la confection de câbles pour l’industrie. L’entreprise met en avant un vaste assortiment et un centre de coupe d’environ 1200 bobines suspendues, qui permet de livrer rapidement les chantiers de toute la Suisse en câbles sur mesure. Son département réseau planifie et réalise des installations, et les clients industriels sont accompagnés jusqu’aux livraisons en flux tendu ou kanban. Certifiée ISO, elle mise sur des relations de partenariat avec ses fournisseurs, dispose de sites à Domdidier et Steinhausen, d’un e-shop et d’une application mobile.",
       "quote": "Nous travaillons toujours dans un contexte de partenariat au service de nos clients.",
-      "themes": ["industrie", "energie"],
+      "themes": [
+        "industrie",
+        "energie"
+      ],
       "region": "Berne / Fribourg / Zoug",
       "language": "fr",
-      "people": [{ "name": "François Wüthrich", "role": "Directeur" }],
-      "companies": ["heiniger-cables"]
+      "people": [
+        {
+          "name": "François Wüthrich",
+          "role": "Directeur"
+        }
+      ],
+      "companies": [
+        "heiniger-cables"
+      ]
     }
   ],
   "companies": [
@@ -593,7 +974,10 @@
       "slug": "aee-suisse",
       "name": "AEE SUISSE – Dachorganisation der Wirtschaft für erneuerbare Energien und Energieeffizienz",
       "sector": "Association faîtière des énergies renouvelables et de l’efficacité énergétique",
-      "themes": ["energie", "economie"],
+      "themes": [
+        "energie",
+        "economie"
+      ],
       "description": "Faîtière de l’économie des énergies renouvelables et de l’efficacité énergétique, représentant 15 000 entreprises et 20 associations. Elle sensibilise le public et les décideurs, participe à l’élaboration des conditions-cadres (loi sur l’énergie, loi sur le CO2, marché de l’électricité) et s’appuie sur les initiatives d’entrepreneurs NEUE ENERGIE dans 16 cantons.",
       "address": "Falkenplatz 11",
       "postalCode": "3001",
@@ -603,7 +987,12 @@
       "phone": "+41 31 301 89 62",
       "email": "info@aeesuisse.ch",
       "website": "http://www.aeesuisse.ch/",
-      "contacts": [{ "name": "Gianni Operto", "role": "Präsident" }],
+      "contacts": [
+        {
+          "name": "Gianni Operto",
+          "role": "Präsident"
+        }
+      ],
       "page": "02-03",
       "pdfPages": [],
       "advertiserOnly": false
@@ -612,7 +1001,9 @@
       "slug": "aee-suisse-romande",
       "name": "AEE Suisse romande",
       "sector": "Association – énergies renouvelables et efficacité énergétique",
-      "themes": ["energie"],
+      "themes": [
+        "energie"
+      ],
       "description": "Antenne romande récente de l’AEE Suisse, qui rassemble entreprises et associations liées à la transition énergétique et travaille avec les associations cantonales Energies Nouvelles pour accélérer la transition par une information objective. Coordonnées non indiquées dans le texte.",
       "address": "",
       "postalCode": "",
@@ -622,7 +1013,12 @@
       "phone": "",
       "email": "",
       "website": "",
-      "contacts": [{ "name": "Andréas von Kaenel", "role": "Directeur" }],
+      "contacts": [
+        {
+          "name": "Andréas von Kaenel",
+          "role": "Directeur"
+        }
+      ],
       "page": "04",
       "pdfPages": [],
       "advertiserOnly": false
@@ -631,7 +1027,10 @@
       "slug": "ville-de-vevey",
       "name": "Ville de Vevey",
       "sector": "Commune",
-      "themes": ["collectivites", "energie"],
+      "themes": [
+        "collectivites",
+        "energie"
+      ],
       "description": "Commune vaudoise labellisée Cité de l’énergie « or » depuis 2012, dotée d’un délégué à l’énergie, d’un plan directeur des énergies et d’un projet de chauffage à distance au bois local en partenariat public-privé. Coordonnées non indiquées dans le texte.",
       "address": "",
       "postalCode": "",
@@ -641,7 +1040,12 @@
       "phone": "",
       "email": "",
       "website": "",
-      "contacts": [{ "name": "Jérôme Christen", "role": "Municipal (urbanisme, mobilité, développement durable, espaces publics)" }],
+      "contacts": [
+        {
+          "name": "Jérôme Christen",
+          "role": "Municipal (urbanisme, mobilité, développement durable, espaces publics)"
+        }
+      ],
       "page": "06",
       "pdfPages": [],
       "advertiserOnly": false
@@ -650,7 +1054,10 @@
       "slug": "sig",
       "name": "SIG – Services Industriels de Genève",
       "sector": "Entreprise d’approvisionnement énergétique",
-      "themes": ["energie", "collectivites"],
+      "themes": [
+        "energie",
+        "collectivites"
+      ],
       "description": "Entreprise genevoise d’approvisionnement, « bras industriel » de la politique énergétique cantonale : électricité 100 % renouvelable, chauffage à distance pour plus de 50 000 ménages, refroidissement par le lac (GeniLac), programme d’économies éco21 (155 GWh en dix ans) et plan solaire. Coordonnées non indiquées dans le texte.",
       "address": "",
       "postalCode": "",
@@ -660,7 +1067,12 @@
       "phone": "",
       "email": "",
       "website": "",
-      "contacts": [{ "name": "Konrad Rieder", "role": "Directeur des Affaires régulatoires" }],
+      "contacts": [
+        {
+          "name": "Konrad Rieder",
+          "role": "Directeur des Affaires régulatoires"
+        }
+      ],
       "page": "07",
       "pdfPages": [],
       "advertiserOnly": false
@@ -669,7 +1081,9 @@
       "slug": "energies-nouvelles-valais",
       "name": "Energies Nouvelles Valais",
       "sector": "Association d’entrepreneurs – énergies renouvelables",
-      "themes": ["energie"],
+      "themes": [
+        "energie"
+      ],
       "description": "Association valaisanne partenaire de l’AEE Suisse, réunissant seize entrepreneurs de domaines variés pour faire vivre la Stratégie énergétique 2050 et faire le lien entre professionnels et communes. Coordonnées non indiquées dans le texte.",
       "address": "",
       "postalCode": "",
@@ -679,7 +1093,12 @@
       "phone": "",
       "email": "",
       "website": "",
-      "contacts": [{ "name": "Francis Rossier", "role": "Président" }],
+      "contacts": [
+        {
+          "name": "Francis Rossier",
+          "role": "Président"
+        }
+      ],
       "page": "08",
       "pdfPages": [],
       "advertiserOnly": false
@@ -688,7 +1107,9 @@
       "slug": "energies-nouvelles-vaud",
       "name": "Energies Nouvelles Vaud",
       "sector": "Association d’entrepreneurs – énergies renouvelables",
-      "themes": ["energie"],
+      "themes": [
+        "energie"
+      ],
       "description": "Association vaudoise partenaire de l’AEE Suisse, qui regroupe surtout des entrepreneurs engagés pour un approvisionnement fondé sur les renouvelables et l’efficacité énergétique, organise des débats et conseille ponctuellement les politiques. Coordonnées non indiquées dans le texte.",
       "address": "",
       "postalCode": "",
@@ -699,8 +1120,14 @@
       "email": "",
       "website": "",
       "contacts": [
-        { "name": "Michel Herzen", "role": "Président" },
-        { "name": "Patrick Chiché", "role": "Vice-président" }
+        {
+          "name": "Michel Herzen",
+          "role": "Président"
+        },
+        {
+          "name": "Patrick Chiché",
+          "role": "Vice-président"
+        }
       ],
       "page": "09, 11",
       "pdfPages": [],
@@ -710,7 +1137,10 @@
       "slug": "direction-energie-vaud",
       "name": "Direction de l’énergie – Canton de Vaud",
       "sector": "Administration cantonale – énergie",
-      "themes": ["energie", "collectivites"],
+      "themes": [
+        "energie",
+        "collectivites"
+      ],
       "description": "Direction cantonale vaudoise chargée de sensibiliser à la sobriété et à l’efficacité, de remplacer les sources classiques par des renouvelables (dont l’éolien) et de garantir la sécurité d’approvisionnement durant la transition. Coordonnées non indiquées dans le texte.",
       "address": "",
       "postalCode": "",
@@ -720,7 +1150,12 @@
       "phone": "",
       "email": "",
       "website": "",
-      "contacts": [{ "name": "Laurent Balsiger", "role": "Directeur de l’énergie" }],
+      "contacts": [
+        {
+          "name": "Laurent Balsiger",
+          "role": "Directeur de l’énergie"
+        }
+      ],
       "page": "10",
       "pdfPages": [],
       "advertiserOnly": false
@@ -729,7 +1164,10 @@
       "slug": "epfl-pv-lab",
       "name": "EPFL – Laboratoire de photovoltaïque et couches minces électroniques (PV-Lab)",
       "sector": "Recherche en photovoltaïque",
-      "themes": ["energie", "formation"],
+      "themes": [
+        "energie",
+        "formation"
+      ],
       "description": "Laboratoire de l’EPFL basé à Neuchâtel (Microcity), associé au PV-center du CSEM, qui développe des cellules à hétérojonction et tandem pérovskite-silicium, des modules colorés et ultralégers, le stockage et la gestion intelligente de l’énergie, et transfère ses technologies à l’industrie.",
       "address": "EPFL STI IMT PV-LAB, MC A2 298 (Microcity), Rue de la Maladière 71b, CP 526",
       "postalCode": "2002",
@@ -739,7 +1177,12 @@
       "phone": "+41 (0) 21 695 4209",
       "email": "",
       "website": "http://pvlab.epfl.ch/",
-      "contacts": [{ "name": "Christophe Ballif", "role": "Professeur, directeur du PV-Lab et du PV-center du CSEM" }],
+      "contacts": [
+        {
+          "name": "Christophe Ballif",
+          "role": "Professeur, directeur du PV-Lab et du PV-center du CSEM"
+        }
+      ],
       "page": "12",
       "pdfPages": [],
       "advertiserOnly": false
@@ -748,7 +1191,10 @@
       "slug": "cen-epfl",
       "name": "Centre de l’énergie (CEN) de l’EPFL",
       "sector": "Coordination de la recherche en énergie",
-      "themes": ["energie", "formation"],
+      "themes": [
+        "energie",
+        "formation"
+      ],
       "description": "Unité de l’EPFL chargée de fédérer près d’une centaine de laboratoires actifs dans l’énergie sur quatre campus, de faciliter le lien avec l’industrie (EPFL Energy Events, délégations, financements) et de vulgariser la transition énergétique (Swiss-Energyscope, ouvrages).",
       "address": "Château En Bassenges, Chemin de la Raye 10",
       "postalCode": "1024",
@@ -758,7 +1204,12 @@
       "phone": "+41 21 693 24 87",
       "email": "",
       "website": "https://energycenter.epfl.ch",
-      "contacts": [{ "name": "François Vuille", "role": "Directeur" }],
+      "contacts": [
+        {
+          "name": "François Vuille",
+          "role": "Directeur"
+        }
+      ],
       "page": "13",
       "pdfPages": [],
       "advertiserOnly": false
@@ -767,7 +1218,10 @@
       "slug": "hei-valais",
       "name": "HES-SO Valais-Wallis – Haute Ecole d’Ingénierie (HEI)",
       "sector": "Haute école d’ingénierie",
-      "themes": ["formation", "energie"],
+      "themes": [
+        "formation",
+        "energie"
+      ],
       "description": "Haute école sédunoise de trente ans proposant les filières Systèmes industriels, Technologies du vivant et Énergie et techniques environnementales, avec une recherche appliquée en hydraulique et réseaux multiénergies ; future installation sur le campus Energypolis en 2020.",
       "address": "Route du Rawyl 47, Case postale 2134",
       "postalCode": "1950",
@@ -777,7 +1231,12 @@
       "phone": "+41 27 606 85 23",
       "email": "",
       "website": "http://www.hevs.ch/hei",
-      "contacts": [{ "name": "Gaëtan Chérix", "role": "Directeur" }],
+      "contacts": [
+        {
+          "name": "Gaëtan Chérix",
+          "role": "Directeur"
+        }
+      ],
       "page": "14",
       "pdfPages": [],
       "advertiserOnly": false
@@ -786,7 +1245,10 @@
       "slug": "pole-energies-heig-vd",
       "name": "Pôle Energies HEIG-VD",
       "sector": "Coordination de la recherche en énergie",
-      "themes": ["formation", "energie"],
+      "themes": [
+        "formation",
+        "energie"
+      ],
       "description": "Entité créée en 2017 à la HEIG-VD pour coordonner les recherches énergétiques (réseaux électriques, stockage, thermique, biomasse), monter des projets et des financements et collaborer avec l’industrie et l’incubateur Starmac ; elle a mis en service le laboratoire de réseaux ReIne.",
       "address": "",
       "postalCode": "",
@@ -796,7 +1258,12 @@
       "phone": "+41 (0)24 557 64 62",
       "email": "",
       "website": "http://energies.heig-vd.ch",
-      "contacts": [{ "name": "Massimiliano Capezzali", "role": "Professeur, responsable du Pôle Energies" }],
+      "contacts": [
+        {
+          "name": "Massimiliano Capezzali",
+          "role": "Professeur, responsable du Pôle Energies"
+        }
+      ],
       "page": "15",
       "pdfPages": [],
       "advertiserOnly": false
@@ -805,7 +1272,10 @@
       "slug": "service-energie-valais",
       "name": "Service de l’énergie et des forces hydrauliques – Canton du Valais",
       "sector": "Administration cantonale – énergie",
-      "themes": ["energie", "collectivites"],
+      "themes": [
+        "energie",
+        "collectivites"
+      ],
       "description": "Service cantonal valaisan chargé de la politique énergétique et des forces hydrauliques dans un canton qui produit environ 16 % de l’électricité suisse ; il accompagne les communes (Cité de l’énergie, contrôle des dossiers énergétiques, planification territoriale). Coordonnées non indiquées dans le texte.",
       "address": "",
       "postalCode": "",
@@ -815,7 +1285,12 @@
       "phone": "",
       "email": "",
       "website": "",
-      "contacts": [{ "name": "Joël Fournier", "role": "Chef de service" }],
+      "contacts": [
+        {
+          "name": "Joël Fournier",
+          "role": "Chef de service"
+        }
+      ],
       "page": "16",
       "pdfPages": [],
       "advertiserOnly": false
@@ -824,7 +1299,10 @@
       "slug": "energies-nouvelles-fribourg",
       "name": "Energies Nouvelles Fribourg",
       "sector": "Association de professionnels – énergies renouvelables",
-      "themes": ["energie", "construction"],
+      "themes": [
+        "energie",
+        "construction"
+      ],
       "description": "Association fribourgeoise fondée pour rassembler les professionnels, partager les connaissances, promouvoir les bonnes pratiques en efficacité énergétique et renouvelables et porter leur voix auprès du public et des autorités. Coordonnées non indiquées dans le texte.",
       "address": "",
       "postalCode": "",
@@ -834,7 +1312,12 @@
       "phone": "",
       "email": "",
       "website": "",
-      "contacts": [{ "name": "Laurent Caillère", "role": "Fondateur et président" }],
+      "contacts": [
+        {
+          "name": "Laurent Caillère",
+          "role": "Fondateur et président"
+        }
+      ],
       "page": "17",
       "pdfPages": [],
       "advertiserOnly": false
@@ -843,7 +1326,10 @@
       "slug": "service-energie-fribourg",
       "name": "Service de l’énergie – Canton de Fribourg",
       "sector": "Administration cantonale – énergie",
-      "themes": ["energie", "collectivites"],
+      "themes": [
+        "energie",
+        "collectivites"
+      ],
       "description": "Service cantonal chargé de concrétiser la politique énergétique fribourgeoise et fédérale : bâtiments, plan sectoriel de l’énergie de 2017, coordination avec le plan directeur et accompagnement des communes dans leur planification énergétique. Coordonnées non indiquées dans le texte.",
       "address": "",
       "postalCode": "",
@@ -853,7 +1339,12 @@
       "phone": "",
       "email": "",
       "website": "",
-      "contacts": [{ "name": "Serge Boschung", "role": "Chef de service" }],
+      "contacts": [
+        {
+          "name": "Serge Boschung",
+          "role": "Chef de service"
+        }
+      ],
       "page": "18",
       "pdfPages": [],
       "advertiserOnly": false
@@ -862,7 +1353,10 @@
       "slug": "kanton-wallis-dfe",
       "name": "Kanton Wallis – Departement für Finanzen und Energie",
       "sector": "Administration cantonale – finances et énergie",
-      "themes": ["energie", "collectivites"],
+      "themes": [
+        "energie",
+        "collectivites"
+      ],
       "description": "Département valaisan dirigé par le conseiller d’État Roberto Schmidt, qui défend le soutien à l’hydraulique, une garantie d’achat de la production renouvelable indigène et le maintien de la redevance hydraulique.",
       "address": "Planta 3",
       "postalCode": "1950",
@@ -872,7 +1366,12 @@
       "phone": "",
       "email": "",
       "website": "",
-      "contacts": [{ "name": "Roberto Schmidt", "role": "Staatsrat" }],
+      "contacts": [
+        {
+          "name": "Roberto Schmidt",
+          "role": "Staatsrat"
+        }
+      ],
       "page": "19",
       "pdfPages": [],
       "advertiserOnly": false
@@ -881,7 +1380,10 @@
       "slug": "stadt-aarau",
       "name": "Stadt Aarau",
       "sector": "Commune",
-      "themes": ["collectivites", "energie"],
+      "themes": [
+        "collectivites",
+        "energie"
+      ],
       "description": "Ville argovienne labellisée Cité de l’énergie « Gold » en 2017, engagée pour les objectifs de la société à 2000 watts avec un plan d’action 2016-2022, deux centrales hydroélectriques sur son territoire et un concept de Smart City en préparation.",
       "address": "Rathausgasse 1",
       "postalCode": "5000",
@@ -891,7 +1393,12 @@
       "phone": "+41 (0)62 836 06 21",
       "email": "info@aarau.ch",
       "website": "www.aarau.ch",
-      "contacts": [{ "name": "Hanspeter Hilfiker", "role": "Stadtpräsident" }],
+      "contacts": [
+        {
+          "name": "Hanspeter Hilfiker",
+          "role": "Stadtpräsident"
+        }
+      ],
       "page": "20-21",
       "pdfPages": [],
       "advertiserOnly": false
@@ -900,7 +1407,10 @@
       "slug": "basel-stadt-wsu",
       "name": "Kanton Basel-Stadt – Departement für Wirtschaft, Soziales und Umwelt",
       "sector": "Administration cantonale – économie, social et environnement",
-      "themes": ["energie", "collectivites"],
+      "themes": [
+        "energie",
+        "collectivites"
+      ],
       "description": "Département bâlois responsable d’une politique énergétique sans nucléaire, fondée sur l’efficacité, les renouvelables et, depuis la loi de 2017, la décarbonisation (une tonne de CO2 par habitant d’ici 2050) ; courant du réseau local 100 % renouvelable depuis 2009.",
       "address": "Rheinsprung 18",
       "postalCode": "4001",
@@ -910,7 +1420,12 @@
       "phone": "+41 61 267 85 44",
       "email": "",
       "website": "http://www.wsu.bs.ch/",
-      "contacts": [{ "name": "Christoph Brutschin", "role": "Regierungsrat, Vorsteher" }],
+      "contacts": [
+        {
+          "name": "Christoph Brutschin",
+          "role": "Regierungsrat, Vorsteher"
+        }
+      ],
       "page": "22-23",
       "pdfPages": [],
       "advertiserOnly": false
@@ -919,7 +1434,10 @@
       "slug": "commune-de-neyruz",
       "name": "Commune de Neyruz",
       "sector": "Commune",
-      "themes": ["collectivites", "energie"],
+      "themes": [
+        "collectivites",
+        "energie"
+      ],
       "description": "Commune fribourgeoise labellisée Cité de l’énergie en 2015, fondatrice de Neyergie SA (réseau de chaleur au bois, centrale photovoltaïque avec stockage et microgrid). Le numéro postal imprimé dans le texte est incomplet (« CH- 740 ») et n’est donc pas repris.",
       "address": "Rte de Romont 4, Case postale 11",
       "postalCode": "",
@@ -929,7 +1447,12 @@
       "phone": "+41 26 916 15 50",
       "email": "neyruz@neyruz.ch",
       "website": "",
-      "contacts": [{ "name": "Martial Wicht", "role": "Syndic" }],
+      "contacts": [
+        {
+          "name": "Martial Wicht",
+          "role": "Syndic"
+        }
+      ],
       "page": "24",
       "pdfPages": [],
       "advertiserOnly": false
@@ -938,7 +1461,10 @@
       "slug": "neyergie",
       "name": "Neyergie SA",
       "sector": "Société communale d’énergie renouvelable",
-      "themes": ["energie", "collectivites"],
+      "themes": [
+        "energie",
+        "collectivites"
+      ],
       "description": "Société fondée en 2015 par la commune de Neyruz pour promouvoir les renouvelables : réseau de chaleur alimenté par une chaudière à plaquettes de bois, centrale photovoltaïque de 500 000 kWh par an sur les toits d’un nouveau quartier, stockage et microgrid soutenus par l’OFEN.",
       "address": "",
       "postalCode": "",
@@ -957,7 +1483,10 @@
       "slug": "ajs-ingenieurs-civils",
       "name": "AJS Ingénieurs civils SA",
       "sector": "Bureau d’ingénieurs civils",
-      "themes": ["construction", "energie"],
+      "themes": [
+        "construction",
+        "energie"
+      ],
       "description": "Bureau neuchâtelois actif depuis 1960, une quarantaine d’employés, succursales à Brügg et Genève, consultant pour l’OFROU : routes, structures, appui aux maîtres d’ouvrage et, depuis deux ans, chauffage, ventilation, diagnostics énergétiques et certificats CECB.",
       "address": "Rue de la Place d’Armes 5",
       "postalCode": "2001",
@@ -967,7 +1496,12 @@
       "phone": "+41 32 720 01 00",
       "email": "",
       "website": "www.ajs.ch",
-      "contacts": [{ "name": "David Quesada", "role": "Chef de projet, membre de la direction" }],
+      "contacts": [
+        {
+          "name": "David Quesada",
+          "role": "Chef de projet, membre de la direction"
+        }
+      ],
       "page": "25",
       "pdfPages": [],
       "advertiserOnly": false
@@ -976,7 +1510,10 @@
       "slug": "betelec",
       "name": "Betelec SA",
       "sector": "Ingénierie électrique et optimisation énergétique",
-      "themes": ["energie", "construction"],
+      "themes": [
+        "energie",
+        "construction"
+      ],
       "description": "Bureau d’ingénieurs fondé en 1976, une quarantaine de collaborateurs, succursale à Genève, département Greentech Expert : comptage intelligent, éclairage LED, domotique, audits de grands consommateurs, data centers (Safe Host à Gland) et communautés d’autoconsommation photovoltaïque.",
       "address": "La Pierreire 2",
       "postalCode": "1029",
@@ -986,7 +1523,12 @@
       "phone": "+41 (0)21 651 64 00",
       "email": "info@betelec.ch",
       "website": "http://betelec.ch/",
-      "contacts": [{ "name": "Guillaume Thouvenin", "role": "Responsable du département Greentech Expert" }],
+      "contacts": [
+        {
+          "name": "Guillaume Thouvenin",
+          "role": "Responsable du département Greentech Expert"
+        }
+      ],
       "page": "26-27",
       "pdfPages": [],
       "advertiserOnly": false
@@ -995,7 +1537,10 @@
       "slug": "cinelec",
       "name": "Cinelec SA",
       "sector": "Contrôle des installations électriques",
-      "themes": ["energie", "construction"],
+      "themes": [
+        "energie",
+        "construction"
+      ],
       "description": "Organe de contrôle indépendant fondé en 2004, détenu par les distributeurs fribourgeois (Groupe E, Gruyère Energie, IB Murten, EV Jaun), une dizaine de contrôleurs brevetés : contrôles OIBT, expertises, abris antinucléaires, certification Swissgrid du photovoltaïque et certificats énergétiques.",
       "address": "Route du Madelain 4, Case postale 64",
       "postalCode": "1753",
@@ -1005,7 +1550,12 @@
       "phone": "+41 (0)26 469 70 70",
       "email": "info@cinelec.ch",
       "website": "www.cinelec.ch",
-      "contacts": [{ "name": "Michel Castella", "role": "Directeur" }],
+      "contacts": [
+        {
+          "name": "Michel Castella",
+          "role": "Directeur"
+        }
+      ],
       "page": "28",
       "pdfPages": [],
       "advertiserOnly": false
@@ -1014,7 +1564,10 @@
       "slug": "drosera",
       "name": "Drosera Ecologie Appliquée SA",
       "sector": "Bureau d’études en environnement et paysage",
-      "themes": ["energie", "territoire"],
+      "themes": [
+        "energie",
+        "territoire"
+      ],
       "description": "Bureau sédunois créé en 1991, 13 collaborateurs, succursales à Saint-Maurice et Bex, plus de 1200 études : milieux naturels, faune et flore, études d’impact, revitalisation de cours d’eau, concessions hydroélectriques, domaines skiables et SIG. Certifié ISO 9001, 14001, Valais excellence et Entreprise citoyenne.",
       "address": "Chemin de la Poudrière 36",
       "postalCode": "1950",
@@ -1033,7 +1586,9 @@
       "slug": "cgc-energie",
       "name": "CGC Energie",
       "sector": "",
-      "themes": ["energie"],
+      "themes": [
+        "energie"
+      ],
       "description": "Société citée dans l’index du magazine (page 30) ; la page ne contient pas de texte exploitable dans l’extraction, aucune information sur son activité ni ses coordonnées n’est disponible.",
       "address": "",
       "postalCode": "",
@@ -1052,7 +1607,11 @@
       "slug": "csd-ingenieurs",
       "name": "CSD Ingénieurs SA (CSD Holding AG)",
       "sector": "Conseil en ingénierie et environnement",
-      "themes": ["energie", "construction", "architecture"],
+      "themes": [
+        "energie",
+        "construction",
+        "architecture"
+      ],
       "description": "Groupe fondé en 1970, pionnier de l’environnement devenu planificateur général, environ 550 collaborateurs dans une vingtaine de succursales suisses et des filiales européennes, détenu par ses cadres. Pilote du standard de construction durable SNBS.",
       "address": "Hessstrasse 27d",
       "postalCode": "3097",
@@ -1062,7 +1621,12 @@
       "phone": "+41 (0)31 970 35 35",
       "email": "bern@csd.ch",
       "website": "www.csd.ch",
-      "contacts": [{ "name": "Jean-Pascal Gendre", "role": "CEO" }],
+      "contacts": [
+        {
+          "name": "Jean-Pascal Gendre",
+          "role": "CEO"
+        }
+      ],
       "page": "31",
       "pdfPages": [],
       "advertiserOnly": false
@@ -1071,7 +1635,11 @@
       "slug": "dpe-electrotechnique",
       "name": "DPE Electrotechnique SA",
       "sector": "Bureau d’ingénieurs en électricité",
-      "themes": ["energie", "industrie", "mobilite"],
+      "themes": [
+        "energie",
+        "industrie",
+        "mobilite"
+      ],
       "description": "Bureau fondé en 1992 à Sierre, 17 personnes dont onze ingénieurs HES : planification d’installations électriques, engineering industriel et automation, télégestion de réseaux d’eau, petite hydroélectricité et contrôle-commande de la signalisation de tunnels routiers.",
       "address": "Rue du Manège 25, CP 290",
       "postalCode": "3960",
@@ -1082,8 +1650,14 @@
       "email": "info@dpe.ch",
       "website": "www.dpe.ch",
       "contacts": [
-        { "name": "Pierre-Alain Gabbud", "role": "Administrateur et fondateur" },
-        { "name": "Fabian Hintz", "role": "Directeur technique" }
+        {
+          "name": "Pierre-Alain Gabbud",
+          "role": "Administrateur et fondateur"
+        },
+        {
+          "name": "Fabian Hintz",
+          "role": "Directeur technique"
+        }
       ],
       "page": "32-33",
       "pdfPages": [],
@@ -1093,7 +1667,10 @@
       "slug": "ecoscan",
       "name": "Ecoscan SA",
       "sector": "Bureau d’études en environnement",
-      "themes": ["energie", "territoire"],
+      "themes": [
+        "energie",
+        "territoire"
+      ],
       "description": "Bureau lausannois fondé par Christian Junker, une dizaine de spécialistes : rapports d’impact selon la LPE, bruit, rayonnement non ionisant, milieux naturels et sols, pour quartiers, industries et infrastructures en Suisse romande.",
       "address": "Boulevard de Grancy 1, Case postale 525",
       "postalCode": "1001",
@@ -1104,9 +1681,18 @@
       "email": "info@ecoscan.ch",
       "website": "www.ecoscan.ch",
       "contacts": [
-        { "name": "Christian Junker", "role": "Directeur, fondateur" },
-        { "name": "Jérôme Duval", "role": "Sous-directeur" },
-        { "name": "Samuel Bocherens", "role": "Sous-directeur" }
+        {
+          "name": "Christian Junker",
+          "role": "Directeur, fondateur"
+        },
+        {
+          "name": "Jérôme Duval",
+          "role": "Sous-directeur"
+        },
+        {
+          "name": "Samuel Bocherens",
+          "role": "Sous-directeur"
+        }
       ],
       "page": "34-35",
       "pdfPages": [],
@@ -1116,7 +1702,10 @@
       "slug": "groupe-e",
       "name": "Groupe E",
       "sector": "Entreprise générale de l’énergie",
-      "themes": ["energie", "construction"],
+      "themes": [
+        "energie",
+        "construction"
+      ],
       "description": "Énergéticien romand de 1800 collaborateurs et une trentaine de sites : électricité, gaz, chaleur et froid, installations électriques (Groupe E Connect), efficacité énergétique et planification territoriale (Groupe E Greenwatt), mobilité électrique, éclairage public et facility management.",
       "address": "Route de Morat 135",
       "postalCode": "1763",
@@ -1127,9 +1716,18 @@
       "email": "info@groupe-e.ch",
       "website": "https://www.groupe-e.ch",
       "contacts": [
-        { "name": "Dominique Gachoud", "role": "Directeur général" },
-        { "name": "Florian Buchter", "role": "Responsable Efficacité énergétique, Groupe E Greenwatt" },
-        { "name": "Michel Beaud", "role": "Responsable de Groupe E Connect" }
+        {
+          "name": "Dominique Gachoud",
+          "role": "Directeur général"
+        },
+        {
+          "name": "Florian Buchter",
+          "role": "Responsable Efficacité énergétique, Groupe E Greenwatt"
+        },
+        {
+          "name": "Michel Beaud",
+          "role": "Responsable de Groupe E Connect"
+        }
       ],
       "page": "36-37",
       "pdfPages": [],
@@ -1139,7 +1737,10 @@
       "slug": "energest",
       "name": "ENERGEST",
       "sector": "Gestion technique et énergétique du bâtiment",
-      "themes": ["energie", "construction"],
+      "themes": [
+        "energie",
+        "construction"
+      ],
       "description": "PME fondée en 2005, quatre techniciens en automation : automates industriels (SAIA) appliqués à la gestion technique des bâtiments, centres commerciaux, écoles et réseaux de chauffage urbain, analyse des consommations et contrats d’entretien.",
       "address": "Route de l’Arney 4",
       "postalCode": "1753",
@@ -1149,7 +1750,12 @@
       "phone": "+41(0)26 422 17 45",
       "email": "info@energest.ch",
       "website": "www.energest.ch",
-      "contacts": [{ "name": "Pascal Angéloz", "role": "Fondateur" }],
+      "contacts": [
+        {
+          "name": "Pascal Angéloz",
+          "role": "Fondateur"
+        }
+      ],
       "page": "38",
       "pdfPages": [],
       "advertiserOnly": false
@@ -1158,7 +1764,10 @@
       "slug": "monnay-electricite",
       "name": "Monnay Electricité SA",
       "sector": "Installations électriques, domotique et photovoltaïque",
-      "themes": ["energie", "construction"],
+      "themes": [
+        "energie",
+        "construction"
+      ],
       "description": "Entreprise de Saint-Maurice fondée en 1988, reprise en 2015, 13 collaborateurs dont 4 apprentis : installations électrotechniques, courant faible, domotique KNX, photovoltaïque, multimédia et téléphonie pour l’artisanat, l’industrie et l’habitat.",
       "address": "Route des Emonets 1",
       "postalCode": "1890",
@@ -1169,8 +1778,14 @@
       "email": "info@amesa.ch",
       "website": "http://amesa.ch/",
       "contacts": [
-        { "name": "Gaïl Rappaz", "role": "Dirigeant" },
-        { "name": "Tobias Gaillard", "role": "Dirigeant" }
+        {
+          "name": "Gaïl Rappaz",
+          "role": "Dirigeant"
+        },
+        {
+          "name": "Tobias Gaillard",
+          "role": "Dirigeant"
+        }
       ],
       "page": "39",
       "pdfPages": [],
@@ -1180,7 +1795,10 @@
       "slug": "ep-electricite",
       "name": "EP Electricité SA",
       "sector": "Installations électriques, télématique et automation",
-      "themes": ["energie", "construction"],
+      "themes": [
+        "energie",
+        "construction"
+      ],
       "description": "Entreprise créée en 1981, 123 personnes et 23 millions de francs de chiffre d’affaires (2013), active à Genève, Neuchâtel et dans le Jura en électricité, télématique, automation, sécurité et maintenance 24 h/24.",
       "address": "Rue des Maraîchers 36",
       "postalCode": "1205",
@@ -1199,7 +1817,10 @@
       "slug": "seic",
       "name": "SEIC",
       "sector": "Distribution d’énergie et de signaux numériques",
-      "themes": ["energie", "collectivites"],
+      "themes": [
+        "energie",
+        "collectivites"
+      ],
       "description": "Société locale de distribution d’énergie et de signaux numériques forte de 110 ans d’expérience, au service de 10 000 clients à Gland, Prangins, Begnins, Duillier, Vich et Coinsins, avec une culture de service public axée sur l’équité, la proximité et la durabilité.",
       "address": "Rte des Avouillons 2",
       "postalCode": "1196",
@@ -1218,7 +1839,9 @@
       "slug": "gaznat",
       "name": "Gaznat SA",
       "sector": "Approvisionnement et transport de gaz naturel",
-      "themes": ["energie"],
+      "themes": [
+        "energie"
+      ],
       "description": "Société régionale d’approvisionnement en gaz naturel de la Suisse occidentale (hors Jura) : achat, vente, transport et stockage, 620 km de gazoducs haute pression, une cinquantaine d’employés, 14 clients-actionnaires ; centre technique à Aigle.",
       "address": "Avenue Général-Guisan 28",
       "postalCode": "1800",
@@ -1228,7 +1851,12 @@
       "phone": "+41 (0)58 274 04 84",
       "email": "",
       "website": "www.gaznat.ch",
-      "contacts": [{ "name": "René Bautz", "role": "Directeur général" }],
+      "contacts": [
+        {
+          "name": "René Bautz",
+          "role": "Directeur général"
+        }
+      ],
       "page": "41",
       "pdfPages": [],
       "advertiserOnly": false
@@ -1237,7 +1865,10 @@
       "slug": "neo-technologies",
       "name": "neo technologies SA",
       "sector": "Conseil et solutions de smart metering",
-      "themes": ["energie", "economie"],
+      "themes": [
+        "energie",
+        "economie"
+      ],
       "description": "Société fondée en 2004, une cinquantaine de consultants à Renens, Zurich et près de Lugano : processus « meter to cash », plateforme mutualisée de smart metering multifluide et solution Green E-Value de suivi énergétique des bâtiments.",
       "address": "Rue de Lausanne 60",
       "postalCode": "1020",
@@ -1256,7 +1887,10 @@
       "slug": "sevt",
       "name": "Société Electrique du Val-de-Travers (SEVT)",
       "sector": "Électricité : distribution, production, installations et commerce",
-      "themes": ["energie", "territoire"],
+      "themes": [
+        "energie",
+        "territoire"
+      ],
       "description": "Société créée en 1996, 33 collaborateurs dont 5 apprentis, environ 6,5 millions de francs de chiffre d’affaires : magasin d’électroménager, installations électriques, deux usines hydroélectriques en cours de renouvellement, partenariats avec Groupe E et ELITE Electro.",
       "address": "Rue du Preyel 9",
       "postalCode": "2108",
@@ -1275,7 +1909,9 @@
       "slug": "solstis",
       "name": "Solstis",
       "sector": "Installations solaires photovoltaïques",
-      "themes": ["energie"],
+      "themes": [
+        "energie"
+      ],
       "description": "Entreprise lausannoise de plus de 22 ans, une soixantaine de collaborateurs, succursales à Genève et La Chaux-de-Fonds, double lauréate du Prix solaire suisse 2018 : 1754 installations (126 280 kWc), stockage, micro-réseaux, bornes de recharge et maintenance. Site web reproduit tel qu’imprimé.",
       "address": "Sebeillon 9b",
       "postalCode": "1004",
@@ -1284,10 +1920,16 @@
       "country": "Suisse",
       "phone": "+41 (0)21 620 03 50",
       "email": "info@solstis.ch",
-      "website": "http://soltis.ch/",
+      "website": "www.solstis.ch",
       "contacts": [
-        { "name": "Stéphane Krattinger", "role": "Directeur" },
-        { "name": "Raphaël Parera", "role": "Directeur" }
+        {
+          "name": "Stéphane Krattinger",
+          "role": "Directeur"
+        },
+        {
+          "name": "Raphaël Parera",
+          "role": "Directeur"
+        }
       ],
       "page": "45",
       "pdfPages": [],
@@ -1297,7 +1939,10 @@
       "slug": "heiniger-cables",
       "name": "Heiniger Câbles SA (Heiniger Kabel AG)",
       "sector": "Câbles électriques, réseaux et confection de câbles",
-      "themes": ["industrie", "energie"],
+      "themes": [
+        "industrie",
+        "energie"
+      ],
       "description": "Fournisseur de câbles d’installation et industriels, fibre optique, réseaux informatiques et faisceaux de câbles sur mesure, avec un centre de coupe d’environ 1200 bobines, e-shop et application. Siège : Heiniger Kabel AG, Sägestrasse 65, 3098 Köniz, +41 (0)31 970 55 00, heiniger@heiniger-ag.ch ; succursale à Steinhausen.",
       "address": "Zone Industrielle",
       "postalCode": "1564",
@@ -1307,7 +1952,12 @@
       "phone": "+41 (0)26 676 96 70",
       "email": "vente@heiniger-ag.ch",
       "website": "www.heiniger-ag.ch",
-      "contacts": [{ "name": "François Wüthrich", "role": "Directeur" }],
+      "contacts": [
+        {
+          "name": "François Wüthrich",
+          "role": "Directeur"
+        }
+      ],
       "page": "46-47",
       "pdfPages": [],
       "advertiserOnly": false

@@ -4,11 +4,27 @@
   "series": "Collectivités",
   "year": 2014,
   "region": "Valais (Sion, Martigny, Sierre) et Neuchâtel",
-  "languages": ["fr", "de", "en"],
+  "languages": [
+    "fr",
+    "de",
+    "en"
+  ],
   "description": "Numéro réalisé en partenariat avec l'Union des villes suisses et consacré aux villes de Sion, Martigny, Sierre et Neuchâtel. Après un entretien en allemand avec Kurt Fluri, président de l'Union, les présidents de ville et conseillers municipaux présentent économie, urbanisme, mobilité, école, culture, sport et énergie. Des portraits d'entreprises valaisannes et neuchâteloises (construction, informatique, énergie, transports, microtechnique, banque, laboratoire médical) complètent l'édition, qui se termine par un index des profils d'entreprises.",
-  "themes": ["collectivites", "territoire", "economie", "energie", "mobilite", "formation"],
+  "themes": [
+    "collectivites",
+    "territoire",
+    "economie",
+    "energie",
+    "mobilite",
+    "formation"
+  ],
   "files": [
-    { "driveId": "1SYyVZegKDqEiL-HT3YMj9vs_7zQGipGc", "name": "SWISS_UVS_VALAIS_NEUCHATEL-web.pdf", "sizeMB": 11.9, "label": "Édition web" }
+    {
+      "driveId": "1SYyVZegKDqEiL-HT3YMj9vs_7zQGipGc",
+      "name": "SWISS_UVS_VALAIS_NEUCHATEL-web.pdf",
+      "sizeMB": 11.9,
+      "label": "Édition web"
+    }
   ],
   "pdfLocal": false,
   "articles": [
@@ -21,11 +37,20 @@
       "pdfPages": [],
       "summary": "Reprise, en allemand, de l'entretien avec Kurt Fluri, conseiller national, président de la ville de Soleure et de l'Union des villes suisses depuis août 2013. Il dresse le bilan positif de la décennie : comptes excédentaires de 2000 à 2012, environ 30 millions de francs de fonds propres, développement comme centre de congrès et pôle culturel. Soleure compte à nouveau 17 000 habitants, mais ses 629 hectares imposent une croissance par densification. La ville consacre environ 600 francs par habitant à la culture et étudie une fusion avec quatre communes voisines. Fluri présente aussi l'Union des villes comme la voix de la Suisse urbaine, qui réunit près des trois quarts de la population, et veut mieux faire entendre les villes au niveau fédéral.",
       "quote": "Solothurn schaut auf eine äusserst erfreuliche Dekade zurück.",
-      "themes": ["collectivites"],
+      "themes": [
+        "collectivites"
+      ],
       "region": "Soleure",
       "language": "de",
-      "people": [{ "name": "Kurt Fluri", "role": "Stadtpräsident von Solothurn, Präsident Schweizerischer Städteverband SSV" }],
-      "companies": ["stadt-solothurn"]
+      "people": [
+        {
+          "name": "Kurt Fluri",
+          "role": "Stadtpräsident von Solothurn, Präsident Schweizerischer Städteverband SSV"
+        }
+      ],
+      "companies": [
+        "stadt-solothurn"
+      ]
     },
     {
       "slug": "uvs-valais-neuchatel-sion-marcel-maurer",
@@ -36,11 +61,21 @@
       "pdfPages": [],
       "summary": "Lauréate du prix Wakker 2013 pour son développement en harmonie avec le paysage et le patrimoine, Sion, 32 000 habitants et 300 jours de soleil par an, est passée du statut de petite capitale administrative à celui de véritable ville. Son président Marcel Maurer souligne le rôle de l'école d'ingénieurs, arrivée il y a 25 ans, puis de l'EPFL et de ses onze chaires dans les énergies propres et les neuro-ingénieries, qui transforment le quartier de la gare. Le centre-ville est devenu une zone de rencontre à 20 km/h. L'aéroport, en passe de devenir totalement civil, offre un potentiel de développement. Le projet AggloSion réunit 13 communes autour de la mobilité. La Ville, qui emploie environ 600 personnes, est quasiment sans dette et reste fiscalement attractive.",
       "quote": "Je suis un président de ville assez heureux.",
-      "themes": ["collectivites", "territoire"],
+      "themes": [
+        "collectivites",
+        "territoire"
+      ],
       "region": "Sion",
       "language": "fr",
-      "people": [{ "name": "Marcel Maurer", "role": "Président de la Ville de Sion" }],
-      "companies": ["ville-de-sion"]
+      "people": [
+        {
+          "name": "Marcel Maurer",
+          "role": "Président de la Ville de Sion"
+        }
+      ],
+      "companies": [
+        "ville-de-sion"
+      ]
     },
     {
       "slug": "uvs-valais-neuchatel-sion-benoit-fournier",
@@ -51,11 +86,21 @@
       "pdfPages": [],
       "summary": "Benoît Fournier, vice-président de Sion chargé de l'économie et du tourisme, met en avant la situation de la ville au cœur du Valais et des Alpes, sa desserte par l'A9, le rail et l'aéroport, ainsi que ses pôles de formation et de recherche : HES-SO Valais, Institut universitaire Kurt Bösch, instituts de recherche en ophtalmologie et en réadaptation. L'arrivée de onze chaires de l'EPFL sur le Campus Valais Wallis devrait favoriser les transferts de technologie. Quelque 3000 entreprises sont implantées à Sion, dont Alpiq, les Forces Motrices Valaisannes, ETA et l'Hôpital du Valais. La commune agit sur les conditions-cadres et a créé l'Espace Création avec ses partenaires. Côté tourisme, Sion mise sur les châteaux de Valère et Tourbillon, le spectacle « Sion en lumières », la Fête du goût et ses vins « Grand Cru Ville de Sion ».",
       "quote": "",
-      "themes": ["economie", "territoire"],
+      "themes": [
+        "economie",
+        "territoire"
+      ],
       "region": "Sion",
       "language": "fr",
-      "people": [{ "name": "Benoît Fournier", "role": "Vice-président de Sion, président de Sion Tourisme" }],
-      "companies": ["ville-de-sion"]
+      "people": [
+        {
+          "name": "Benoît Fournier",
+          "role": "Vice-président de Sion, président de Sion Tourisme"
+        }
+      ],
+      "companies": [
+        "ville-de-sion"
+      ]
     },
     {
       "slug": "uvs-valais-neuchatel-sion-georges-joliat",
@@ -66,11 +111,22 @@
       "pdfPages": [],
       "summary": "Georges Joliat dirige le service des travaux publics de Sion, qui représente un cinquième du budget communal et un tiers des investissements : routes, rivières et canaux, agriculture, cadastre, assainissement, parkings, aéroport et voirie. Parmi les réalisations récentes figurent la nouvelle voirie inaugurée en 2013 et le règlement « Grand Cru Ville de Sion ». Les cinq lignes de bus sont passées d'une cadence horaire à un bus toutes les 20 minutes, et un parking de 300 places en périphérie doit libérer des places en surface. Le service sécurise la Sionne, la Morge et la Borgne, soutient le maintien du vignoble en terrasses, réhabilite la STEP de Chandoline pour 23 millions de francs et prépare le parking des Roches Brunes ainsi qu'un nouveau dépôt de bus.",
       "quote": "À l'intramuros, on pave toutes les rues et extramuros, c'est goudronné.",
-      "themes": ["mobilite", "collectivites", "construction"],
+      "themes": [
+        "mobilite",
+        "collectivites",
+        "construction"
+      ],
       "region": "Sion",
       "language": "fr",
-      "people": [{ "name": "Georges Joliat", "role": "Chef du service des travaux publics" }],
-      "companies": ["ville-de-sion"]
+      "people": [
+        {
+          "name": "Georges Joliat",
+          "role": "Chef du service des travaux publics"
+        }
+      ],
+      "companies": [
+        "ville-de-sion"
+      ]
     },
     {
       "slug": "uvs-valais-neuchatel-sion-blaise-crittin",
@@ -81,11 +137,21 @@
       "pdfPages": [],
       "summary": "Blaise Crittin décrit la politique sportive sédunoise comme une pyramide : le sport pour tous à la base, le sport de formation au milieu, appuyé sur 80 infrastructures, et le sport d'élite au sommet. La ville compte 1600 enfants inscrits aux sports loisirs, 130 clubs, plus de 50 disciplines et 180 manifestations par an, du Tour de Romandie au tournoi ATP Future en passant par le Jumping national. Les jeunes sportifs d'élite de moins de 25 ans reçoivent des aides, les manifestations ouvertes à tous sont subventionnées et une Soirée du sport distingue les athlètes. Parmi les projets figurent un complexe de six salles de gym, la rénovation du stade de Tourbillon et des piscines. Le programme Midnight Sports et des équipements de quartier font du sport un outil d'insertion sociale.",
       "quote": "Le sport ça fait du bien et ça crée des liens !",
-      "themes": ["collectivites", "territoire"],
+      "themes": [
+        "collectivites",
+        "territoire"
+      ],
       "region": "Sion",
       "language": "fr",
-      "people": [{ "name": "Blaise Crittin", "role": "Chef du service des sports" }],
-      "companies": ["ville-de-sion"]
+      "people": [
+        {
+          "name": "Blaise Crittin",
+          "role": "Chef du service des sports"
+        }
+      ],
+      "companies": [
+        "ville-de-sion"
+      ]
     },
     {
       "slug": "uvs-valais-neuchatel-sion-aeroport-cyrille-fauchere",
@@ -96,11 +162,21 @@
       "pdfPages": [],
       "summary": "Cyrille Fauchère, conseiller municipal et président de la commission de l'aéroport international de Sion, souligne la capacité d'accueil de l'aéroport, presque toujours libre contrairement à Genève, et sa proximité avec Verbier, Crans-Montana, Zermatt, Courchevel ou Gstaad. Le site accueille deux aéroclubs, une association de parachutisme, une école de pilotage, les compagnies d'aviation d'affaires Alpine Jet Service et TAG Aviation, ainsi que plusieurs compagnies d'hélicoptères comme Air-Glaciers, qui emploie à elle seule près de 130 personnes. Le développement doit offrir des infrastructures de qualité à ces acteurs et servir un tourisme haut de gamme. Pour limiter le bruit, la ville a subventionné le remplacement de fenêtres de riverains, prolongé une paroi antibruit et installé des bornes électriques au sol.",
       "quote": "",
-      "themes": ["mobilite", "territoire"],
+      "themes": [
+        "mobilite",
+        "territoire"
+      ],
       "region": "Sion",
       "language": "fr",
-      "people": [{ "name": "Cyrille Fauchère", "role": "Conseiller municipal, président de la commission de l'aéroport" }],
-      "companies": ["ville-de-sion"]
+      "people": [
+        {
+          "name": "Cyrille Fauchère",
+          "role": "Conseiller municipal, président de la commission de l'aéroport"
+        }
+      ],
+      "companies": [
+        "ville-de-sion"
+      ]
     },
     {
       "slug": "uvs-valais-neuchatel-sion-gaelle-metrailler",
@@ -111,11 +187,21 @@
       "pdfPages": [],
       "summary": "Gaëlle Métrailler, déléguée culturelle de Sion, présente une ville de 7000 ans d'histoire à la vie musicale particulièrement riche, avec le Festival international de l'orgue ancien, le Sion Festival ou le Guinness Irish Festival. La politique culturelle repose sur quatre enjeux : le dynamisme de la création, l'accès pour tous les publics, notamment les jeunes, des infrastructures adaptées, dont une salle de musiques actuelles en construction, et la visibilité de l'offre. La ville collabore avec l'office du tourisme et publie un mémento culturel mensuel. Elle préside aussi depuis février l'association Plateforme Culture Valais, créée par l'Association des villes valaisannes et le canton, active depuis 2011 et animatrice du site culturevalais.ch, qui promeut les artistes et rapproche culture et tourisme.",
       "quote": "",
-      "themes": ["territoire", "collectivites"],
+      "themes": [
+        "territoire",
+        "collectivites"
+      ],
       "region": "Sion",
       "language": "fr",
-      "people": [{ "name": "Gaëlle Métrailler", "role": "Déléguée culturelle" }],
-      "companies": ["ville-de-sion"]
+      "people": [
+        {
+          "name": "Gaëlle Métrailler",
+          "role": "Déléguée culturelle"
+        }
+      ],
+      "companies": [
+        "ville-de-sion"
+      ]
     },
     {
       "slug": "uvs-valais-neuchatel-sion-vincent-pellissier",
@@ -126,11 +212,21 @@
       "pdfPages": [],
       "summary": "Vincent Pellissier présente le paysage éducatif de Sion, centre d'une agglomération de près de 100 000 habitants : plus de 2500 élèves enfantins et primaires répartis dans 17 établissements avec 300 enseignants, et près de 1500 élèves au cycle d'orientation sur trois sites. La ville cofinance les lycées-collèges et deux filières de la HES-SO, accueille trois instituts universitaires et bientôt une antenne de l'EPFL. Elle gère 50 bâtiments scolaires, dont la remise aux normes coûtera plusieurs dizaines de millions, et prévoit un nouveau bâtiment de 12 millions. Les activités parascolaires sont largement internalisées, l'école intégrative est une tradition et une filière bilingue par immersion fonctionne depuis une dizaine d'années, avec de bons résultats en langues.",
       "quote": "",
-      "themes": ["formation", "collectivites"],
+      "themes": [
+        "formation",
+        "collectivites"
+      ],
       "region": "Sion",
       "language": "fr",
-      "people": [{ "name": "Vincent Pellissier", "role": "Conseiller municipal en charge de l'instruction publique" }],
-      "companies": ["ville-de-sion"]
+      "people": [
+        {
+          "name": "Vincent Pellissier",
+          "role": "Conseiller municipal en charge de l'instruction publique"
+        }
+      ],
+      "companies": [
+        "ville-de-sion"
+      ]
     },
     {
       "slug": "uvs-valais-neuchatel-bativa",
@@ -141,11 +237,15 @@
       "pdfPages": [],
       "summary": "Fondée en 1979 au cœur du Valais, la PME Bativa SA emploie 55 collaborateurs actifs dans le génie civil (conduites, murs de soutènement, aménagements routiers, travaux en rivière, enrobés), le bâtiment (villas, chalets, immeubles, halles industrielles), la rénovation-transformation, les aménagements extérieurs, le terrassement et le transport. Ses références incluent la piste cyclable de l'avenue Maurice-Troillet, l'agrandissement de l'école de Châteauneuf, la salle de gym de Platta ou la billetterie du stade de Tourbillon. Certifiée ISO 9001, ISO 14001 et Valais Excellence, elle a créé la société sœur Desatec Valais pour le désamiantage et la décontamination. Elle développe un centre de tri des déchets minéraux au Petit Pont à Conthey et le tirage de fibre optique avec un robot qui a déjà posé 2900 fibres.",
       "quote": "",
-      "themes": ["construction"],
+      "themes": [
+        "construction"
+      ],
       "region": "Sion",
       "language": "fr",
       "people": [],
-      "companies": ["bativa"]
+      "companies": [
+        "bativa"
+      ]
     },
     {
       "slug": "uvs-valais-neuchatel-ciges",
@@ -156,11 +256,16 @@
       "pdfPages": [],
       "summary": "Fondée à Sion en 1968, CIGES (Centre Informatique de Gestion) SA vise la rationalisation des coûts par une informatique centralisée. Ses cinq partenaires-actionnaires sont la Ville de Sion, les communes de Bagnes et de Savièse, l'Énergie de Sion-Région et les Services industriels de Bagnes. L'entreprise sert trois secteurs : 19 communes totalisant près de 100 000 habitants, quatre sociétés d'énergie représentant environ 80 000 clients et des entités parapubliques (accueil extrafamilial, centres médico-sociaux, APEA). Ses 18 collaborateurs se partagent entre conseil et gestion d'un parc de 200 serveurs et 1000 postes de travail. Devenue intégratrice plutôt que développeuse, elle s'appuie sur OFISA, ProConcept de Solvaxis, IS-E d'Innosolv, cse.kibe et un système d'information du territoire développé avec SITTEL Consulting.",
       "quote": "",
-      "themes": ["economie", "collectivites"],
+      "themes": [
+        "economie",
+        "collectivites"
+      ],
       "region": "Sion",
       "language": "fr",
       "people": [],
-      "companies": ["ciges"]
+      "companies": [
+        "ciges"
+      ]
     },
     {
       "slug": "uvs-valais-neuchatel-combustia",
@@ -171,11 +276,16 @@
       "pdfPages": [],
       "summary": "Entreprise valaisanne fondée en 1948 par Narcisse Micheloud et Candide Udrisard, Combustia SA, basée à Sion et gérée principalement par la famille Micheloud, emploie une douzaine de collaborateurs au service de plus de 4000 clients. Initialement axée sur la livraison de mazout, elle propose deux qualités d'huile de chauffage, dont l'ECOcalor pauvre en soufre, un stockage gratuit pour ses clients et la vente de diesel et d'essence. Son réseau de 30 stations-service s'étend de Collombey-Muraz à Grimentz et couvre tout le Valais romand. La CombuCard, gratuite et sans intérêts, offre un prix identique dans toutes les stations et une facturation mensuelle. Après la rénovation de ses locaux en 2013 et la refonte de son site permettant les commandes en ligne, l'entreprise poursuit la modernisation et l'extension de son réseau.",
       "quote": "",
-      "themes": ["energie", "economie"],
+      "themes": [
+        "energie",
+        "economie"
+      ],
       "region": "Valais romand",
       "language": "fr",
       "people": [],
-      "companies": ["combustia"]
+      "companies": [
+        "combustia"
+      ]
     },
     {
       "slug": "uvs-valais-neuchatel-css-assurance",
@@ -186,11 +296,21 @@
       "pdfPages": [],
       "summary": "Fondé en 1899, le Groupe CSS assure environ 1,73 million de personnes pour un volume de primes de 5,248 milliards de francs et figure parmi les leaders suisses de l'assurance maladie, accidents et choses. Avec 118 agences, il dispose du réseau le plus dense du secteur, une part de marché de 16 % et 2600 collaborateurs. Présenté par Laurent Héritier, agent général pour le Valais romand, le texte met en avant vivit, centre de compétences de la CSS pour la santé et la prévention en entreprise : journées de la santé, ergonomie des postes, conseils aux restaurants d'entreprise ou ateliers sur le stress. La CSS aide les entreprises à définir leurs besoins, fixer des objectifs et mettre en place des mesures, en rappelant que le retour sur investissement de la gestion de la santé varie de 1:1 à 1:6.",
       "quote": "",
-      "themes": ["sante", "economie"],
+      "themes": [
+        "sante",
+        "economie"
+      ],
       "region": "Sion / Valais romand",
       "language": "fr",
-      "people": [{ "name": "Laurent Héritier", "role": "Agent général Valais romand" }],
-      "companies": ["css-assurance-sion"]
+      "people": [
+        {
+          "name": "Laurent Héritier",
+          "role": "Agent général Valais romand"
+        }
+      ],
+      "companies": [
+        "css-assurance-sion"
+      ]
     },
     {
       "slug": "uvs-valais-neuchatel-editech",
@@ -201,11 +321,16 @@
       "pdfPages": [],
       "summary": "Créé en 2004, le bureau d'ingénieurs Editech SA compte 12 collaborateurs sur deux sites, Sion et Ayent, réalise environ 150 projets par an et a enregistré un chiffre d'affaires de 1,1 million de francs en 2013. Il résulte du regroupement de plusieurs bureaux de génie civil, dont Putallaz J.-C. + Cotter J.-M. & Associés et Editech Sàrl. Ses domaines couvrent les structures en béton armé, le génie civil (routes, carrefours, remaniements parcellaires), les ouvrages d'art, les constructions industrielles et l'hydraulique. Parmi ses références figurent le spa d'Anzère, des immeubles à Sion, Monthey et Ovronnaz, le giratoire des Rottes à Conthey, la halle Biofruit à Vétroz ou le télésiège d'Anzère. Le bureau mise sur la modélisation 3D, la formation continue et l'engagement régulier d'apprentis.",
       "quote": "",
-      "themes": ["construction", "architecture"],
+      "themes": [
+        "construction",
+        "architecture"
+      ],
       "region": "Ayent / Sion",
       "language": "fr",
       "people": [],
-      "companies": ["editech"]
+      "companies": [
+        "editech"
+      ]
     },
     {
       "slug": "uvs-valais-neuchatel-gdclimat",
@@ -216,11 +341,25 @@
       "pdfPages": [],
       "summary": "Fondée en 1982 par Jacques Gillioz et Jean-Marie Dayer sous le nom de Gillioz & Dayer SA, devenue GDclimat SA en 1999, l'entreprise dirigée par Johny Rudaz et Yves Caloz réunit une cinquantaine de collaborateurs à Sion et dans ses succursales de Brigue, Collombey et Sierre. Elle étudie, planifie et réalise des installations de chauffage, ventilation, climatisation, vapeur, froid, énergies renouvelables, tuyauterie industrielle et régulation. Son bureau d'ingénierie propose aussi des bilans thermiques et des dossiers Minergie. Certifiée ISO 9001, elle dispose d'un service après-vente 24 h sur 24. Ses références incluent le centre MMM La Verrerie à Monthey, la Migros de Conthey, la Fondation Pierre Arnaud à Lens, Syngenta à Monthey, le Guarda Golf Hôtel de Crans-Montana et la Médiathèque cantonale de Sion.",
       "quote": "",
-      "themes": ["energie", "construction"],
+      "themes": [
+        "energie",
+        "construction"
+      ],
       "region": "Valais",
       "language": "fr",
-      "people": [{ "name": "Johny Rudaz", "role": "Direction" }, { "name": "Yves Caloz", "role": "Direction" }],
-      "companies": ["gdclimat"]
+      "people": [
+        {
+          "name": "Johny Rudaz",
+          "role": "Direction"
+        },
+        {
+          "name": "Yves Caloz",
+          "role": "Direction"
+        }
+      ],
+      "companies": [
+        "gdclimat"
+      ]
     },
     {
       "slug": "uvs-valais-neuchatel-valcoris",
@@ -231,11 +370,20 @@
       "pdfPages": [],
       "summary": "Totalement indépendante des établissements financiers, Valcoris, à Sion, combine gestion de fortune et de patrimoine, activités fiduciaires et accompagnement des seniors. Son associée-gérante Corinne Barthélemy insiste sur l'alignement des intérêts : la société ne perçoit pas de rétrocessions et ne détient pas les avoirs de ses clients, qu'elle représente auprès des banques dépositaires. Spécialisée dans la régularisation fiscale, elle n'a plus de clients étrangers non déclarés et développe des assurances-vie de droit luxembourgeois pour les successions. Elle tient la comptabilité d'entreprises, aide les personnes qui s'installent en Suisse et loue des bureaux. Pour les seniors, elle accompagne démarches administratives et choix d'un établissement. Sa clientèle lui est fidèle depuis 1989, à l'origine au Luxembourg. Le texte est publié en français et en anglais.",
       "quote": "La confiance est très importante quand il s'agit d'argent.",
-      "themes": ["economie"],
+      "themes": [
+        "economie"
+      ],
       "region": "Sion",
       "language": "fr",
-      "people": [{ "name": "Corinne Barthélemy", "role": "Associée-gérante" }],
-      "companies": ["valcoris"]
+      "people": [
+        {
+          "name": "Corinne Barthélemy",
+          "role": "Associée-gérante"
+        }
+      ],
+      "companies": [
+        "valcoris"
+      ]
     },
     {
       "slug": "uvs-valais-neuchatel-swisspro",
@@ -246,11 +394,16 @@
       "pdfPages": [],
       "summary": "Créé en 1999 à Zurich, swisspro compte plus de 700 collaborateurs répartis sur 17 sites, dont quatre en Suisse romande : Sion, Lausanne, Genève et Neuchâtel. L'antenne sédunoise, ouverte le 1er juin 2009, emploie 20 personnes. L'entreprise propose des « Total Solutions » pilotées par un interlocuteur unique, de la planification à la maintenance : installations de courant fort et faible, câblage informatique en cuivre et fibre optique, solutions ICT (centraux téléphoniques, voix sur IP) et BCT (contrôle d'accès, vidéosurveillance, gestion des files d'attente, appels malades et systèmes anti-errance). Certifiée ISO 9001 et ISO 14001, elle a notamment câblé le datacenter de la police cantonale à Sion et réalisé le système d'information voyageurs de CarPostal, et travaille avec le Groupe Mutuel et le Réseau Santé Valais.",
       "quote": "",
-      "themes": ["economie", "construction"],
+      "themes": [
+        "economie",
+        "construction"
+      ],
       "region": "Sion / Suisse romande",
       "language": "fr",
       "people": [],
-      "companies": ["swisspro-sr"]
+      "companies": [
+        "swisspro-sr"
+      ]
     },
     {
       "slug": "uvs-valais-neuchatel-martigny-marc-henri-favre",
@@ -261,11 +414,24 @@
       "pdfPages": [],
       "summary": "Président de Martigny depuis six ans, Marc-Henri Favre décrit une petite ville au carrefour du Grand-Saint-Bernard et du Simplon, historiquement ouverte, entreprenante et peu conservatrice, comme en témoignent la Foire du Valais, la plus importante de Suisse romande, et la vitalité des sociétés locales. L'économie ne dépend pas de grandes industries : le Groupe Mutuel, la centrale de distribution Migros Valais et l'hôpital sont les principaux employeurs, aux côtés de nombreuses PME familiales et d'une succursale de Debiopharm. La ville a cofondé en 1991 l'institut de recherche IDIAP, associé à l'EPFL, où travaillent quelque 120 chercheurs en gestion de l'information multimédia, et soutient le CREM pour l'énergie en milieu urbain. Sa promotion économique privilégie les entreprises à forte densité d'emplois et l'appui aux sociétés déjà installées.",
       "quote": "",
-      "themes": ["collectivites", "economie", "formation"],
+      "themes": [
+        "collectivites",
+        "economie",
+        "formation"
+      ],
       "region": "Martigny",
       "language": "fr",
-      "people": [{ "name": "Marc-Henri Favre", "role": "Président de la Ville de Martigny" }],
-      "companies": ["ville-de-martigny", "idiap", "crem"]
+      "people": [
+        {
+          "name": "Marc-Henri Favre",
+          "role": "Président de la Ville de Martigny"
+        }
+      ],
+      "companies": [
+        "ville-de-martigny",
+        "idiap",
+        "crem"
+      ]
     },
     {
       "slug": "uvs-valais-neuchatel-martigny-integration-scolaire",
@@ -276,11 +442,25 @@
       "pdfPages": [],
       "summary": "Les écoles communales de Martigny, qui accueillent 42 % d'élèves issus de la migration, ont reçu en décembre 2013 le premier prix du Forum éducation suisse pour leur modèle d'intégration. Sous la conduite du dicastère de l'Éducation d'Anne-Laure Couchepin Vouilloz, la politique repose sur quatre piliers : un délégué et un intervenant à l'intégration, le projet « Comprendre l'école » destiné aux parents, une médiatrice et un éducateur hors murs. Une charte des valeurs et un projet d'établissement fondés sur l'ouverture, le respect et la solidarité ont été élaborés par tous les acteurs. Le Centre de loisirs et de culture, soutenu par le dicastère de Roger Mège, fête ses 30 ans. La commune offre aussi à chaque enfant quatre chèques de 50 francs pour la rentrée et les activités associatives.",
       "quote": "Apprendre tous ensemble en respectant chacun.",
-      "themes": ["formation", "collectivites"],
+      "themes": [
+        "formation",
+        "collectivites"
+      ],
       "region": "Martigny",
       "language": "fr",
-      "people": [{ "name": "Anne-Laure Couchepin Vouilloz", "role": "Dicastère de l'Éducation" }, { "name": "Roger Mège", "role": "Dicastère Sports, Loisirs et Jeunesse" }],
-      "companies": ["ville-de-martigny"]
+      "people": [
+        {
+          "name": "Anne-Laure Couchepin Vouilloz",
+          "role": "Dicastère de l'Éducation"
+        },
+        {
+          "name": "Roger Mège",
+          "role": "Dicastère Sports, Loisirs et Jeunesse"
+        }
+      ],
+      "companies": [
+        "ville-de-martigny"
+      ]
     },
     {
       "slug": "uvs-valais-neuchatel-martigny-securite-civile",
@@ -291,11 +471,20 @@
       "pdfPages": [],
       "summary": "Élu en 2005, Serge Fellay dirige le dicastère de la sécurité civile de Martigny, qui regroupe pompiers, protection civile et état-major de catastrophe. Avec ses 18 000 habitants, la ville a joué un rôle moteur dans la régionalisation : commission régionale de protection civile réunissant six communes dès 2005, groupe d'intervention rapide, puis coordination de l'une des six régions du programme cantonal PCi VS, de Saint-Maurice à Riddes, avec 597 personnes et cinq professionnels. Le centre de secours incendie intercommunal Martigny & Environs regroupe cinq communes et 148 sapeurs-pompiers volontaires répartis en huit sections. L'état-major de catastrophe, créé en 2005, dispose de locaux équipés et s'entraîne plusieurs fois par an, et la commune adhère au concept cantonal de préparation aux séismes.",
       "quote": "",
-      "themes": ["collectivites"],
+      "themes": [
+        "collectivites"
+      ],
       "region": "Martigny",
       "language": "fr",
-      "people": [{ "name": "Serge Fellay", "role": "Chef du dicastère de la sécurité civile" }],
-      "companies": ["ville-de-martigny"]
+      "people": [
+        {
+          "name": "Serge Fellay",
+          "role": "Chef du dicastère de la sécurité civile"
+        }
+      ],
+      "companies": [
+        "ville-de-martigny"
+      ]
     },
     {
       "slug": "uvs-valais-neuchatel-fondation-gianadda",
@@ -306,11 +495,25 @@
       "pdfPages": [],
       "summary": "Ouverte en 1978 par Léonard Gianadda en mémoire de son frère Pierre, la Fondation Pierre Gianadda présente toute l'année de grandes expositions temporaires et a accueilli plus de 9 millions de visiteurs dans plus de cent expositions consacrées à Giacometti, Chagall, Monet, Van Gogh ou Picasso. Son parc de sculptures réunit une quarantaine d'œuvres de Rodin à Calder, le bâtiment construit au-dessus d'un temple gallo-romain accueille aussi des concerts et une collection d'automobiles anciennes. Le conseiller municipal Michaël Hugon met en avant l'offre culturelle de la ville (Manoir, Fondation Louis Moret, théâtre Alambic), les quinze giratoires ornés de sculptures d'artistes suisses et la proximité des stations de ski. En 2013, l'office du tourisme a enregistré plus de 75 000 nuitées hôtelières.",
       "quote": "",
-      "themes": ["territoire"],
+      "themes": [
+        "territoire"
+      ],
       "region": "Martigny",
       "language": "fr",
-      "people": [{ "name": "Michaël Hugon", "role": "Conseiller municipal en charge de la culture et du tourisme" }, { "name": "Léonard Gianadda", "role": "Fondateur" }],
-      "companies": ["fondation-pierre-gianadda", "ville-de-martigny"]
+      "people": [
+        {
+          "name": "Michaël Hugon",
+          "role": "Conseiller municipal en charge de la culture et du tourisme"
+        },
+        {
+          "name": "Léonard Gianadda",
+          "role": "Fondateur"
+        }
+      ],
+      "companies": [
+        "fondation-pierre-gianadda",
+        "ville-de-martigny"
+      ]
     },
     {
       "slug": "uvs-valais-neuchatel-martigny-horizon-2030",
@@ -321,11 +524,26 @@
       "pdfPages": [],
       "summary": "Martigny, près de 18 000 habitants, a vu sa population bondir de 3,5 % fin 2012 et devrait approcher 20 000 habitants d'ici dix ans. Florence Kuonen, conseillère municipale chargée des constructions, explique que le territoire exigu, coincé entre le mont Ravoire et le mont Chemin, et l'absence de réserves de surfaces d'assolement limitent les nouvelles zones à bâtir. Le nouveau plan d'affectation des zones, homologué en janvier 2013 mais visé par un recours, prévoit une zone à bâtir au nord pour 3000 à 5000 habitants supplémentaires et une densification du centre. L'architecte urbaniste communal Stéphane Jordan évoque un futur complexe scolaire au nord, l'agrandissement de la STEP et de nouvelles routes. Peu touchée par la lex Weber et la nouvelle LAT, la ville dispose encore de parcelles dans une zone artisanale.",
       "quote": "",
-      "themes": ["architecture", "collectivites", "territoire"],
+      "themes": [
+        "architecture",
+        "collectivites",
+        "territoire"
+      ],
       "region": "Martigny",
       "language": "fr",
-      "people": [{ "name": "Florence Kuonen", "role": "Conseillère municipale en charge des constructions" }, { "name": "Stéphane Jordan", "role": "Architecte urbaniste communal" }],
-      "companies": ["ville-de-martigny"]
+      "people": [
+        {
+          "name": "Florence Kuonen",
+          "role": "Conseillère municipale en charge des constructions"
+        },
+        {
+          "name": "Stéphane Jordan",
+          "role": "Architecte urbaniste communal"
+        }
+      ],
+      "companies": [
+        "ville-de-martigny"
+      ]
     },
     {
       "slug": "uvs-valais-neuchatel-place-centrale-martigny",
@@ -336,11 +554,21 @@
       "pdfPages": [],
       "summary": "Née de la débâcle du glacier du Giétroz en 1818, qui avait détruit un verger, la Place Centrale de Martigny doit son existence au président Philippe Morand, qui fit acheter le terrain pour en faire une place publique et fixer dès 1819 des règles de construction. Après 25 ans de débats et un premier concours en 1993, la place réaménagée selon le projet « figures et rectangles » du bureau parisien Audigier et Pilet, issu d'une démarche participative en 2009, a été inaugurée en septembre 2012 : un mail de platanes, une clairière, des kiosques et une circulation déviée. Le dicastère de David Martinetti pilote aussi le remplacement du cycle d'orientation de Sainte-Marie, conçu par Les ateliers du Passage à Fribourg, qui accueillera environ 700 élèves en 60 classes ainsi qu'une aula de 400 places.",
       "quote": "",
-      "themes": ["architecture", "collectivites"],
+      "themes": [
+        "architecture",
+        "collectivites"
+      ],
       "region": "Martigny",
       "language": "fr",
-      "people": [{ "name": "David Martinetti", "role": "Conseiller municipal en charge des Travaux & Bâtiments publics" }],
-      "companies": ["ville-de-martigny"]
+      "people": [
+        {
+          "name": "David Martinetti",
+          "role": "Conseiller municipal en charge des Travaux & Bâtiments publics"
+        }
+      ],
+      "companies": [
+        "ville-de-martigny"
+      ]
     },
     {
       "slug": "uvs-valais-neuchatel-sinergy",
@@ -351,11 +579,21 @@
       "pdfPages": [],
       "summary": "Pour s'adapter à l'ouverture du marché de l'électricité, Martigny a transformé en 2002 ses services industriels en deux sociétés, Sinergy Infrastructure SA et Sinergy Commerce SA, dirigées par Patrick Pralong, afin de garder le contrôle communal sur des secteurs clés. Sinergy fournit l'électricité, dont une part certifiée « naturemade star » produite par deux usines de turbinage de l'eau potable, et participe à des sociétés photovoltaïques et éoliennes. Elle distribue une eau de source du vallon de Champex. Le réseau de chauffage à distance, construit dès 1980, a remplacé plus de 300 chaufferies et chauffe environ 6000 personnes, avec une chaudière à bois mise en service fin 2013 ; le gaz naturel dessert la périphérie. Le téléréseau de 1978, entièrement en fibre optique, offre TV numérique, Internet et téléphonie sous la marque netplus.",
       "quote": "",
-      "themes": ["energie", "collectivites"],
+      "themes": [
+        "energie",
+        "collectivites"
+      ],
       "region": "Martigny",
       "language": "fr",
-      "people": [{ "name": "Patrick Pralong", "role": "Directeur" }],
-      "companies": ["sinergy"]
+      "people": [
+        {
+          "name": "Patrick Pralong",
+          "role": "Directeur"
+        }
+      ],
+      "companies": [
+        "sinergy"
+      ]
     },
     {
       "slug": "uvs-valais-neuchatel-martigny-energie-rene-quiros",
@@ -366,11 +604,22 @@
       "pdfPages": [],
       "summary": "Le conseiller municipal René Quiros, chargé de l'environnement, de l'eau et des énergies, présente une politique ambitieuse et reconnue : label Cité de l'énergie dès 2004, Watt d'Or 2009 via la société RhônEole pour la plus grande éolienne de Suisse, label European Energy Award Gold en 2010, première ville valaisanne à l'obtenir. Martigny a signé la Convention des maires (objectif de 20 % de réduction de CO2, d'efficacité et d'énergie renouvelable d'ici 2020) et participe au projet Rêve d'Avenir. Quatre centrales hydroélectriques et des participations éoliennes et photovoltaïques produisent plus de 22 millions de kWh, soit plus de 20 % de la consommation. Un tiers des habitants est raccordé au chauffage à distance, 85 % du territoire est couvert par des énergies de réseau et un réseau de biogaz issu de la STEP est en construction.",
       "quote": "",
-      "themes": ["energie", "collectivites"],
+      "themes": [
+        "energie",
+        "collectivites"
+      ],
       "region": "Martigny",
       "language": "fr",
-      "people": [{ "name": "René Quiros", "role": "Conseiller municipal : environnement, eau, énergies et gestion énergétique" }],
-      "companies": ["ville-de-martigny", "crem"]
+      "people": [
+        {
+          "name": "René Quiros",
+          "role": "Conseiller municipal : environnement, eau, énergies et gestion énergétique"
+        }
+      ],
+      "companies": [
+        "ville-de-martigny",
+        "crem"
+      ]
     },
     {
       "slug": "uvs-valais-neuchatel-tmr-mont-blanc-express",
@@ -381,11 +630,21 @@
       "pdfPages": [],
       "summary": "Depuis le 14 juin 2014, la ligne du Mont-Blanc Express relie de nouveau Martigny à Chamonix sans bus de substitution, après plus de deux ans de travaux côté français, financés à hauteur d'environ 80 millions d'euros. Martin von Känel, directeur général de Transports Martigny et Régions SA (TMR), qui exploite le tronçon suisse, veut retrouver rapidement la fréquentation d'avant la fermeture grâce à une promotion renforcée. Au cœur de l'Espace Mont-Blanc, TMR exploite le Saint-Bernard Express, le Mont-Blanc Express et de nombreuses lignes de bus, un centre de compétences ferroviaires, un garage et un bureau d'ingénieurs. L'entreprise assure aussi des transports privés de personnes et de marchandises, le déneigement et la gestion de déchetteries, propose des voyages par son agence Octodure Voyages et est le transporteur officiel du FC Sion.",
       "quote": "C'est un soulagement et une très grande satisfaction.",
-      "themes": ["mobilite", "territoire"],
+      "themes": [
+        "mobilite",
+        "territoire"
+      ],
       "region": "Martigny / Entremont / vallée du Trient",
       "language": "fr",
-      "people": [{ "name": "Martin von Känel", "role": "Directeur général" }],
-      "companies": ["tmr"]
+      "people": [
+        {
+          "name": "Martin von Känel",
+          "role": "Directeur général"
+        }
+      ],
+      "companies": [
+        "tmr"
+      ]
     },
     {
       "slug": "uvs-valais-neuchatel-sierre-francois-genoud",
@@ -396,11 +655,22 @@
       "pdfPages": [],
       "summary": "Ville de quartiers de 16 500 habitants à la frontière linguistique, Sierre, surnommée la « cité du soleil », a été façonnée par l'industrie de l'aluminium, qui emploie encore environ 1500 personnes à Sierre et Chippis. Capitale suisse du vin, elle se diversifie avec son technopôle consacré aux technologies de l'information, qui occupe quelque 400 personnes, et le siège de la HES-SO Valais, fréquentée par 1300 étudiants. Le président François Genoud évoque la préservation du « cœur agricole » entre Sierre et Sion, la zone industrielle de Daval, un centre-ville en zone de rencontre et le complexe au sud de la gare relié au funiculaire de Crans-Montana. Plus de 150 millions de francs d'investissements sont prévus en dix ans, dont 12 millions pour les bains de Géronde. Le chômage, surtout saisonnier, atteint 5,5 %.",
       "quote": "",
-      "themes": ["collectivites", "territoire", "formation"],
+      "themes": [
+        "collectivites",
+        "territoire",
+        "formation"
+      ],
       "region": "Sierre",
       "language": "fr",
-      "people": [{ "name": "François Genoud", "role": "Président de la Ville de Sierre" }],
-      "companies": ["ville-de-sierre"]
+      "people": [
+        {
+          "name": "François Genoud",
+          "role": "Président de la Ville de Sierre"
+        }
+      ],
+      "companies": [
+        "ville-de-sierre"
+      ]
     },
     {
       "slug": "uvs-valais-neuchatel-sierre-pierre-kenzelmann",
@@ -411,11 +681,21 @@
       "pdfPages": [],
       "summary": "Pierre Kenzelmann, chargé des travaux publics, des transports et de la circulation à Sierre, présente les grands projets prioritaires : le Complexe Sud de la gare et le plan directeur du centre-ville, qui redonne la priorité aux commerces et aux piétons. Le Complexe Sud comprend un volet de 47 millions (déplacement de l'École de commerce et de culture générale, extension de la HES-SO, salle de gym double) et une gare routière de 20 millions avec 210 places de parking souterrain et une passerelle reliant gare CFF, gare routière et funiculaire vers Crans-Montana. Il évoque aussi la réfection du pont Beaulieu, l'étude d'un contournement nord et l'équipement de la zone industrielle de Daval, qui accroîtra de 40 % la surface industrielle. La ville renouvelle sa flotte avec des bus hybrides Volvo dès 2015.",
       "quote": "",
-      "themes": ["mobilite", "collectivites"],
+      "themes": [
+        "mobilite",
+        "collectivites"
+      ],
       "region": "Sierre",
       "language": "fr",
-      "people": [{ "name": "Pierre Kenzelmann", "role": "Conseiller municipal en charge des travaux publics, des transports, de la circulation et de la signalisation" }],
-      "companies": ["ville-de-sierre"]
+      "people": [
+        {
+          "name": "Pierre Kenzelmann",
+          "role": "Conseiller municipal en charge des travaux publics, des transports, de la circulation et de la signalisation"
+        }
+      ],
+      "companies": [
+        "ville-de-sierre"
+      ]
     },
     {
       "slug": "uvs-valais-neuchatel-sierre-pierre-berthod",
@@ -426,11 +706,21 @@
       "pdfPages": [],
       "summary": "Pierre Berthod, chargé de l'économie publique, de la promotion économique et du tourisme à Sierre, souligne la diversité économique de la ville : capitale suisse du vin avec ses 40 cépages, le salon VINEA et le Musée valaisan de la vigne et du vin, mais aussi le Techno-Pôle, implanté depuis plus de 20 ans, qui réunit une soixantaine de PME, instituts et start-up et plus de 450 personnes, ainsi que l'antenne TechnoArk de la fondation The Ark. L'aluminium, avec Novelis et Constellium, et les filières de la HES-SO complètent les pôles d'excellence. La ville offre des coûts avantageux, un guichet unique et la nouvelle zone industrielle de Daval, 20 hectares près de l'autoroute, ouverte dès 2015. Il vante aussi la qualité de vie, la forêt de Finges, le lac souterrain de Saint-Léonard et les stations voisines.",
       "quote": "",
-      "themes": ["economie", "territoire"],
+      "themes": [
+        "economie",
+        "territoire"
+      ],
       "region": "Sierre",
       "language": "fr",
-      "people": [{ "name": "Pierre Berthod", "role": "Conseiller municipal en charge de l'économie publique, de la promotion économique et du tourisme" }],
-      "companies": ["ville-de-sierre"]
+      "people": [
+        {
+          "name": "Pierre Berthod",
+          "role": "Conseiller municipal en charge de l'économie publique, de la promotion économique et du tourisme"
+        }
+      ],
+      "companies": [
+        "ville-de-sierre"
+      ]
     },
     {
       "slug": "uvs-valais-neuchatel-sierre-laetitia-massy",
@@ -441,11 +731,22 @@
       "pdfPages": [],
       "summary": "Laetitia Massy, chargée de l'enseignement et des actions sociales et médico-sociales à Sierre, explique que la vétusté des bâtiments scolaires est un enjeu majeur : de nouveaux bâtiments primaire et de cycle d'orientation viennent d'être inaugurés, d'autres projets suivent à Granges et pour l'école de commerce. La commune compte sept centres primaires et trois centres de CO, dont une école primaire et un CO germanophones, et une filière bilingue de la 3e primaire à la fin du CO. Sierre accueille aussi la HES-SO, l'École cantonale d'art du Valais et une université à distance. L'accueil de la petite enfance se développe, l'association ASLEC anime loisirs et culture, et les personnes âgées bénéficient d'un centre médico-social régional, d'appartements adaptés et d'EMS gérés en partenariat.",
       "quote": "",
-      "themes": ["formation", "collectivites", "sante"],
+      "themes": [
+        "formation",
+        "collectivites",
+        "sante"
+      ],
       "region": "Sierre",
       "language": "fr",
-      "people": [{ "name": "Laetitia Massy", "role": "Conseillère municipale en charge de l'enseignement, des actions sociales et médico-sociales" }],
-      "companies": ["ville-de-sierre"]
+      "people": [
+        {
+          "name": "Laetitia Massy",
+          "role": "Conseillère municipale en charge de l'enseignement, des actions sociales et médico-sociales"
+        }
+      ],
+      "companies": [
+        "ville-de-sierre"
+      ]
     },
     {
       "slug": "uvs-valais-neuchatel-sierre-mario-rossi",
@@ -456,11 +757,21 @@
       "pdfPages": [],
       "summary": "Mario Rossi, responsable de l'environnement, de l'eau, de l'énergie et du label Cité de l'énergie à Sierre, se décrit comme pragmatique plutôt qu'idéologue : il s'agit d'abord de contenir l'évolution des nuisances, des consommations et des déchets par la sensibilisation, la communication, les infrastructures et, en dernier recours, la répression. Dans le cadre de la relabellisation Cité de l'énergie, la ville suit la consommation de ses principaux bâtiments et assainit l'éclairage public et les chaufferies. Elle veut donner aux citoyens les moyens de réduire leurs émissions par des transports publics performants et des projets de chauffage à distance ou d'énergies renouvelables, tout en relevant que des tarifs très bas de l'eau et de l'électricité n'incitent pas aux économies. Un plan directeur des énergies est en préparation.",
       "quote": "Je ne suis pas un idéologue de l'environnement. Par contre, j'y suis sensible.",
-      "themes": ["energie", "collectivites"],
+      "themes": [
+        "energie",
+        "collectivites"
+      ],
       "region": "Sierre",
       "language": "fr",
-      "people": [{ "name": "Mario Rossi", "role": "Conseiller municipal en charge de l'environnement, de l'eau et de l'énergie" }],
-      "companies": ["ville-de-sierre"]
+      "people": [
+        {
+          "name": "Mario Rossi",
+          "role": "Conseiller municipal en charge de l'environnement, de l'eau et de l'énergie"
+        }
+      ],
+      "companies": [
+        "ville-de-sierre"
+      ]
     },
     {
       "slug": "uvs-valais-neuchatel-sierre-jean-paul-salamin",
@@ -471,11 +782,22 @@
       "pdfPages": [],
       "summary": "Jean-Paul Salamin, responsable de l'aménagement du territoire et de l'urbanisme à Sierre, estime que le centre-ville doit achever sa mue depuis l'arrivée de l'autoroute : la ville ne doit plus être un lieu de passage mais un lieu où l'on s'arrête. Le projet « Sierre se transforme » prévoit d'abord la suppression du trafic de transit, réalisée pour l'axe est-ouest et attendue vers le nord grâce à un contournement cantonal, puis la transformation de la chaussée en espace de rencontre. Des lieux de vie seront créés dans les quartiers de Muraz, Noës et Granges. Le tunnel CFF de Gobet doit être achevé fin 2016, libérant des espaces publics à Glarey. La ville étend aussi le périmètre du technopôle et envisage un grand espace sportif près de Chalais.",
       "quote": "",
-      "themes": ["architecture", "collectivites", "mobilite"],
+      "themes": [
+        "architecture",
+        "collectivites",
+        "mobilite"
+      ],
       "region": "Sierre",
       "language": "fr",
-      "people": [{ "name": "Jean-Paul Salamin", "role": "Conseiller municipal en charge de l'aménagement du territoire et de l'urbanisme" }],
-      "companies": ["ville-de-sierre"]
+      "people": [
+        {
+          "name": "Jean-Paul Salamin",
+          "role": "Conseiller municipal en charge de l'aménagement du territoire et de l'urbanisme"
+        }
+      ],
+      "companies": [
+        "ville-de-sierre"
+      ]
     },
     {
       "slug": "uvs-valais-neuchatel-va-zwissig",
@@ -486,11 +808,21 @@
       "pdfPages": [],
       "summary": "Fondée en 1912 par Alfred Zwissig, à l'époque où passagers et marchandises voyageaient en voiture à cheval, V+A Zwissig SA est dirigée aujourd'hui par Pierre-Alain Grichting, administrateur-délégué et représentant de la quatrième génération. Basée à Sierre, l'entreprise emploie environ 45 personnes et dispose d'une quarantaine de véhicules. Elle transporte des matériaux en vrac, livre des combustibles, élimine des déchets et réalise des transports spéciaux jusqu'à 100 tonnes, mais aussi des terrassements, démolitions, levages par camions-grues et curages de canalisations. Elle tient à garder une structure diversifiée et équilibrée et investit constamment, comme récemment dans un véhicule léger de nettoyage de canalisations adapté aux villas et chalets. Active dans tout le Valais, elle se voit comme partenaire des autres transporteurs.",
       "quote": "Nous tenons à garder une structure diversifiée et équilibrée.",
-      "themes": ["mobilite", "construction"],
+      "themes": [
+        "mobilite",
+        "construction"
+      ],
       "region": "Sierre / Valais central",
       "language": "fr",
-      "people": [{ "name": "Pierre-Alain Grichting", "role": "Administrateur délégué" }],
-      "companies": ["va-zwissig"]
+      "people": [
+        {
+          "name": "Pierre-Alain Grichting",
+          "role": "Administrateur délégué"
+        }
+      ],
+      "companies": [
+        "va-zwissig"
+      ]
     },
     {
       "slug": "uvs-valais-neuchatel-raiffeisen-sierre",
@@ -501,11 +833,20 @@
       "pdfPages": [],
       "summary": "Basée à Sierre avec des agences à Chippis, Grône et Vissoie, la Banque Raiffeisen de Sierre et Région s'appuie sur son modèle coopératif et ses valeurs de crédibilité, durabilité, proximité, esprit d'entreprise et flexibilité. Au 31 décembre 2013, elle affichait une somme de bilan de 665 millions de francs, un volume de crédits de 578 millions, 7050 sociétaires et 30 collaborateurs. Les sociétaires participent aux décisions avec un conseil d'administration ancré localement, et la banque soutient de nombreuses manifestations régionales. Elle propose épargne, financement immobilier, prévoyance et placements, ainsi qu'un conseil global aux PME, y compris pour la succession et le leasing via Raiffeisen Leasing. Présidée par Jean-Pierre Vuistiner à la direction, elle vise une croissance qualitative.",
       "quote": "",
-      "themes": ["economie"],
+      "themes": [
+        "economie"
+      ],
       "region": "Sierre",
       "language": "fr",
-      "people": [{ "name": "Jean-Pierre Vuistiner", "role": "Président de la direction" }],
-      "companies": ["banque-raiffeisen-sierre-et-region"]
+      "people": [
+        {
+          "name": "Jean-Pierre Vuistiner",
+          "role": "Président de la direction"
+        }
+      ],
+      "companies": [
+        "banque-raiffeisen-sierre-et-region"
+      ]
     },
     {
       "slug": "uvs-valais-neuchatel-laboratoire-salamin",
@@ -516,11 +857,28 @@
       "pdfPages": [],
       "summary": "Fondé en 1960, le Laboratoire d'analyses médicales Dr Luc Salamin emploie 60 personnes et réalise un chiffre d'affaires annuel d'environ 6,5 millions de francs. Bilingue, installé à Sierre et à Sion, notamment à la clinique de Valère, il réalise analyses de routine, bactériologie, sérologie et suivi de grossesse, avec 90 % des résultats disponibles en 24 heures et des profils personnalisés. Premier laboratoire accrédité en Valais en 1998, il forme assistantes médicales et laborantines et dispose d'un service externe auprès des cabinets du Bas, du Centre et du Haut-Valais. Son propriétaire François Salamin regrette la pression exercée sur les petits laboratoires, indispensables aux médecins des vallées. Le directeur Henri-François Crettaz et Lucas Salamin, petit-fils du fondateur, préparent la prescription électronique.",
       "quote": "Servir est notre devise.",
-      "themes": ["sante"],
+      "themes": [
+        "sante"
+      ],
       "region": "Sierre / Sion",
       "language": "fr",
-      "people": [{ "name": "François Salamin", "role": "Propriétaire" }, { "name": "Lucas Salamin", "role": "Petit-fils du fondateur" }, { "name": "Henri-François Crettaz", "role": "Directeur" }],
-      "companies": ["laboratoire-d-analyses-medicales-dr-luc-salamin"]
+      "people": [
+        {
+          "name": "François Salamin",
+          "role": "Propriétaire"
+        },
+        {
+          "name": "Lucas Salamin",
+          "role": "Petit-fils du fondateur"
+        },
+        {
+          "name": "Henri-François Crettaz",
+          "role": "Directeur"
+        }
+      ],
+      "companies": [
+        "laboratoire-d-analyses-medicales-dr-luc-salamin"
+      ]
     },
     {
       "slug": "uvs-valais-neuchatel-neuchatel-olivier-arni",
@@ -531,11 +889,21 @@
       "pdfPages": [],
       "summary": "Membre du Conseil communal depuis 2009 et président de la Ville de Neuchâtel, Olivier Arni, psychologue de formation, explique la nouvelle devise « Neuchâtel, art de vivre et innovation », qui résume le programme politique 2014-2017 : qualité de vie, ouverture au monde et capacité d'innovation en microtechnique et technologies vertes. Il plaide pour la fin des logiques d'affrontement dans un canton qui ne pèse que 2 % de la population suisse. La ville s'engage dans la Communauté urbaine du Littoral et le Réseau des trois villes, et a lancé le 30 janvier 2014 un processus de fusion avec Peseux, Corcelles-Cormondrèche et Valangin à l'horizon 2016. Il souligne l'importance de Microcity, l'implantation de l'EPFL à côté du CSEM, l'objectif de la société à 2000 watts et un nouveau prix de la citoyenneté.",
       "quote": "Il faut jouer la qualité.",
-      "themes": ["collectivites", "formation"],
+      "themes": [
+        "collectivites",
+        "formation"
+      ],
       "region": "Neuchâtel",
       "language": "fr",
-      "people": [{ "name": "Olivier Arni", "role": "Président de la Ville de Neuchâtel" }],
-      "companies": ["ville-de-neuchatel"]
+      "people": [
+        {
+          "name": "Olivier Arni",
+          "role": "Président de la Ville de Neuchâtel"
+        }
+      ],
+      "companies": [
+        "ville-de-neuchatel"
+      ]
     },
     {
       "slug": "uvs-valais-neuchatel-neuchatel-urbanisme-economie-environnement",
@@ -546,11 +914,22 @@
       "pdfPages": [],
       "summary": "Face à un taux de vacance très bas, Olivier Arni, directeur de l'Urbanisme, de l'Économie et de l'Environnement de Neuchâtel, veut densifier tout en améliorant la qualité de vie. La ville révise ses plans directeur et d'aménagement de 1994 et 1998 dans une perspective régionale avec la Communauté urbaine du Littoral et s'appuie sur le projet Neuchâtel 2020 de la chambre de commerce. Objectif : 150 logements d'utilité publique en quatre ans, notamment via le projet « Ensemble Gouttes d'Or » sur l'ancienne friche des patinoires, labellisé quartier durable. Les friches Métalor et Suchard doivent accueillir logements et activités. Pour revitaliser le centre, la ville prévoit un espace de congrès au Temple du Bas (6,5 millions), un grand magasin place Alexis-Marie-Piaget et un remodelage des Jeunes Rives sur près de six hectares.",
       "quote": "",
-      "themes": ["architecture", "collectivites", "economie"],
+      "themes": [
+        "architecture",
+        "collectivites",
+        "economie"
+      ],
       "region": "Neuchâtel",
       "language": "fr",
-      "people": [{ "name": "Olivier Arni", "role": "Conseiller communal, directeur de l'Urbanisme, de l'Économie et de l'Environnement" }],
-      "companies": ["ville-de-neuchatel-urbanisme-economie-environnement"]
+      "people": [
+        {
+          "name": "Olivier Arni",
+          "role": "Conseiller communal, directeur de l'Urbanisme, de l'Économie et de l'Environnement"
+        }
+      ],
+      "companies": [
+        "ville-de-neuchatel-urbanisme-economie-environnement"
+      ]
     },
     {
       "slug": "uvs-valais-neuchatel-neuchatel-christine-gaillard",
@@ -561,11 +940,22 @@
       "pdfPages": [],
       "summary": "Conseillère communale verte depuis 2011, Christine Gaillard dirige à Neuchâtel un dicastère réunissant éducation, santé et mobilité. Parmi les actions phares du programme 2014-2017 figure un abonnement « mobilité jeunes » pour les élèves et apprentis jusqu'à environ 20 ans. L'administration donne l'exemple avec des véhicules électriques et Mobility partagés ; la ville subventionne l'abonnement annuel de transports publics (réduction de 153 francs sur 612 francs) et les scooters électriques, et a adopté le vélo en libre-service velospot en 2013. La cadence à la demi-heure arrivera dès décembre 2015 et trois liaisons quotidiennes desservent le TGV à Frasne. Quelque 1600 enfants sont accueillis dans les structures pré- et parascolaires, que la ville continue de développer. D'origine allemande, elle s'est installée à Neuchâtel en 2002.",
       "quote": "",
-      "themes": ["mobilite", "formation", "collectivites"],
+      "themes": [
+        "mobilite",
+        "formation",
+        "collectivites"
+      ],
       "region": "Neuchâtel",
       "language": "fr",
-      "people": [{ "name": "Christine Gaillard", "role": "Conseillère communale, Éducation, Santé et Mobilité" }],
-      "companies": ["ville-de-neuchatel-education-sante-mobilite"]
+      "people": [
+        {
+          "name": "Christine Gaillard",
+          "role": "Conseillère communale, Éducation, Santé et Mobilité"
+        }
+      ],
+      "companies": [
+        "ville-de-neuchatel-education-sante-mobilite"
+      ]
     },
     {
       "slug": "uvs-valais-neuchatel-neuchatel-pascal-sandoz",
@@ -576,11 +966,21 @@
       "pdfPages": [],
       "summary": "Conseiller communal depuis 2005 et doyen de l'exécutif, Pascal Sandoz dirige depuis 2008 les infrastructures, les énergies et la sécurité ainsi que le développement de l'agglomération. Malgré le refus du Transrun par 392 voix, il juge le Réseau urbain neuchâtelois toujours pertinent. La Communauté urbaine du Littoral a permis une nouvelle ligne de bus Neuchâtel-Bôle et un skatepark à Colombier, financés solidairement. Il distingue trois niveaux de collaboration, des accords bilatéraux à la fusion, et détaille la démarche engagée avec Peseux, Corcelles-Cormondrèche et Valangin : une analyse financière commune avant un vote populaire vers 2016. Il cite Milvignes comme exemple de fusion réussie et rappelle la richesse culturelle de la ville, de ses musées au NIFF et au Buskers Festival.",
       "quote": "Nous avons une vision, nous collaborons et nous savons où nous allons et ce que nous voulons.",
-      "themes": ["collectivites", "mobilite"],
+      "themes": [
+        "collectivites",
+        "mobilite"
+      ],
       "region": "Neuchâtel / Littoral",
       "language": "fr",
-      "people": [{ "name": "Pascal Sandoz", "role": "Conseiller communal, Sécurité, Infrastructures et Énergies, Développement de l'agglomération" }],
-      "companies": ["ville-de-neuchatel-securite-infrastructures-energies"]
+      "people": [
+        {
+          "name": "Pascal Sandoz",
+          "role": "Conseiller communal, Sécurité, Infrastructures et Énergies, Développement de l'agglomération"
+        }
+      ],
+      "companies": [
+        "ville-de-neuchatel-securite-infrastructures-energies"
+      ]
     },
     {
       "slug": "uvs-valais-neuchatel-neuchatel-thomas-facchinetti",
@@ -591,11 +991,21 @@
       "pdfPages": [],
       "summary": "Élu au Conseil communal de Neuchâtel en 2012 après une vingtaine d'années comme délégué cantonal à l'intégration, Thomas Facchinetti dirige la culture, les sports et le tourisme, dans un bureau redécoré par l'artiste Kesh. Les budgets culturels augmentent, et la ville a repris la Case à Chocs et le Jardin botanique. Elle gère 52 installations sportives, dont 12 places de sport de quartier gratuites pour les jeunes, et subventionne depuis 2014 les loyers des clubs sans infrastructure communale. Projet phare de la législature, un espace de congrès d'environ 750 places doit être aménagé au Temple du Bas pour 6,5 millions de francs, tout en conservant ses usages de culte et de concert, avec une inauguration visée en 2016. Un prix de la citoyenneté récompense aussi depuis 2014 des gestes quotidiens de convivialité.",
       "quote": "",
-      "themes": ["territoire", "collectivites"],
+      "themes": [
+        "territoire",
+        "collectivites"
+      ],
       "region": "Neuchâtel",
       "language": "fr",
-      "people": [{ "name": "Thomas Facchinetti", "role": "Conseiller communal, Culture, Sports, Tourisme" }],
-      "companies": ["ville-de-neuchatel-culture-sports-tourisme"]
+      "people": [
+        {
+          "name": "Thomas Facchinetti",
+          "role": "Conseiller communal, Culture, Sports, Tourisme"
+        }
+      ],
+      "companies": [
+        "ville-de-neuchatel-culture-sports-tourisme"
+      ]
     },
     {
       "slug": "uvs-valais-neuchatel-adax",
@@ -606,11 +1016,21 @@
       "pdfPages": [],
       "summary": "Située dans le berceau de la micromécanique et de l'horlogerie, Adax SA, à Bevaix, emploie 55 personnes et fabrique des pièces décolletées de haute précision en inox, laiton ou bronze, d'un diamètre de 0,1 à 25 mm. Longtemps fournisseur des grandes marques horlogères, elle a appliqué son savoir-faire à l'automobile, au ferroviaire, à la Formule 1, à l'aéronautique, à l'espace, au médical, à la connectique ou aux télécommunications. Son parc compte 71 machines de décolletage, 14 rectifieuses centerless, 15 tonneaux de polissage et 20 machines de roulage et rodage. Reprise en 2006 par Urs Kamber, directeur général, l'entreprise travaille surtout sur mesure, vend quelques pièces standard en ligne et est certifiée ISO 9001:2008, avec un contrôle qualité intégré à chaque étape.",
       "quote": "",
-      "themes": ["industrie", "horlogerie"],
+      "themes": [
+        "industrie",
+        "horlogerie"
+      ],
       "region": "Bevaix (NE)",
       "language": "fr",
-      "people": [{ "name": "Urs Kamber", "role": "Directeur général, responsable commercial et contrôle qualité" }],
-      "companies": ["adax"]
+      "people": [
+        {
+          "name": "Urs Kamber",
+          "role": "Directeur général, responsable commercial et contrôle qualité"
+        }
+      ],
+      "companies": [
+        "adax"
+      ]
     },
     {
       "slug": "uvs-valais-neuchatel-hybrid",
@@ -621,11 +1041,16 @@
       "pdfPages": [],
       "summary": "Fondée en 1989 avec deux collaborateurs, HYBRID SA, à Chez-le-Bart, s'est spécialisée dans la sérigraphie couche épaisse et le montage et câblage de composants en silicium. Reprise par son équipe de direction en 2005, elle a acquis fin 2009 Microbonding SA pour élargir sa clientèle aux petites séries et prototypes. Certifiée ISO 9001 depuis 2007 et ISO 13485 depuis 2010, elle emploie 55 personnes et réalise un chiffre d'affaires de 11 millions de francs. Sous-traitante, elle maîtrise le montage CMS, le chip on board, le wedge et ball bonding, le glob-top et la conception de bancs de test, pour des séries allant jusqu'à 150 000 pièces par an. Ses clients se trouvent dans l'industrie, le médical, l'aéronautique, la sécurité ou l'horlogerie, et elle collabore avec le CSEM, l'IMT et l'EPFL.",
       "quote": "",
-      "themes": ["industrie", "sante"],
+      "themes": [
+        "industrie",
+        "sante"
+      ],
       "region": "Chez-le-Bart (NE)",
       "language": "fr",
       "people": [],
-      "companies": ["hybrid"]
+      "companies": [
+        "hybrid"
+      ]
     },
     {
       "slug": "uvs-valais-neuchatel-transn",
@@ -636,11 +1061,20 @@
       "pdfPages": [],
       "summary": "Actif dans les six districts du canton, transN dessert 163 000 des 176 000 habitants. L'entreprise compte 418 collaborateurs, dont près de 280 conducteurs, transporte 27 millions de voyageurs par an sur 38 lignes et 285 kilomètres de réseau avec 165 véhicules, pour un chiffre d'affaires d'environ 80 millions de francs. Outre les courses régulières, elle propose des navettes d'entreprise, des courses spéciales et 241 distributeurs. Ses agences de Fleurier et Cernier développent une offre touristique : voiture-salon panoramique, Funi-Fondue à Chaumont, Snowbus, Robella Pass et Passe-Temps Val-de-Travers. TransN gère aussi gares, lignes de contact et installations de sécurité, teste des bus hybrides et électriques et a lancé en 2013 le projet d'entreprise « Transmission ». Son directeur général Pascal Vuilleumier veut en faire le deuxième véhicule des Neuchâtelois.",
       "quote": "Nous avons pour objectif de devenir le deuxième véhicule des Neuchâtelois.",
-      "themes": ["mobilite"],
+      "themes": [
+        "mobilite"
+      ],
       "region": "Canton de Neuchâtel",
       "language": "fr",
-      "people": [{ "name": "Pascal Vuilleumier", "role": "Directeur général" }],
-      "companies": ["transn"]
+      "people": [
+        {
+          "name": "Pascal Vuilleumier",
+          "role": "Directeur général"
+        }
+      ],
+      "companies": [
+        "transn"
+      ]
     },
     {
       "slug": "uvs-valais-neuchatel-endetec-neroxis",
@@ -651,11 +1085,16 @@
       "pdfPages": [],
       "summary": "Neroxis SA est une entité d'ENDETEC, filiale de Veolia Environnement spécialisée dans le monitoring environnemental, établie à Neuchâtel. Elle propose deux produits pour sécuriser les réseaux d'eau potable et prévenir les risques sanitaires. La sonde KAPTA, fabriquée à Neuchâtel, s'installe directement dans les canalisations et mesure en continu le chlore, la pression, la conductivité et la température. Placé en fin de réseau, TECTA est un système automatisé de détection microbiologique qui fournit sur site, très rapidement, des résultats de qualité laboratoire ; ce laboratoire portatif sert aussi à surveiller les eaux de baignade. En cas de problème, ENDETEC offre un service de conseil pour y remédier.",
       "quote": "",
-      "themes": ["energie", "sante"],
+      "themes": [
+        "energie",
+        "sante"
+      ],
       "region": "Neuchâtel",
       "language": "fr",
       "people": [],
-      "companies": ["endetec-neroxis"]
+      "companies": [
+        "endetec-neroxis"
+      ]
     },
     {
       "slug": "uvs-valais-neuchatel-groupe-e",
@@ -666,11 +1105,20 @@
       "pdfPages": [],
       "summary": "Né le 1er janvier 2005 de la fusion des Entreprises électriques fribourgeoises et d'Électricité Neuchâteloise SA, Groupe E affirme sa double identité fribourgeoise et neuchâteloise. Son directeur général Dominique Gachoud rappelle que son réseau haute tension achemine toute l'électricité consommée dans le canton de Neuchâtel et que l'entreprise alimente directement environ 32 000 clients, soit près de 45 % de la consommation. Sa filiale Groupe E Greenwatt développe des parcs éoliens (Montperreux, La Joux-du-Plâne, Mont-de-Buttes), du photovoltaïque et de la biomasse, tandis qu'un projet de centrale à Cornaux doit assurer la stabilité du réseau. Groupe E, qui emploie une centaine de personnes dans le canton, prévoit un centre de compétences entre Neuchâtel et La Chaux-de-Fonds. Il est aussi présent en Valais par des participations hydroélectriques et soutient clubs sportifs et institutions culturelles.",
       "quote": "",
-      "themes": ["energie"],
+      "themes": [
+        "energie"
+      ],
       "region": "Neuchâtel / Fribourg / Valais",
       "language": "fr",
-      "people": [{ "name": "Dominique Gachoud", "role": "Directeur général" }],
-      "companies": ["groupe-e"]
+      "people": [
+        {
+          "name": "Dominique Gachoud",
+          "role": "Directeur général"
+        }
+      ],
+      "companies": [
+        "groupe-e"
+      ]
     }
   ],
   "companies": [
@@ -678,7 +1126,9 @@
       "slug": "stadt-solothurn",
       "name": "Stadt Solothurn – Stadtpräsidium",
       "sector": "Administration communale",
-      "themes": ["collectivites"],
+      "themes": [
+        "collectivites"
+      ],
       "description": "Présidence de la ville de Soleure, dont le président Kurt Fluri préside aussi l'Union des villes suisses. Capitale cantonale d'environ 17 000 habitants sur 629 hectares, centre culturel et de congrès, bien reliée aux autoroutes A1 et A5 et à l'axe ferroviaire Zurich-Genève.",
       "address": "Baselstrasse 7, Postfach 460",
       "postalCode": "4502",
@@ -688,7 +1138,12 @@
       "phone": "+41 (0)32 626 92 01",
       "email": "stadtpraesidium@solothurn.ch",
       "website": "www.stadt-solothurn.ch",
-      "contacts": [{ "name": "Kurt Fluri", "role": "Stadtpräsident" }],
+      "contacts": [
+        {
+          "name": "Kurt Fluri",
+          "role": "Stadtpräsident"
+        }
+      ],
       "page": "02-03",
       "pdfPages": [],
       "advertiserOnly": false
@@ -697,7 +1152,9 @@
       "slug": "ville-de-sion",
       "name": "Ville de Sion",
       "sector": "Administration communale",
-      "themes": ["collectivites"],
+      "themes": [
+        "collectivites"
+      ],
       "description": "Capitale du Valais, 32 000 habitants, lauréate du prix Wakker 2013. La ville accueille l'EPFL Valais, la HES-SO et plusieurs instituts, un aéroport civil en développement et participe au projet AggloSion de 13 communes. Elle emploie environ 600 collaborateurs, est quasiment sans dette et mène des politiques actives en matière de sport, de culture, d'école et de travaux publics.",
       "address": "Rue du Grand-Pont 12, CP 2272",
       "postalCode": "1950",
@@ -708,13 +1165,34 @@
       "email": "info@sion.ch",
       "website": "www.sion.ch",
       "contacts": [
-        { "name": "Marcel Maurer", "role": "Président de la Ville" },
-        { "name": "Benoît Fournier", "role": "Vice-président, économie et tourisme" },
-        { "name": "Georges Joliat", "role": "Chef du service des travaux publics" },
-        { "name": "Blaise Crittin", "role": "Chef du service des sports" },
-        { "name": "Cyrille Fauchère", "role": "Président de la commission de l'aéroport" },
-        { "name": "Gaëlle Métrailler", "role": "Déléguée culturelle" },
-        { "name": "Vincent Pellissier", "role": "Conseiller municipal, instruction publique" }
+        {
+          "name": "Marcel Maurer",
+          "role": "Président de la Ville"
+        },
+        {
+          "name": "Benoît Fournier",
+          "role": "Vice-président, économie et tourisme"
+        },
+        {
+          "name": "Georges Joliat",
+          "role": "Chef du service des travaux publics"
+        },
+        {
+          "name": "Blaise Crittin",
+          "role": "Chef du service des sports"
+        },
+        {
+          "name": "Cyrille Fauchère",
+          "role": "Président de la commission de l'aéroport"
+        },
+        {
+          "name": "Gaëlle Métrailler",
+          "role": "Déléguée culturelle"
+        },
+        {
+          "name": "Vincent Pellissier",
+          "role": "Conseiller municipal, instruction publique"
+        }
       ],
       "page": "04-10",
       "pdfPages": [],
@@ -724,7 +1202,9 @@
       "slug": "bativa",
       "name": "Bativa SA",
       "sector": "Génie civil, bâtiment, terrassement et transport",
-      "themes": ["construction"],
+      "themes": [
+        "construction"
+      ],
       "description": "PME valaisanne fondée en 1979, forte de 55 collaborateurs, active dans le génie civil, le bâtiment, la rénovation-transformation, les aménagements extérieurs, le terrassement et le transport. Certifiée ISO 9001, ISO 14001 et Valais Excellence, elle a créé la société sœur Desatec Valais pour le désamiantage, développe un centre de tri des déchets minéraux à Conthey et le tirage de fibre optique.",
       "address": "Route de Riddes 79",
       "postalCode": "1950",
@@ -743,7 +1223,10 @@
       "slug": "ciges",
       "name": "CIGES SA (Centre Informatique de Gestion)",
       "sector": "Informatique centralisée pour collectivités",
-      "themes": ["economie", "collectivites"],
+      "themes": [
+        "economie",
+        "collectivites"
+      ],
       "description": "Société fondée à Sion en 1968, détenue par la Ville de Sion, les communes de Bagnes et Savièse, l'Énergie de Sion-Région et les Services industriels de Bagnes. Elle fournit une informatique centralisée à 19 communes (près de 100 000 habitants), quatre sociétés d'énergie et des entités parapubliques. 18 collaborateurs, 200 serveurs et 1000 postes de travail gérés.",
       "address": "Rue de l'Industrie 43, Case postale",
       "postalCode": "1951",
@@ -762,7 +1245,9 @@
       "slug": "combustia",
       "name": "Combustia SA",
       "sector": "Distribution de combustibles et carburants",
-      "themes": ["energie"],
+      "themes": [
+        "energie"
+      ],
       "description": "Entreprise valaisanne fondée en 1948 et gérée principalement par la famille Micheloud. Une douzaine de collaborateurs livrent mazout (Extra-légère et ECOcalor) et carburants à plus de 4000 clients ; réseau de 30 stations-service de Collombey-Muraz à Grimentz, stockage gratuit du mazout et carte CombuCard.",
       "address": "Rue de l'Industrie 41",
       "postalCode": "1950",
@@ -781,7 +1266,10 @@
       "slug": "css-assurance-sion",
       "name": "CSS Assurance (agence de Sion)",
       "sector": "Assurance maladie et accidents",
-      "themes": ["sante", "economie"],
+      "themes": [
+        "sante",
+        "economie"
+      ],
       "description": "Agence sédunoise du Groupe CSS, fondé en 1899, qui assure environ 1,73 million de personnes (5,248 milliards de francs de primes, 118 agences, 2600 collaborateurs, 16 % de part de marché). Le texte met en avant vivit, son centre de compétences en gestion de la santé et prévention en entreprise.",
       "address": "Rue du Scex 4",
       "postalCode": "1950",
@@ -791,7 +1279,12 @@
       "phone": "+41 58 277 79 70",
       "email": "info.sion@css.ch",
       "website": "http://www.css.ch",
-      "contacts": [{ "name": "Laurent Héritier", "role": "Agent général Valais romand" }],
+      "contacts": [
+        {
+          "name": "Laurent Héritier",
+          "role": "Agent général Valais romand"
+        }
+      ],
       "page": "15",
       "pdfPages": [],
       "advertiserOnly": false
@@ -800,7 +1293,10 @@
       "slug": "editech",
       "name": "Editech SA",
       "sector": "Bureau d'ingénieurs civils",
-      "themes": ["construction", "architecture"],
+      "themes": [
+        "construction",
+        "architecture"
+      ],
       "description": "Bureau d'ingénieurs créé en 2004, issu du regroupement de plusieurs bureaux de génie civil, avec 12 collaborateurs à Ayent et Sion et environ 150 réalisations par an (chiffre d'affaires de 1,1 million de francs en 2013). Structures en béton armé, génie civil, ouvrages d'art, constructions industrielles et hydraulique ; formation DAO et apprentis.",
       "address": "Immeuble « Les Alpes », Route de Botyre 75, Case postale 50",
       "postalCode": "1966",
@@ -819,7 +1315,10 @@
       "slug": "gdclimat",
       "name": "GDclimat SA",
       "sector": "Chauffage, ventilation, climatisation et tuyauterie industrielle",
-      "themes": ["energie", "construction"],
+      "themes": [
+        "energie",
+        "construction"
+      ],
       "description": "Entreprise fondée en 1982 (Gillioz & Dayer SA, devenue GDclimat en 1999), une cinquantaine de collaborateurs à Sion et dans ses succursales de Brigue, Collombey et Sierre. Études et installations de chauffage, ventilation, climatisation, froid, vapeur, énergies renouvelables et régulation, bilans thermiques et dossiers Minergie ; certifiée ISO 9001, service après-vente 24 h sur 24.",
       "address": "Rue de l'Aéroport 7",
       "postalCode": "1950",
@@ -829,7 +1328,16 @@
       "phone": "+41 27 327 24 20",
       "email": "info@gdclimat.ch",
       "website": "http://www.gdclimat.ch",
-      "contacts": [{ "name": "Johny Rudaz", "role": "Direction" }, { "name": "Yves Caloz", "role": "Direction" }],
+      "contacts": [
+        {
+          "name": "Johny Rudaz",
+          "role": "Direction"
+        },
+        {
+          "name": "Yves Caloz",
+          "role": "Direction"
+        }
+      ],
       "page": "18-19",
       "pdfPages": [],
       "advertiserOnly": false
@@ -838,7 +1346,9 @@
       "slug": "valcoris",
       "name": "Valcoris Gestion de fortune et de patrimoine",
       "sector": "Gestion de fortune, fiduciaire et accompagnement des seniors",
-      "themes": ["economie"],
+      "themes": [
+        "economie"
+      ],
       "description": "Société sédunoise indépendante de tout établissement financier, active dans la gestion de fortune sur mesure sans rétrocessions, la régularisation fiscale, les assurances-vie de droit luxembourgeois, la comptabilité, l'aide à l'installation en Suisse et l'accompagnement administratif des seniors. Clientèle fidèle depuis 1989.",
       "address": "Rue du Vieux Moulin 39, CP1432",
       "postalCode": "1951",
@@ -848,7 +1358,12 @@
       "phone": "+41 (0)27 322 45 54",
       "email": "valcoris@bluewin.ch",
       "website": "http://www.valcoris.ch",
-      "contacts": [{ "name": "Corinne Barthélemy", "role": "Associée-gérante" }],
+      "contacts": [
+        {
+          "name": "Corinne Barthélemy",
+          "role": "Associée-gérante"
+        }
+      ],
       "page": "20-21",
       "pdfPages": [],
       "advertiserOnly": false
@@ -876,7 +1391,10 @@
       "slug": "swisspro-sr",
       "name": "swisspro SR SA",
       "sector": "Installations électriques, ICT et BCT",
-      "themes": ["economie", "construction"],
+      "themes": [
+        "economie",
+        "construction"
+      ],
       "description": "Antenne sédunoise (20 collaborateurs, ouverte en 2009) de swisspro, groupe créé en 1999 à Zurich qui compte plus de 700 collaborateurs sur 17 sites. Solutions globales : courant fort et faible, câblage informatique et fibre optique, télécommunications, contrôle d'accès, vidéosurveillance, gestion des files d'attente et appels malades. Certifiée ISO 9001 et ISO 14001.",
       "address": "Route de Chandoline 27, Case postale 4273",
       "postalCode": "1950",
@@ -895,7 +1413,9 @@
       "slug": "ville-de-martigny",
       "name": "Ville de Martigny",
       "sector": "Administration communale",
-      "themes": ["collectivites"],
+      "themes": [
+        "collectivites"
+      ],
       "description": "Chef-lieu de district d'environ 18 000 habitants au coude du Rhône, cité de l'énergie (European Energy Award Gold 2010), modèle d'intégration scolaire primé en 2013 et ville des arts autour de la Fondation Pierre Gianadda. Elle a cofondé l'institut IDIAP, soutient le CREM et pilote la régionalisation de la protection civile et des pompiers.",
       "address": "Secrétariat municipal, Hôtel de Ville 1 / Case postale 176",
       "postalCode": "1920",
@@ -906,14 +1426,38 @@
       "email": "info@villedemartigny.ch",
       "website": "www.martigny.ch",
       "contacts": [
-        { "name": "Marc-Henri Favre", "role": "Président de la Ville" },
-        { "name": "Anne-Laure Couchepin Vouilloz", "role": "Dicastère de l'Éducation" },
-        { "name": "Serge Fellay", "role": "Chef du dicastère de la sécurité civile" },
-        { "name": "Michaël Hugon", "role": "Conseiller municipal, culture et tourisme" },
-        { "name": "Florence Kuonen", "role": "Conseillère municipale, constructions" },
-        { "name": "David Martinetti", "role": "Conseiller municipal, Travaux & Bâtiments publics" },
-        { "name": "René Quiros", "role": "Conseiller municipal, environnement, eau, énergies" },
-        { "name": "Roger Mège", "role": "Dicastère Sports, Loisirs et Jeunesse" }
+        {
+          "name": "Marc-Henri Favre",
+          "role": "Président de la Ville"
+        },
+        {
+          "name": "Anne-Laure Couchepin Vouilloz",
+          "role": "Dicastère de l'Éducation"
+        },
+        {
+          "name": "Serge Fellay",
+          "role": "Chef du dicastère de la sécurité civile"
+        },
+        {
+          "name": "Michaël Hugon",
+          "role": "Conseiller municipal, culture et tourisme"
+        },
+        {
+          "name": "Florence Kuonen",
+          "role": "Conseillère municipale, constructions"
+        },
+        {
+          "name": "David Martinetti",
+          "role": "Conseiller municipal, Travaux & Bâtiments publics"
+        },
+        {
+          "name": "René Quiros",
+          "role": "Conseiller municipal, environnement, eau, énergies"
+        },
+        {
+          "name": "Roger Mège",
+          "role": "Dicastère Sports, Loisirs et Jeunesse"
+        }
       ],
       "page": "24-31",
       "pdfPages": [],
@@ -923,7 +1467,9 @@
       "slug": "idiap",
       "name": "IDIAP (institut de recherche)",
       "sector": "Recherche en gestion de l'information multimédia",
-      "themes": ["formation"],
+      "themes": [
+        "formation"
+      ],
       "description": "Fondation à but non lucratif cofondée en 1991 par la municipalité de Martigny, associée à l'EPFL et soutenue par la commune, le canton du Valais et la Confédération. Environ 120 chercheurs y travaillent sur la reconnaissance de la parole, la reconnaissance faciale et les interfaces homme-machine.",
       "address": "",
       "postalCode": "",
@@ -942,7 +1488,10 @@
       "slug": "crem",
       "name": "CREM (Centre de recherches énergétiques et municipales)",
       "sector": "Recherche appliquée en énergie urbaine",
-      "themes": ["energie", "formation"],
+      "themes": [
+        "energie",
+        "formation"
+      ],
       "description": "Centre principalement soutenu par la municipalité de Martigny, en partenariat avec l'EPFL, qui apporte un appui scientifique aux collectivités et entreprises dans le domaine de l'énergie en milieu urbain. Martigny lui sert de laboratoire, notamment pour le logiciel ECORegion de calcul des émissions de gaz à effet de serre.",
       "address": "",
       "postalCode": "",
@@ -961,7 +1510,9 @@
       "slug": "fondation-pierre-gianadda",
       "name": "Fondation Pierre Gianadda",
       "sector": "Musée et centre d'expositions",
-      "themes": ["territoire"],
+      "themes": [
+        "territoire"
+      ],
       "description": "Fondation ouverte en 1978 par Léonard Gianadda à Martigny, construite autour d'un temple gallo-romain. Plus de 9 millions de visiteurs pour plus de cent expositions de grands maîtres, un parc d'une quarantaine de sculptures, des saisons musicales et une collection d'automobiles anciennes.",
       "address": "",
       "postalCode": "",
@@ -971,7 +1522,12 @@
       "phone": "",
       "email": "",
       "website": "",
-      "contacts": [{ "name": "Léonard Gianadda", "role": "Fondateur" }],
+      "contacts": [
+        {
+          "name": "Léonard Gianadda",
+          "role": "Fondateur"
+        }
+      ],
       "page": "27",
       "pdfPages": [],
       "advertiserOnly": false
@@ -980,7 +1536,10 @@
       "slug": "sinergy",
       "name": "Sinergy Commerce SA / Sinergy Infrastructure SA",
       "sector": "Électricité, eau, chauffage à distance et multimédia",
-      "themes": ["energie", "collectivites"],
+      "themes": [
+        "energie",
+        "collectivites"
+      ],
       "description": "Sociétés créées en 2002 par la commune de Martigny pour reprendre ses services industriels : distribution d'électricité (dont production « naturemade star »), d'eau potable de source, de chaleur à distance (environ 6000 personnes raccordées) et de gaz, ainsi que télévision numérique, Internet et téléphonie sur un téléréseau en fibre optique.",
       "address": "Rue du Simplon 4b",
       "postalCode": "1920",
@@ -990,7 +1549,12 @@
       "phone": "+ 41 (0)27 721 25 00",
       "email": "info@sinergy.ch",
       "website": "www.sinergy.ch",
-      "contacts": [{ "name": "Patrick Pralong", "role": "Directeur" }],
+      "contacts": [
+        {
+          "name": "Patrick Pralong",
+          "role": "Directeur"
+        }
+      ],
       "page": "30",
       "pdfPages": [],
       "advertiserOnly": false
@@ -999,7 +1563,9 @@
       "slug": "tmr",
       "name": "TMR SA (Transports Martigny et Régions)",
       "sector": "Transports publics ferroviaires et routiers",
-      "themes": ["mobilite"],
+      "themes": [
+        "mobilite"
+      ],
       "description": "Transporteur régional de l'Espace Mont-Blanc exploitant le Saint-Bernard Express, le tronçon suisse du Mont-Blanc Express et de nombreuses lignes de bus, avec un centre de compétences ferroviaires, un garage, un bureau d'ingénieurs, des transports privés, des mandats communaux et l'agence Octodure Voyages.",
       "address": "Rue de la Poste 3",
       "postalCode": "1920",
@@ -1009,7 +1575,12 @@
       "phone": "+41 (0)27 721 68 40",
       "email": "info@tmrsa.ch",
       "website": "http://www.tmrsa.ch",
-      "contacts": [{ "name": "Martin von Känel", "role": "Directeur général" }],
+      "contacts": [
+        {
+          "name": "Martin von Känel",
+          "role": "Directeur général"
+        }
+      ],
       "page": "32-33",
       "pdfPages": [],
       "advertiserOnly": false
@@ -1018,7 +1589,9 @@
       "slug": "ville-de-sierre",
       "name": "Ville de Sierre",
       "sector": "Administration communale",
-      "themes": ["collectivites"],
+      "themes": [
+        "collectivites"
+      ],
       "description": "Commune de 16 500 habitants à la frontière linguistique, capitale suisse du vin, marquée par l'industrie de l'aluminium et diversifiée par son technopôle et le siège de la HES-SO Valais. Elle prévoit plus de 150 millions de francs d'investissements en dix ans, dont le Complexe Sud de la gare et la zone industrielle de Daval.",
       "address": "Hôtel de Ville, Rue du Bourg 14, Case postale 96",
       "postalCode": "3960",
@@ -1029,12 +1602,30 @@
       "email": "ville@sierre.ch",
       "website": "www.sierre.ch",
       "contacts": [
-        { "name": "François Genoud", "role": "Président de la Ville" },
-        { "name": "Pierre Kenzelmann", "role": "Conseiller municipal, travaux publics et transports" },
-        { "name": "Pierre Berthod", "role": "Conseiller municipal, économie publique et tourisme" },
-        { "name": "Laetitia Massy", "role": "Conseillère municipale, enseignement et actions sociales" },
-        { "name": "Mario Rossi", "role": "Conseiller municipal, environnement, eau et énergie" },
-        { "name": "Jean-Paul Salamin", "role": "Conseiller municipal, aménagement du territoire et urbanisme" }
+        {
+          "name": "François Genoud",
+          "role": "Président de la Ville"
+        },
+        {
+          "name": "Pierre Kenzelmann",
+          "role": "Conseiller municipal, travaux publics et transports"
+        },
+        {
+          "name": "Pierre Berthod",
+          "role": "Conseiller municipal, économie publique et tourisme"
+        },
+        {
+          "name": "Laetitia Massy",
+          "role": "Conseillère municipale, enseignement et actions sociales"
+        },
+        {
+          "name": "Mario Rossi",
+          "role": "Conseiller municipal, environnement, eau et énergie"
+        },
+        {
+          "name": "Jean-Paul Salamin",
+          "role": "Conseiller municipal, aménagement du territoire et urbanisme"
+        }
       ],
       "page": "34-40",
       "pdfPages": [],
@@ -1044,7 +1635,10 @@
       "slug": "va-zwissig",
       "name": "V+A Zwissig SA",
       "sector": "Transports, terrassement et services",
-      "themes": ["mobilite", "construction"],
+      "themes": [
+        "mobilite",
+        "construction"
+      ],
       "description": "Entreprise familiale de transports fondée en 1912 à Sierre, dirigée par la quatrième génération. Environ 45 collaborateurs et une quarantaine de véhicules pour le transport de matériaux, combustibles et déchets, les transports spéciaux jusqu'à 100 tonnes, les terrassements, démolitions, levages et curages de canalisations.",
       "address": "Route Bois-de-Finges, 36",
       "postalCode": "3960",
@@ -1054,7 +1648,12 @@
       "phone": "+41 (0)27 455 02 35",
       "email": "",
       "website": "www.zwissig-transport.ch",
-      "contacts": [{ "name": "Pierre-Alain Grichting", "role": "Administrateur délégué" }],
+      "contacts": [
+        {
+          "name": "Pierre-Alain Grichting",
+          "role": "Administrateur délégué"
+        }
+      ],
       "page": "42",
       "pdfPages": [],
       "advertiserOnly": false
@@ -1063,7 +1662,9 @@
       "slug": "banque-raiffeisen-sierre-et-region",
       "name": "Banque Raiffeisen de Sierre et Région",
       "sector": "Banque coopérative",
-      "themes": ["economie"],
+      "themes": [
+        "economie"
+      ],
       "description": "Banque coopérative basée à Sierre avec des agences à Chippis, Grône et Vissoie. Au 31 décembre 2013 : somme de bilan de 665 millions de francs, 578 millions de crédits, 7050 sociétaires et 30 collaborateurs. Épargne, hypothèques, prévoyance, placements, conseil aux PME et leasing.",
       "address": "Place de la Gare 7",
       "postalCode": "3960",
@@ -1073,7 +1674,12 @@
       "phone": "+41 27 452 27 27",
       "email": "sierre@raiffeisen.ch",
       "website": "http://www.raiffeisen.ch/sierre",
-      "contacts": [{ "name": "Jean-Pierre Vuistiner", "role": "Président de la direction" }],
+      "contacts": [
+        {
+          "name": "Jean-Pierre Vuistiner",
+          "role": "Président de la direction"
+        }
+      ],
       "page": "43",
       "pdfPages": [],
       "advertiserOnly": false
@@ -1082,7 +1688,9 @@
       "slug": "laboratoire-d-analyses-medicales-dr-luc-salamin",
       "name": "Laboratoire d'analyses médicales Dr Luc Salamin S.A.",
       "sector": "Laboratoire d'analyses médicales",
-      "themes": ["sante"],
+      "themes": [
+        "sante"
+      ],
       "description": "Laboratoire privé et indépendant fondé en 1960, 60 employés et environ 6,5 millions de francs de chiffre d'affaires, avec des sites à Sierre et à Sion (clinique de Valère). Premier laboratoire accrédité en Valais (1998), il propose un programme analytique complet, 90 % des résultats en 24 heures, et un service externe auprès des cabinets médicaux.",
       "address": "Rue Centrale 6",
       "postalCode": "3960",
@@ -1092,7 +1700,20 @@
       "phone": "+41 27 451 24 51",
       "email": "info@labosalamin.ch",
       "website": "http://www.laboratoiresalamin.ch",
-      "contacts": [{ "name": "François Salamin", "role": "Propriétaire" }, { "name": "Henri-François Crettaz", "role": "Directeur" }, { "name": "Lucas Salamin", "role": "" }],
+      "contacts": [
+        {
+          "name": "François Salamin",
+          "role": "Propriétaire"
+        },
+        {
+          "name": "Henri-François Crettaz",
+          "role": "Directeur"
+        },
+        {
+          "name": "Lucas Salamin",
+          "role": ""
+        }
+      ],
       "page": "44-45",
       "pdfPages": [],
       "advertiserOnly": false
@@ -1101,7 +1722,9 @@
       "slug": "ville-de-neuchatel",
       "name": "Ville de Neuchâtel – Conseil communal",
       "sector": "Administration communale",
-      "themes": ["collectivites"],
+      "themes": [
+        "collectivites"
+      ],
       "description": "Exécutif de la ville de Neuchâtel, dont le programme 2014-2017 s'articule autour de la devise « Neuchâtel, art de vivre et innovation » : cohésion régionale, fusion avec Peseux, Corcelles-Cormondrèche et Valangin, soutien à Microcity, société à 2000 watts et démocratie participative.",
       "address": "Fbg de l'Hôpital 2",
       "postalCode": "2000",
@@ -1111,7 +1734,12 @@
       "phone": "",
       "email": "",
       "website": "www.neuchatelville.ch",
-      "contacts": [{ "name": "Olivier Arni", "role": "Président de la Ville" }],
+      "contacts": [
+        {
+          "name": "Olivier Arni",
+          "role": "Président de la Ville"
+        }
+      ],
       "page": "46",
       "pdfPages": [],
       "advertiserOnly": false
@@ -1120,7 +1748,10 @@
       "slug": "ville-de-neuchatel-urbanisme-economie-environnement",
       "name": "Ville de Neuchâtel – Direction de l'Urbanisme, de l'Économie et de l'Environnement",
       "sector": "Urbanisme et développement économique",
-      "themes": ["architecture", "collectivites"],
+      "themes": [
+        "architecture",
+        "collectivites"
+      ],
       "description": "Direction communale chargée de la révision des plans d'aménagement, des projets de logements d'utilité publique (objectif de 150 logements en quatre ans, quartier Gouttes d'Or), des friches Métalor et Suchard et de la revitalisation du centre-ville (espace de congrès au Temple du Bas, Jeunes Rives).",
       "address": "Fbg du Lac 3",
       "postalCode": "2000",
@@ -1130,7 +1761,12 @@
       "phone": "032 717 76 01",
       "email": "Olivier.Arni@ne.ch",
       "website": "",
-      "contacts": [{ "name": "Olivier Arni", "role": "Directeur de l'Urbanisme, de l'Économie et de l'Environnement" }],
+      "contacts": [
+        {
+          "name": "Olivier Arni",
+          "role": "Directeur de l'Urbanisme, de l'Économie et de l'Environnement"
+        }
+      ],
       "page": "47",
       "pdfPages": [],
       "advertiserOnly": false
@@ -1139,7 +1775,11 @@
       "slug": "ville-de-neuchatel-education-sante-mobilite",
       "name": "Ville de Neuchâtel – Éducation, Santé, Mobilité",
       "sector": "Administration communale (éducation, santé, mobilité)",
-      "themes": ["formation", "mobilite", "collectivites"],
+      "themes": [
+        "formation",
+        "mobilite",
+        "collectivites"
+      ],
       "description": "Dicastère communal chargé de l'école, des structures pré- et parascolaires (environ 1600 enfants accueillis), de la santé et de la mobilité : abonnement « mobilité jeunes », subventions aux transports publics et aux scooters électriques, vélos en libre-service velospot et flotte de véhicules partagés pour l'administration.",
       "address": "Fbg de l'Hôpital 2",
       "postalCode": "2000",
@@ -1149,7 +1789,12 @@
       "phone": "+41 32 717 74 02",
       "email": "christine.gaillard@ne.ch",
       "website": "www.neuchatelville.ch",
-      "contacts": [{ "name": "Christine Gaillard", "role": "Conseillère communale" }],
+      "contacts": [
+        {
+          "name": "Christine Gaillard",
+          "role": "Conseillère communale"
+        }
+      ],
       "page": "48-49",
       "pdfPages": [],
       "advertiserOnly": false
@@ -1158,7 +1803,10 @@
       "slug": "ville-de-neuchatel-securite-infrastructures-energies",
       "name": "Ville de Neuchâtel – Sécurité, Infrastructures et Énergies, Développement de l'agglomération",
       "sector": "Administration communale (infrastructures, sécurité, agglomération)",
-      "themes": ["collectivites", "energie"],
+      "themes": [
+        "collectivites",
+        "energie"
+      ],
       "description": "Dicastère communal chargé des infrastructures, des énergies, de la sécurité et de la politique d'agglomération : participation au Réseau urbain neuchâtelois, à la Communauté urbaine du Littoral et au Réseau des trois villes, et conduite du projet de fusion avec Peseux, Corcelles-Cormondrèche et Valangin.",
       "address": "Fbg de l'Hôpital 4",
       "postalCode": "2000",
@@ -1168,7 +1816,12 @@
       "phone": "+41 32 717 72 01",
       "email": "pascal.sandoz@ne.ch",
       "website": "www.neuchatelville.ch",
-      "contacts": [{ "name": "Pascal Sandoz", "role": "Conseiller communal" }],
+      "contacts": [
+        {
+          "name": "Pascal Sandoz",
+          "role": "Conseiller communal"
+        }
+      ],
       "page": "50",
       "pdfPages": [],
       "advertiserOnly": false
@@ -1177,7 +1830,10 @@
       "slug": "ville-de-neuchatel-culture-sports-tourisme",
       "name": "Ville de Neuchâtel – Culture, Sports, Tourisme",
       "sector": "Administration communale (culture, sports, tourisme)",
-      "themes": ["territoire", "collectivites"],
+      "themes": [
+        "territoire",
+        "collectivites"
+      ],
       "description": "Dicastère communal responsable des musées de la ville, du soutien aux théâtres et lieux culturels, de 52 installations sportives dont 12 places de sport de quartier, et du projet d'espace de congrès d'environ 750 places au Temple du Bas.",
       "address": "Fbg de l'Hôpital 4",
       "postalCode": "2000",
@@ -1187,7 +1843,12 @@
       "phone": "+41 32 717 75 00",
       "email": "thomas.facchinetti@ne.ch",
       "website": "",
-      "contacts": [{ "name": "Thomas Facchinetti", "role": "Conseiller communal" }],
+      "contacts": [
+        {
+          "name": "Thomas Facchinetti",
+          "role": "Conseiller communal"
+        }
+      ],
       "page": "51",
       "pdfPages": [],
       "advertiserOnly": false
@@ -1196,7 +1857,10 @@
       "slug": "adax",
       "name": "Adax SA",
       "sector": "Décolletage de haute précision",
-      "themes": ["industrie", "horlogerie"],
+      "themes": [
+        "industrie",
+        "horlogerie"
+      ],
       "description": "Entreprise de Bevaix employant 55 personnes, spécialisée dans les pièces décolletées de haute précision (diamètre de 0,1 à 25 mm) pour l'horlogerie, l'automobile, la Formule 1, l'aéronautique, l'espace, le médical et l'électronique. Parc de 71 machines de décolletage et 14 rectifieuses centerless ; certifiée ISO 9001:2008, reprise en 2006 par Urs Kamber.",
       "address": "Ch. Chapons-des-Prés 1",
       "postalCode": "2022",
@@ -1206,7 +1870,12 @@
       "phone": "+41/32/847.96.00",
       "email": "info@adax.ch",
       "website": "http://adax.ch/fr/adax.html",
-      "contacts": [{ "name": "Urs Kamber", "role": "Directeur général" }],
+      "contacts": [
+        {
+          "name": "Urs Kamber",
+          "role": "Directeur général"
+        }
+      ],
       "page": "52-53",
       "pdfPages": [],
       "advertiserOnly": false
@@ -1215,7 +1884,9 @@
       "slug": "hybrid",
       "name": "HYBRID SA",
       "sector": "Assemblage microélectronique",
-      "themes": ["industrie"],
+      "themes": [
+        "industrie"
+      ],
       "description": "Sous-traitant en assemblage de circuits électroniques miniaturisés fondé en 1989 à Chez-le-Bart, qui a racheté Microbonding SA en 2009. 55 personnes, 11 millions de francs de chiffre d'affaires, certifications ISO 9001 et ISO 13485 ; montage CMS, chip on board, bonding et glob-top pour l'industrie, le médical, l'aéronautique ou l'horlogerie.",
       "address": "Combamare 19",
       "postalCode": "2025",
@@ -1224,7 +1895,7 @@
       "country": "Suisse",
       "phone": "+41 32 835 33 88",
       "email": "mailbox@hybrid.ch",
-      "website": "http://hybrid.ch/index.php@lang=en.html",
+      "website": "www.hybrid.ch",
       "contacts": [],
       "page": "54-55",
       "pdfPages": [],
@@ -1234,7 +1905,9 @@
       "slug": "transn",
       "name": "Transports Publics Neuchâtelois SA (transN)",
       "sector": "Transports publics",
-      "themes": ["mobilite"],
+      "themes": [
+        "mobilite"
+      ],
       "description": "Transporteur public du canton de Neuchâtel, actif dans les six districts : 418 collaborateurs, 27 millions de voyageurs par an, 38 lignes, 285 kilomètres de réseau, 165 véhicules et environ 80 millions de francs de chiffre d'affaires. Offres touristiques, navettes d'entreprise et gestion des infrastructures ferroviaires et de trolleybus.",
       "address": "Allée des Défricheurs 3, Case Postale 1429",
       "postalCode": "2301",
@@ -1244,7 +1917,12 @@
       "phone": "+41 (0)32 924 24 24",
       "email": "info@transn.ch",
       "website": "www.transn.ch",
-      "contacts": [{ "name": "Pascal Vuilleumier", "role": "Directeur général" }],
+      "contacts": [
+        {
+          "name": "Pascal Vuilleumier",
+          "role": "Directeur général"
+        }
+      ],
       "page": "56-57",
       "pdfPages": [],
       "advertiserOnly": false
@@ -1253,7 +1931,10 @@
       "slug": "endetec-neroxis",
       "name": "ENDETEC – Neroxis SA",
       "sector": "Monitoring de la qualité de l'eau",
-      "themes": ["energie", "sante"],
+      "themes": [
+        "energie",
+        "sante"
+      ],
       "description": "Entité d'ENDETEC, filiale de Veolia Environnement spécialisée dans le monitoring environnemental. Elle développe la sonde KAPTA, fabriquée à Neuchâtel, qui mesure en continu chlore, pression, conductivité et température dans les réseaux d'eau potable, et le laboratoire automatisé TECTA de détection microbiologique sur site.",
       "address": "Jaquet-Droz 1",
       "postalCode": "2002",
@@ -1272,7 +1953,9 @@
       "slug": "groupe-e",
       "name": "Groupe E SA",
       "sector": "Fourniture d'énergie",
-      "themes": ["energie"],
+      "themes": [
+        "energie"
+      ],
       "description": "Énergéticien né en 2005 de la fusion des Entreprises électriques fribourgeoises et d'ENSA, actif à Fribourg, Neuchâtel et Vaud et présent en Valais via des participations hydroélectriques. Il alimente directement environ 32 000 clients neuchâtelois ; sa filiale Groupe E Greenwatt développe éolien, solaire et biomasse. Services aux collectivités : audits, chauffage à distance, éclairage public, mobilité électrique.",
       "address": "Route de Morat 135",
       "postalCode": "1763",
@@ -1282,7 +1965,12 @@
       "phone": "+ 41 (0)26 452 52 52",
       "email": "info@groupe-e.ch",
       "website": "www.groupe-e.ch",
-      "contacts": [{ "name": "Dominique Gachoud", "role": "Directeur général" }],
+      "contacts": [
+        {
+          "name": "Dominique Gachoud",
+          "role": "Directeur général"
+        }
+      ],
       "page": "11, 41, 59",
       "pdfPages": [],
       "advertiserOnly": false

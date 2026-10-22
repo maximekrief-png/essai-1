@@ -67,6 +67,11 @@ const validThemes = (t) => uniq((t || []).filter((x) => THEMES[x]));
 
 // Fusion des entreprises : même slug ou même domaine web = même entreprise.
 // Les magazines sont triés du plus récent au plus ancien : la première valeur non vide l'emporte.
+const orgWords = (n) => fold(n).split(/\s[–-]\s/)[0].replace(/[^a-z0-9]+/g, ' ').replace(/\b(sa|ag|sarl|gmbh|ltd|cie|co|groupe|group|the|la|le|les|l|d|de|du|des|et|und|der|die|das|ville|stadt|commune|canton)\b/g, ' ').trim().split(/\s+/).filter(Boolean);
+const sameOrg = (a, b) => {
+  const x = orgWords(a), y = orgWords(b || '');
+  return !!x.length && !!y.length && (x[0] === y[0] || x.join('').startsWith(y.join('')) || y.join('').startsWith(x.join('')));
+};
 const companyAlias = new Map(); // `${mag}:${slugLocal}` -> slug canonique
 // Doublons connus (même organisation nommée différemment selon les numéros)
 const ALIASES = fs.existsSync(path.join(DATA, 'aliases.json')) ? JSON.parse(fs.readFileSync(path.join(DATA, 'aliases.json'), 'utf8')) : {};
@@ -76,7 +81,8 @@ for (const m of magazines) {
     let key = slugify(c.slug || c.name);
     key = ALIASES[key] || key;
     const dom = c.website ? domainOf(c.website) : '';
-    if (dom && domainIndex.has(dom)) key = domainIndex.get(dom);
+    // Même site web = même entreprise, sauf domaines partagés par plusieurs services (vd.ch, bern.ch…)
+    if (dom && domainIndex.has(dom) && sameOrg(c.name, companyMap.get(domainIndex.get(dom))?.name)) key = domainIndex.get(dom);
     companyAlias.set(`${m.slug}:${c.slug || slugify(c.name)}`, key);
     let t = companyMap.get(key);
     if (!t) {

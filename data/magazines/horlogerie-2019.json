@@ -4,11 +4,24 @@
   "series": "Horlogerie",
   "year": 2019,
   "region": "Arc jurassien",
-  "languages": ["fr", "en", "de"],
+  "languages": [
+    "fr",
+    "en",
+    "de"
+  ],
   "description": "Édition de janvier 2019 du magazine Swiss Knowhow consacrée à l’industrie horlogère et à sa sous-traitance. Le numéro s’ouvre sur les acteurs institutionnels de la branche (FH, Salon EPHJ-EPMT-SMT, ASRH, Technical Watchmaker Show, AFDT), puis enchaîne une cinquantaine de portraits d’entreprises de l’Arc jurassien et de Suisse romande : fabricants d’aiguilles, de boîtes, de glaces saphir, décorateurs, décolleteurs, constructeurs de machines et prestataires de traitements de surface. La plupart des textes sont bilingues français-anglais, un portrait est aussi publié en allemand.",
-  "themes": ["horlogerie", "industrie", "formation"],
+  "themes": [
+    "horlogerie",
+    "industrie",
+    "formation"
+  ],
   "files": [
-    { "driveId": "1YLXwVHi46EaJf5vGYKGAo41o7jALwj4t", "name": "SWISS_HORLOGERIE_2019.pdf", "sizeMB": 11.6, "label": "Édition web" }
+    {
+      "driveId": "1YLXwVHi46EaJf5vGYKGAo41o7jALwj4t",
+      "name": "SWISS_HORLOGERIE_2019.pdf",
+      "sizeMB": 11.6,
+      "label": "Édition web"
+    }
   ],
   "pdfLocal": false,
   "articles": [
@@ -21,11 +34,21 @@
       "pdfPages": [],
       "summary": "Installée à Brügg, près de Bienne, la société Saphirwerk AG s’est fait une spécialité de l’usinage du saphir, des céramiques et des pierres. Depuis quelques années, elle se tourne davantage vers la haute horlogerie en réalisant par meulage et polissage des composants aux formes très complexes : cadrans, platines, pièces de mouvement, lunettes, tubes, glaces et même boîtiers entièrement en saphir. Ces réalisations ont exigé des procédés internes spécifiques et des outillages développés sur mesure. Fondée en 1917 pour tailler des pierres industrielles, l’entreprise s’est ensuite illustrée avec les saphirs pour tourne-disques, puis avec les billes de précision qui ont fait sa renommée mondiale en métrologie, roulements ou instruments d’écriture. Elle produit aussi des valves et pistons pour la pharmacie et des pièces orthopédiques. Saphirwerk emploie 75 personnes, a fortement verticalisé sa production et appartient à la holding familiale lucernoise AGZ.",
       "quote": "Nous allons désormais jusqu’au boîtier saphir complet.",
-      "themes": ["horlogerie", "industrie"],
+      "themes": [
+        "horlogerie",
+        "industrie"
+      ],
       "region": "Brügg / Bienne",
       "language": "fr",
-      "people": [{ "name": "Roman Gaemperle", "role": "Responsable secteur luxe et développement" }],
-      "companies": ["saphirwerk"]
+      "people": [
+        {
+          "name": "Roman Gaemperle",
+          "role": "Responsable secteur luxe et développement"
+        }
+      ],
+      "companies": [
+        "saphirwerk"
+      ]
     },
     {
       "slug": "horlogerie-2019-interview-jean-daniel-pasche-fh",
@@ -36,11 +59,21 @@
       "pdfPages": [],
       "summary": "Président de la FH depuis 2002, Jean-Daniel Pasche dresse un état des lieux de la branche après les années difficiles 2015 et 2016. La croissance est revenue (+2,7 % en 2017, +7,5 % à fin octobre 2018), une évolution qu’il juge raisonnable. Le haut de gamme, qui pèse 88 % du chiffre d’affaires mais seulement 22 % des volumes, se porte bien, tandis que l’entrée de gamme souffre de la concurrence des montres mode bon marché. Il rappelle l’entrée en vigueur effective, début 2019, de la règle des 60 % de valeur suisse pour le Swiss Made. La montre connectée constitue selon lui un marché parallèle plutôt qu’un concurrent direct. Il analyse aussi les difficultés des grands salons comme Baselworld, liées au déplacement de la communication vers le web, et voit dans l’émotion la clé de l’avenir de la montre.",
       "quote": "Tant que les gens auront des émotions, ils achèteront des montres.",
-      "themes": ["horlogerie", "economie"],
+      "themes": [
+        "horlogerie",
+        "economie"
+      ],
       "region": "Bienne",
       "language": "fr",
-      "people": [{ "name": "Jean-Daniel Pasche", "role": "Président de la Fédération de l’industrie horlogère suisse FH" }],
-      "companies": ["federation-de-l-industrie-horlogere-suisse-fh"]
+      "people": [
+        {
+          "name": "Jean-Daniel Pasche",
+          "role": "Président de la Fédération de l’industrie horlogère suisse FH"
+        }
+      ],
+      "companies": [
+        "federation-de-l-industrie-horlogere-suisse-fh"
+      ]
     },
     {
       "slug": "horlogerie-2019-interview-salon-ephj-epmt-smt",
@@ -51,11 +84,22 @@
       "pdfPages": [],
       "summary": "Organisé à Palexpo Genève du 18 au 21 juin 2019, le Salon EPHJ-EPMT-SMT réunit les sous-traitants de l’horlogerie-joaillerie, des microtechniques et des medtech. Son directeur Alexandre Catton explique pourquoi ce rendez-vous professionnel B to B échappe à la crise des salons grand public : les exposants y présentent leurs savoir-faire aux fabricants de produits finis. Le succès, constant depuis 2002, tient à un esprit proche de celui des exposants et à l’objectif de leur faire conclure de nouvelles affaires. Parmi les nouveautés figurent le village des start-up, passé d’une dizaine à une trentaine de jeunes pousses, une salle de conférence pour les exposants, une newsletter trimestrielle, une tournée de rencontres en Suisse et dans les pays voisins et des petits déjeuners pour les nouveaux venus. L’édition 2019 attend plus de 800 exposants et 20’000 visiteurs professionnels.",
       "quote": "Donner à chaque exposant la possibilité de faire de nouvelles affaires et de développer ses marchés.",
-      "themes": ["horlogerie", "industrie", "economie"],
+      "themes": [
+        "horlogerie",
+        "industrie",
+        "economie"
+      ],
       "region": "Genève",
       "language": "fr",
-      "people": [{ "name": "Alexandre Catton", "role": "Directeur du Salon EPHJ-EPMT-SMT" }],
-      "companies": ["salon-ephj-epmt-smt"]
+      "people": [
+        {
+          "name": "Alexandre Catton",
+          "role": "Directeur du Salon EPHJ-EPMT-SMT"
+        }
+      ],
+      "companies": [
+        "salon-ephj-epmt-smt"
+      ]
     },
     {
       "slug": "horlogerie-2019-interview-asrh",
@@ -66,11 +110,21 @@
       "pdfPages": [],
       "summary": "Basée à Neuchâtel, l’ASRH pilote des projets de recherche d’intérêt commun pour quelque 150 membres, marques, manufactures et sous-traitants. Sa directrice Fabienne Marquis Weible rappelle que l’association est née en 1985, lorsque le Laboratoire suisse de recherche horlogère a cédé ses moyens au CSEM nouvellement créé. Un conseil formé de chefs d’entreprise fixe la stratégie, tandis qu’une commission scientifique identifie les besoins ; les projets sont financés par souscription des membres puis confiés à des laboratoires. Quatre axes structurent l’activité : les connaissances de base comme la caractérisation des matériaux, la maîtrise des procédés de fabrication, le soutien technique à l’évolution des normes et l’évaluation de solutions innovantes. L’ASRH lance un à trois projets par an, d’une durée typique de 18 mois, privilégiant la pertinence plutôt que le nombre.",
       "quote": "Le secteur doit toujours chercher à progresser, sinon il risque de perdre son attractivité.",
-      "themes": ["horlogerie", "formation"],
+      "themes": [
+        "horlogerie",
+        "formation"
+      ],
       "region": "Neuchâtel",
       "language": "fr",
-      "people": [{ "name": "Fabienne Marquis Weible", "role": "Directrice de l’ASRH" }],
-      "companies": ["asrh"]
+      "people": [
+        {
+          "name": "Fabienne Marquis Weible",
+          "role": "Directrice de l’ASRH"
+        }
+      ],
+      "companies": [
+        "asrh"
+      ]
     },
     {
       "slug": "horlogerie-2019-technical-watchmaker-show",
@@ -81,11 +135,21 @@
       "pdfPages": [],
       "summary": "Après une première édition qui a bousculé les habitudes de la branche, les sous-traitants horlogers organisent une deuxième édition du Technical Watchmaker Show du 19 au 23 mars 2019 aux Vieux Abattoirs de La Chaux-de-Fonds, en parallèle de Baselworld. Le salon vise à promouvoir de façon pragmatique le savoir-faire technique auprès d’une clientèle internationale, au cœur du berceau de la haute horlogerie. Les exposants, tous acteurs de la sous-traitance, se présentent dans ce bâtiment rénové et proposent aussi des visites itinérantes de leurs ateliers. Eric Zuccatti, président du salon et directeur de Horotec, souligne la double vocation de l’événement : informer concrètement les responsables techniques et faire découvrir l’histoire horlogère. Conférences et tables rondes complètent le programme ; l’accès est gratuit sur inscription.",
       "quote": "Notre salon a deux vocations : informer concrètement les responsables techniques et permettre aux visiteurs de s’immerger dans l’histoire de l’horlogerie.",
-      "themes": ["horlogerie", "industrie"],
+      "themes": [
+        "horlogerie",
+        "industrie"
+      ],
       "region": "La Chaux-de-Fonds",
       "language": "fr",
-      "people": [{ "name": "Eric Zuccatti", "role": "Président du Technical Watchmaker Show, directeur de Horotec" }],
-      "companies": ["technical-watchmaker-show"]
+      "people": [
+        {
+          "name": "Eric Zuccatti",
+          "role": "Président du Technical Watchmaker Show, directeur de Horotec"
+        }
+      ],
+      "companies": [
+        "technical-watchmaker-show"
+      ]
     },
     {
       "slug": "horlogerie-2019-interview-afdt",
@@ -96,11 +160,22 @@
       "pdfPages": [],
       "summary": "Fondée au sortir de la Seconde Guerre mondiale, l’AFDT réunit plus de soixante entreprises du décolletage et du taillage et défend l’image de ces métiers. Son président Dominique Lauener explique que la formation est devenue la préoccupation principale face à une pénurie chronique de main-d’œuvre qualifiée. L’association participe à des expositions industrielles et à des salons de la formation pour attirer des apprentis, en montrant des métiers modernisés par la numérisation. Avec le CIP de Tramelan et le Centre technique du décolletage et du taillage, elle propose depuis plus de vingt ans des formations modulaires en cours d’emploi. Elle fournit aussi des supports de cours aux apprentis, qui peuvent commencer leur formation pratique dans les centres d’apprentissage de l’Arc jurassien, et a publié un guide méthodique du décolletage pour ses membres.",
       "quote": "L’image du mécanicien aux mains sales est obsolète.",
-      "themes": ["industrie", "formation", "horlogerie"],
+      "themes": [
+        "industrie",
+        "formation",
+        "horlogerie"
+      ],
       "region": "Arc jurassien",
       "language": "fr",
-      "people": [{ "name": "Dominique Lauener", "role": "Président de l’AFDT" }],
-      "companies": ["afdt"]
+      "people": [
+        {
+          "name": "Dominique Lauener",
+          "role": "Président de l’AFDT"
+        }
+      ],
+      "companies": [
+        "afdt"
+      ]
     },
     {
       "slug": "horlogerie-2019-aiguilla",
@@ -111,11 +186,16 @@
       "pdfPages": [],
       "summary": "Fondée en 1890 à Bienne, Aiguilla fabrique des aiguilles de montres pour les marques les plus prestigieuses. Installée dans un parc arborisé, l’entreprise emploie 170 personnes et cultive un équilibre entre artisanat traditionnel et industrie à taille humaine. La plupart de ses outils et machines sont conçus dans ses propres ateliers, ce qui lui assure la maîtrise des procédés et une grande souplesse. Chaque aiguille, en laiton, acier ou or, nécessite 16 à 20 opérations, du dessin et de l’étampage jusqu’à l’encartage manuel à la brucelle, étape jamais automatisée qui permet de détecter tout défaut esthétique. Le contrôle dimensionnel intervient à chaque stade. La collection compte quelque 10’000 formes et plusieurs millions de variantes. L’article retrace aussi l’histoire de l’aiguille, de la pierre levée du néolithique à la première fabrique ouverte à Genève en 1812.",
       "quote": "",
-      "themes": ["horlogerie", "industrie"],
+      "themes": [
+        "horlogerie",
+        "industrie"
+      ],
       "region": "Bienne",
       "language": "fr",
       "people": [],
-      "companies": ["aiguilla"]
+      "companies": [
+        "aiguilla"
+      ]
     },
     {
       "slug": "horlogerie-2019-covatec",
@@ -126,14 +206,26 @@
       "pdfPages": [],
       "summary": "Spécialiste de l’automation depuis 1974, la société biennoise Covatec SA équipe de nombreux ateliers horlogers en presses, unités de soudage, de thermocollage ou de bouterollage. L’horlogerie représente environ 30 % de son chiffre d’affaires. Sa gamme comprend des presses de précision pneumatiques, hydropneumatiques et servo-électriques pour le chassage, le sertissage ou le rivetage, complétées par des systèmes de soudage de fils ultrafins et des appareils de mesure. Huit personnes assurent à Bienne l’engineering et le montage final, les composants étant sous-traités dans le tissu micromécanique régional. L’entreprise exporte aussi vers l’automobile, l’aéronautique, l’électronique et le médical. Membre du groupe Lécureux depuis 2009, Covatec a retrouvé le statut de société anonyme indépendante, avec une direction propre, pour renforcer son identité et son caractère international.",
       "quote": "Cela fait de nous les spécialistes de l’assemblage mécanique d’ultra-précision et à grande répétition.",
-      "themes": ["industrie", "horlogerie"],
+      "themes": [
+        "industrie",
+        "horlogerie"
+      ],
       "region": "Bienne",
       "language": "fr",
       "people": [
-        { "name": "Hubert Rawyler", "role": "Responsable vente et marketing" },
-        { "name": "Thomas Villard", "role": "CEO" }
+        {
+          "name": "Hubert Rawyler",
+          "role": "Responsable vente et marketing"
+        },
+        {
+          "name": "Thomas Villard",
+          "role": "CEO"
+        }
       ],
-      "companies": ["covatec", "lecureux"]
+      "companies": [
+        "covatec",
+        "lecureux"
+      ]
     },
     {
       "slug": "horlogerie-2019-dc-swiss",
@@ -144,11 +236,16 @@
       "pdfPages": [],
       "summary": "La double page consacrée à DC Swiss SA, entreprise de Malleray dans le Jura bernois, ne contient dans la version web du magazine que les éléments de maquette : titres provisoires « Titre reportage », mentions « chapeau » et « Entretien/interview », ainsi que le bloc de coordonnées de la société. On y apprend seulement que DC Swiss dispose de filiales en Allemagne, en Italie, en Angleterre et en Chine et que la marque Nano Tools lui est associée. Le contenu rédactionnel du publireportage n’a pas pu être exploité à partir du texte disponible.",
       "quote": "",
-      "themes": ["industrie", "horlogerie"],
+      "themes": [
+        "industrie",
+        "horlogerie"
+      ],
       "region": "Malleray",
       "language": "fr",
       "people": [],
-      "companies": ["dc-swiss"]
+      "companies": [
+        "dc-swiss"
+      ]
     },
     {
       "slug": "horlogerie-2019-dm-surfaces",
@@ -159,11 +256,17 @@
       "pdfPages": [],
       "summary": "Fondée en 2007 et désormais installée dans un nouveau bâtiment à Saint-Imier, DM Surfaces s’est spécialisée dans l’ultra-personnalisation, la production et la décoration haut de gamme de composants horlogers. L’entreprise combine galvanoplastie, technologies laser (gravure, ablation, texturisation, découpe, micro-usinage) et décorations traditionnelles réalisées sur CNC ou à la main. Elle a verticalisé un procédé de céramique hybride et créé une cellule de R&D consacrée au laser. Son offre d’ultra-personnalisation couvre toute la chaîne, du design à la production en très petites quantités, pour des clients finaux ou des marques proposant du sur-mesure dans des délais courts. Côté environnement, DM Surfaces revendique un rejet nul grâce à une station d’épuration à cinq circuits d’eau recyclée et récupère la chaleur de ses bains galvaniques ; une certification RJC était prévue pour 2019.",
       "quote": "Le monde progresse grâce aux choses impossibles qui ont été réalisées.",
-      "themes": ["horlogerie", "industrie", "energie"],
+      "themes": [
+        "horlogerie",
+        "industrie",
+        "energie"
+      ],
       "region": "Saint-Imier",
       "language": "fr",
       "people": [],
-      "companies": ["dm-surfaces"]
+      "companies": [
+        "dm-surfaces"
+      ]
     },
     {
       "slug": "horlogerie-2019-econorm-gams",
@@ -174,11 +277,22 @@
       "pdfPages": [],
       "summary": "Fondée en 1993 au Liechtenstein, Econorm Gams AG dépose par évaporation PVD des couches minces d’oxydes, de cristaux ou de métaux sur les glaces, fonds et cadrans en saphir. Outre les antireflets neutres ou colorés, elle propose des traitements antistatiques, anti-UV et hydrophobes-oléophobes, réunis dans son produit ARunic®, ainsi que des décorations très fines entièrement personnalisables. Son directeur général Anthony Schwab estime qu’un saphir suisse brut n’est pas compétitif face aux produits chinois et que ces traitements, tous développés à l’interne, lui apportent la plus-value nécessaire. Le siège et la production se trouvent à Gams (SG), avec 35 collaborateurs, tandis que la succursale de Saint-Imier, ouverte il y a une dizaine d’années, emploie une dizaine de personnes pour une partie de la production et la R&D. Plus d’un million de pièces sont traitées chaque année.",
       "quote": "Nous sommes les seuls à proposer des produits de haute qualité combinant fonctions utiles et effets esthétiques.",
-      "themes": ["horlogerie", "industrie"],
+      "themes": [
+        "horlogerie",
+        "industrie"
+      ],
       "region": "Saint-Imier / Gams",
       "language": "fr",
-      "people": [{ "name": "Anthony Schwab", "role": "Directeur général" }],
-      "companies": ["econorm-gams", "erma-boecourt"]
+      "people": [
+        {
+          "name": "Anthony Schwab",
+          "role": "Directeur général"
+        }
+      ],
+      "companies": [
+        "econorm-gams",
+        "erma-boecourt"
+      ]
     },
     {
       "slug": "horlogerie-2019-fleury",
@@ -189,11 +303,22 @@
       "pdfPages": [],
       "summary": "Depuis plus de cinquante ans, la société biennoise Fleury SA conçoit des machines à transfert linéaire et modulaire de grande précision pour fabriquer platines, ponts et autres composants de mouvements, de la pièce brute à la pièce terminée. Son produit phare, le modulo, offre une forte productivité dans un encombrement réduit et des temps de cycle courts pour des lots de 1’000 à 100’000 pièces par an ; plus de 500 exemplaires sont en service en Suisse, en Allemagne, au Japon, en Malaisie et à Singapour. Anticipant une éventuelle interdiction du plomb, l’entreprise propose une mise à niveau avec lubrification pour usiner le laiton sans plomb. Depuis 2015, sa filiale tessinoise Fleury Industries, à Balerna, fabrique des ébauches en sous-traitance 24 heures sur 24, jusqu’à 150’000 kits par an, et s’apprête à doubler sa surface.",
       "quote": "Nos modulos sont conçus pour permettre un maximum de productivité à nos clients, tout en occupant un minimum d’espace.",
-      "themes": ["industrie", "horlogerie"],
+      "themes": [
+        "industrie",
+        "horlogerie"
+      ],
       "region": "Bienne / Balerna",
       "language": "fr",
-      "people": [{ "name": "Thomas Deeg", "role": "Chef des ventes" }],
-      "companies": ["fleury", "fleury-industries"]
+      "people": [
+        {
+          "name": "Thomas Deeg",
+          "role": "Chef des ventes"
+        }
+      ],
+      "companies": [
+        "fleury",
+        "fleury-industries"
+      ]
     },
     {
       "slug": "horlogerie-2019-lecureux",
@@ -204,11 +329,21 @@
       "pdfPages": [],
       "summary": "Fondée en 1961 à Bienne, Lécureux SA a bâti sa réputation sur le tournevis : elle a été la première à concevoir un modèle électrique, l’eScrew, vendu dans le monde entier. La dernière version, Speed, dispose d’un codeur optique qui contrôle position et accélération de la vis et vérifie le couple pendant le vissage. La gamme comprend aussi des tournevis manuels, utilisés en horlogerie, en lunetterie et dans le médical. L’activité principale est aujourd’hui l’automation, avec des lignes de montage complètes et personnalisées pour les opérations T1, T2 et T3, ainsi que des instruments de mesure, dont une cellule de chronométrie capable de contrôler automatiquement plusieurs centaines de mouvements. Sur une cinquantaine d’employés, une vingtaine travaillent en recherche et développement. Le directeur Gérard Jeanfavre veut conquérir de nouveaux marchés.",
       "quote": "Nous sommes dans un marché très mobile. Nos clients ont des besoins qui changent continuellement.",
-      "themes": ["industrie", "horlogerie"],
+      "themes": [
+        "industrie",
+        "horlogerie"
+      ],
       "region": "Bienne",
       "language": "fr",
-      "people": [{ "name": "Gérard Jeanfavre", "role": "Directeur" }],
-      "companies": ["lecureux"]
+      "people": [
+        {
+          "name": "Gérard Jeanfavre",
+          "role": "Directeur"
+        }
+      ],
+      "companies": [
+        "lecureux"
+      ]
     },
     {
       "slug": "horlogerie-2019-les-artisans-boitiers",
@@ -219,11 +354,21 @@
       "pdfPages": [],
       "summary": "Les Artisans Boîtiers SA (LAB SA), à La Chaux-de-Fonds, conçoivent et fabriquent des boîtes de montres d’exception et des composants microtechniques pour une clientèle très haut de gamme. L’entreprise associe un parc de machines à commande numérique de deux à cinq axes et des logiciels de conception récents au travail manuel de soudage, limage, polissage et assemblage, avant un atelier d’achevage pour les fonctions mécaniques et les finitions. Elle sert aussi bien les marques de grands groupes que les horlogers indépendants, de la pièce unique aux séries. Son directeur Damien Fernier insiste sur l’accompagnement personnalisé, de la feuille blanche aux projets complexes. LAB SA fait partie du pôle SFF Les Manufactures Horlogères, avec Vaucher Manufacture Fleurier, Atokalpa, Elwin et Quadrance & Habillage, qui propose notamment un service de montre complète en marque blanche.",
       "quote": "Chaque client doit se sentir chez lui lorsqu’il pénètre dans notre manufacture.",
-      "themes": ["horlogerie", "industrie"],
+      "themes": [
+        "horlogerie",
+        "industrie"
+      ],
       "region": "La Chaux-de-Fonds",
       "language": "fr",
-      "people": [{ "name": "Damien Fernier", "role": "Directeur" }],
-      "companies": ["les-artisans-boitiers"]
+      "people": [
+        {
+          "name": "Damien Fernier",
+          "role": "Directeur"
+        }
+      ],
+      "companies": [
+        "les-artisans-boitiers"
+      ]
     },
     {
       "slug": "horlogerie-2019-mps-watch",
@@ -234,11 +379,16 @@
       "pdfPages": [],
       "summary": "En 2016, le groupe MPS a regroupé ses activités horlogères dans l’unité MPS Watch, qui emploie plus de 130 collaborateurs sur le site de Bonfol (JU). Partenaire des manufactures depuis plus de 80 ans, MPS est réputé pour ses roulements horlogers, dont le roulement tout céramique myrox14, le roulement unidirectionnel OneWay, le micro-différentiel à billes Dara ou le principe ActiGir. Nouveauté 2018, le roulement ActiVib intègre un amortisseur en élastomère qui réduit d’environ 10 dBA la propagation du bruit dans le mouvement. L’entreprise maîtrise aussi les micro-assemblages et les mobiles depuis 2013, ainsi que les composants à géométrie complexe en matériaux durs. Elle applique les méthodes Lean, le juste à temps ou le SMED, publie quatre newsletters par an, organise des Afterwork pour les professionnels et est certifiée ISO 9001 et ISO 14001.",
       "quote": "",
-      "themes": ["horlogerie", "industrie"],
+      "themes": [
+        "horlogerie",
+        "industrie"
+      ],
       "region": "Bienne / Bonfol",
       "language": "fr",
       "people": [],
-      "companies": ["mps-watch"]
+      "companies": [
+        "mps-watch"
+      ]
     },
     {
       "slug": "horlogerie-2019-sebal-timsaph",
@@ -249,11 +399,22 @@
       "pdfPages": [],
       "summary": "Créée en 1978 et reprise en 2005 par Sébastien Sangsue, fils du fondateur, Sebal SA à Bassecourt fabrique avec 25 collaborateurs des glaces saphir plates, bombées ou de type box, des cadrans, carrures et pièces de mouvement en saphir, en séries de 20 à plus de 10’000 pièces. Elle usine aussi les matériaux durs grâce à plus de 80 machines 3 et 5 axes, en partie automatisées. Pour maîtriser sa matière première, l’entreprise a lancé la société sœur Timsaph SA à Delémont, créée en 2015 après huit mois de R&D. Celle-ci produit du saphir selon le procédé Verneuil, par fusion de poudre d’alumine au-delà de 2’000 °C, et est passée de 10 à 131 machines. Sebal s’y fournit désormais entièrement, ce qui lui permet d’offrir des produits intégralement suisses, et prévoit l’agrandissement de ses locaux de 1’200 m².",
       "quote": "",
-      "themes": ["horlogerie", "industrie"],
+      "themes": [
+        "horlogerie",
+        "industrie"
+      ],
       "region": "Bassecourt / Delémont",
       "language": "fr",
-      "people": [{ "name": "Sébastien Sangsue", "role": "Directeur, fondateur de Timsaph SA" }],
-      "companies": ["sebal", "timsaph"]
+      "people": [
+        {
+          "name": "Sébastien Sangsue",
+          "role": "Directeur, fondateur de Timsaph SA"
+        }
+      ],
+      "companies": [
+        "sebal",
+        "timsaph"
+      ]
     },
     {
       "slug": "horlogerie-2019-stila",
@@ -264,11 +425,21 @@
       "pdfPages": [],
       "summary": "Fabricant chaux-de-fonnier de boîtes de montres haut de gamme, Stila SA a engagé de lourds investissements pour passer, selon son jeune CEO Julien Vallon, d’une entreprise des années 1980 à une entreprise de demain. Les locaux ont été rénovés et sécurisés pour répondre à la certification RJC exigée par certains grands groupes, et le parc de machines s’est enrichi de CNC 5 axes, dont une micro5, aux côtés d’équipements plus anciens. La quarantaine de collaborateurs, très qualifiés et fidèles, permet de tout réaliser à l’interne, du bureau technique au prototypage et au polissage, en acier, or, palladium ou platine. Fondée en 1933 et reprise par la famille Vallon au début des années 1980, la société, dont le nom associe Style et Art, est dirigée par la troisième génération, qui cherche à diversifier sa clientèle.",
       "quote": "Nos employés sont notre richesse.",
-      "themes": ["horlogerie", "industrie"],
+      "themes": [
+        "horlogerie",
+        "industrie"
+      ],
       "region": "La Chaux-de-Fonds",
       "language": "fr",
-      "people": [{ "name": "Julien Vallon", "role": "CEO / directeur général" }],
-      "companies": ["stila"]
+      "people": [
+        {
+          "name": "Julien Vallon",
+          "role": "CEO / directeur général"
+        }
+      ],
+      "companies": [
+        "stila"
+      ]
     },
     {
       "slug": "horlogerie-2019-technofinish-technoformage",
@@ -279,11 +450,18 @@
       "pdfPages": [],
       "summary": "Créée en 2003 à Bienne, TechnoFinish SA développe des produits pour le traitement de surface mécanique, l’ébavurage et le polissage destinés à l’horlogerie et à la bijouterie. Ses postes de polissage autonomes avec aspiration intégrée, apparus en 2007, se sont vendus à 500 ou 600 exemplaires ; une version avec filtration absolue à 3 microns a été conçue pour une marque. L’entreprise a aussi créé des pâtes à polir sans graisse animale et des sprays nettoyants végétaux. Sa société sœur TechnoFormage SA, fondée en 2005, réalise des plateaux thermoformés puis injectés, lavables et résistants, pour conditionner les pièces terminées, en autofinançant ses moules. Le trio est complété par Polirapid Swiss SA, fabricant de brosses techniques fondé en 1947 et sauvé de la faillite par TechnoFinish, offrant aux marques un guichet unique pour le polissage et le conditionnement.",
       "quote": "",
-      "themes": ["horlogerie", "industrie"],
+      "themes": [
+        "horlogerie",
+        "industrie"
+      ],
       "region": "Bienne",
       "language": "fr",
       "people": [],
-      "companies": ["technofinish", "technoformage", "polirapid-swiss"]
+      "companies": [
+        "technofinish",
+        "technoformage",
+        "polirapid-swiss"
+      ]
     },
     {
       "slug": "horlogerie-2019-abarthel",
@@ -294,11 +472,21 @@
       "pdfPages": [],
       "summary": "Fondée en 2006 à Marin-Epagnier (commune de La Tène), Abarthel Sàrl s’est fait connaître par ses masses oscillantes haut de gamme, obtenues surtout par étampage, avant d’élargir sa production aux cadrans, appliques et pièces de mouvement livrés entièrement terminés. Après le rachat d’un atelier d’émaillage, l’entreprise propose désormais des cadrans en émail grand feu, technique délicate où l’émailleur superpose des couches d’oxydes et passe la pièce plusieurs fois au four vers 800 °C. Son directeur et fondateur Alexandre Barthel affirme que la société a développé des couleurs propres et qu’elle est la seule à émailler sur une base en acier, ce qui évite le contre-émaillage. L’équipe de neuf personnes assure assemblage, satinage, polissage et anglage, et s’appuie sur un réseau de partenaires pour l’usinage ou les traitements de surface.",
       "quote": "Nous sommes les seuls à appliquer de l’émail sur une base métallique acier.",
-      "themes": ["horlogerie", "industrie"],
+      "themes": [
+        "horlogerie",
+        "industrie"
+      ],
       "region": "Marin-Epagnier",
       "language": "fr",
-      "people": [{ "name": "Alexandre Barthel", "role": "Directeur et fondateur" }],
-      "companies": ["abarthel"]
+      "people": [
+        {
+          "name": "Alexandre Barthel",
+          "role": "Directeur et fondateur"
+        }
+      ],
+      "companies": [
+        "abarthel"
+      ]
     },
     {
       "slug": "horlogerie-2019-interview-andre-frei-fils",
@@ -309,15 +497,29 @@
       "pdfPages": [],
       "summary": "Installée à Court, l’entreprise familiale André Frei & Fils SA compte une quinzaine de personnes mais propose un catalogue de près de 8’000 produits destinés au décolletage. Son directeur Christian Frei explique qu’elle fabrique surtout des pinces de ravitaillement et pièces d’usure pour tous types de décolleteuses, anciennes ou neuves, à cames ou à commande numérique. Depuis 1996, un département d’outils de mesure exploite les marques rachetées Tavannes et Sabi. Fondée en 1956 par son père, la société a accueilli en 2018 la troisième génération avec Caroline et Nicolas Frei. Ses atouts : une qualité constante qui lui a permis de traverser les crises et un stock très important rendant l’assortiment presque immédiatement disponible. Un tiers de la production est exporté vers une trentaine de pays, et l’entreprise collabore avec des écoles d’ingénieurs pour rester à la pointe.",
       "quote": "Nous avons toujours misé sur la qualité. C’est d’ailleurs ce qui nous a permis de traverser les crises.",
-      "themes": ["industrie", "horlogerie"],
+      "themes": [
+        "industrie",
+        "horlogerie"
+      ],
       "region": "Court",
       "language": "fr",
       "people": [
-        { "name": "Christian Frei", "role": "Directeur" },
-        { "name": "Caroline Frei", "role": "Troisième génération" },
-        { "name": "Nicolas Frei", "role": "Troisième génération" }
+        {
+          "name": "Christian Frei",
+          "role": "Directeur"
+        },
+        {
+          "name": "Caroline Frei",
+          "role": "Troisième génération"
+        },
+        {
+          "name": "Nicolas Frei",
+          "role": "Troisième génération"
+        }
       ],
-      "companies": ["andre-frei-fils"]
+      "companies": [
+        "andre-frei-fils"
+      ]
     },
     {
       "slug": "horlogerie-2019-adtime",
@@ -328,11 +530,21 @@
       "pdfPages": [],
       "summary": "À Courrendlin, AdTime SA conçoit des machines spéciales qui percent, taraudent, polissent, usinent ou décorent automatiquement des pièces d’horlogerie, avec une à 24 opérations selon les modèles. Fondée il y a une dizaine d’années par Pierre-Alain Membrez, l’entreprise travaille exclusivement pour l’horlogerie, qui cherche à automatiser de nombreuses opérations. Une dizaine d’ingénieurs, dessinateurs et techniciens assurent le développement mécanique et logiciel, tandis que la fabrication des composants est sous-traitée dans la région jurassienne ; seuls le montage final et la mise en service se font sur place. Une demi-douzaine de modèles standard, construits autour d’une table tournante, peuvent être entièrement personnalisés, souvent sous contrat d’exclusivité. Le plus grand, le centre de transfert A24, offre 24 positions et peut intégrer chargement, nettoyage et déchargement pour une production automatisée.",
       "quote": "On propose vraiment de la machine à la carte en s’adaptant aux exigences les plus folles.",
-      "themes": ["industrie", "horlogerie"],
+      "themes": [
+        "industrie",
+        "horlogerie"
+      ],
       "region": "Courrendlin",
       "language": "fr",
-      "people": [{ "name": "Pierre-Alain Membrez", "role": "Directeur et fondateur" }],
-      "companies": ["adtime"]
+      "people": [
+        {
+          "name": "Pierre-Alain Membrez",
+          "role": "Directeur et fondateur"
+        }
+      ],
+      "companies": [
+        "adtime"
+      ]
     },
     {
       "slug": "horlogerie-2019-claude-piguet",
@@ -343,14 +555,25 @@
       "pdfPages": [],
       "summary": "Petite entreprise familiale de Grandson, Claude Piguet SA a développé un savoir-faire très pointu dans le polyuréthane et se dit la seule à proposer ce matériau dans toutes les duretés. Elle produit sa propre matière à partir de composés chimiques, puis la coule, la cuit, la moule et l’usine. L’horlogerie lui commande des mors d’étaux ou de tours qui ménagent les surfaces délicates, des outils de polissage pour formes complexes et des éléments d’étanchéité pour certaines boîtes. L’essentiel de la production va toutefois à l’industrie des machines, à l’emballage, au convoyage, aux remontées mécaniques, imprimeries ou ascenseurs, partout où il faut réduire bruit et usure. Fondée en 1964, reprise en 1990 par Maurice Maire, elle est dirigée par ses fils Claude et Stéphane, emploie une dizaine de personnes et s’est dotée d’un département d’usinage métal.",
       "quote": "Partout où il y a du mouvement et où il faut réduire le bruit et l’usure.",
-      "themes": ["industrie", "horlogerie"],
+      "themes": [
+        "industrie",
+        "horlogerie"
+      ],
       "region": "Grandson",
       "language": "fr",
       "people": [
-        { "name": "Claude Maire", "role": "Directeur administratif" },
-        { "name": "Stéphane Maire", "role": "Directeur technique" }
+        {
+          "name": "Claude Maire",
+          "role": "Directeur administratif"
+        },
+        {
+          "name": "Stéphane Maire",
+          "role": "Directeur technique"
+        }
       ],
-      "companies": ["claude-piguet"]
+      "companies": [
+        "claude-piguet"
+      ]
     },
     {
       "slug": "horlogerie-2019-codere",
@@ -361,11 +584,16 @@
       "pdfPages": [],
       "summary": "Créée en 1989 à Alle, en Ajoie, la société Codere construit des fours industriels pour le traitement thermique sous atmosphère et sous vide poussé. Elle réalise un chiffre d’affaires annuel de 12 millions de francs, dont 85 % à l’exportation, et occupe une place remarquable dans l’aéronautique et le spatial. Ses produits sont conçus par une équipe d’ingénieurs et de techniciens forte de plus de trente ans d’expérience, assemblés dans un bâtiment adapté et mis au point par des métallurgistes avec le client avant l’expédition. Pour l’horlogerie, Codere propose une gamme de fours spécifiques, notamment pour le recuit des métaux précieux et la trempe des aciers inoxydables ou au carbone. Son service après-vente assure aussi l’amélioration des machines et la remise aux normes d’équipements existants.",
       "quote": "",
-      "themes": ["industrie", "horlogerie"],
+      "themes": [
+        "industrie",
+        "horlogerie"
+      ],
       "region": "Alle",
       "language": "fr",
       "people": [],
-      "companies": ["codere"]
+      "companies": [
+        "codere"
+      ]
     },
     {
       "slug": "horlogerie-2019-concepto-watch-factory",
@@ -376,11 +604,21 @@
       "pdfPages": [],
       "summary": "Manufacture indépendante de mouvements en mains familiales, Concepto Watch Factory à La Chaux-de-Fonds prévoit en 2019 d’ajouter 1’500 m² à ses 4’200 m² existants. Son fondateur Valérien Jaquet veut y intégrer de nouveaux métiers, émail, peinture miniature, gravage, sertissage, et produire ses propres boîtes, cadrans et aiguilles afin de livrer à terme des têtes de montres complètes. Très verticalisée, l’entreprise réalise toutes les étapes, de la conception à la décoration en passant par le spiral, et propose une bibliothèque de calibres adaptables : chronographes, squelettes, répétitions minutes à carillon, tourbillons à deux ou trois axes. Elle en livre 600 à 700 par an, surtout à de grandes marques. Né en 2006 d’un bureau technique de quatre personnes, le groupe emploie 110 personnes représentant une soixantaine de métiers, répartis dans cinq sociétés.",
       "quote": "Nous pouvons faire de la grande série, mais notre cœur de métier reste les spécialités du haut de gamme.",
-      "themes": ["horlogerie", "industrie"],
+      "themes": [
+        "horlogerie",
+        "industrie"
+      ],
       "region": "La Chaux-de-Fonds",
       "language": "fr",
-      "people": [{ "name": "Valérien Jaquet", "role": "Fondateur et directeur" }],
-      "companies": ["concepto-watch-factory"]
+      "people": [
+        {
+          "name": "Valérien Jaquet",
+          "role": "Fondateur et directeur"
+        }
+      ],
+      "companies": [
+        "concepto-watch-factory"
+      ]
     },
     {
       "slug": "horlogerie-2019-cyberis",
@@ -391,11 +629,21 @@
       "pdfPages": [],
       "summary": "Spécialiste du décolletage de précision à Bassecourt, Cyberis SA produit des vis, axes, tubes et goupilles de zéro à douze millimètres pour l’habillage et le mouvement horloger. Son directeur Christian Zanetta mise sur la réactivité : toute demande est traitée en 48 heures, la production livrée en quatre à huit semaines et les prototypes en deux à quatre semaines. Pour lui, la qualité est devenue un standard et la différence se joue sur la fiabilité des processus, la flexibilité et le service. L’entreprise se veut co-traitante plutôt que sous-traitante, en conseillant ses clients. Elle a ajouté le polissage et le microbillage, dispose d’une soixantaine de décolleteuses CNC et de 35 collaborateurs. Certifiée RJC COP et CoC pour la traçabilité de l’or et ISO 9001:2015, elle envisage de s’ouvrir au médical et à l’électronique.",
       "quote": "Nous essayons de nous profiler comme co-traitants plutôt que comme sous-traitants.",
-      "themes": ["industrie", "horlogerie"],
+      "themes": [
+        "industrie",
+        "horlogerie"
+      ],
       "region": "Bassecourt",
       "language": "fr",
-      "people": [{ "name": "Christian Zanetta", "role": "Directeur" }],
-      "companies": ["cyberis"]
+      "people": [
+        {
+          "name": "Christian Zanetta",
+          "role": "Directeur"
+        }
+      ],
+      "companies": [
+        "cyberis"
+      ]
     },
     {
       "slug": "horlogerie-2019-pibor-iso",
@@ -406,14 +654,25 @@
       "pdfPages": [],
       "summary": "Fondée en 1952 à Boécourt par Pierre Bourquard, l’entreprise familiale Pibor Iso SA, aujourd’hui à Glovelier, s’est fait un nom avec les couronnes et poussoirs. Codirigée par ses petits-fils Cédric et Jérôme Bourquard, elle a beaucoup investi pour se diversifier vers toutes sortes de pièces d’habillage compliquées : cornes, brancards, attaches de bracelets. Grâce à une quarantaine de métiers internes, elle livre des pièces entièrement terminées, de l’usinage au montage final. Ses locaux de Glovelier ont été profondément transformés pour accueillir de nouvelles machines. L’entreprise emploie 135 personnes et revendique un rôle social pour la région, avec la volonté de maintenir durablement ces emplois dans le canton. Elle travaille pour l’horlogerie suisse de tous segments et est certifiée ISO 9001, RJC-COP et RJC-CoC.",
       "quote": "En gros, notre spécialité, c’est la pièce complexe et complète !",
-      "themes": ["horlogerie", "industrie"],
+      "themes": [
+        "horlogerie",
+        "industrie"
+      ],
       "region": "Glovelier",
       "language": "fr",
       "people": [
-        { "name": "Cédric Bourquard", "role": "Codirecteur" },
-        { "name": "Jérôme Bourquard", "role": "Codirecteur" }
+        {
+          "name": "Cédric Bourquard",
+          "role": "Codirecteur"
+        },
+        {
+          "name": "Jérôme Bourquard",
+          "role": "Codirecteur"
+        }
       ],
-      "companies": ["pibor-iso"]
+      "companies": [
+        "pibor-iso"
+      ]
     },
     {
       "slug": "horlogerie-2019-decotech",
@@ -424,11 +683,21 @@
       "pdfPages": [],
       "summary": "Fondée en 2004 par Patrick Baumgartner, Décotech SA à La Chaux-de-Fonds maîtrise l’ensemble du processus de décoration des mouvements horlogers. Après avoir investi dans la technologie laser en 2017 et disposant d’une galvanoplastie intégrée, l’entreprise peut gérer toutes les étapes et offrir un interlocuteur unique à ses clients. Ses collaborateurs, formés à l’interne, réalisent perlage, Côtes de Genève, diamantage, gravage, sablage, anglage et créent régulièrement de nouveaux motifs ou couleurs, à la main ou sur machine. Comptant parmi les leaders de la décoration de mouvements dans l’Arc jurassien, la société doit désormais agrandir ses locaux et entend continuer à investir dans les technologies de pointe pour répondre de manière proactive aux attentes des marques.",
       "quote": "Nous menons les projets de décoration de A à Z.",
-      "themes": ["horlogerie", "industrie"],
+      "themes": [
+        "horlogerie",
+        "industrie"
+      ],
       "region": "La Chaux-de-Fonds",
       "language": "fr",
-      "people": [{ "name": "Patrick Baumgartner", "role": "Fondateur et directeur général" }],
-      "companies": ["decotech"]
+      "people": [
+        {
+          "name": "Patrick Baumgartner",
+          "role": "Fondateur et directeur général"
+        }
+      ],
+      "companies": [
+        "decotech"
+      ]
     },
     {
       "slug": "horlogerie-2019-interview-erma-boecourt",
@@ -439,11 +708,22 @@
       "pdfPages": [],
       "summary": "Entreprise familiale fondée en 1962 à Boécourt, Erma Boécourt SA façonne des verres de montres en saphir haut de gamme et travaille aussi la céramique et les métaux durs pour le médical et l’optique. Septante collaborateurs y travaillent et la troisième génération Vernier vient d’arriver. La société détient une participation dans Econorm Gams, qui réalise ses traitements antireflets et de métallisation. Son CEO Patrick Vernier met en avant une qualité 100 % suisse face à la concurrence chinoise, avec un saphir issu des procédés Verneuil et Kyropoulos. La fabrication d’un verre compte douze étapes exigeant des meules diamantées et des machines toujours plus modernes, dans lesquelles l’entreprise n’a jamais cessé d’investir. Le personnel est formé sur place, un bureau de R&D développe les processus et chaque verre est contrôlé, qu’il soit plat, bombé ou cylindrique.",
       "quote": "La création d’un verre passe par douze étapes demandant des compétences pointues.",
-      "themes": ["horlogerie", "industrie"],
+      "themes": [
+        "horlogerie",
+        "industrie"
+      ],
       "region": "Boécourt",
       "language": "fr",
-      "people": [{ "name": "Patrick Vernier", "role": "CEO et directeur technique" }],
-      "companies": ["erma-boecourt", "econorm-gams"]
+      "people": [
+        {
+          "name": "Patrick Vernier",
+          "role": "CEO et directeur technique"
+        }
+      ],
+      "companies": [
+        "erma-boecourt",
+        "econorm-gams"
+      ]
     },
     {
       "slug": "horlogerie-2019-horlyne",
@@ -454,11 +734,21 @@
       "pdfPages": [],
       "summary": "Depuis quarante ans, l’entreprise familiale chaux-de-fonnière Horlyne SA est l’un des leaders de la fabrication de masses oscillantes haut de gamme pour l’horlogerie et la joaillerie horlogère. Pièce technique indispensable au mouvement automatique, la masse offre aussi une large surface propice à la créativité. Au fil des demandes de ses clients, Horlyne a développé une expertise en guillochage, sertissage et gravure, qu’elle applique également aux boîtes, mouvements et cadrans, ainsi qu’en microgravure CNC ou laser. Ses ateliers abritent aussi bien des lasers femtosecondes récents que des machines à guillocher centenaires. Pour son directeur général Raymond Leitenberg, la compétitivité passe par l’investissement continu dans les nouvelles technologies, tout en préservant le savoir-faire traditionnel.",
       "quote": "",
-      "themes": ["horlogerie", "industrie"],
+      "themes": [
+        "horlogerie",
+        "industrie"
+      ],
       "region": "La Chaux-de-Fonds",
       "language": "fr",
-      "people": [{ "name": "Raymond Leitenberg", "role": "Directeur général" }],
-      "companies": ["horlyne"]
+      "people": [
+        {
+          "name": "Raymond Leitenberg",
+          "role": "Directeur général"
+        }
+      ],
+      "companies": [
+        "horlyne"
+      ]
     },
     {
       "slug": "horlogerie-2019-greub-machines",
@@ -469,11 +759,21 @@
       "pdfPages": [],
       "summary": "Fondée il y a un peu plus de soixante ans par le grand-père de l’actuel CEO François-Maxime Greub, Greub Machines SA à La Chaux-de-Fonds vend des machines-outils neuves et d’occasion travaillant par enlèvement de copeaux : fraiseuses, rectifieuses, tours, centres d’usinage CNC. Elle représente plusieurs marques suisses et étrangères, mais réalise l’essentiel de son volume sur le marché de l’occasion, avec un stock de plus de 1’000 machines et de nombreux accessoires, achetés et vendus dans toute l’Europe, en Asie et en Inde. Son atelier interne effectue révisions complètes, reconstructions, retrofits et mises en conformité, y compris sur les machines des clients. La dizaine d’employés travaille dans un siège doté d’une vaste exposition et d’un petit musée de machines horlogères anciennes. L’entreprise veut rester petite pour garder un contact direct avec une clientèle demandeuse de conseils.",
       "quote": "Nous voulons rester petits et pouvoir ainsi garder un contact le plus direct possible avec les clients.",
-      "themes": ["industrie", "horlogerie"],
+      "themes": [
+        "industrie",
+        "horlogerie"
+      ],
       "region": "La Chaux-de-Fonds",
       "language": "fr",
-      "people": [{ "name": "François-Maxime Greub", "role": "CEO" }],
-      "companies": ["greub-machines"]
+      "people": [
+        {
+          "name": "François-Maxime Greub",
+          "role": "CEO"
+        }
+      ],
+      "companies": [
+        "greub-machines"
+      ]
     },
     {
       "slug": "horlogerie-2019-inhotec",
@@ -484,11 +784,21 @@
       "pdfPages": [],
       "summary": "Créée début 2011 par Alexandre Eme, Inhotec SA, au Locle, est spécialisée dans l’usinage de précision pour de grandes marques horlogères. Huit ans plus tard, elle emploie une cinquantaine de collaborateurs répartis dans plus de dix départements. Elle dispose de plus de vingt centres d’usinage 3 et 5 axes, dont quatre machines 5 axes de dernière génération, d’un département d’électroérosion à fil, d’un atelier mécanique, de décoration manuelle et machine (anglage, perlage, Côtes de Genève) et d’un contrôle équipé d’une machine tridimensionnelle. Un stock important de matières (laiton, maillechort, acier, titane) garantit sa réactivité. Elle propose aussi trempe, tribofinition, polissage, gravage laser ou garnissage. En 2019, l’entreprise prévoit l’acquisition d’un laser femtoseconde et l’emménagement dans ses locaux agrandis.",
       "quote": "",
-      "themes": ["horlogerie", "industrie"],
+      "themes": [
+        "horlogerie",
+        "industrie"
+      ],
       "region": "Le Locle",
       "language": "fr",
-      "people": [{ "name": "Alexandre Eme", "role": "Fondateur" }],
-      "companies": ["inhotec"]
+      "people": [
+        {
+          "name": "Alexandre Eme",
+          "role": "Fondateur"
+        }
+      ],
+      "companies": [
+        "inhotec"
+      ]
     },
     {
       "slug": "horlogerie-2019-meylan-freres",
@@ -499,11 +809,21 @@
       "pdfPages": [],
       "summary": "Au Brassus, à la Vallée de Joux, l’entreprise familiale Meylan Frères SA vient d’agrandir ses ateliers d’environ un tiers pour améliorer ses flux de production. Experte en étampage progressif, elle réalise dans un ruban métallique non seulement le découpage en série mais aussi pliage, emboutissage, roulage ou matriçage, sur des pièces très petites et complexes, de quelques milliers à plusieurs millions d’exemplaires. Elle fabrique ses propres étampes et maîtrise l’électroérosion de forme et à fil pour les petites et moyennes séries. La moitié de sa production est destinée aux manufactures horlogères suisses (ancres, roues d’ancres, tirettes), le reste à l’automobile, l’appareillage, la connectique, l’électronique et le médical. Fondée par Pierre et Achille Meylan, la société emploie une quarantaine de personnes et est dirigée par Christian Meylan.",
       "quote": "Nous sommes vraiment spécialisés dans les pièces petites et complexes.",
-      "themes": ["industrie", "horlogerie"],
+      "themes": [
+        "industrie",
+        "horlogerie"
+      ],
       "region": "Le Brassus",
       "language": "fr",
-      "people": [{ "name": "Christian Meylan", "role": "Patron de l’entreprise" }],
-      "companies": ["meylan-freres"]
+      "people": [
+        {
+          "name": "Christian Meylan",
+          "role": "Patron de l’entreprise"
+        }
+      ],
+      "companies": [
+        "meylan-freres"
+      ]
     },
     {
       "slug": "horlogerie-2019-monnier-procolor",
@@ -514,14 +834,26 @@
       "pdfPages": [],
       "summary": "Fondée en 1912 à La Chaux-de-Fonds, Monnier SA est réputée pour la décoration de mouvements : satinage, colimaçonnage, Côtes de Genève, perlage, sablage, guillochage, biseau ou rabotage diamant et polissage d’angles. Elle a mis au point des opérations inédites comme le gravage bas-relief, travaille au laser et réalise ses posages à l’interne, selon son directeur Sébastien Schmid. En 2018, elle a racheté Procolor, spécialiste de la tampographie établi à Renan depuis plus de trente ans, qui imprime décalques et marquages de une à cinq couleurs sur masses, boîtes, cadrans ou verres. Procolor a aussi lancé en 2016 Cryptime®, une encre codée anti-contrefaçon propre à chaque client. Son ancien propriétaire Gilles Froidevaux accompagne la fusion, qui permettra de traiter une masse oscillante de A à Z ; les deux sociétés doivent être réunies sous un même toit.",
       "quote": "Nous nous complétons et pouvons proposer ainsi des compétences plus vastes sous une seule entité.",
-      "themes": ["horlogerie", "industrie"],
+      "themes": [
+        "horlogerie",
+        "industrie"
+      ],
       "region": "La Chaux-de-Fonds / Renan",
       "language": "fr",
       "people": [
-        { "name": "Sébastien Schmid", "role": "Directeur de Monnier SA" },
-        { "name": "Gilles Froidevaux", "role": "Ancien propriétaire de Procolor" }
+        {
+          "name": "Sébastien Schmid",
+          "role": "Directeur de Monnier SA"
+        },
+        {
+          "name": "Gilles Froidevaux",
+          "role": "Ancien propriétaire de Procolor"
+        }
       ],
-      "companies": ["monnier", "procolor"]
+      "companies": [
+        "monnier",
+        "procolor"
+      ]
     },
     {
       "slug": "horlogerie-2019-cronal",
@@ -532,11 +864,21 @@
       "pdfPages": [],
       "summary": "Spécialiste de la gravure de haute précision, Cronal SA célèbre ses trente ans. Fondée en 1989 aux Hauts-Geneveys, elle s’est installée à La Chaux-de-Fonds et a quitté l’an dernier ses ateliers artisanaux de la rue des Tilleuls pour une usine moderne qui augmente ses capacités et ouvre la voie à une diversification. Son directeur et fondateur Charles-André Mosset souligne la nécessité d’être réactif et d’investir sans crainte. L’entreprise grave toutes les matières, composite, émail, céramique ou saphir, et se présente comme la seule à maîtriser les trois techniques de gravure : laser, chimique et mécanique. Elle réalise formes spéciales, gravures profondes, 3D et structurations de surface sur toutes les pièces d’habillage et de mouvement, de la pièce unique aux grandes séries, avec 45 collaborateurs.",
       "quote": "Nous n’avons jamais eu peur d’investir de manière conséquente car nous savons que nos clients attendent beaucoup de nous.",
-      "themes": ["horlogerie", "industrie"],
+      "themes": [
+        "horlogerie",
+        "industrie"
+      ],
       "region": "La Chaux-de-Fonds",
       "language": "fr",
-      "people": [{ "name": "Charles-André Mosset", "role": "Directeur et fondateur" }],
-      "companies": ["cronal"]
+      "people": [
+        {
+          "name": "Charles-André Mosset",
+          "role": "Directeur et fondateur"
+        }
+      ],
+      "companies": [
+        "cronal"
+      ]
     },
     {
       "slug": "horlogerie-2019-oesch",
@@ -547,11 +889,21 @@
       "pdfPages": [],
       "summary": "Établie à Magden, près de Bâle, depuis 1985, Oesch GmbH se présente comme la référence suisse des boucles, fermoirs, barrettes standard et barrettes à ergot pour les fabricants de montres, de bracelets en cuir, de bijouterie et d’emballages de luxe. Dirigée par Michel Oesch, deuxième génération, l’entreprise accompagne personnellement ses clients tout au long du processus et offre une grande flexibilité en matière de personnalisation, de finitions, de délais et de qualité. Elle constate un fort intérêt pour les produits conçus selon les idées du client. Sa nouveauté combine boucle ardillon et boucle déployante : le bracelet reste ajustable et la montre demeure au poignet si le fermoir s’ouvre par inadvertance ; elle sera lancée en 2019 en largeurs de 18 et 20 millimètres. Un nouveau catalogue est consultable en ligne.",
       "quote": "Non seulement la tendance à la personnalisation s’est renforcée, mais la réalisation du produit selon les idées du client est très en vogue.",
-      "themes": ["horlogerie", "industrie"],
+      "themes": [
+        "horlogerie",
+        "industrie"
+      ],
       "region": "Magden",
       "language": "fr",
-      "people": [{ "name": "Michel Oesch", "role": "Directeur" }],
-      "companies": ["oesch"]
+      "people": [
+        {
+          "name": "Michel Oesch",
+          "role": "Directeur"
+        }
+      ],
+      "companies": [
+        "oesch"
+      ]
     },
     {
       "slug": "horlogerie-2019-kohler-electroplastie",
@@ -562,15 +914,29 @@
       "pdfPages": [],
       "summary": "Présente à Genève depuis plus de vingt ans, l’entreprise familiale Kohler Electroplastie a été fondée par l’électroplaste Michel Kohler et est aujourd’hui dirigée par la deuxième génération, Florian Kohler, électroplaste diplômé, et Nathalie Palfi. Avec une dizaine de collaborateurs, elle se spécialise dans les dépôts de métaux précieux comme le dorage ou le rhodiage sur des pièces d’horlogerie et de joaillerie haut de gamme, ainsi que dans les domaines médical et technique. Les traitements électrolytiques apportent rendu esthétique, protection contre la corrosion, réduction des frottements ou conductivité. Chaque pièce est contrôlée à l’arrivée et au départ, notamment grâce à un appareil à rayons X qui mesure les épaisseurs déposées. Membre du RJC depuis 2018, la société propose aussi dérhodiage, polissage, décoration et pose d’épargne.",
       "quote": "",
-      "themes": ["horlogerie", "industrie"],
+      "themes": [
+        "horlogerie",
+        "industrie"
+      ],
       "region": "Genève",
       "language": "fr",
       "people": [
-        { "name": "Florian Kohler", "role": "Codirecteur, électroplaste diplômé" },
-        { "name": "Nathalie Palfi", "role": "Codirectrice" },
-        { "name": "Michel Kohler", "role": "Fondateur" }
+        {
+          "name": "Florian Kohler",
+          "role": "Codirecteur, électroplaste diplômé"
+        },
+        {
+          "name": "Nathalie Palfi",
+          "role": "Codirectrice"
+        },
+        {
+          "name": "Michel Kohler",
+          "role": "Fondateur"
+        }
       ],
-      "companies": ["kohler-electroplastie"]
+      "companies": [
+        "kohler-electroplastie"
+      ]
     },
     {
       "slug": "horlogerie-2019-stl-swiss",
@@ -581,11 +947,16 @@
       "pdfPages": [],
       "summary": "La société biennoise STL Swiss SA fabrique des bracelets de montres métalliques haut de gamme pour la haute horlogerie suisse. Créée en 2015 par les membres de la direction de Winox SA, héritière d’une histoire familiale horlogère de trois générations, elle compte une quarantaine d’employés et répond aux nouvelles exigences de la législation Swissness. L’entreprise a investi dans les dernières technologies, soudage laser, meulage automatisé et transfert horizontal, dans des ateliers de plus de 1’200 m². Grâce à une production entièrement interne et à un bureau d’études intégré, elle prend en charge tout le développement, de la conception à la livraison, en passant par le contrôle qualité final, la gestion des stocks et le conditionnement. Le client et ses demandes sont placés au centre de sa démarche.",
       "quote": "",
-      "themes": ["horlogerie", "industrie"],
+      "themes": [
+        "horlogerie",
+        "industrie"
+      ],
       "region": "Bienne",
       "language": "fr",
       "people": [],
-      "companies": ["stl-swiss"]
+      "companies": [
+        "stl-swiss"
+      ]
     },
     {
       "slug": "horlogerie-2019-waeber-hms",
@@ -596,15 +967,29 @@
       "pdfPages": [],
       "summary": "Fondée en 2001 à Fleurier par Roger Waeber et ses enfants, l’entreprise familiale et indépendante Waeber HMS fabrique des aiguilles de montres pour les marques les plus prestigieuses. Depuis 2015, la présidence est assurée par la deuxième génération, Laurent et Natacha Waeber. Une centaine de collaborateurs, formés à l’interne, maîtrisent toutes les opérations quel que soit le type d’aiguille ou de matériau, un travail exigeant dextérité et acuité visuelle. La production entièrement internalisée, de l’analyse de faisabilité au produit fini, garantit réactivité et polyvalence. L’entreprise travaille depuis 2009 dans une usine aux normes Minergie, investit dans les nouvelles technologies et l’organisation tout en préservant son savoir-faire manuel, et répond aux exigences sociales, environnementales et éthiques croissantes de ses clients.",
       "quote": "Nous avons le sens du détail, élément indispensable pour atteindre la perfection lors de la fabrication d’une aiguille.",
-      "themes": ["horlogerie", "industrie"],
+      "themes": [
+        "horlogerie",
+        "industrie"
+      ],
       "region": "Fleurier",
       "language": "fr",
       "people": [
-        { "name": "Laurent Waeber", "role": "Président" },
-        { "name": "Natacha Waeber", "role": "Vice-présidente" },
-        { "name": "Roger Waeber", "role": "Fondateur" }
+        {
+          "name": "Laurent Waeber",
+          "role": "Président"
+        },
+        {
+          "name": "Natacha Waeber",
+          "role": "Vice-présidente"
+        },
+        {
+          "name": "Roger Waeber",
+          "role": "Fondateur"
+        }
       ],
-      "companies": ["waeber-hms"]
+      "companies": [
+        "waeber-hms"
+      ]
     },
     {
       "slug": "horlogerie-2019-witech",
@@ -615,11 +1000,16 @@
       "pdfPages": [],
       "summary": "Établie à Bassecourt depuis bientôt 25 ans, Witech SA est une petite entreprise de construction de machines-outils dont les centres d’usinage sont réputés dans le monde horloger pour leur stabilité et leur haute précision. Elle maîtrise toute la chaîne, du développement au produit fini, en s’appuyant sur des fournisseurs et prestataires de qualité, ce qui lui permet de rester à la pointe et réactive. L’industrie 4.0 est au cœur de ses développements, avec des fonctions informant l’opérateur de l’état de la machine en production comme en maintenance. La robotisation est devenue courante sur ses centres, du simple automate permettant de travailler une nuit au robot poly-articulé couplé à un palettiseur offrant plusieurs jours d’autonomie, à l’image de la cellule Robot PAL 100 alimentant deux centres de type 604.",
       "quote": "Cette collaboration étroite avec nos partenaires nous permet de rester toujours à la pointe de la technologie et d’être très réactifs.",
-      "themes": ["industrie", "horlogerie"],
+      "themes": [
+        "industrie",
+        "horlogerie"
+      ],
       "region": "Bassecourt",
       "language": "fr",
       "people": [],
-      "companies": ["witech"]
+      "companies": [
+        "witech"
+      ]
     },
     {
       "slug": "horlogerie-2019-wostep",
@@ -630,15 +1020,29 @@
       "pdfPages": [],
       "summary": "Fondé en 1966 pour former des horlogers nord-américains au service après-vente de l’industrie suisse, le Wostep, à Neuchâtel, est devenu une école internationale et une fondation depuis 2006, dont le conseil réunit la plupart des grandes marques. Il propose un cours unique destiné aux formateurs horlogers, piloté par Andrea Accolla, qui aborde pédagogie, communication et prise de parole avec la coach Sandra Amodio. L’instructeur José Berenguer a formé plus de 170 personnes au polissage en sept ans, de l’initiation de trois jours au perfectionnement de trois semaines et à une certification d’opérateur en polissage SAV en quatre mois. L’école offre aussi des cours de réglage et de chronographe. Ses formations de 1’800 et 3’000 heures, dispensées via un partenariat mondial d’écoles, sont reconnues comme équivalentes aux CFC de trois et quatre ans.",
       "quote": "Ce sont des métiers peu considérés, qui ont pourtant une grande importance en horlogerie.",
-      "themes": ["formation", "horlogerie"],
+      "themes": [
+        "formation",
+        "horlogerie"
+      ],
       "region": "Neuchâtel",
       "language": "fr",
       "people": [
-        { "name": "Andrea Accolla", "role": "Responsable du cours pour formateurs" },
-        { "name": "José Berenguer", "role": "Instructeur polissage" },
-        { "name": "Sandra Amodio", "role": "Metteuse en scène et coach en prise de parole" }
+        {
+          "name": "Andrea Accolla",
+          "role": "Responsable du cours pour formateurs"
+        },
+        {
+          "name": "José Berenguer",
+          "role": "Instructeur polissage"
+        },
+        {
+          "name": "Sandra Amodio",
+          "role": "Metteuse en scène et coach en prise de parole"
+        }
       ],
-      "companies": ["wostep"]
+      "companies": [
+        "wostep"
+      ]
     },
     {
       "slug": "horlogerie-2019-ynovatec",
@@ -649,11 +1053,21 @@
       "pdfPages": [],
       "summary": "Fondée en 2011 par Yves Calmonte à La Chaux-de-Fonds, Ynovatec SA distribue des équipements d’automation pneumatiques, hydrauliques et électriques. Elle est l’un des principaux distributeurs suisses de la marque japonaise SMC, avec un stock de près de 25’000 articles, le plus important de Suisse romande, et revend aussi les raccords ITV et les instruments de mesure TESA. Ses clients viennent de l’horlogerie, de la machine-outil, du médical, de la pharmacie et de l’alimentaire. Depuis peu, l’entreprise développe ses propres produits : les joints tournants Y-Turn, le microscope digital Y-Vision intégré aux machines-outils et, avec Horosys SA, le logiciel de la Smart Micro Factory, une micro-usine modulaire de table pour assemblages robotisés. Avec six employés et près de 400 clients, elle réalise aussi des projets complets d’automation et exploite un e-shop.",
       "quote": "Nos points forts sont la flexibilité et la rapidité.",
-      "themes": ["industrie", "horlogerie"],
+      "themes": [
+        "industrie",
+        "horlogerie"
+      ],
       "region": "La Chaux-de-Fonds",
       "language": "fr",
-      "people": [{ "name": "Yves Calmonte", "role": "Directeur et fondateur" }],
-      "companies": ["ynovatec"]
+      "people": [
+        {
+          "name": "Yves Calmonte",
+          "role": "Directeur et fondateur"
+        }
+      ],
+      "companies": [
+        "ynovatec"
+      ]
     },
     {
       "slug": "horlogerie-2019-auchlin",
@@ -664,11 +1078,21 @@
       "pdfPages": [],
       "summary": "Établie à La Neuveville, l’entreprise familiale Auchlin SA polit depuis plus de septante ans des milliers de pièces horlogères différentes, généralement très petites, sur lesquelles elle doit obtenir un aspect impeccable tout en respectant une précision au micron. Elle a archivé au fil des décennies une impressionnante collection de recettes de polissage et fabrique ses propres pâtes en fonction du résultat recherché. La société maîtrise le polissage par lot, le polissage mécano-chimique pour les pièces délicates ou de forme complexe, le polissage double face et le bleuissage, et développe avec ses clients des formules exclusives. Ses polisseurs, formés à l’interne, réalisent selon la directrice administrative Catherine Frioud Auchlin un travail qui relève de l’artisanat.",
       "quote": "Nos polisseurs réalisent un travail de très haute précision que l’on peut qualifier d’artisanat.",
-      "themes": ["horlogerie", "industrie"],
+      "themes": [
+        "horlogerie",
+        "industrie"
+      ],
       "region": "La Neuveville",
       "language": "fr",
-      "people": [{ "name": "Catherine Frioud Auchlin", "role": "Directrice administrative" }],
-      "companies": ["auchlin"]
+      "people": [
+        {
+          "name": "Catherine Frioud Auchlin",
+          "role": "Directrice administrative"
+        }
+      ],
+      "companies": [
+        "auchlin"
+      ]
     },
     {
       "slug": "horlogerie-2019-beco-precision-cebo-injections",
@@ -679,11 +1103,17 @@
       "pdfPages": [],
       "summary": "À Vallorbe, deux entreprises interdépendantes unissent leurs savoir-faire. Fondée en 1990, Beco Precision SA conçoit et fabrique, avec des fraiseuses 5 axes, des centres d’usinage et des machines d’érosion, des moules pour l’injection de thermoplastiques, thermodurcissables, céramiques ou métal. Créée par elle en 2003, Cebo Injections SA produit des pièces pour l’automobile, l’appareillage, l’électromécanique, le médical, la cosmétique et l’horlogerie, où elle réalise de petites pièces techniques très précises comme pignons, rotors, platines, ponts ou engrenages, mais aussi des boîtiers de présentation et des remontoirs. Cebo Injections a rejoint l’an dernier le groupe canadien NanoXplore. Les deux sociétés, qui comptent plus d’une cinquantaine d’employés, étudient ensemble les demandes et travaillent sur des composants en graphène.",
       "quote": "",
-      "themes": ["industrie", "horlogerie"],
+      "themes": [
+        "industrie",
+        "horlogerie"
+      ],
       "region": "Vallorbe",
       "language": "fr",
       "people": [],
-      "companies": ["beco-precision", "cebo-injections"]
+      "companies": [
+        "beco-precision",
+        "cebo-injections"
+      ]
     },
     {
       "slug": "horlogerie-2019-becs-cnj-duret",
@@ -694,11 +1124,17 @@
       "pdfPages": [],
       "summary": "Fort de treize ans d’expérience et de huit collaborateurs, le bureau d’études BECS Sàrl, à Satigny, réalise 75 % de son activité dans l’horlogerie. Il conçoit prototypes, petites séries, équipements et outillages de montage, de serrage et de contrôle de composants horlogers, ainsi que des habillages complets ou des machines automatiques. Le rachat en janvier 2016 de l’atelier de mécanique de précision CNJ Duret SA lui permet d’offrir un service clé en main, de l’étude à la livraison, avec un seul interlocuteur, des coûts et des délais optimisés. Active depuis plus de trente ans, CNJ Duret fabrique des pièces unitaires jusqu’à des séries de 50 pièces et le montage de systèmes mécaniques, en usinant aluminium, acier, laiton ou matières synthétiques par tournage, fraisage 3 et 5 axes, électroérosion et rectification ; elle a récemment acquis une nouvelle fraiseuse 5 axes.",
       "quote": "De beaux outillages pour de beaux produits horlogers : c’est la clé du succès !",
-      "themes": ["horlogerie", "industrie"],
+      "themes": [
+        "horlogerie",
+        "industrie"
+      ],
       "region": "Satigny",
       "language": "fr",
       "people": [],
-      "companies": ["becs", "cnj-duret"]
+      "companies": [
+        "becs",
+        "cnj-duret"
+      ]
     }
   ],
   "companies": [
@@ -706,7 +1142,11 @@
       "slug": "saphirwerk",
       "name": "Saphirwerk AG",
       "sector": "Usinage de matières dures (saphir, céramique, pierres)",
-      "themes": ["horlogerie", "industrie", "sante"],
+      "themes": [
+        "horlogerie",
+        "industrie",
+        "sante"
+      ],
       "description": "Entreprise centenaire fondée en 1917, spécialisée dans l’usinage du saphir, des céramiques et des pierres. Célèbre pour ses billes de précision utilisées en métrologie et dans les roulements, elle réalise aussi des composants complexes pour la haute horlogerie, jusqu’au boîtier saphir complet, ainsi que des pièces pour la pharmacie et l’orthopédie. Elle emploie 75 personnes et appartient à la holding familiale lucernoise AGZ.",
       "address": "Erlenstrasse 36",
       "postalCode": "2555",
@@ -716,7 +1156,12 @@
       "phone": "032 374 25 85",
       "email": "",
       "website": "www.saphirwerk.com",
-      "contacts": [{ "name": "Roman Gaemperle", "role": "Responsable secteur luxe et développement" }],
+      "contacts": [
+        {
+          "name": "Roman Gaemperle",
+          "role": "Responsable secteur luxe et développement"
+        }
+      ],
       "page": "02",
       "pdfPages": [],
       "advertiserOnly": false
@@ -725,7 +1170,10 @@
       "slug": "federation-de-l-industrie-horlogere-suisse-fh",
       "name": "Fédération de l’industrie horlogère suisse FH",
       "sector": "Association faîtière de l’industrie horlogère",
-      "themes": ["horlogerie", "economie"],
+      "themes": [
+        "horlogerie",
+        "economie"
+      ],
       "description": "Faîtière de l’industrie horlogère suisse basée à Bienne, présidée depuis 2002 par Jean-Daniel Pasche. Elle suit la conjoncture de la branche, défend le label Swiss Made, dont la règle des 60 % de valeur suisse entre pleinement en vigueur en 2019, et participe à la définition des normes horlogères.",
       "address": "Rue d’Argent 6",
       "postalCode": "2502",
@@ -735,7 +1183,12 @@
       "phone": "+41 (0)32 328 08 28",
       "email": "",
       "website": "www.fhs.swiss",
-      "contacts": [{ "name": "Jean-Daniel Pasche", "role": "Président" }],
+      "contacts": [
+        {
+          "name": "Jean-Daniel Pasche",
+          "role": "Président"
+        }
+      ],
       "page": "03",
       "pdfPages": [],
       "advertiserOnly": false
@@ -744,7 +1197,11 @@
       "slug": "salon-ephj-epmt-smt",
       "name": "Salon EPHJ-EPMT-SMT",
       "sector": "Salon professionnel de la haute précision",
-      "themes": ["horlogerie", "industrie", "sante"],
+      "themes": [
+        "horlogerie",
+        "industrie",
+        "sante"
+      ],
       "description": "Salon professionnel B to B organisé chaque année depuis 2002 à Palexpo Genève, réunissant les sous-traitants de l’horlogerie-joaillerie, des microtechniques et des medtech. L’édition du 18 au 21 juin 2019 attend plus de 800 exposants et 20’000 visiteurs professionnels, avec un village de start-up en croissance.",
       "address": "c/o Palexpo SA, CP 112",
       "postalCode": "1218",
@@ -754,7 +1211,12 @@
       "phone": "+41 (0)22 761 14 16",
       "email": "",
       "website": "www.ephj.ch",
-      "contacts": [{ "name": "Alexandre Catton", "role": "Directeur du Salon" }],
+      "contacts": [
+        {
+          "name": "Alexandre Catton",
+          "role": "Directeur du Salon"
+        }
+      ],
       "page": "04-05",
       "pdfPages": [],
       "advertiserOnly": false
@@ -763,7 +1225,10 @@
       "slug": "asrh",
       "name": "Association suisse pour la recherche horlogère (ASRH)",
       "sector": "Recherche horlogère collaborative",
-      "themes": ["horlogerie", "formation"],
+      "themes": [
+        "horlogerie",
+        "formation"
+      ],
       "description": "Association neuchâteloise fondée en 1985, qui pilote des projets de recherche d’intérêt commun pour quelque 150 membres (marques, manufactures, sous-traitants). Elle travaille sur les connaissances de base, la maîtrise des procédés, l’évolution normative et les solutions innovantes, en mandatant des laboratoires pour un à trois projets par an.",
       "address": "CP 54, Rue Jaquet-Droz 1",
       "postalCode": "2002",
@@ -773,7 +1238,12 @@
       "phone": "032 720 50 00",
       "email": "",
       "website": "www.asrh.ch",
-      "contacts": [{ "name": "Fabienne Marquis Weible", "role": "Directrice" }],
+      "contacts": [
+        {
+          "name": "Fabienne Marquis Weible",
+          "role": "Directrice"
+        }
+      ],
       "page": "06",
       "pdfPages": [],
       "advertiserOnly": false
@@ -782,7 +1252,10 @@
       "slug": "technical-watchmaker-show",
       "name": "Technical Watchmaker Show (TWS) – Event High Sàrl",
       "sector": "Salon de la sous-traitance horlogère",
-      "themes": ["horlogerie", "industrie"],
+      "themes": [
+        "horlogerie",
+        "industrie"
+      ],
       "description": "Salon organisé par des sous-traitants horlogers aux Vieux Abattoirs de La Chaux-de-Fonds, en parallèle de Baselworld. La deuxième édition s’est tenue du 19 au 23 mars 2019 avec des visites d’ateliers itinérantes, des conférences et des tables rondes ; l’entrée est gratuite sur inscription.",
       "address": "Av. Léopold-Robert 105b",
       "postalCode": "2301",
@@ -792,7 +1265,12 @@
       "phone": "+41 32 911 21 21",
       "email": "info@technicalwatchmakershow.com",
       "website": "www.tws-swiss.com",
-      "contacts": [{ "name": "Eric Zuccatti", "role": "Président du Technical Watchmaker Show" }],
+      "contacts": [
+        {
+          "name": "Eric Zuccatti",
+          "role": "Président du Technical Watchmaker Show"
+        }
+      ],
       "page": "07",
       "pdfPages": [],
       "advertiserOnly": false
@@ -801,7 +1279,11 @@
       "slug": "afdt",
       "name": "Association des fabricants de décolletages et de taillages (AFDT)",
       "sector": "Association professionnelle du décolletage",
-      "themes": ["industrie", "formation", "horlogerie"],
+      "themes": [
+        "industrie",
+        "formation",
+        "horlogerie"
+      ],
       "description": "Faîtière créée après la Seconde Guerre mondiale et regroupant plus de soixante entreprises du décolletage et du taillage. Elle promeut les métiers de la branche, soutient la formation des apprentis et propose avec le CIP de Tramelan et le CTDT des formations modulaires en cours d’emploi.",
       "address": "Case postale 63",
       "postalCode": "2013",
@@ -811,7 +1293,12 @@
       "phone": "",
       "email": "",
       "website": "www.afdt.ch",
-      "contacts": [{ "name": "Dominique Lauener", "role": "Président" }],
+      "contacts": [
+        {
+          "name": "Dominique Lauener",
+          "role": "Président"
+        }
+      ],
       "page": "08",
       "pdfPages": [],
       "advertiserOnly": false
@@ -820,7 +1307,10 @@
       "slug": "concepto-watch-factory",
       "name": "Concepto Watch Factory SA",
       "sector": "Manufacture de mouvements horlogers compliqués",
-      "themes": ["horlogerie", "industrie"],
+      "themes": [
+        "horlogerie",
+        "industrie"
+      ],
       "description": "Manufacture indépendante et familiale de La Chaux-de-Fonds fondée en 2006 par Valérien Jaquet. Elle développe et produit des calibres compliqués (chronographes, répétitions minutes, tourbillons multi-axes), entre 600 et 700 par an, emploie 110 personnes et s’agrandit en 2019 pour intégrer boîtes, cadrans, aiguilles et métiers d’art.",
       "address": "Rue du Collège 85",
       "postalCode": "2300",
@@ -830,7 +1320,12 @@
       "phone": "+41 32 911 19 19",
       "email": "",
       "website": "www.conceptowatch.ch",
-      "contacts": [{ "name": "Valérien Jaquet", "role": "Fondateur et directeur" }],
+      "contacts": [
+        {
+          "name": "Valérien Jaquet",
+          "role": "Fondateur et directeur"
+        }
+      ],
       "page": "09, 39",
       "pdfPages": [],
       "advertiserOnly": false
@@ -839,7 +1334,10 @@
       "slug": "aiguilla",
       "name": "Aiguilla SA",
       "sector": "Fabrication d’aiguilles de montres",
-      "themes": ["horlogerie", "industrie"],
+      "themes": [
+        "horlogerie",
+        "industrie"
+      ],
       "description": "Fabricant biennois d’aiguilles de montres fondé en 1890, fournisseur des marques les plus prestigieuses. Avec 170 collaborateurs, il conçoit lui-même la plupart de ses outils et machines et réalise 16 à 20 opérations par aiguille, avec une collection d’environ 10’000 formes.",
       "address": "Rue du Coteau 10",
       "postalCode": "2500",
@@ -858,7 +1356,10 @@
       "slug": "covatec",
       "name": "Covatec SA",
       "sector": "Automation et machines d’assemblage de précision",
-      "themes": ["industrie", "horlogerie"],
+      "themes": [
+        "industrie",
+        "horlogerie"
+      ],
       "description": "Spécialiste biennois de l’automation depuis 1974 : presses pneumatiques, hydropneumatiques et servo-électriques, unités de soudage, thermocollage et bouterollage, appareils de mesure. L’horlogerie pèse environ 30 % du chiffre d’affaires. Huit employés ; société du groupe Lécureux depuis 2009, redevenue SA indépendante.",
       "address": "Rue des Prés 137",
       "postalCode": "2503",
@@ -869,8 +1370,14 @@
       "email": "info@covatec.ch",
       "website": "www.covatec.ch",
       "contacts": [
-        { "name": "Thomas Villard", "role": "CEO" },
-        { "name": "Hubert Rawyler", "role": "Responsable vente et marketing" }
+        {
+          "name": "Thomas Villard",
+          "role": "CEO"
+        },
+        {
+          "name": "Hubert Rawyler",
+          "role": "Responsable vente et marketing"
+        }
       ],
       "page": "12-13",
       "pdfPages": [],
@@ -880,7 +1387,10 @@
       "slug": "dc-swiss",
       "name": "DC Swiss SA",
       "sector": "Outillage (marque Nano Tools)",
-      "themes": ["industrie", "horlogerie"],
+      "themes": [
+        "industrie",
+        "horlogerie"
+      ],
       "description": "Entreprise de Malleray disposant de filiales en Allemagne, en Italie, en Angleterre et en Chine, associée à la marque Nano Tools. Le magazine lui consacre une double page dont le texte n’est pas disponible dans la version web exploitée.",
       "address": "Grand-Rue 19, Case postale 363",
       "postalCode": "2735",
@@ -899,7 +1409,10 @@
       "slug": "dm-surfaces",
       "name": "DM Surfaces SA",
       "sector": "Décoration, galvanoplastie et laser pour composants horlogers",
-      "themes": ["horlogerie", "industrie"],
+      "themes": [
+        "horlogerie",
+        "industrie"
+      ],
       "description": "Entreprise fondée en 2007 à Saint-Imier, spécialisée dans l’ultra-personnalisation, la production et la décoration haut de gamme de composants horlogers. Elle combine galvanoplastie, techniques laser, céramique hybride et décorations traditionnelles, et dispose d’une station d’épuration permettant un rejet nul.",
       "address": "Rue Des Noyes 10",
       "postalCode": "2610",
@@ -918,7 +1431,10 @@
       "slug": "econorm-gams",
       "name": "Econorm Gams AG",
       "sector": "Traitements de surface en couches minces sur saphir",
-      "themes": ["horlogerie", "industrie"],
+      "themes": [
+        "horlogerie",
+        "industrie"
+      ],
       "description": "Société fondée en 1993 au Liechtenstein, spécialisée dans le dépôt PVD de couches minces sur saphir : antireflets, antistatique, anti-UV, hydrophobe-oléophobe (ARunic®) et décorations. Siège et production à Gams (Industriestrasse 6, 9473 Gams, tél. +41 81 750 32 10) avec 35 employés ; service clients et R&D à Saint-Imier avec une dizaine de personnes. Plus d’un million de pièces traitées par an.",
       "address": "Rue Pierre-Jolissaint 35",
       "postalCode": "2610",
@@ -928,7 +1444,12 @@
       "phone": "+41 32 910 22 33",
       "email": "info@econorm.ch",
       "website": "www.econorm.ch",
-      "contacts": [{ "name": "Anthony Schwab", "role": "Directeur général" }],
+      "contacts": [
+        {
+          "name": "Anthony Schwab",
+          "role": "Directeur général"
+        }
+      ],
       "page": "18-19",
       "pdfPages": [],
       "advertiserOnly": false
@@ -937,7 +1458,10 @@
       "slug": "fleury",
       "name": "Fleury SA",
       "sector": "Machines à transfert et production de composants horlogers",
-      "themes": ["industrie", "horlogerie"],
+      "themes": [
+        "industrie",
+        "horlogerie"
+      ],
       "description": "Constructeur biennois de machines à transfert linéaire et modulaire depuis plus de cinquante ans, connu pour son modulo (plus de 500 exemplaires en service dans le monde) destiné à la fabrication et à la finition de platines et ponts. Elle propose une solution d’usinage avec lubrification pour le laiton sans plomb.",
       "address": "Rue de Granges 11",
       "postalCode": "2504",
@@ -947,7 +1471,12 @@
       "phone": "+41 (0)32 328 03 03",
       "email": "",
       "website": "www.fleurysa.ch",
-      "contacts": [{ "name": "Thomas Deeg", "role": "Chef des ventes" }],
+      "contacts": [
+        {
+          "name": "Thomas Deeg",
+          "role": "Chef des ventes"
+        }
+      ],
       "page": "20-21",
       "pdfPages": [],
       "advertiserOnly": false
@@ -956,7 +1485,10 @@
       "slug": "fleury-industries",
       "name": "Fleury Industries",
       "sector": "Sous-traitance d’ébauches horlogères",
-      "themes": ["industrie", "horlogerie"],
+      "themes": [
+        "industrie",
+        "horlogerie"
+      ],
       "description": "Filiale tessinoise de Fleury SA active depuis 2015 dans la sous-traitance. Ses quatre lignes de modulos entièrement automatisées produisent 24 heures sur 24 jusqu’à 150’000 kits d’ébauches par an, de la pièce brute à l’ébauche décorée, garnie et galvanisée. Le site de Balerna doit doubler sa surface.",
       "address": "Via Sottobisio 32B",
       "postalCode": "6828",
@@ -975,7 +1507,10 @@
       "slug": "lecureux",
       "name": "Lécureux SA",
       "sector": "Tournevis électriques, lignes de montage et instruments de mesure",
-      "themes": ["industrie", "horlogerie"],
+      "themes": [
+        "industrie",
+        "horlogerie"
+      ],
       "description": "Société biennoise fondée en 1961, pionnière du tournevis électrique (eScrew, modèle Speed avec codeur optique). Elle développe des lignes de montage automatisées T1, T2 et T3 et des instruments de contrôle, dont une cellule de chronométrie. Une vingtaine de ses quelque cinquante collaborateurs travaillent en R&D.",
       "address": "Rue des Prés 137",
       "postalCode": "2503",
@@ -985,7 +1520,12 @@
       "phone": "+41 32 365 61 25",
       "email": "",
       "website": "www.lecureux.ch",
-      "contacts": [{ "name": "Gérard Jeanfavre", "role": "Directeur" }],
+      "contacts": [
+        {
+          "name": "Gérard Jeanfavre",
+          "role": "Directeur"
+        }
+      ],
       "page": "22-23",
       "pdfPages": [],
       "advertiserOnly": false
@@ -994,7 +1534,10 @@
       "slug": "les-artisans-boitiers",
       "name": "Les Artisans Boîtiers SA (LAB SA)",
       "sector": "Fabrication de boîtes de montres haut de gamme",
-      "themes": ["horlogerie", "industrie"],
+      "themes": [
+        "horlogerie",
+        "industrie"
+      ],
       "description": "Fabricant chaux-de-fonnier de boîtes de montres sur mesure et de composants microtechniques pour le très haut de gamme. Il associe machines CNC multi-axes et travail artisanal (soudage, polissage, achevage) et fait partie du pôle SFF Les Manufactures Horlogères avec Vaucher Manufacture Fleurier, Atokalpa, Elwin et Quadrance & Habillage.",
       "address": "Rue Alexis-Marie-Piaget 26",
       "postalCode": "2301",
@@ -1004,7 +1547,12 @@
       "phone": "+41 32 911 50 00",
       "email": "info@labsa.ch",
       "website": "www.labsa.ch",
-      "contacts": [{ "name": "Damien Fernier", "role": "Directeur" }],
+      "contacts": [
+        {
+          "name": "Damien Fernier",
+          "role": "Directeur"
+        }
+      ],
       "page": "24-25",
       "pdfPages": [],
       "advertiserOnly": false
@@ -1013,7 +1561,10 @@
       "slug": "mps-watch",
       "name": "MPS Watch",
       "sector": "Roulements horlogers, micro-assemblages et composants complexes",
-      "themes": ["horlogerie", "industrie"],
+      "themes": [
+        "horlogerie",
+        "industrie"
+      ],
       "description": "Unité horlogère du groupe MPS créée en 2016, avec plus de 130 collaborateurs sur le site de Bonfol (JU). Spécialiste des roulements horlogers (myrox14, OneWay, Dara, ActiGir, ActiVib anti-bruit), des micro-assemblages et des composants à géométrie complexe. Certifiée ISO 9001 et ISO 14001.",
       "address": "Chemin du Long-Champ 95",
       "postalCode": "2504",
@@ -1032,7 +1583,10 @@
       "slug": "sebal",
       "name": "SEBAL SA",
       "sector": "Glaces de montres en saphir et usinage de matériaux durs",
-      "themes": ["horlogerie", "industrie"],
+      "themes": [
+        "horlogerie",
+        "industrie"
+      ],
       "description": "Entreprise de Bassecourt créée en 1978 et reprise en 2005 par Sébastien Sangsue. Avec 25 collaborateurs et plus de 80 machines 3 et 5 axes, elle produit glaces saphir plates, bombées et box, cadrans et carrures en saphir, en séries de 20 à plus de 10’000 pièces, à partir d’un saphir 100 % suisse fourni par sa société sœur Timsaph.",
       "address": "Espace industriel 26",
       "postalCode": "2854",
@@ -1042,7 +1596,12 @@
       "phone": "+41 (0)32 426 51 15",
       "email": "info@sebal.ch",
       "website": "www.sebal.ch",
-      "contacts": [{ "name": "Sébastien Sangsue", "role": "Directeur" }],
+      "contacts": [
+        {
+          "name": "Sébastien Sangsue",
+          "role": "Directeur"
+        }
+      ],
       "page": "28-29",
       "pdfPages": [],
       "advertiserOnly": false
@@ -1051,7 +1610,10 @@
       "slug": "timsaph",
       "name": "TIMSAPH SA",
       "sector": "Production de saphir synthétique",
-      "themes": ["horlogerie", "industrie"],
+      "themes": [
+        "horlogerie",
+        "industrie"
+      ],
       "description": "Société sœur de Sebal SA créée en 2015 à Delémont après huit mois de R&D, qui produit du saphir synthétique selon le procédé Verneuil à partir de poudre d’alumine fondue au-delà de 2’000 °C. Son parc est passé de 10 machines en 2015 à 131 machines.",
       "address": "Route de Bellerive 29",
       "postalCode": "2800",
@@ -1061,7 +1623,12 @@
       "phone": "+ 41 (0)32 422 32 76",
       "email": "info@timsaph.ch",
       "website": "",
-      "contacts": [{ "name": "Sébastien Sangsue", "role": "Fondateur" }],
+      "contacts": [
+        {
+          "name": "Sébastien Sangsue",
+          "role": "Fondateur"
+        }
+      ],
       "page": "29",
       "pdfPages": [],
       "advertiserOnly": false
@@ -1070,7 +1637,10 @@
       "slug": "stila",
       "name": "Stila SA",
       "sector": "Fabrication de boîtes de montres haut de gamme",
-      "themes": ["horlogerie", "industrie"],
+      "themes": [
+        "horlogerie",
+        "industrie"
+      ],
       "description": "Manufacture familiale de boîtes de montres fondée en 1933 à La Chaux-de-Fonds et reprise par la famille Vallon au début des années 1980. Une quarantaine de collaborateurs réalisent en acier, or, palladium ou platine des pièces très compliquées, du bureau technique au polissage. Locaux sécurisés pour la certification RJC et parc de CNC 5 axes.",
       "address": "Rue Alexis-Marie Piaget 40",
       "postalCode": "2300",
@@ -1080,7 +1650,12 @@
       "phone": "+41 32 968 61 22",
       "email": "",
       "website": "www.stila.swiss",
-      "contacts": [{ "name": "Julien Vallon", "role": "CEO / directeur général" }],
+      "contacts": [
+        {
+          "name": "Julien Vallon",
+          "role": "CEO / directeur général"
+        }
+      ],
       "page": "30-31",
       "pdfPages": [],
       "advertiserOnly": false
@@ -1089,7 +1664,10 @@
       "slug": "technofinish",
       "name": "TechnoFinish SA",
       "sector": "Machines et consommables de polissage",
-      "themes": ["horlogerie", "industrie"],
+      "themes": [
+        "horlogerie",
+        "industrie"
+      ],
       "description": "Société biennoise créée en 2003, spécialisée dans les machines de polissage, d’ébavurage et d’émerisage pour l’horlogerie et la bijouterie. Ses postes de polissage autonomes avec aspiration intégrée se sont vendus à 500 ou 600 exemplaires. Elle a aussi développé des pâtes à polir sans graisse animale et contrôle TechnoFormage SA et Polirapid Swiss SA.",
       "address": "Eckweg 8, CP 6101",
       "postalCode": "2500",
@@ -1108,7 +1686,10 @@
       "slug": "technoformage",
       "name": "TechnoFormage SA",
       "sector": "Emballages thermoformés et injectés pour l’horlogerie",
-      "themes": ["horlogerie", "industrie"],
+      "themes": [
+        "horlogerie",
+        "industrie"
+      ],
       "description": "Société créée en 2005 par TechnoFinish SA, qui fabrique en Suisse des plateaux thermoformés puis injectés, lavables et résistants, ainsi que des boîtes de transport pour le conditionnement des pièces horlogères terminées. Elle autofinance et possède ses moules d’injection.",
       "address": "Eckweg 8, CP 6101",
       "postalCode": "2500",
@@ -1127,7 +1708,10 @@
       "slug": "polirapid-swiss",
       "name": "Polirapid Swiss SA",
       "sector": "Fabrication de brosses techniques",
-      "themes": ["horlogerie", "industrie"],
+      "themes": [
+        "horlogerie",
+        "industrie"
+      ],
       "description": "Société créée en 1947, spécialisée dans les brosses techniques 100 % suisses pour le service après-vente en horlogerie, en bijouterie et dans le dentaire. Rachetée et sauvée de la faillite par TechnoFinish SA, elle se présente comme la seule entreprise suisse à fabriquer ces brosses.",
       "address": "",
       "postalCode": "",
@@ -1146,7 +1730,10 @@
       "slug": "abarthel",
       "name": "Abarthel Sàrl",
       "sector": "Masses oscillantes, composants et cadrans émail grand feu",
-      "themes": ["horlogerie", "industrie"],
+      "themes": [
+        "horlogerie",
+        "industrie"
+      ],
       "description": "Entreprise fondée en 2006 à Marin-Epagnier, spécialiste des masses oscillantes haut de gamme obtenues par étampage, puis de cadrans, appliques et pièces de mouvement livrés terminés. Depuis le rachat d’un atelier d’émaillage, elle réalise des cadrans en émail grand feu sur base acier. Équipe de neuf personnes.",
       "address": "Champs-Montants 16A",
       "postalCode": "2074",
@@ -1156,7 +1743,12 @@
       "phone": "032 720 00 30",
       "email": "",
       "website": "www.abarthel.ch",
-      "contacts": [{ "name": "Alexandre Barthel", "role": "Directeur et fondateur" }],
+      "contacts": [
+        {
+          "name": "Alexandre Barthel",
+          "role": "Directeur et fondateur"
+        }
+      ],
       "page": "34",
       "pdfPages": [],
       "advertiserOnly": false
@@ -1165,7 +1757,10 @@
       "slug": "andre-frei-fils",
       "name": "André Frei & Fils SA",
       "sector": "Outils pour décolletage et instruments de mesure",
-      "themes": ["industrie", "horlogerie"],
+      "themes": [
+        "industrie",
+        "horlogerie"
+      ],
       "description": "Entreprise familiale de Court fondée en 1956, qui propose un catalogue de près de 8’000 outils pour décolleteuses (pinces de ravitaillement, pièces d’usure) et, depuis 1996, des outils de mesure sous les marques Tavannes et Sabi. Une quinzaine de personnes ; un tiers de la production exporté vers une trentaine de pays.",
       "address": "Rue des Gorges 26",
       "postalCode": "2738",
@@ -1176,9 +1771,18 @@
       "email": "",
       "website": "www.frei-andre.ch",
       "contacts": [
-        { "name": "Christian Frei", "role": "Directeur" },
-        { "name": "Caroline Frei", "role": "" },
-        { "name": "Nicolas Frei", "role": "" }
+        {
+          "name": "Christian Frei",
+          "role": "Directeur"
+        },
+        {
+          "name": "Caroline Frei",
+          "role": ""
+        },
+        {
+          "name": "Nicolas Frei",
+          "role": ""
+        }
       ],
       "page": "35",
       "pdfPages": [],
@@ -1188,7 +1792,10 @@
       "slug": "adtime",
       "name": "AdTime SA",
       "sector": "Machines spéciales automatisées pour l’horlogerie",
-      "themes": ["industrie", "horlogerie"],
+      "themes": [
+        "industrie",
+        "horlogerie"
+      ],
       "description": "Constructeur de Courrendlin fondé il y a une dizaine d’années, qui développe des centres de reprise et de transfert entièrement personnalisés réalisant jusqu’à 24 opérations (usinage, perçage, taraudage, polissage, décoration). Une dizaine d’ingénieurs et techniciens ; travail exclusivement pour l’horlogerie.",
       "address": "Rue des Artisans 4",
       "postalCode": "2830",
@@ -1198,7 +1805,12 @@
       "phone": "+41(0)32 435 19 91",
       "email": "",
       "website": "www.adtime.ch",
-      "contacts": [{ "name": "Pierre-Alain Membrez", "role": "Directeur et fondateur" }],
+      "contacts": [
+        {
+          "name": "Pierre-Alain Membrez",
+          "role": "Directeur et fondateur"
+        }
+      ],
       "page": "36",
       "pdfPages": [],
       "advertiserOnly": false
@@ -1207,7 +1819,10 @@
       "slug": "claude-piguet",
       "name": "Claude Piguet SA",
       "sector": "Pièces en polyuréthane et usinage métal",
-      "themes": ["industrie", "horlogerie"],
+      "themes": [
+        "industrie",
+        "horlogerie"
+      ],
       "description": "Entreprise familiale de Grandson fondée en 1964, qui produit et façonne son propre polyuréthane dans toutes les duretés. Elle fournit l’horlogerie (mors, outils de polissage, étanchéité) mais surtout l’industrie des machines, l’emballage ou les remontées mécaniques. Une dizaine de collaborateurs, dirigée par Claude et Stéphane Maire.",
       "address": "Rue du Jura 23",
       "postalCode": "1422",
@@ -1218,8 +1833,14 @@
       "email": "info@claude-piguet.ch",
       "website": "www.claude-piguet.ch",
       "contacts": [
-        { "name": "Claude Maire", "role": "Directeur administratif" },
-        { "name": "Stéphane Maire", "role": "Directeur technique" }
+        {
+          "name": "Claude Maire",
+          "role": "Directeur administratif"
+        },
+        {
+          "name": "Stéphane Maire",
+          "role": "Directeur technique"
+        }
       ],
       "page": "37",
       "pdfPages": [],
@@ -1229,7 +1850,10 @@
       "slug": "codere",
       "name": "CODERE SA",
       "sector": "Fours industriels pour le traitement thermique",
-      "themes": ["industrie", "horlogerie"],
+      "themes": [
+        "industrie",
+        "horlogerie"
+      ],
       "description": "Constructeur de fours industriels fondé en 1989 à Alle, pour le traitement thermique sous atmosphère et sous vide poussé. Chiffre d’affaires de 12 millions de francs, dont 85 % à l’export, forte présence dans l’aéronautique et le spatial, et gamme dédiée à l’horlogerie (recuit des métaux précieux, trempe des aciers).",
       "address": "Route de Miécourt 12, CP 147",
       "postalCode": "2942",
@@ -1248,7 +1872,10 @@
       "slug": "cyberis",
       "name": "CYBERIS SA",
       "sector": "Décolletage de précision",
-      "themes": ["industrie", "horlogerie"],
+      "themes": [
+        "industrie",
+        "horlogerie"
+      ],
       "description": "Décolleteur de Bassecourt produisant vis, axes, tubes et goupilles de 0 à 12 mm pour l’habillage et le mouvement. Il garantit un traitement des demandes en 48 heures et des délais de quatre à huit semaines, dispose d’une soixantaine de décolleteuses CNC et de 35 collaborateurs, et est certifié RJC COP et CoC ainsi qu’ISO 9001:2015.",
       "address": "Rue St-Hubert 38",
       "postalCode": "2854",
@@ -1258,7 +1885,12 @@
       "phone": "+41 324 270 060",
       "email": "",
       "website": "www.cyberis.ch",
-      "contacts": [{ "name": "Christian Zanetta", "role": "Directeur" }],
+      "contacts": [
+        {
+          "name": "Christian Zanetta",
+          "role": "Directeur"
+        }
+      ],
       "page": "40",
       "pdfPages": [],
       "advertiserOnly": false
@@ -1267,7 +1899,10 @@
       "slug": "pibor-iso",
       "name": "Pibor Iso SA",
       "sector": "Habillage horloger (couronnes, poussoirs, pièces complexes)",
-      "themes": ["horlogerie", "industrie"],
+      "themes": [
+        "horlogerie",
+        "industrie"
+      ],
       "description": "Entreprise familiale fondée en 1952 à Boécourt et basée à Glovelier, connue pour ses couronnes et poussoirs et désormais productrice de pièces d’habillage complexes et terminées (cornes, brancards, attaches). Elle compte une quarantaine de métiers internes et 135 employés, et est certifiée ISO 9001, RJC-COP et RJC-CoC.",
       "address": "Route de la Transjurane 20",
       "postalCode": "2855",
@@ -1278,8 +1913,14 @@
       "email": "",
       "website": "www.pibor.ch",
       "contacts": [
-        { "name": "Cédric Bourquard", "role": "Codirecteur" },
-        { "name": "Jérôme Bourquard", "role": "Codirecteur" }
+        {
+          "name": "Cédric Bourquard",
+          "role": "Codirecteur"
+        },
+        {
+          "name": "Jérôme Bourquard",
+          "role": "Codirecteur"
+        }
       ],
       "page": "41",
       "pdfPages": [],
@@ -1289,7 +1930,10 @@
       "slug": "decotech",
       "name": "DÉCOTECH SA",
       "sector": "Décoration de mouvements horlogers",
-      "themes": ["horlogerie", "industrie"],
+      "themes": [
+        "horlogerie",
+        "industrie"
+      ],
       "description": "Entreprise chaux-de-fonnière fondée en 2004 par Patrick Baumgartner, qui maîtrise toute la décoration de mouvements : perlage, Côtes de Genève, diamantage, gravage, sablage, anglage, avec laser et galvanoplastie intégrés. Elle figure parmi les leaders de l’Arc jurassien et agrandit ses locaux.",
       "address": "Rue du Dr Kern 25",
       "postalCode": "2300",
@@ -1299,7 +1943,12 @@
       "phone": "+41 32 924 97 97",
       "email": "info@decotechsa.ch",
       "website": "www.decotechsa.ch",
-      "contacts": [{ "name": "Patrick Baumgartner", "role": "Fondateur et directeur général" }],
+      "contacts": [
+        {
+          "name": "Patrick Baumgartner",
+          "role": "Fondateur et directeur général"
+        }
+      ],
       "page": "42",
       "pdfPages": [],
       "advertiserOnly": false
@@ -1308,7 +1957,11 @@
       "slug": "erma-boecourt",
       "name": "ERMA BOÉCOURT SA",
       "sector": "Façonnage de verres de montres en saphir",
-      "themes": ["horlogerie", "industrie", "sante"],
+      "themes": [
+        "horlogerie",
+        "industrie",
+        "sante"
+      ],
       "description": "Entreprise familiale fondée en 1962 à Boécourt, spécialiste des verres de montres en saphir haut de gamme, qui travaille aussi céramique et métaux durs pour le médical et l’optique. Septante collaborateurs ; actionnaire d’Econorm Gams pour les traitements antireflets et de métallisation.",
       "address": "Route de Séprais 24L",
       "postalCode": "2856",
@@ -1318,7 +1971,12 @@
       "phone": "+41 32 427 04 30",
       "email": "info@erma-sa.ch",
       "website": "www.erma-sa.ch",
-      "contacts": [{ "name": "Patrick Vernier", "role": "CEO et directeur technique" }],
+      "contacts": [
+        {
+          "name": "Patrick Vernier",
+          "role": "CEO et directeur technique"
+        }
+      ],
       "page": "43",
       "pdfPages": [],
       "advertiserOnly": false
@@ -1327,7 +1985,10 @@
       "slug": "horlyne",
       "name": "HORLYNE SA",
       "sector": "Masses oscillantes et décoration horlogère",
-      "themes": ["horlogerie", "industrie"],
+      "themes": [
+        "horlogerie",
+        "industrie"
+      ],
       "description": "Entreprise familiale chaux-de-fonnière fondée en 1978, leader des masses oscillantes haut de gamme. Elle maîtrise guillochage, sertissage, gravure et microgravure CNC ou laser, appliqués aussi aux boîtes, mouvements et cadrans, avec des lasers femtosecondes comme des machines à guillocher centenaires.",
       "address": "Rue du Collège 92",
       "postalCode": "2300",
@@ -1337,7 +1998,12 @@
       "phone": "+41 32 967 99 22",
       "email": "info@horlyne.ch",
       "website": "www.horlyne.ch",
-      "contacts": [{ "name": "Raymond Leitenberg", "role": "Directeur général" }],
+      "contacts": [
+        {
+          "name": "Raymond Leitenberg",
+          "role": "Directeur général"
+        }
+      ],
       "page": "44",
       "pdfPages": [],
       "advertiserOnly": false
@@ -1346,7 +2012,9 @@
       "slug": "greub-machines",
       "name": "Greub Machines SA",
       "sector": "Vente et révision de machines-outils neuves et d’occasion",
-      "themes": ["industrie"],
+      "themes": [
+        "industrie"
+      ],
       "description": "Entreprise familiale chaux-de-fonnière fondée il y a plus de soixante ans, qui vend des machines-outils neuves et surtout d’occasion (stock de plus de 1’000 machines) dans le monde entier. Son atelier assure révisions, reconstructions, retrofits et mises en conformité. Une dizaine d’employés et un petit musée de machines horlogères.",
       "address": "Boulevard des Eplatures 39",
       "postalCode": "2304",
@@ -1356,7 +2024,12 @@
       "phone": "+41 (0)32 925 95 40",
       "email": "",
       "website": "www.greub.ch",
-      "contacts": [{ "name": "François-Maxime Greub", "role": "CEO" }],
+      "contacts": [
+        {
+          "name": "François-Maxime Greub",
+          "role": "CEO"
+        }
+      ],
       "page": "45",
       "pdfPages": [],
       "advertiserOnly": false
@@ -1365,7 +2038,10 @@
       "slug": "inhotec",
       "name": "INHOTEC SA",
       "sector": "Usinage de précision de composants horlogers",
-      "themes": ["horlogerie", "industrie"],
+      "themes": [
+        "horlogerie",
+        "industrie"
+      ],
       "description": "Entreprise du Locle créée en 2011 par Alexandre Eme, spécialisée dans l’usinage de précision pour les grandes marques. Une cinquantaine de collaborateurs, plus de vingt centres d’usinage 3 et 5 axes, électroérosion à fil, décoration, contrôle 3D, traitements et gravage laser ; acquisition d’un laser femtoseconde prévue en 2019.",
       "address": "Rue de France 59",
       "postalCode": "2400",
@@ -1375,7 +2051,12 @@
       "phone": "+41 32 931 18 00",
       "email": "info@inhotec.ch",
       "website": "www.inhotec.ch",
-      "contacts": [{ "name": "Alexandre Eme", "role": "Fondateur (alexandre.eme@inhotec.ch)" }],
+      "contacts": [
+        {
+          "name": "Alexandre Eme",
+          "role": "Fondateur (alexandre.eme@inhotec.ch)"
+        }
+      ],
       "page": "46",
       "pdfPages": [],
       "advertiserOnly": false
@@ -1384,7 +2065,10 @@
       "slug": "meylan-freres",
       "name": "Meylan Frères SA",
       "sector": "Étampage progressif de pièces micromécaniques",
-      "themes": ["industrie", "horlogerie"],
+      "themes": [
+        "industrie",
+        "horlogerie"
+      ],
       "description": "Entreprise familiale du Brassus spécialisée dans l’étampage progressif de très petites pièces complexes, de quelques milliers à plusieurs millions d’exemplaires, et dans l’électroérosion. La moitié de la production va aux manufactures horlogères, le reste à l’automobile, l’électronique ou le médical. Une quarantaine de collaborateurs.",
       "address": "Route du Planoz 31, Case postale 110",
       "postalCode": "1348",
@@ -1394,7 +2078,12 @@
       "phone": "+41 (0)21 845 25 00",
       "email": "",
       "website": "www.meylanfreres.ch",
-      "contacts": [{ "name": "Christian Meylan", "role": "Patron de l’entreprise" }],
+      "contacts": [
+        {
+          "name": "Christian Meylan",
+          "role": "Patron de l’entreprise"
+        }
+      ],
       "page": "47",
       "pdfPages": [],
       "advertiserOnly": false
@@ -1403,7 +2092,10 @@
       "slug": "monnier",
       "name": "MONNIER SA",
       "sector": "Décoration de mouvements horlogers et galvanoplastie",
-      "themes": ["horlogerie", "industrie"],
+      "themes": [
+        "horlogerie",
+        "industrie"
+      ],
       "description": "Entreprise chaux-de-fonnière fondée en 1912, réputée pour la décoration de mouvements (Côtes de Genève, perlage, guillochage, gravage bas-relief, laser). En 2018, elle a racheté le spécialiste de la tampographie Procolor pour proposer un produit fini encore plus complet.",
       "address": "Rue de Morgarten 14",
       "postalCode": "2301",
@@ -1413,7 +2105,12 @@
       "phone": "+41 (0)32 924 50 60",
       "email": "info@monniergalvano.ch",
       "website": "www.monniergalvano.ch",
-      "contacts": [{ "name": "Sébastien Schmid", "role": "Directeur" }],
+      "contacts": [
+        {
+          "name": "Sébastien Schmid",
+          "role": "Directeur"
+        }
+      ],
       "page": "48-49",
       "pdfPages": [],
       "advertiserOnly": false
@@ -1422,7 +2119,10 @@
       "slug": "procolor",
       "name": "PROCOLOR",
       "sector": "Tampographie et vernissage sur pièces horlogères",
-      "themes": ["horlogerie", "industrie"],
+      "themes": [
+        "horlogerie",
+        "industrie"
+      ],
       "description": "Spécialiste de la tampographie, du vernissage et du remplissage au service de l’horlogerie depuis plus de trente ans, avec une douzaine de collaborateurs et des machines de une à cinq couleurs. Créateur en 2016 de l’encre codée anti-contrefaçon Cryptime®. Racheté par Monnier SA en 2018.",
       "address": "Rue des Puits 6",
       "postalCode": "2616",
@@ -1432,7 +2132,12 @@
       "phone": "+41 (0)32 968 74 28",
       "email": "info@procolorlcti.ch",
       "website": "www.procolorlcti.ch",
-      "contacts": [{ "name": "Gilles Froidevaux", "role": "Ancien propriétaire" }],
+      "contacts": [
+        {
+          "name": "Gilles Froidevaux",
+          "role": "Ancien propriétaire"
+        }
+      ],
       "page": "49",
       "pdfPages": [],
       "advertiserOnly": false
@@ -1441,7 +2146,10 @@
       "slug": "cronal",
       "name": "CRONAL SA",
       "sector": "Gravure de haute précision",
-      "themes": ["horlogerie", "industrie"],
+      "themes": [
+        "horlogerie",
+        "industrie"
+      ],
       "description": "Entreprise de gravure fondée en 1989 aux Hauts-Geneveys et installée à La Chaux-de-Fonds dans une usine moderne. Elle grave toutes les matières et maîtrise les gravures laser, chimique et mécanique, ainsi que les gravures profondes, 3D et les structurations de surface. 45 collaborateurs.",
       "address": "Rue du Collège 73",
       "postalCode": "2300",
@@ -1450,8 +2158,13 @@
       "country": "Suisse",
       "phone": "+41 32 914 75 75",
       "email": "info@cronal.swiss",
-      "website": "www.cronal.wiss",
-      "contacts": [{ "name": "Charles-André Mosset", "role": "Directeur et fondateur" }],
+      "website": "www.cronal.swiss",
+      "contacts": [
+        {
+          "name": "Charles-André Mosset",
+          "role": "Directeur et fondateur"
+        }
+      ],
       "page": "50",
       "pdfPages": [],
       "advertiserOnly": false
@@ -1460,7 +2173,10 @@
       "slug": "oesch",
       "name": "OESCH GmbH",
       "sector": "Boucles, fermoirs, barrettes et charnières en acier inox",
-      "themes": ["horlogerie", "industrie"],
+      "themes": [
+        "horlogerie",
+        "industrie"
+      ],
       "description": "Fournisseur fondé en 1985 près de Bâle, spécialiste des boucles, fermoirs et barrettes pour fabricants de montres, de bracelets cuir, de bijoux et d’emballages de luxe. Dirigé par Michel Oesch, deuxième génération, il mise sur la personnalisation et lance en 2019 une liaison combinant boucle ardillon et boucle déployante.",
       "address": "Adlerstrasse 25",
       "postalCode": "4312",
@@ -1470,7 +2186,12 @@
       "phone": "+41 (0)61 841 03 33",
       "email": "info@oeschswitzerland.com",
       "website": "www.oeschswitzerland.com",
-      "contacts": [{ "name": "Michel Oesch", "role": "Directeur" }],
+      "contacts": [
+        {
+          "name": "Michel Oesch",
+          "role": "Directeur"
+        }
+      ],
       "page": "51",
       "pdfPages": [],
       "advertiserOnly": false
@@ -1479,7 +2200,10 @@
       "slug": "kohler-electroplastie",
       "name": "KOHLER ELECTROPLASTIE SARL",
       "sector": "Électroplastie et dépôts de métaux précieux",
-      "themes": ["horlogerie", "industrie"],
+      "themes": [
+        "horlogerie",
+        "industrie"
+      ],
       "description": "Entreprise familiale genevoise fondée par Michel Kohler il y a plus de vingt ans, spécialisée dans le dorage, le rhodiage et autres dépôts électrolytiques sur pièces d’horlogerie, de joaillerie, médicales et techniques. Une dizaine de collaborateurs, contrôle par rayons X, membre du RJC depuis 2018.",
       "address": "Route des Jeunes 5C",
       "postalCode": "",
@@ -1490,8 +2214,14 @@
       "email": "kohlerelectroplastie@gmail.com",
       "website": "www.kohlerelectroplastie.ch",
       "contacts": [
-        { "name": "Florian Kohler", "role": "Codirecteur" },
-        { "name": "Nathalie Palfi", "role": "Codirectrice" }
+        {
+          "name": "Florian Kohler",
+          "role": "Codirecteur"
+        },
+        {
+          "name": "Nathalie Palfi",
+          "role": "Codirectrice"
+        }
       ],
       "page": "52",
       "pdfPages": [],
@@ -1501,7 +2231,10 @@
       "slug": "a-a-z-emplois",
       "name": "A à Z emplois SA",
       "sector": "Recrutement et placement de personnel",
-      "themes": ["economie", "horlogerie"],
+      "themes": [
+        "economie",
+        "horlogerie"
+      ],
       "description": "Agence de placement dont le siège central est à Moutier, présente dans une annonce : recrutement et payrolling pour l’horlogerie, la microtechnique, la production, l’administration et la logistique. Elle revendique 40 collaborateurs, 12 succursales (dont La Chaux-de-Fonds, Neuchâtel, Lausanne, Delémont, Bienne, Manno) et 10’000 candidats par an.",
       "address": "Avenue de la Gare 16",
       "postalCode": "2740",
@@ -1520,7 +2253,10 @@
       "slug": "stl-swiss",
       "name": "STL SWISS SA",
       "sector": "Bracelets de montres métalliques haut de gamme",
-      "themes": ["horlogerie", "industrie"],
+      "themes": [
+        "horlogerie",
+        "industrie"
+      ],
       "description": "Fabricant biennois de bracelets métalliques haut de gamme créé en 2015 par la direction de Winox SA pour répondre aux exigences Swissness. Une quarantaine d’employés, plus de 1’200 m² d’ateliers équipés en soudage laser, meulage automatisé et transfert horizontal, et un bureau d’études intégré.",
       "address": "Chemin du Long-Champ 101",
       "postalCode": "2504",
@@ -1539,7 +2275,10 @@
       "slug": "waeber-hms",
       "name": "WAEBER HMS SA",
       "sector": "Fabrication d’aiguilles de montres",
-      "themes": ["horlogerie", "industrie"],
+      "themes": [
+        "horlogerie",
+        "industrie"
+      ],
       "description": "Manufacture familiale et indépendante d’aiguilles de montres fondée en 2001 à Fleurier par Roger Waeber et ses enfants, présidée depuis 2015 par Laurent Waeber. Une centaine de collaborateurs formés à l’interne, production entièrement internalisée et usine Minergie construite en 2009.",
       "address": "Rue du Levant 17",
       "postalCode": "2114",
@@ -1550,8 +2289,14 @@
       "email": "info@waeberhms.ch",
       "website": "www.waeberhms.ch",
       "contacts": [
-        { "name": "Laurent Waeber", "role": "Président" },
-        { "name": "Natacha Waeber", "role": "Vice-présidente" }
+        {
+          "name": "Laurent Waeber",
+          "role": "Président"
+        },
+        {
+          "name": "Natacha Waeber",
+          "role": "Vice-présidente"
+        }
       ],
       "page": "55",
       "pdfPages": [],
@@ -1561,7 +2306,10 @@
       "slug": "witech",
       "name": "Witech SA",
       "sector": "Construction de machines-outils",
-      "themes": ["industrie", "horlogerie"],
+      "themes": [
+        "industrie",
+        "horlogerie"
+      ],
       "description": "Petite entreprise de Bassecourt active depuis bientôt 25 ans, qui construit des centres d’usinage compacts réputés pour leur stabilité et leur précision dans le monde horloger. Elle intègre des fonctions industrie 4.0 et des solutions de robotisation offrant jusqu’à plusieurs jours d’autonomie.",
       "address": "Rue de la Pâle 28, Case postale 59",
       "postalCode": "2854",
@@ -1580,7 +2328,10 @@
       "slug": "wostep",
       "name": "Fondation WOSTEP",
       "sector": "Formation et perfectionnement en horlogerie",
-      "themes": ["formation", "horlogerie"],
+      "themes": [
+        "formation",
+        "horlogerie"
+      ],
       "description": "École internationale d’horlogerie fondée en 1966 à Neuchâtel, fondation depuis 2006. Elle forme des horlogers du monde entier (cursus de 1’800 et 3’000 heures reconnus comme équivalents aux CFC) et propose des cours pour formateurs, de polissage, de réglage et de chronographe, via un partenariat mondial d’écoles.",
       "address": "Rue des Saars 99",
       "postalCode": "2000",
@@ -1591,8 +2342,14 @@
       "email": "",
       "website": "www.wostep.ch",
       "contacts": [
-        { "name": "Andrea Accolla", "role": "Responsable du cours pour formateurs" },
-        { "name": "José Berenguer", "role": "Instructeur" }
+        {
+          "name": "Andrea Accolla",
+          "role": "Responsable du cours pour formateurs"
+        },
+        {
+          "name": "José Berenguer",
+          "role": "Instructeur"
+        }
       ],
       "page": "57",
       "pdfPages": [],
@@ -1602,7 +2359,10 @@
       "slug": "ynovatec",
       "name": "YNOVATEC SA",
       "sector": "Distribution d’équipements d’automation et solutions d’automation",
-      "themes": ["industrie", "horlogerie"],
+      "themes": [
+        "industrie",
+        "horlogerie"
+      ],
       "description": "Entreprise chaux-de-fonnière fondée en 2011, distributrice des produits SMC (stock de près de 25’000 articles), ITV et TESA, qui développe aussi ses propres produits (Y-Turn, Y-Vision, logiciel de la Smart Micro Factory avec Horosys SA). Six employés et près de 400 clients.",
       "address": "Route de la Combe-à-l’Ours 2",
       "postalCode": "2300",
@@ -1612,7 +2372,12 @@
       "phone": "+41 32 926 18 26",
       "email": "",
       "website": "www.ynovatec.ch",
-      "contacts": [{ "name": "Yves Calmonte", "role": "Directeur et fondateur" }],
+      "contacts": [
+        {
+          "name": "Yves Calmonte",
+          "role": "Directeur et fondateur"
+        }
+      ],
       "page": "58",
       "pdfPages": [],
       "advertiserOnly": false
@@ -1621,7 +2386,10 @@
       "slug": "auchlin",
       "name": "AUCHLIN SA",
       "sector": "Polissage de précision",
-      "themes": ["horlogerie", "industrie"],
+      "themes": [
+        "horlogerie",
+        "industrie"
+      ],
       "description": "Entreprise familiale de La Neuveville active depuis plus de septante ans dans le polissage de précision de petites pièces horlogères. Elle conçoit ses propres pâtes à polir et maîtrise polissage par lot, mécano-chimique, double face et bleuissage, avec des polisseurs formés à l’interne.",
       "address": "Prapion 1",
       "postalCode": "2520",
@@ -1631,7 +2399,12 @@
       "phone": "+41 32 751 34 64",
       "email": "admin@auchlin.ch",
       "website": "www.auchlin.ch",
-      "contacts": [{ "name": "Catherine Frioud Auchlin", "role": "Directrice administrative" }],
+      "contacts": [
+        {
+          "name": "Catherine Frioud Auchlin",
+          "role": "Directrice administrative"
+        }
+      ],
       "page": "59",
       "pdfPages": [],
       "advertiserOnly": false
@@ -1640,7 +2413,10 @@
       "slug": "beco-precision",
       "name": "BECO PRECISION SA",
       "sector": "Conception et fabrication de moules d’injection",
-      "themes": ["industrie", "horlogerie"],
+      "themes": [
+        "industrie",
+        "horlogerie"
+      ],
       "description": "Entreprise de Vallorbe fondée en 1990, qui conçoit et réalise des moules haute technologie pour l’injection de thermoplastiques, thermodurcissables, céramiques et métal, avec fraiseuses 5 axes et érosion. Elle a créé en 2003 Cebo Injections SA, avec qui elle travaille notamment sur le graphène.",
       "address": "Chemin des Plans-Praz",
       "postalCode": "1337",
@@ -1659,7 +2435,10 @@
       "slug": "cebo-injections",
       "name": "CEBO INJECTIONS SA",
       "sector": "Injection plastique de précision",
-      "themes": ["industrie", "horlogerie"],
+      "themes": [
+        "industrie",
+        "horlogerie"
+      ],
       "description": "Société créée en 2003 par Beco Precision SA à Vallorbe et intégrée au groupe canadien NanoXplore. Elle injecte des pièces pour l’automobile, le médical, la cosmétique et l’horlogerie (pignons, rotors, platines, ponts, engrenages, boîtiers de présentation, remontoirs).",
       "address": "Chemin des Rosiers 2B",
       "postalCode": "1337",
@@ -1678,7 +2457,10 @@
       "slug": "becs",
       "name": "BECS Sàrl",
       "sector": "Bureau d’études et outillages horlogers",
-      "themes": ["horlogerie", "industrie"],
+      "themes": [
+        "horlogerie",
+        "industrie"
+      ],
       "description": "Bureau d’études de Satigny fort de treize ans d’expérience et de huit collaborateurs, dont 75 % de l’activité concerne l’horlogerie. Il conçoit prototypes, outillages de montage et de contrôle, habillages et machines automatiques, et offre un service clé en main depuis le rachat de CNJ Duret SA en 2016.",
       "address": "Rue du Pré-de-la-Fontaine, 15",
       "postalCode": "1242",
@@ -1697,7 +2479,10 @@
       "slug": "cnj-duret",
       "name": "CNJ Duret SA",
       "sector": "Mécanique de précision",
-      "themes": ["industrie", "horlogerie"],
+      "themes": [
+        "industrie",
+        "horlogerie"
+      ],
       "description": "Atelier de mécanique de précision actif depuis plus de trente ans, repris par BECS Sàrl en janvier 2016. Il réalise des pièces unitaires à des séries de 50 pièces et le montage de systèmes mécaniques, en tournage, fraisage 3 et 5 axes, électroérosion et rectification.",
       "address": "Rue du Pré-de-la-Fontaine, 15",
       "postalCode": "1242",
