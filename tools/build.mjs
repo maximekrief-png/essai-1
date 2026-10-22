@@ -56,10 +56,13 @@ const validThemes = (t) => uniq((t || []).filter((x) => THEMES[x]));
 // Fusion des entreprises : même slug ou même domaine web = même entreprise.
 // Les magazines sont triés du plus récent au plus ancien : la première valeur non vide l'emporte.
 const companyAlias = new Map(); // `${mag}:${slugLocal}` -> slug canonique
+// Doublons connus (même organisation nommée différemment selon les numéros)
+const ALIASES = fs.existsSync(path.join(DATA, 'aliases.json')) ? JSON.parse(fs.readFileSync(path.join(DATA, 'aliases.json'), 'utf8')) : {};
 for (const m of magazines) {
   for (const c of m.companies) {
     if (!c.name) continue;
     let key = slugify(c.slug || c.name);
+    key = ALIASES[key] || key;
     const dom = c.website ? domainOf(c.website) : '';
     if (dom && domainIndex.has(dom)) key = domainIndex.get(dom);
     companyAlias.set(`${m.slug}:${c.slug || slugify(c.name)}`, key);
@@ -575,6 +578,8 @@ function searchIndex() {
 }
 
 // ---------- génération ----------
+// Repart de zéro pour les pages générées (les assets statiques sont conservés)
+for (const d of ['entreprises', 'articles', 'themes', 'magazines', 'recherche']) fs.rmSync(path.join(OUT, d), { recursive: true, force: true });
 pageHome();
 pageCompanies();
 companies.forEach(pageCompany);
