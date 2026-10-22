@@ -159,7 +159,7 @@
       "type": "interview",
       "page": "11",
       "pdfPages": [],
-      "summary": "Le chef du service de légalisation de la ZHK explique comment la chambre aide les exportateurs : certificats d'origine exigés par les banques ou certains pays, carnets ATA permettant d'exporter temporairement des marchandises sans droits de douane, légalisation des certificats CITES pour l'horlogerie et le luxe, et cours pour exportateurs agréés en collaboration avec l'Administration fédérale des douanes. Il rappelle les simplifications introduites en 2008 et le rôle de conseil de la chambre pour toute question douanière.",
+      "summary": "Le chef du service de légalisation de la ZHK explique comment la chambre aide les exportateurs : certificats d'origine exigés par les banques ou certains pays, carnets ATA permettant d'exporter temporairement des marchandises sans droits de douane, légalisation des certificats CITES pour l'horlogerie et le luxe, et cours pour exportateurs agréés en collaboration avec l'Administration fédérale des douanes. Il rappelle les simplifications introduites en 2008 et le rôle de conseil de la chambre pour toute question douanière. Les membres de la ZHK ne versent pas de caution pour les carnets ATA, seulement un émolument.",
       "quote": "Mit unseren Dienstleistungen sind wir direkt am Puls der Exportwirtschaft.",
       "themes": [
         "economie"
@@ -551,8 +551,7 @@
       "summary": "Fondée en 1959, IMT fabrique à façon des microstructures et couches minces sur verre par photolithographie, avec des traits jusqu'à 150 nanomètres. Ses produits (disques d'encodeurs, réticules pour lunettes de visée, diaphragmes pour l'endoscopie) servent l'automation, l'optique de sport, le médical, la mesure, les semi-conducteurs et l'aérospatial. L'entreprise dispose depuis 2000 d'une salle blanche de 1 200 m² et depuis 2012 d'une ligne de production pour plaquettes de 200 mm. Elle emploie 75 personnes, dont une dizaine d'ingénieurs et physiciens.",
       "quote": "Know-why ist genauso wichtig wie Know-how.",
       "themes": [
-        "industrie",
-        "formation"
+        "industrie"
       ],
       "region": "Greifensee",
       "language": "de",
@@ -573,7 +572,7 @@
       "type": "interview",
       "page": "46-47",
       "pdfPages": [],
-      "summary": "Fondée en 2003, avec une filiale indienne depuis 2010, ITPC compte plus de 25 collaborateurs spécialisés dans la technologie SAP. Elle propose conseil (installations, migrations, mises à niveau, virtualisation, plans de reprise), exploitation de la base SAP avec monitoring, helpdesk jusqu'à 7 jours sur 7, hébergement dans un centre de données suisse et offshoring pour intégrateurs. Ses équipes revendiquent plus de 250 projets SAP et disposent d'un centre de test et d'évaluation pour preuves de concept, formations et démonstrations.",
+      "summary": "Fondée en 2003, avec une filiale indienne depuis 2010, ITPC compte plus de 25 collaborateurs spécialisés dans la technologie SAP. Elle propose conseil (installations, migrations, mises à niveau, virtualisation, plans de reprise), exploitation de la base SAP avec monitoring, helpdesk jusqu'à 7 jours sur 7, hébergement dans un centre de données suisse et offshoring pour intégrateurs. Ses équipes revendiquent plus de 250 projets SAP et disposent d'un centre de test et d'évaluation pour preuves de concept, formations et démonstrations. Ses équipes accompagnent depuis plus de quinze ans PME et grands groupes, en Suisse, en Europe et dans le monde.",
       "quote": "Ihre Unternehmensdaten bleiben somit in der Schweiz.",
       "themes": [
         "economie"
@@ -702,7 +701,7 @@
       "type": "interview",
       "page": "60-61",
       "pdfPages": [],
-      "summary": "Le centre médical Römerhof réunit médecine interne, rhumatologie, neurologie, psychiatrie, physiothérapie et angiologie, avec deuxièmes avis. Spécialiste de la prévention cardiovasculaire, le Dr Graetz explique qu'un bilan de santé doit évaluer les risques à long terme, y compris l'âge, le sexe et la génétique, et non seulement l'état du moment. Le centre propose des consultations pour personnes en surpoids, des bilans préopératoires ambulatoires et des expertises interdisciplinaires pour l'AI, les assureurs privés et les tribunaux.",
+      "summary": "Le centre médical Römerhof réunit médecine interne, rhumatologie, neurologie, psychiatrie, physiothérapie et angiologie, avec deuxièmes avis. Spécialiste de la prévention cardiovasculaire, le Dr Graetz explique qu'un bilan de santé doit évaluer les risques à long terme, y compris l'âge, le sexe et la génétique, et non seulement l'état du moment. Le centre propose des consultations pour personnes en surpoids, des bilans préopératoires ambulatoires et des expertises interdisciplinaires pour l'AI, les assureurs privés et les tribunaux. Le centre insiste sur le temps consacré à chaque patient et sur le respect de la sphère privée.",
       "quote": "Das Entscheidende ist, dass ein Check-up nicht nur eine aktuelle Standortbestimmung sein darf.",
       "themes": [
         "sante"
@@ -907,7 +906,7 @@
       "themes": [
         "collectivites"
       ],
-      "description": "Présidence de la Ville de Zurich, qui dirige une administration d'environ 27 000 employés. La ville vise la société à 2000 watts, davantage de logements d'utilité publique et une promotion ciblée des branches d'avenir.",
+      "description": "Présidence de la Ville de Zurich, qui dirige une administration d'environ 27 000 employés. La ville vise la société à 2000 watts, davantage de logements d'utilité publique et une promotion ciblée des branches d'avenir. La présidente défend aussi la culture, avec l'extension du Kunsthaus, et s'oppose aux décollages vers le sud de l'aéroport.",
       "address": "Stadthausquai 17, Stadthaus, Postfach",
       "postalCode": "8022",
       "city": "Zürich",
@@ -981,7 +980,7 @@
         "economie",
         "mobilite"
       ],
-      "description": "Direction cantonale de l'économie publique : organisation des transports, marché du travail, conditions de travail et promotion économique via l'Office de l'économie et du travail, avec une stratégie de clusters.",
+      "description": "Direction cantonale de l'économie publique : organisation des transports, marché du travail, conditions de travail et promotion économique via l'Office de l'économie et du travail, avec une stratégie de clusters. Le canton détient un tiers de l'aéroport de Zurich et mise sur ses hautes écoles pour rester en tête de la concurrence internationale.",
       "address": "Neumühlequai 10, Postfach",
       "postalCode": "8090",
       "city": "Zürich",
@@ -1038,7 +1037,7 @@
         "architecture",
         "mobilite"
       ],
-      "description": "Bureau d'architecture zurichois fondé en 2001 (GmbH depuis 2005), 17 collaborateurs, spécialisé à l'interface entre transports publics et espace public. Clients : CFF, Ville de Zurich, cantons de Zurich et d'Argovie ; projets gare d'Oerlikon, Stadtbahn Zug, Limmattalbahn.",
+      "description": "Bureau d'architecture zurichois fondé en 2001 (GmbH depuis 2005), 17 collaborateurs, spécialisé à l'interface entre transports publics et espace public. Clients : CFF, Ville de Zurich, cantons de Zurich et d'Argovie ; projets gare d'Oerlikon, Stadtbahn Zug, Limmattalbahn. Le bureau a aussi rénové l'église St. Felix und Regula à Zurich.",
       "address": "Scheffelstrasse 3",
       "postalCode": "8037",
       "city": "Zürich",
@@ -1073,7 +1072,7 @@
         "architecture",
         "construction"
       ],
-      "description": "Bureau d'architectes zurichois d'environ 73 collaborateurs, fondé par Wäschle et Wüst. Spécialiste de la reconversion d'aires industrielles (Löwenbräu, Haldengut, Salmenpark) ; références Tamedia, Radisson Blu aéroport, Messe Zürich et Luzern, soufflerie Sauber.",
+      "description": "Bureau d'architectes zurichois d'environ 73 collaborateurs, fondé par Wäschle et Wüst. Spécialiste de la reconversion d'aires industrielles (Löwenbräu, Haldengut, Salmenpark) ; références Tamedia, Radisson Blu aéroport, Messe Zürich et Luzern, soufflerie Sauber. Le bureau forme des dessinateurs en bâtiment ; la soufflerie Sauber à Hinwil a été distinguée par un prix d'architecture.",
       "address": "Asylstrasse 108, Postfach 2024",
       "postalCode": "8032",
       "city": "Zürich",
@@ -1103,7 +1102,7 @@
       "themes": [
         "construction"
       ],
-      "description": "Bureau d'ingénieurs civils (bâtiment, ouvrages d'art, façades, dynamique des structures, expertises) avec siège à Winterthour et succursale à Zurich (Seestrasse 346, 8038 Zürich, +41 (0)44 485 45 45). Projets : Kornhaus Swissmill, Europaallee.",
+      "description": "Bureau d'ingénieurs civils (bâtiment, ouvrages d'art, façades, dynamique des structures, expertises) avec siège à Winterthour et succursale à Zurich (Seestrasse 346, 8038 Zürich, +41 (0)44 485 45 45). Projets : Kornhaus Swissmill, Europaallee. Dirigé par Josef Grob, il a évalué le risque sismique des parcs immobiliers de deux grands assureurs.",
       "address": "Technikumstrasse 73",
       "postalCode": "8400",
       "city": "Winterthur",
@@ -1130,7 +1129,7 @@
         "construction",
         "energie"
       ],
-      "description": "Entreprise familiale fondée il y a 60 ans comme entreprise de terrassement : génie civil, déconstruction, assainissement de sites contaminés et production de matériaux recyclés (ESAR, Ebirec, BAZO), avec gravière à Weiach et transport ferroviaire.",
+      "description": "Entreprise familiale fondée il y a 60 ans comme entreprise de terrassement : génie civil, déconstruction, assainissement de sites contaminés et production de matériaux recyclés (ESAR, Ebirec, BAZO), avec gravière à Weiach et transport ferroviaire. L'entreprise familiale de Kloten participe à la reconversion de nombreuses friches zurichoises comme le Zollfreilager.",
       "address": "Steinackerstrasse 56",
       "postalCode": "8302",
       "city": "Kloten",
@@ -1157,7 +1156,7 @@
         "industrie",
         "energie"
       ],
-      "description": "Entreprise fondée en 1934, détenue majoritairement par la famille Meyerhofer, leader mondial des électrofiltres. Elle produit aussi tours de refroidissement, installations de dénitrification catalytique et filtres hybrides pour cimenteries, métallurgie, centrales et incinérateurs.",
+      "description": "Entreprise fondée en 1934, détenue majoritairement par la famille Meyerhofer, leader mondial des électrofiltres. Elle produit aussi tours de refroidissement, installations de dénitrification catalytique et filtres hybrides pour cimenteries, métallurgie, centrales et incinérateurs. Elle fête ses 80 ans en 2014 et est active dans le monde entier, Amérique du Nord exceptée.",
       "address": "Eschenstrasse 6",
       "postalCode": "8603",
       "city": "Schwerzenbach",
@@ -1183,7 +1182,7 @@
       "themes": [
         "industrie"
       ],
-      "description": "Fournisseur d'informatique embarquée, d'ordinateurs industriels, de vision industrielle et d'acquisition de mesures, avec engineering interne et production d'IPC sur mesure via sa filiale taïwanaise Fabrimex Far East (2001).",
+      "description": "Fournisseur d'informatique embarquée, d'ordinateurs industriels, de vision industrielle et d'acquisition de mesures, avec engineering interne et production d'IPC sur mesure via sa filiale taïwanaise Fabrimex Far East (2001). Ses clients viennent de l'industrie, de l'automatisation du bâtiment, de la technique des transports et du médical ; elle livre aussi des systèmes clés en main.",
       "address": "Industriestr. 4B, Postfach Schwerzenbach",
       "postalCode": "8604",
       "city": "Volketswil",
@@ -1209,7 +1208,7 @@
       "themes": [
         "construction"
       ],
-      "description": "Bureau d'ingénieurs (origines en 1964, fusion en 1998) actif en génie civil, ouvrages d'art et bâtiments, avec une expertise en technologie des matériaux et assainissement. Références : Hardbrücke, Archives d'Etat de Zurich, gare de Horgen.",
+      "description": "Bureau d'ingénieurs (origines en 1964, fusion en 1998) actif en génie civil, ouvrages d'art et bâtiments, avec une expertise en technologie des matériaux et assainissement. Références : Hardbrücke, Archives d'Etat de Zurich, gare de Horgen. Le bureau est partenaire stratégique de JägerPartner depuis 2006.",
       "address": "Räffelstrasse 32",
       "postalCode": "8045",
       "city": "Zürich",
@@ -1235,7 +1234,7 @@
       "themes": [
         "industrie"
       ],
-      "description": "Entreprise fondée en 1955 à Zurich, leader mondial des purgeurs de fil (YarnMaster) et capteurs pour filatures et tissages. Production exclusivement à Wetzikon, environ 10 % du chiffre d'affaires en R&D, réseau de quelque 90 représentations.",
+      "description": "Entreprise fondée en 1955 à Zurich, leader mondial des purgeurs de fil (YarnMaster) et capteurs pour filatures et tissages. Production exclusivement à Wetzikon, environ 10 % du chiffre d'affaires en R&D, réseau de quelque 90 représentations. Ses principaux marchés sont la Chine, l'Inde, l'Indonésie, la Turquie, le Bangladesh et le Brésil.",
       "address": "Kastellstrasse 10, Postfach 582",
       "postalCode": "8623",
       "city": "Wetzikon",
@@ -1262,7 +1261,7 @@
         "architecture",
         "economie"
       ],
-      "description": "Société du groupe Albers qui développe des immeubles centraux et de grands projets mixtes : Limmatwest, Hard Turm Park (environ 100 000 m² avec hôtels Sheraton et 25hours), parking Opéra sous le Sechseläutenplatz.",
+      "description": "Société du groupe Albers qui développe des immeubles centraux et de grands projets mixtes : Limmatwest, Hard Turm Park (environ 100 000 m² avec hôtels Sheraton et 25hours), parking Opéra sous le Sechseläutenplatz. La société soutient aussi l'art public dans le quartier et un concours de design organisé avec Casa Vogue.",
       "address": "Schanzengasse 14, Postfach 2016",
       "postalCode": "8022",
       "city": "Zürich",
@@ -1289,7 +1288,7 @@
         "energie",
         "industrie"
       ],
-      "description": "Filiale suisse du groupe d'éclairage Havells-Sylvania (marques Sylvania, Lumiance, Concord), propriété de l'indien Havells depuis 2007. Vente via le commerce de gros, innovations LED, production européenne à Tienen et Erlangen.",
+      "description": "Filiale suisse du groupe d'éclairage Havells-Sylvania (marques Sylvania, Lumiance, Concord), propriété de l'indien Havells depuis 2007. Vente via le commerce de gros, innovations LED, production européenne à Tienen et Erlangen. Le groupe produit des lampes à Tienen et des tubes LED à Erlangen ; sa lampe Concord Glace a été primée en 2013.",
       "address": "Schaffhauserstrasse 470",
       "postalCode": "8052",
       "city": "Zürich",
@@ -1315,7 +1314,7 @@
       "themes": [
         "sante"
       ],
-      "description": "Principale plateforme suisse d'échange électronique de données de santé, reliant environ 200 hôpitaux, assureurs, laboratoires, instituts de radiologie et plus de 10 000 médecins. Intégrateur IHE, partenaire du logiciel de cabinet E-Medicus.",
+      "description": "Principale plateforme suisse d'échange électronique de données de santé, reliant environ 200 hôpitaux, assureurs, laboratoires, instituts de radiologie et plus de 10 000 médecins. Intégrateur IHE, partenaire du logiciel de cabinet E-Medicus. La société a mené le projet pilote de dossier électronique du patient de Bâle-Ville ; l'échange de données médicales y a progressé de 255 % en 2012.",
       "address": "Stampfenbachstrasse 40",
       "postalCode": "8006",
       "city": "Zürich",
@@ -1341,7 +1340,7 @@
       "themes": [
         "industrie"
       ],
-      "description": "Entreprise fondée en 1959, spécialiste de la photolithographie sur verre (traits jusqu'à 150 nm) pour encodeurs, réticules, optique médicale et aérospatiale. Salle blanche de 1 200 m², 75 collaborateurs.",
+      "description": "Entreprise fondée en 1959, spécialiste de la photolithographie sur verre (traits jusqu'à 150 nm) pour encodeurs, réticules, optique médicale et aérospatiale. Salle blanche de 1 200 m², 75 collaborateurs. Fabricant à façon, sans produits propres, elle réalise disques d'encodeurs, réticules et diaphragmes pour l'automation, l'optique de sport, le médical et l'aérospatial.",
       "address": "Im Langacher",
       "postalCode": "8606",
       "city": "Greifensee",
@@ -1367,7 +1366,7 @@
       "themes": [
         "economie"
       ],
-      "description": "Société fondée en 2003, avec filiale ITPC India depuis 2010, plus de 25 collaborateurs : conseil technologique SAP, exploitation, helpdesk, hébergement en Suisse, offshoring ; plus de 250 projets SAP.",
+      "description": "Société fondée en 2003, avec filiale ITPC India depuis 2010, plus de 25 collaborateurs : conseil technologique SAP, exploitation, helpdesk, hébergement en Suisse, offshoring ; plus de 250 projets SAP. Elle dispose d'un centre de test et d'évaluation SAP et d'un helpdesk pouvant fonctionner 7 jours sur 7.",
       "address": "Freihofstrasse 14",
       "postalCode": "8048",
       "city": "Zürich",
@@ -1394,7 +1393,7 @@
         "energie",
         "industrie"
       ],
-      "description": "Entreprise spécialisée dans les grilles de combustion refroidies à l'eau pour l'incinération des déchets, de la biomasse et des combustibles de substitution, fournisseur d'installations complètes ; active en Italie et en Asie.",
+      "description": "Entreprise spécialisée dans les grilles de combustion refroidies à l'eau pour l'incinération des déchets, de la biomasse et des combustibles de substitution, fournisseur d'installations complètes ; active en Italie et en Asie. Sa technologie de grille est utilisée depuis 1993 ; elle développe un procédé d'amélioration des mâchefers et s'appuie sur des coentreprises en Asie.",
       "address": "Hofstrasse 87",
       "postalCode": "8620",
       "city": "Wetzikon",
@@ -1420,7 +1419,7 @@
       "themes": [
         "sante"
       ],
-      "description": "Clinique spécialisée au Zürichberg, sur la liste hospitalière zurichoise, combinant gériatrie aiguë, réadaptation oncologique interne et soins palliatifs ; label « qualitépalliative » depuis 2012.",
+      "description": "Clinique spécialisée au Zürichberg, sur la liste hospitalière zurichoise, combinant gériatrie aiguë, réadaptation oncologique interne et soins palliatifs ; label « qualitépalliative » depuis 2012. Elle ne dispose que de chambres à un ou deux lits, d'une radiologie numérique, d'un laboratoire et d'une pharmacie, et sa combinaison de soins palliatifs et de réadaptation oncologique est unique en Suisse.",
       "address": "Schreberweg 9",
       "postalCode": "8044",
       "city": "Zürich",
@@ -1450,7 +1449,7 @@
       "themes": [
         "formation"
       ],
-      "description": "Ecole privée reconnue par l'Etat pour élèves en difficulté (4e primaire à 10e année), avec cours d'appui, préparation aux examens d'entrée, bilans scolaires et orientation professionnelle.",
+      "description": "Ecole privée reconnue par l'Etat pour élèves en difficulté (4e primaire à 10e année), avec cours d'appui, préparation aux examens d'entrée, bilans scolaires et orientation professionnelle. Quatorze élèves suivent l'école de jour, en cours individuels ou en groupes de quatre au plus ; l'école prépare aussi aux examens d'entrée au gymnase.",
       "address": "Kreuzplatz 2",
       "postalCode": "8032",
       "city": "Zürich",
@@ -1480,7 +1479,7 @@
       "themes": [
         "industrie"
       ],
-      "description": "Créateur et producteur de compositions parfumées pour parfums, cosmétiques, produits ménagers et parfums d'ambiance ; plus de 900 nouvelles compositions par an, production automatisée certifiée ISO 9001.",
+      "description": "Créateur et producteur de compositions parfumées pour parfums, cosmétiques, produits ménagers et parfums d'ambiance ; plus de 900 nouvelles compositions par an, production automatisée certifiée ISO 9001. Ses parfumeurs travaillent à partir des briefings des clients et de la base non parfumée de leurs produits, sous le contrôle d'une équipe de chimistes.",
       "address": "Industriestrasse 9",
       "postalCode": "8305",
       "city": "Dietlikon",
@@ -1506,7 +1505,7 @@
       "themes": [
         "sante"
       ],
-      "description": "Centre médical zurichois réunissant médecine interne, rhumatologie, neurologie, psychiatrie, physiothérapie et angiologie ; bilans de prévention, consultations obésité, bilans préopératoires et expertises pour les assurances sociales.",
+      "description": "Centre médical zurichois réunissant médecine interne, rhumatologie, neurologie, psychiatrie, physiothérapie et angiologie ; bilans de prévention, consultations obésité, bilans préopératoires et expertises pour les assurances sociales. Spécialiste de la prévention cardiovasculaire, le Dr Galleon Graetz y mène des bilans de santé axés sur les risques à long terme.",
       "address": "Klosbachstrasse 116",
       "postalCode": "8032",
       "city": "Zürich",
@@ -1532,7 +1531,7 @@
       "themes": [
         "economie"
       ],
-      "description": "Société fondée en 2006 qui conseille entreprises et associations et développe des applications de bases de données, dont le CRM Addressix utilisé par de nombreuses associations ; migrations de données.",
+      "description": "Société fondée en 2006 qui conseille entreprises et associations et développe des applications de bases de données, dont le CRM Addressix utilisé par de nombreuses associations ; migrations de données. Elle a aussi développé des applications pour la chambre de compensation du biogaz et pour les groupes parlementaires de la Ville de Zurich.",
       "address": "Friedheimstrasse 15",
       "postalCode": "8057",
       "city": "Zürich",
@@ -1587,7 +1586,7 @@
         "construction",
         "mobilite"
       ],
-      "description": "Filiale suisse du groupe Pöyry (environ 6 500 experts), 700 collaborateurs sur six sites : énergie, hydroélectricité, tunnels (Gothard), transports, eau et environnement, conseil en management.",
+      "description": "Filiale suisse du groupe Pöyry (environ 6 500 experts), 700 collaborateurs sur six sites : énergie, hydroélectricité, tunnels (Gothard), transports, eau et environnement, conseil en management. Née mi-2013 de la fusion de trois entités suisses, elle participe depuis près de 40 ans au tunnel de base du Gothard et a contribué à l'usine de biogaz de Werdhölzli.",
       "address": "Hardturmstrasse 161, P.O.Box",
       "postalCode": "8037",
       "city": "Zürich",
@@ -1613,7 +1612,7 @@
       "themes": [
         "construction"
       ],
-      "description": "Fabricant des colonnes mixtes Geilinger et du système anti-poinçonnement Europilz, titulaire d'agréments allemands DIBt ; références en Suisse (tour Roche) et à l'étranger, qui représente environ la moitié du chiffre d'affaires.",
+      "description": "Fabricant des colonnes mixtes Geilinger et du système anti-poinçonnement Europilz, titulaire d'agréments allemands DIBt ; références en Suisse (tour Roche) et à l'étranger, qui représente environ la moitié du chiffre d'affaires. Ses références incluent la tour Roche à Bâle, la couverture de l'A1 à Lenzburg et le siège de Bosch à Renningen.",
       "address": "Feldstrasse 66",
       "postalCode": "8180",
       "city": "Bülach",
@@ -1644,7 +1643,7 @@
         "industrie",
         "economie"
       ],
-      "description": "Association faîtière de l'industrie suisse des machines, des équipements électriques et des métaux (environ 1 000 entreprises membres) ; la branche emploie 327 000 personnes. Conseil juridique, formation des cadres, convention collective, lobbying.",
+      "description": "Association faîtière de l'industrie suisse des machines, des équipements électriques et des métaux (environ 1 000 entreprises membres) ; la branche emploie 327 000 personnes. Conseil juridique, formation des cadres, convention collective, lobbying. En 2013, elle a conclu une nouvelle convention collective de travail couvrant 560 de ses entreprises membres.",
       "address": "Pfingstweidstrasse 102",
       "postalCode": "8005",
       "city": "Zürich",
@@ -1697,7 +1696,7 @@
         "sante",
         "formation"
       ],
-      "description": "Hôpital universitaire d'environ 40 cliniques et instituts et 8 000 collaborateurs ; Centre universitaire du cœur, centre des tumeurs, neurocentre, membre fondateur de Hochschulmedizin Zürich.",
+      "description": "Hôpital universitaire d'environ 40 cliniques et instituts et 8 000 collaborateurs ; Centre universitaire du cœur, centre des tumeurs, neurocentre, membre fondateur de Hochschulmedizin Zürich. L'hôpital a traité 36 500 patients hospitalisés et plus de 134 000 patients ambulatoires et prépare le renouvellement complet de ses bâtiments.",
       "address": "Rämistrasse 100",
       "postalCode": "8091",
       "city": "Zürich",
