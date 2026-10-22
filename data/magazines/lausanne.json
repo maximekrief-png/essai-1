@@ -1307,7 +1307,7 @@
       "city": "Bussigny",
       "canton": "VD",
       "country": "Suisse",
-      "phone": "0041 21 706 35 35",
+      "phone": "+41 (0)21 706 35 35",
       "email": "archi@acarre.ch",
       "website": "www.acarre.ch",
       "contacts": [
@@ -1370,7 +1370,7 @@
       "city": "Crissier",
       "canton": "VD",
       "country": "Suisse",
-      "phone": "+41 21 552 39 70",
+      "phone": "+41 (0)21 552 39 70",
       "email": "info@bentley-lausanne.ch",
       "website": "",
       "contacts": [],
@@ -1396,7 +1396,7 @@
       "country": "Suisse",
       "phone": "+41 (0)58 433 80 00",
       "email": "winterthur@agrola.ch",
-      "website": "http://www.agrola.ch",
+      "website": "www.agrola.ch",
       "contacts": [
         {
           "name": "Alexander Streitzig",
@@ -1446,7 +1446,7 @@
       "city": "Lausanne 16",
       "canton": "VD",
       "country": "Suisse",
-      "phone": "+41 22 308 47 74",
+      "phone": "+41 (0)22 308 47 74",
       "email": "emilio.abadin@apleona.com",
       "website": "www.apleona.com",
       "contacts": [
@@ -1476,9 +1476,9 @@
       "city": "Lausanne",
       "canton": "VD",
       "country": "Suisse",
-      "phone": "+41 58 424 11 11",
+      "phone": "+41 (0)58 424 11 11",
       "email": "lausanne@bg-21.com",
-      "website": "http://www.bg-21.com",
+      "website": "www.bg-21.com",
       "contacts": [],
       "page": "18-19",
       "pdfPages": [
@@ -1501,7 +1501,7 @@
       "city": "Epalinges",
       "canton": "VD",
       "country": "Suisse",
-      "phone": "+41(0)21 651 90 00",
+      "phone": "+41 (0)21 651 90 00",
       "email": "info@biopole.ch",
       "website": "www.biopole.ch",
       "contacts": [],
@@ -1526,7 +1526,7 @@
       "city": "Montreux 2",
       "canton": "VD",
       "country": "Suisse",
-      "phone": "021 966 10 80",
+      "phone": "+41 (0)21 966 10 80",
       "email": "mail@bcing.ch",
       "website": "www.bcing.ch",
       "contacts": [
@@ -1560,7 +1560,7 @@
       "city": "Lausanne",
       "canton": "VD",
       "country": "Suisse",
-      "phone": "+41 21 693 79 94",
+      "phone": "+41 (0)21 693 79 94",
       "email": "info@cibm.ch",
       "website": "www.cibm.ch",
       "contacts": [
@@ -1591,7 +1591,7 @@
       "country": "Suisse",
       "phone": "+41 (0)21 863 11 80",
       "email": "info@cifer.ch",
-      "website": "http://cifer.ch/fr",
+      "website": "cifer.ch/fr",
       "contacts": [
         {
           "name": "Philippe Perusset",
@@ -1619,7 +1619,7 @@
       "city": "Eclépens",
       "canton": "VD",
       "country": "Suisse",
-      "phone": "021 866 03 00",
+      "phone": "+41 (0)21 866 03 00",
       "email": "cridec@cridec.ch",
       "website": "www.cridec.ch",
       "contacts": [
@@ -1649,7 +1649,7 @@
       "city": "Romanel-sur-Lausanne",
       "canton": "VD",
       "country": "Suisse",
-      "phone": "+41(0)21 732 14 32",
+      "phone": "+41 (0)21 732 14 32",
       "email": "info@des.swiss",
       "website": "www.des.swiss",
       "contacts": [],
@@ -1708,7 +1708,7 @@
       "country": "Suisse",
       "phone": "+41 (0)848 701 000",
       "email": "contact@effitec.ch",
-      "website": "http://www.effitec.ch",
+      "website": "www.effitec.ch",
       "contacts": [],
       "page": "34-35",
       "pdfPages": [
@@ -1730,7 +1730,7 @@
       "city": "Lausanne 12",
       "canton": "VD",
       "country": "Suisse",
-      "phone": "+41 21 654 65 00",
+      "phone": "+41 (0)21 654 65 00",
       "email": "info@ensr.ch",
       "website": "www.ensr.ch",
       "contacts": [],
@@ -1755,9 +1755,9 @@
       "city": "Saint-Prex",
       "canton": "VD",
       "country": "Suisse",
-      "phone": "+41 58 301 00 00",
+      "phone": "+41 (0)58 301 00 00",
       "email": "",
-      "website": "https://www.ferring.com",
+      "website": "www.ferring.com",
       "contacts": [
         {
           "name": "Michel Pettigrew",
@@ -1819,7 +1819,7 @@
       "city": "Le Mont-sur-Lausanne",
       "canton": "VD",
       "country": "Suisse",
-      "phone": "+41 21 631 17 17",
+      "phone": "+41 (0)21 631 17 17",
       "email": "info.lemont@kuma.ch",
       "website": "www.kuma.ch/fr",
       "contacts": [],
@@ -1842,7 +1842,7 @@
       "city": "Lausanne",
       "canton": "VD",
       "country": "Suisse",
-      "phone": "+41 (0) 21 329 02 50",
+      "phone": "+41 (0)21 329 02 50",
       "email": "",
       "website": "www.guyot-architecture.ch",
       "contacts": [
@@ -1871,7 +1871,7 @@
       "city": "Lausanne",
       "canton": "VD",
       "country": "Suisse",
-      "phone": "+41 (0) 21 316 80 00",
+      "phone": "+41 (0)21 316 80 00",
       "email": "info@hesav.ch",
       "website": "www.hesav.ch",
       "contacts": [
@@ -1901,9 +1901,9 @@
       "city": "Lausanne",
       "canton": "VD",
       "country": "Suisse",
-      "phone": "+41 21 616 22 66",
+      "phone": "+41 (0)21 616 22 66",
       "email": "",
-      "website": "Kalin-associes.ch",
+      "website": "kalin-associes.ch",
       "contacts": [
         {
           "name": "Jean-François Kälin",
@@ -1931,7 +1931,7 @@
       "city": "Lausanne 25",
       "canton": "VD",
       "country": "Suisse",
-      "phone": "+41 (0) 21 785 13 92",
+      "phone": "+41 (0)21 785 13 92",
       "email": "lhc@ehl.ch",
       "website": "www.lhcconsulting.com",
       "contacts": [
@@ -1960,7 +1960,7 @@
       "city": "Romanel-sur-Lausanne",
       "canton": "VD",
       "country": "Suisse",
-      "phone": "+41 21 731 51 11",
+      "phone": "+41 (0)21 731 51 11",
       "email": "",
       "website": "www.montangeropeinture.ch",
       "contacts": [
@@ -2083,9 +2083,9 @@
       "city": "Lausanne",
       "canton": "VD",
       "country": "Suisse",
-      "phone": "+41 (0)21 310.40.10",
+      "phone": "+41 (0)21 310 40 10",
       "email": "",
-      "website": "www.onlineautomation.ch/",
+      "website": "www.onlineautomation.ch",
       "contacts": [],
       "page": "56",
       "pdfPages": [
@@ -2106,7 +2106,7 @@
       "city": "Lausanne",
       "canton": "VD",
       "country": "Suisse",
-      "phone": "+41 21 641 67 67",
+      "phone": "+41 (0)21 641 67 67",
       "email": "info@orion.ch",
       "website": "www.orion.ch",
       "contacts": [
@@ -2135,7 +2135,7 @@
       "city": "Le Mont-sur-Lausanne",
       "canton": "VD",
       "country": "Suisse",
-      "phone": "+41 21 641 47 10",
+      "phone": "+41 (0)21 641 47 10",
       "email": "",
       "website": "srg-engineering.ch",
       "contacts": [],
@@ -2183,7 +2183,7 @@
       "city": "Rossens",
       "canton": "FR",
       "country": "Suisse",
-      "phone": "+41 26/424 28 05",
+      "phone": "+41 (0)26 424 28 05",
       "email": "roubatysa@roubatysa.ch",
       "website": "www.roubatysa.ch",
       "contacts": [
@@ -2211,7 +2211,7 @@
       "city": "Morges 2",
       "canton": "VD",
       "country": "Suisse",
-      "phone": "+41 21 811 43 43",
+      "phone": "+41 (0)21 811 43 43",
       "email": "info@mbc.ch",
       "website": "www.mbc.ch",
       "contacts": [],
@@ -2235,7 +2235,7 @@
       "city": "Lausanne",
       "canton": "VD",
       "country": "Suisse",
-      "phone": "+41 21 349 24 00",
+      "phone": "+41 (0)21 349 24 00",
       "email": "",
       "website": "www.tekhne.ch",
       "contacts": [

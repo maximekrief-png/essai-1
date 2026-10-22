@@ -110,8 +110,24 @@ def page_images(pdf_slug, page):
 PAGEMAP = {}
 
 
+SHARED = set()  # (kind, pdf, page) utilisées par plusieurs fiches du même magazine
+
+
+def shared_pages(mag):
+    """Pages (pdf, n°) citées par plusieurs entreprises ou plusieurs articles : photo ambiguë."""
+    out = set()
+    for kind, items in (("companies", mag.get("companies", [])), ("articles", mag.get("articles", []))):
+        seen = {}
+        for it in items:
+            pdf_slug = it.get("imagePdf") or mag["slug"]
+            for p in set(it.get("pdfPages") or []):
+                seen.setdefault((pdf_slug, p), set()).add(it.get("slug"))
+        out |= {(kind, k[0], k[1]) for k, v in seen.items() if len(v) > 1}
+    return out
+
+
 def collect(item, mag, limit, kind):
-    pages = item.get("pdfPages") or []
+    pages = [p for p in (item.get("pdfPages") or []) if (kind, item.get("imagePdf") or mag["slug"], p) not in SHARED]
     pdf_slug = item.get("imagePdf") or mag["slug"]
     if not pages or not (WORK / "pdfs" / f"{pdf_slug}.pdf").exists():
         # pages retrouvées dans le PDF complet du site (tools/match_pages.py)
@@ -139,6 +155,8 @@ def main():
     for f in files:
         mag = json.loads(f.read_text(encoding="utf-8"))
         mag.setdefault("slug", f.stem)
+        SHARED.clear()
+        SHARED.update(shared_pages(mag))
         n = 0
         for a in mag.get("articles", []):
             imgs = collect(a, mag, 6, "articles")

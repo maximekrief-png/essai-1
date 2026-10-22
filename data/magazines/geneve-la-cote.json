@@ -309,7 +309,7 @@
       "page": "20",
       "pdfPages": [],
       "summary": "Fondé en 1999 par l'architecte Jaime Golub, le bureau carougeois Archi SA conçoit des logements et des immeubles d'activités en tenant compte des enjeux sociaux et économiques. Il privilégie des solutions rationnelles, comme l'ouverture des façades des petits appartements vers l'extérieur, et labellise tous ses projets Minergie. Avec sept collaborateurs formés à ArchiCAD, il assure toutes les phases, de l'étude de faisabilité au contrôle des coûts. Ses réalisations incluent Gingins Parc, le complexe Lancy-Square, un hôtel Ibis et des immeubles en coopérative ; plusieurs projets sont en cours à Nyon (Forum, Aqueduc, Collonges).",
-      "quote": "Le plus difficile est de faire simple.",
+      "quote": "",
       "themes": [
         "architecture",
         "construction"
@@ -1646,7 +1646,7 @@
       "city": "Carouge",
       "canton": "GE",
       "country": "Suisse",
-      "phone": "022 307 89 87",
+      "phone": "+41 (0)22 307 89 87",
       "email": "",
       "website": "www.carouge.ch",
       "contacts": [
@@ -1973,7 +1973,7 @@
       "city": "Plan-les-Ouates",
       "canton": "GE",
       "country": "Suisse",
-      "phone": "+41 (0)22 / 794 39 10",
+      "phone": "+41 (0)22 794 39 10",
       "email": "",
       "website": "www.gastromer.ch",
       "contacts": [
@@ -2060,7 +2060,7 @@
       "city": "Meyrin",
       "canton": "GE",
       "country": "Suisse",
-      "phone": "(0)22 341 51 80",
+      "phone": "+41 (0)22 341 51 80",
       "email": "",
       "website": "www.partn-air.ch",
       "contacts": [
@@ -2277,7 +2277,7 @@
       "country": "Suisse",
       "phone": "+41 (0)22 557 52 75",
       "email": "prefecture.nyon@vd.ch",
-      "website": "www.vd.ch/autorites/prefets-et-prefectures/nyon/",
+      "website": "www.vd.ch/autorites/prefets-et-prefectures/nyon",
       "contacts": [
         {
           "name": "Jean-Pierre Deriaz",

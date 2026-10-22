@@ -1589,7 +1589,7 @@
       "city": "Yverdon-les-Bains",
       "canton": "VD",
       "country": "Suisse",
-      "phone": "+41 (0) 24 557 77 77",
+      "phone": "+41 (0)24 557 77 77",
       "email": "etienne.roy@vd.ch",
       "website": "",
       "contacts": [
@@ -1618,7 +1618,7 @@
       "city": "Pontarlier Cedex",
       "canton": "",
       "country": "France",
-      "phone": "03 81 38 81 38",
+      "phone": "+41 (0)38 138 81 38",
       "email": "mairie.pontarlier@ville-pontarlier.com",
       "website": "",
       "contacts": [
@@ -1916,7 +1916,7 @@
       "canton": "NE",
       "country": "Suisse",
       "phone": "+41 (0)32 889 68 23",
-      "email": "NECO@ne.ch",
+      "email": "neco@ne.ch",
       "website": "www.neuchateleconomie.ch",
       "contacts": [
         {
@@ -2142,7 +2142,7 @@
       "city": "Nidau",
       "canton": "BE",
       "country": "Suisse",
-      "phone": "032 331 29 55",
+      "phone": "+41 (0)32 331 29 55",
       "email": "info@voser-treuhand.ch",
       "website": "www.voser-treuhand.ch",
       "contacts": [
@@ -2205,7 +2205,7 @@
       "city": "Bern",
       "canton": "BE",
       "country": "Suisse",
-      "phone": "+41 (0)58 286 6111",
+      "phone": "+41 (0)58 286 61 11",
       "email": "",
       "website": "www.ey.com/CH",
       "contacts": [
@@ -2419,7 +2419,7 @@
       "canton": "NE",
       "country": "Suisse",
       "phone": "+41 (0)32 889 69 00",
-      "email": "secretariat.DECS@ne.ch",
+      "email": "secretariat.decs@ne.ch",
       "website": "www.ne.ch",
       "contacts": [
         {
@@ -2508,7 +2508,7 @@
       "canton": "BE",
       "country": "Suisse",
       "phone": "+41 (0)32 355 25 25",
-      "email": "Seeland-jura@vigier-beton.ch",
+      "email": "seeland-jura@vigier-beton.ch",
       "website": "www.vigier-beton-seeland-jura.ch",
       "contacts": [
         {
@@ -2801,9 +2801,9 @@
       "city": "Crémines / Moutier",
       "canton": "BE",
       "country": "Suisse",
-      "phone": "032 499 81 81",
+      "phone": "+41 (0)32 499 81 81",
       "email": "jean.baertschi@bluewin.ch",
-      "website": "http://www.jeanbaertschisa.ch",
+      "website": "www.jeanbaertschisa.ch",
       "contacts": [
         {
           "name": "Jean Baertschi",
@@ -2954,7 +2954,7 @@
       "city": "",
       "canton": "",
       "country": "France",
-      "phone": "+33(0) 381 68 53 54",
+      "phone": "+33 (0)3 81 68 53 54",
       "email": "anne.girardet@pays-horloger.com",
       "website": "",
       "contacts": [
@@ -2986,7 +2986,7 @@
       "city": "La Chaux-de-Fonds",
       "canton": "NE",
       "country": "Suisse",
-      "phone": "+41 32 967 64 62",
+      "phone": "+41 (0)32 967 64 62",
       "email": "jean-daniel.jeanneret@ne.ch",
       "website": "www.chaux-de-fonds.ch",
       "contacts": [
@@ -3018,7 +3018,7 @@
       "city": "Biel/Bienne",
       "canton": "BE",
       "country": "Suisse",
-      "phone": "+41 32 326 11 01",
+      "phone": "+41 (0)32 326 11 01",
       "email": "info.mai@biel-bienne.ch",
       "website": "www.biel-bienne.ch",
       "contacts": [
@@ -3047,9 +3047,9 @@
       "city": "Lausanne",
       "canton": "VD",
       "country": "Suisse",
-      "phone": "021 316 44 11",
+      "phone": "+41 (0)21 316 44 11",
       "email": "norbert.zufferey@vd.ch",
-      "website": "www.vd.ch/autorites/departements/dfire/affaires-exterieures/",
+      "website": "www.vd.ch/autorites/departements/dfire/affaires-exterieures",
       "contacts": [
         {
           "name": "Pascal Broulis",
@@ -3208,7 +3208,7 @@
       "canton": "BE",
       "country": "Suisse",
       "phone": "+41 (0)31 910 01 01",
-      "email": "Zollikofen@geotest.ch",
+      "email": "zollikofen@geotest.ch",
       "website": "www.geotest.ch",
       "contacts": [
         {
@@ -3296,7 +3296,7 @@
       "city": "Besançon",
       "canton": "",
       "country": "France",
-      "phone": "+33 (3)81 25 25 76",
+      "phone": "+33 (0)3 81 25 25 76",
       "email": "cmascaro@minnovarc.eu",
       "website": "",
       "contacts": [
@@ -3354,7 +3354,7 @@
       "city": "Orbe",
       "canton": "VD",
       "country": "Suisse",
-      "phone": "024 442 85 00",
+      "phone": "+41 (0)24 442 85 00",
       "email": "",
       "website": "www.reve-immob.com",
       "contacts": [],

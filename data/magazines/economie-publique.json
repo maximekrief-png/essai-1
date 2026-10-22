@@ -672,7 +672,7 @@
       "canton": "VD",
       "country": "Suisse",
       "phone": "+41 (0)21 316 60 21",
-      "email": "Info.speco@vd.ch",
+      "email": "info.speco@vd.ch",
       "website": "",
       "contacts": [
         {
@@ -699,7 +699,7 @@
       "city": "Vevey",
       "canton": "VD",
       "country": "Suisse",
-      "phone": "021 964 12 11",
+      "phone": "+41 (0)21 964 12 11",
       "email": "",
       "website": "www.caisseavsvaud.ch",
       "contacts": [
@@ -725,7 +725,7 @@
       "city": "Fribourg",
       "canton": "FR",
       "country": "Suisse",
-      "phone": "+41 (0)26 504 2856",
+      "phone": "+41 (0)26 504 28 56",
       "email": "atelier@chenevart.ch",
       "website": "www.chenevart.ch",
       "contacts": [
@@ -801,8 +801,8 @@
       "city": "Lausanne",
       "canton": "VD",
       "country": "Suisse",
-      "phone": "+41(0)58 211 11 11",
-      "email": "contact@deRham.ch",
+      "phone": "+41 (0)58 211 11 11",
+      "email": "contact@derham.ch",
       "website": "www.derham.ch",
       "contacts": [
         {
@@ -828,7 +828,7 @@
       "city": "Lausanne 8 Bellevaux",
       "canton": "VD",
       "country": "Suisse",
-      "phone": "+41 21 646 99 71",
+      "phone": "+41 (0)21 646 99 71",
       "email": "lausanne@emchberger.ch",
       "website": "lausanne.emchberger.ch/fr",
       "contacts": [],
@@ -870,9 +870,9 @@
       "city": "Etoy",
       "canton": "VD",
       "country": "Suisse",
-      "phone": "+41 (0) 21 964 18 18",
+      "phone": "+41 (0)21 964 18 18",
       "email": "registrar_gwe@gemsedu.com",
-      "website": "www.gemsworldacademy-etoy.com/",
+      "website": "www.gemsworldacademy-etoy.com",
       "contacts": [],
       "page": "20-21",
       "pdfPages": [],
@@ -892,7 +892,7 @@
       "city": "Lausanne",
       "canton": "VD",
       "country": "Suisse",
-      "phone": "+41 21 316 80 00",
+      "phone": "+41 (0)21 316 80 00",
       "email": "info@hesav.ch",
       "website": "www.hesav.ch",
       "contacts": [],
@@ -914,7 +914,7 @@
       "city": "Lausanne",
       "canton": "VD",
       "country": "Suisse",
-      "phone": "+41 21 316 92 70",
+      "phone": "+41 (0)21 316 92 70",
       "email": "accueil@hepl.ch",
       "website": "www.hepl.ch",
       "contacts": [
@@ -941,9 +941,9 @@
       "city": "Aigle",
       "canton": "VD",
       "country": "Suisse",
-      "phone": "0800 223 689",
+      "phone": "+41 (0)800 223 689",
       "email": "info@badoux-vins.ch",
-      "website": "www.badoux-vins.ch/fr/",
+      "website": "www.badoux-vins.ch/fr",
       "contacts": [
         {
           "name": "M. Dufaux",
@@ -968,9 +968,9 @@
       "city": "Yverdon-les-Bains",
       "canton": "VD",
       "country": "Suisse",
-      "phone": "+41 (0) 24 557 61 59",
+      "phone": "+41 (0)24 557 61 59",
       "email": "",
-      "website": "http://igt.heig-vd.ch",
+      "website": "igt.heig-vd.ch",
       "contacts": [
         {
           "name": "Nicolas Weber",
@@ -995,7 +995,7 @@
       "city": "Lausanne 16 Malley",
       "canton": "VD",
       "country": "Suisse",
-      "phone": "+41 21 621 82 00",
+      "phone": "+41 (0)21 621 82 00",
       "email": "",
       "website": "www.iffp-suisse.ch",
       "contacts": [
@@ -1048,7 +1048,7 @@
       "city": "Romanel-sur-Lausanne",
       "canton": "VD",
       "country": "Suisse",
-      "phone": "+41 21 731 51 11",
+      "phone": "+41 (0)21 731 51 11",
       "email": "",
       "website": "www.montangeropeinture.ch",
       "contacts": [
@@ -1081,7 +1081,7 @@
       "country": "Suisse",
       "phone": "+41 (0)21 811 43 43",
       "email": "info@mbc.ch",
-      "website": "mbc.ch/",
+      "website": "mbc.ch",
       "contacts": [],
       "page": "39-41",
       "pdfPages": [],
@@ -1101,7 +1101,7 @@
       "city": "Chavornay",
       "canton": "VD",
       "country": "Suisse",
-      "phone": "+41 (0) 24 442 99 99",
+      "phone": "+41 (0)24 442 99 99",
       "email": "info@pesa-chavornay.ch",
       "website": "www.pesa-chavornay.ch",
       "contacts": [
@@ -1132,7 +1132,7 @@
       "city": "Nyon",
       "canton": "VD",
       "country": "Suisse",
-      "phone": "+41 22 994 28 40",
+      "phone": "+41 (0)22 994 28 40",
       "email": "info@tprnov.ch",
       "website": "www.tprnov.ch/nstcm",
       "contacts": [
@@ -1159,7 +1159,7 @@
       "city": "Nyon",
       "canton": "VD",
       "country": "Suisse",
-      "phone": "+41 22 994 28 40",
+      "phone": "+41 (0)22 994 28 40",
       "email": "info@tprnov.ch",
       "website": "www.tprnov.ch/tpn",
       "contacts": [
@@ -1229,7 +1229,7 @@
       "city": "Lausanne",
       "canton": "VD",
       "country": "Suisse",
-      "phone": "+41 21 618 88 88",
+      "phone": "+41 (0)21 618 88 88",
       "email": "info@vaudoise.ch",
       "website": "www.vaudoise.ch",
       "contacts": [

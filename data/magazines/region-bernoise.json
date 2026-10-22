@@ -536,7 +536,7 @@
       "city": "Nidau",
       "canton": "BE",
       "country": "Suisse",
-      "phone": "+41 031 635 25 00",
+      "phone": "+41 (0)31 635 25 00",
       "email": "philippe.chetelat@jgk.be.ch",
       "website": "www.jgk.be.ch/prefectures",
       "contacts": [
@@ -565,9 +565,9 @@
       "city": "Biel",
       "canton": "BE",
       "country": "Suisse",
-      "phone": "032 344 06 84",
+      "phone": "+41 (0)32 344 06 84",
       "email": "hiv-bielseeland@bern-cci.ch",
-      "website": "http://www.bern-cci.ch/biel-seeland/de/home.html",
+      "website": "www.bern-cci.ch/biel-seeland/de/home.html",
       "contacts": [
         {
           "name": "Fabian Engel",
@@ -595,7 +595,7 @@
       "city": "Bern 8",
       "canton": "BE",
       "country": "Suisse",
-      "phone": "+41 31 633 41 20",
+      "phone": "+41 (0)31 633 41 20",
       "email": "info@berninvest.be.ch",
       "website": "www.berninvest.be.ch",
       "contacts": [
@@ -654,9 +654,9 @@
       "city": "Biel-Bienne",
       "canton": "BE",
       "country": "Suisse",
-      "phone": "(+41) 32 326 13 21",
+      "phone": "+41 (0)32 326 13 21",
       "email": "wirtschaft@biel-bienne.ch",
-      "website": "https://www.biel-bienne.ch",
+      "website": "www.biel-bienne.ch",
       "contacts": [
         {
           "name": "Thomas Gfeller",
@@ -713,7 +713,7 @@
       "city": "Bern",
       "canton": "BE",
       "country": "Suisse",
-      "phone": "+41 31 631 82 55",
+      "phone": "+41 (0)31 631 82 55",
       "email": "",
       "website": "www.rektorat.unibe.ch",
       "contacts": [
@@ -742,7 +742,7 @@
       "city": "Langenthal",
       "canton": "BE",
       "country": "Suisse",
-      "phone": "062 922 50 27",
+      "phone": "+41 (0)62 922 50 27",
       "email": "info@wvo-oberaargau.ch",
       "website": "www.wvo-oberaargau.ch",
       "contacts": [
@@ -772,7 +772,7 @@
       "city": "Biel/Bienne",
       "canton": "BE",
       "country": "Suisse",
-      "phone": "+41 32 345 16 21",
+      "phone": "+41 (0)32 345 16 21",
       "email": "a115@a115.ch",
       "website": "",
       "contacts": [],
@@ -796,9 +796,9 @@
       "city": "Biel-Bienne",
       "canton": "BE",
       "country": "Suisse",
-      "phone": "+41 32 727 27 27",
+      "phone": "+41 (0)32 727 27 27",
       "email": "biel-bienne@aazemplois.ch",
-      "website": "https://www.aazemplois.ch/",
+      "website": "www.aazemplois.ch",
       "contacts": [],
       "page": "11",
       "pdfPages": [
@@ -821,9 +821,9 @@
       "city": "Nidau",
       "canton": "BE",
       "country": "Suisse",
-      "phone": "+41 32 331 54 54",
+      "phone": "+41 (0)32 331 54 54",
       "email": "info@alphawt.ch",
-      "website": "https://www.alphawt.ch",
+      "website": "www.alphawt.ch",
       "contacts": [],
       "page": "12",
       "pdfPages": [
@@ -848,7 +848,7 @@
       "country": "Suisse",
       "phone": "+41 (0)32 624 90 00",
       "email": "info@espacereal.ch",
-      "website": "https://espacereal.ch",
+      "website": "espacereal.ch",
       "contacts": [
         {
           "name": "Lars Egger",
@@ -906,9 +906,9 @@
       "city": "Biel",
       "canton": "BE",
       "country": "Suisse",
-      "phone": "+41 32 344 21 21",
+      "phone": "+41 (0)32 344 21 21",
       "email": "",
-      "website": "http://www.HARTING.ch",
+      "website": "www.harting.ch",
       "contacts": [
         {
           "name": "Susanne Giehl",
@@ -935,7 +935,7 @@
       "city": "Bienne",
       "canton": "BE",
       "country": "Suisse",
-      "phone": "032 327 06 06",
+      "phone": "+41 (0)32 327 06 06",
       "email": "",
       "website": "www.gfbienne.ch",
       "contacts": [
@@ -1026,9 +1026,9 @@
       "city": "Biel-Bienne 4",
       "canton": "BE",
       "country": "Suisse",
-      "phone": "(+41) 32 344 85 20",
+      "phone": "+41 (0)32 344 85 20",
       "email": "",
-      "website": "https://www.revisia.ch",
+      "website": "www.revisia.ch",
       "contacts": [
         {
           "name": "Christoph Schütz",

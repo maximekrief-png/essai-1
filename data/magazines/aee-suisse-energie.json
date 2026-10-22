@@ -984,9 +984,9 @@
       "city": "Bern",
       "canton": "BE",
       "country": "Suisse",
-      "phone": "+41 31 301 89 62",
+      "phone": "+41 (0)31 301 89 62",
       "email": "info@aeesuisse.ch",
-      "website": "http://www.aeesuisse.ch/",
+      "website": "www.aeesuisse.ch",
       "contacts": [
         {
           "name": "Gianni Operto",
@@ -1174,9 +1174,9 @@
       "city": "Neuchâtel 2",
       "canton": "NE",
       "country": "Suisse",
-      "phone": "+41 (0) 21 695 4209",
+      "phone": "+41 (0)21 695 42 09",
       "email": "",
-      "website": "http://pvlab.epfl.ch/",
+      "website": "pvlab.epfl.ch",
       "contacts": [
         {
           "name": "Christophe Ballif",
@@ -1201,9 +1201,9 @@
       "city": "Ecublens",
       "canton": "VD",
       "country": "Suisse",
-      "phone": "+41 21 693 24 87",
+      "phone": "+41 (0)21 693 24 87",
       "email": "",
-      "website": "https://energycenter.epfl.ch",
+      "website": "energycenter.epfl.ch",
       "contacts": [
         {
           "name": "François Vuille",
@@ -1228,9 +1228,9 @@
       "city": "Sion 2",
       "canton": "VS",
       "country": "Suisse",
-      "phone": "+41 27 606 85 23",
+      "phone": "+41 (0)27 606 85 23",
       "email": "",
-      "website": "http://www.hevs.ch/hei",
+      "website": "www.hevs.ch/hei",
       "contacts": [
         {
           "name": "Gaëtan Chérix",
@@ -1257,7 +1257,7 @@
       "country": "Suisse",
       "phone": "+41 (0)24 557 64 62",
       "email": "",
-      "website": "http://energies.heig-vd.ch",
+      "website": "energies.heig-vd.ch",
       "contacts": [
         {
           "name": "Massimiliano Capezzali",
@@ -1417,9 +1417,9 @@
       "city": "Basel",
       "canton": "BS",
       "country": "Suisse",
-      "phone": "+41 61 267 85 44",
+      "phone": "+41 (0)61 267 85 44",
       "email": "",
-      "website": "http://www.wsu.bs.ch/",
+      "website": "www.wsu.bs.ch",
       "contacts": [
         {
           "name": "Christoph Brutschin",
@@ -1440,11 +1440,11 @@
       ],
       "description": "Commune fribourgeoise labellisée Cité de l’énergie en 2015, fondatrice de Neyergie SA (réseau de chaleur au bois, centrale photovoltaïque avec stockage et microgrid). Le numéro postal imprimé dans le texte est incomplet (« CH- 740 ») et n’est donc pas repris.",
       "address": "Rte de Romont 4, Case postale 11",
-      "postalCode": "",
+      "postalCode": "1740",
       "city": "Neyruz",
       "canton": "FR",
       "country": "Suisse",
-      "phone": "+41 26 916 15 50",
+      "phone": "+41 (0)26 916 15 50",
       "email": "neyruz@neyruz.ch",
       "website": "",
       "contacts": [
@@ -1467,7 +1467,7 @@
       ],
       "description": "Société fondée en 2015 par la commune de Neyruz pour promouvoir les renouvelables : réseau de chaleur alimenté par une chaudière à plaquettes de bois, centrale photovoltaïque de 500 000 kWh par an sur les toits d’un nouveau quartier, stockage et microgrid soutenus par l’OFEN.",
       "address": "",
-      "postalCode": "",
+      "postalCode": "1740",
       "city": "Neyruz",
       "canton": "FR",
       "country": "Suisse",
@@ -1493,7 +1493,7 @@
       "city": "Neuchâtel",
       "canton": "NE",
       "country": "Suisse",
-      "phone": "+41 32 720 01 00",
+      "phone": "+41 (0)32 720 01 00",
       "email": "",
       "website": "www.ajs.ch",
       "contacts": [
@@ -1522,7 +1522,7 @@
       "country": "Suisse",
       "phone": "+41 (0)21 651 64 00",
       "email": "info@betelec.ch",
-      "website": "http://betelec.ch/",
+      "website": "betelec.ch",
       "contacts": [
         {
           "name": "Guillaume Thouvenin",
@@ -1574,9 +1574,9 @@
       "city": "Sion",
       "canton": "VS",
       "country": "Suisse",
-      "phone": "+41 27 323 70 17",
+      "phone": "+41 (0)27 323 70 17",
       "email": "drosera@drosera-vs.ch",
-      "website": "https://www.drosera-vs.ch/",
+      "website": "www.drosera-vs.ch",
       "contacts": [],
       "page": "29",
       "pdfPages": [],
@@ -1646,7 +1646,7 @@
       "city": "Sierre",
       "canton": "VS",
       "country": "Suisse",
-      "phone": "027 452 30 00",
+      "phone": "+41 (0)27 452 30 00",
       "email": "info@dpe.ch",
       "website": "www.dpe.ch",
       "contacts": [
@@ -1712,9 +1712,9 @@
       "city": "Granges-Paccot",
       "canton": "FR",
       "country": "Suisse",
-      "phone": "+41 26 352 51 21",
+      "phone": "+41 (0)26 352 51 21",
       "email": "info@groupe-e.ch",
-      "website": "https://www.groupe-e.ch",
+      "website": "www.groupe-e.ch",
       "contacts": [
         {
           "name": "Dominique Gachoud",
@@ -1747,7 +1747,7 @@
       "city": "Matran",
       "canton": "FR",
       "country": "Suisse",
-      "phone": "+41(0)26 422 17 45",
+      "phone": "+41 (0)26 422 17 45",
       "email": "info@energest.ch",
       "website": "www.energest.ch",
       "contacts": [
@@ -1774,9 +1774,9 @@
       "city": "St-Maurice",
       "canton": "VS",
       "country": "Suisse",
-      "phone": "+41(0)24 485 17 79",
+      "phone": "+41 (0)24 485 17 79",
       "email": "info@amesa.ch",
-      "website": "http://amesa.ch/",
+      "website": "amesa.ch",
       "contacts": [
         {
           "name": "Gaïl Rappaz",
@@ -1805,9 +1805,9 @@
       "city": "Genève",
       "canton": "GE",
       "country": "Suisse",
-      "phone": "+41 (0) 22 708 48 48",
+      "phone": "+41 (0)22 708 48 48",
       "email": "",
-      "website": "http://www.epsa.ch",
+      "website": "www.epsa.ch",
       "contacts": [],
       "page": "40",
       "pdfPages": [],
@@ -1827,7 +1827,7 @@
       "city": "Gland",
       "canton": "VD",
       "country": "Suisse",
-      "phone": "022 364 31 31",
+      "phone": "+41 (0)22 364 31 31",
       "email": "info@seicgland.ch",
       "website": "www.seicgland.ch",
       "contacts": [],
@@ -1875,9 +1875,9 @@
       "city": "Renens",
       "canton": "VD",
       "country": "Suisse",
-      "phone": "+41 21 315 82 50",
+      "phone": "+41 (0)21 315 82 50",
       "email": "contact@neo-technologies.ch",
-      "website": "http://www.neo-technologies.ch",
+      "website": "www.neo-technologies.ch",
       "contacts": [],
       "page": "42-43",
       "pdfPages": [],
@@ -1897,9 +1897,9 @@
       "city": "Couvet",
       "canton": "NE",
       "country": "Suisse",
-      "phone": "+41 32 863 12 24",
+      "phone": "+41 (0)32 863 12 24",
       "email": "info@sevt.ch",
-      "website": "http://www.sevt.ch",
+      "website": "www.sevt.ch",
       "contacts": [],
       "page": "44",
       "pdfPages": [],

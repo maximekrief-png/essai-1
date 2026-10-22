@@ -1283,7 +1283,7 @@
       "city": "Tramelan",
       "canton": "BE",
       "country": "Suisse",
-      "phone": "+41 32 486 88 88",
+      "phone": "+41 (0)32 486 88 88",
       "email": "info@artecad.ch",
       "website": "www.artecad.ch",
       "contacts": [],
@@ -1332,7 +1332,7 @@
       "city": "La Chaux-de-Fonds",
       "canton": "NE",
       "country": "Suisse",
-      "phone": "032/ 968.37.41",
+      "phone": "+41 (0)32 968 37 41",
       "email": "info@beauregard-manufacture.ch",
       "website": "",
       "contacts": [
@@ -1361,7 +1361,7 @@
       "country": "Suisse",
       "phone": "",
       "email": "",
-      "website": "CYBERIS.CH",
+      "website": "cyberis.ch",
       "contacts": [],
       "page": "16",
       "pdfPages": [],
@@ -1381,7 +1381,7 @@
       "city": "Düdingen",
       "canton": "FR",
       "country": "Suisse",
-      "phone": "026 493 18 45",
+      "phone": "+41 (0)26 493 18 45",
       "email": "",
       "website": "www.demantdiamant.ch",
       "contacts": [
@@ -1430,7 +1430,7 @@
       "city": "Le Lieu",
       "canton": "VD",
       "country": "Suisse",
-      "phone": "+41 21 565 13 03",
+      "phone": "+41 (0)21 565 13 03",
       "email": "",
       "website": "www.dhvj.ch",
       "contacts": [
@@ -1459,7 +1459,7 @@
       "country": "Suisse",
       "phone": "+41 (0)32 924 40 08",
       "email": "",
-      "website": "https://madeinartsa.ch/",
+      "website": "madeinartsa.ch",
       "contacts": [
         {
           "name": "Benjamin Medina",
@@ -1484,7 +1484,7 @@
       "city": "La Chaux-de-Fonds",
       "canton": "NE",
       "country": "Suisse",
-      "phone": "032 967 70 80",
+      "phone": "+41 (0)32 967 70 80",
       "email": "info@gil-sertissage.ch",
       "website": "www.gil-sertissage.ch",
       "contacts": [
@@ -1537,7 +1537,7 @@
       "city": "Le Locle",
       "canton": "NE",
       "country": "Suisse",
-      "phone": "+41 32 931 18 00",
+      "phone": "+41 (0)32 931 18 00",
       "email": "info@inhotec.ch",
       "website": "www.inhotec.ch",
       "contacts": [
@@ -1564,7 +1564,7 @@
       "city": "Villars-Sainte-Croix",
       "canton": "VD",
       "country": "Suisse",
-      "phone": "+41 21 635 95 30",
+      "phone": "+41 (0)21 635 95 30",
       "email": "info@leathertime.ch",
       "website": "",
       "contacts": [
@@ -1620,7 +1620,7 @@
       "country": "Suisse",
       "phone": "+41 (0)32 484 70 70",
       "email": "",
-      "website": "http://www.metafil-lagirolle.ch/",
+      "website": "www.metafil-lagirolle.ch",
       "contacts": [
         {
           "name": "Pierre Rom",
@@ -1645,7 +1645,7 @@
       "city": "Tramelan",
       "canton": "BE",
       "country": "Suisse",
-      "phone": "+41 (0) 32 487 30 27",
+      "phone": "+41 (0)32 487 30 27",
       "email": "info@chatelain-proto.ch",
       "website": "www.chatelain-proto.ch",
       "contacts": [],
@@ -1711,7 +1711,7 @@
       "city": "Magden",
       "canton": "AG",
       "country": "Suisse",
-      "phone": "+41 61 841 03 33",
+      "phone": "+41 (0)61 841 03 33",
       "email": "info@oeschswitzerland.com",
       "website": "www.oeschswitzerland.com",
       "contacts": [
@@ -1763,7 +1763,7 @@
       "city": "Biel/Bienne",
       "canton": "BE",
       "country": "Suisse",
-      "phone": "+41 32 344 10 00",
+      "phone": "+41 (0)32 344 10 00",
       "email": "polydec@polydec.ch",
       "website": "",
       "contacts": [
@@ -1892,7 +1892,7 @@
       "city": "Bienne",
       "canton": "BE",
       "country": "Suisse",
-      "phone": "+41 32 343 60 30",
+      "phone": "+41 (0)32 343 60 30",
       "email": "info@microtec.ch",
       "website": "",
       "contacts": [
@@ -1927,7 +1927,7 @@
       "city": "Biberist",
       "canton": "SO",
       "country": "Suisse",
-      "phone": "+ 41 32 674 41 11",
+      "phone": "+41 (0)32 674 41 11",
       "email": "info@suvema.ch",
       "website": "www.suvema.ch",
       "contacts": [
@@ -1981,7 +1981,7 @@
       "city": "Delémont",
       "canton": "JU",
       "country": "Suisse",
-      "phone": "+ 41 (0)32 422 32 76",
+      "phone": "+41 (0)32 422 32 76",
       "email": "",
       "website": "timsaph.ch",
       "contacts": [
@@ -2009,7 +2009,7 @@
       "city": "Lugano",
       "canton": "TI",
       "country": "Suisse",
-      "phone": "+41 91 911 84 84",
+      "phone": "+41 (0)91 911 84 84",
       "email": "info@atio-ch.com",
       "website": "www.atio-ch.com",
       "contacts": [
@@ -2040,7 +2040,7 @@
       "city": "Serocca d'Agno",
       "canton": "TI",
       "country": "Suisse",
-      "phone": "+41 91 911 84 84",
+      "phone": "+41 (0)91 911 84 84",
       "email": "info@atio-ch.com",
       "website": "",
       "contacts": [],
@@ -2062,7 +2062,7 @@
       "city": "Balerna",
       "canton": "TI",
       "country": "Suisse",
-      "phone": "+41 91 683 30 21",
+      "phone": "+41 (0)91 683 30 21",
       "email": "frieden@bluewin.ch",
       "website": "www.friedensasyntheticsapphire.ch",
       "contacts": [
@@ -2090,7 +2090,7 @@
       "city": "Rancate",
       "canton": "TI",
       "country": "Suisse",
-      "phone": "+41 91 640 50 70",
+      "phone": "+41 (0)91 640 50 70",
       "email": "info@ecometalsa.ch",
       "website": "www.ecometalsa.ch",
       "contacts": [
@@ -2117,7 +2117,7 @@
       "city": "Mendrisio",
       "canton": "TI",
       "country": "Suisse",
-      "phone": "+41 91 646 21 36 / +41 91 646 21 46",
+      "phone": "+41 (0)91 646 21 36 / +41 (0)91 646 21 46",
       "email": "info@sycmontres.ch",
       "website": "www.sycmontres.ch",
       "contacts": [

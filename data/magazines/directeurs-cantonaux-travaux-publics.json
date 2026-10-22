@@ -1119,9 +1119,9 @@
       "city": "Lausanne",
       "canton": "VD",
       "country": "Suisse",
-      "phone": "+41(0)21 316 73 00",
+      "phone": "+41 (0)21 316 73 00",
       "email": "info@sipal.ch",
-      "website": "www.vd.ch/autorites/departements/dfire/immeubles-patrimoine-et-logistique/",
+      "website": "www.vd.ch/autorites/departements/dfire/immeubles-patrimoine-et-logistique",
       "contacts": [
         {
           "name": "Emmanuel Ventura",
@@ -1153,9 +1153,9 @@
       "city": "Lausanne",
       "canton": "VD",
       "country": "Suisse",
-      "phone": "+41(0)21 316 71 10",
+      "phone": "+41 (0)21 316 71 10",
       "email": "info.dgmr@vd.ch",
-      "website": "www.vd.ch/autorites/departements/dirh/dgmr/",
+      "website": "www.vd.ch/autorites/departements/dirh/dgmr",
       "contacts": [
         {
           "name": "Pierre-Yves Gruaz",
@@ -1183,7 +1183,7 @@
       "city": "Payerne",
       "canton": "VD",
       "country": "Suisse",
-      "phone": "+41 26 663 97 11",
+      "phone": "+41 (0)26 663 97 11",
       "email": "info@farmwood.ch",
       "website": "www.farmwood.ch",
       "contacts": [],
@@ -1232,7 +1232,7 @@
       "city": "Etagnières",
       "canton": "VD",
       "country": "Suisse",
-      "phone": "+41 21 671 06 11",
+      "phone": "+41 (0)21 671 06 11",
       "email": "info@baconsulting.ch",
       "website": "www.architectes.ch/baconsulting",
       "contacts": [],
@@ -1259,7 +1259,7 @@
       "country": "Suisse",
       "phone": "+41 (0)21 863 22 44",
       "email": "info@archeodunum.ch",
-      "website": "http://archeodunum.ch",
+      "website": "archeodunum.ch",
       "contacts": [],
       "page": "10",
       "pdfPages": [
@@ -1281,7 +1281,7 @@
       "city": "Lausanne",
       "canton": "VD",
       "country": "Suisse",
-      "phone": "+41 21 643 77 77",
+      "phone": "+41 (0)21 643 77 77",
       "email": "info@chabloz-partenaires.ch",
       "website": "www.chabloz-partenaires.ch",
       "contacts": [],
@@ -1307,7 +1307,7 @@
       "country": "Suisse",
       "phone": "+41 (0)26 469 70 70",
       "email": "info@cinelec.ch",
-      "website": "http://cinelec.ch",
+      "website": "cinelec.ch",
       "contacts": [],
       "page": "12, 41",
       "pdfPages": [
@@ -1329,7 +1329,7 @@
       "city": "Granges-Marnand",
       "canton": "VD",
       "country": "Suisse",
-      "phone": "+41 (0) 26/668.91.10",
+      "phone": "+41 (0)26 668 91 10",
       "email": "info@clotconstructions.ch",
       "website": "",
       "contacts": [
@@ -1395,9 +1395,9 @@
       "city": "Lausanne",
       "canton": "VD",
       "country": "Suisse",
-      "phone": "+41 21 613 44 77",
+      "phone": "+41 (0)21 613 44 77",
       "email": "info@ecoscan.ch",
-      "website": "https://www.ecoscan.ch",
+      "website": "www.ecoscan.ch",
       "contacts": [],
       "page": "15",
       "pdfPages": [
@@ -1420,7 +1420,7 @@
       "city": "Lausanne",
       "canton": "VD",
       "country": "Suisse",
-      "phone": "+41 58 451 75 50",
+      "phone": "+41 (0)58 451 75 50",
       "email": "lausanne@emchberger.ch",
       "website": "",
       "contacts": [
@@ -1452,7 +1452,7 @@
       "country": "Suisse",
       "phone": "+41 (0)21 905 09 05",
       "email": "info@freyssinet.ch",
-      "website": "http://www.freyssinet.ch",
+      "website": "www.freyssinet.ch",
       "contacts": [],
       "page": "18-19",
       "pdfPages": [
@@ -1475,7 +1475,7 @@
       "city": "Vevey",
       "canton": "VD",
       "country": "Suisse",
-      "phone": "021 925 29 90",
+      "phone": "+41 (0)21 925 29 90",
       "email": "info@strateg.ch",
       "website": "www.strateg.ch",
       "contacts": [
@@ -1515,7 +1515,7 @@
       "city": "Domdidier",
       "canton": "FR",
       "country": "Suisse",
-      "phone": "+41 (026) 676 92 00",
+      "phone": "+41 (0)26 676 92 00",
       "email": "",
       "website": "www.prodo.ch",
       "contacts": [
@@ -1544,9 +1544,9 @@
       "city": "Bern",
       "canton": "BE",
       "country": "Suisse",
-      "phone": "+41 31 633 34 11",
+      "phone": "+41 (0)31 633 34 11",
       "email": "info.agg@bve.be.ch",
-      "website": "https://www.bve.be.ch/",
+      "website": "www.bve.be.ch",
       "contacts": [
         {
           "name": "Angelo Cioppi",
@@ -1580,7 +1580,7 @@
       "country": "Suisse",
       "phone": "+41 (0)31 633 35 11",
       "email": "info.tba@bve.be.ch",
-      "website": "http://www.be.ch/tba",
+      "website": "www.be.ch/tba",
       "contacts": [
         {
           "name": "Stefan Studer",
@@ -1608,9 +1608,9 @@
       "city": "Bern",
       "canton": "BE",
       "country": "Suisse",
-      "phone": "(+41) 31 335 82 82",
+      "phone": "+41 (0)31 335 82 82",
       "email": "bern.ch@engie.com",
-      "website": "https://www.engie.ch",
+      "website": "www.engie.ch",
       "contacts": [
         {
           "name": "Stefan Oswald",
@@ -1666,7 +1666,7 @@
       "city": "Bützberg",
       "canton": "BE",
       "country": "Suisse",
-      "phone": "+41 62 958 52 52",
+      "phone": "+41 (0)62 958 52 52",
       "email": "info@glastroesch.ch",
       "website": "www.glastroesch.ch",
       "contacts": [
@@ -1696,7 +1696,7 @@
       "city": "Schüpbach",
       "canton": "BE",
       "country": "Suisse",
-      "phone": "(+41) 34 497 72 72",
+      "phone": "+41 (0)34 497 72 72",
       "email": "info@schreinermanufaktur.ch",
       "website": "www.schreinermanufaktur.ch",
       "contacts": [
@@ -1726,7 +1726,7 @@
       "city": "Safnern",
       "canton": "BE",
       "country": "Suisse",
-      "phone": "(+41) 32 355 25 25",
+      "phone": "+41 (0)32 355 25 25",
       "email": "",
       "website": "www.vigier-beton-nordwest.ch",
       "contacts": [
@@ -1756,7 +1756,7 @@
       "city": "Fribourg",
       "canton": "FR",
       "country": "Suisse",
-      "phone": "026 305 37 99",
+      "phone": "+41 (0)26 305 37 99",
       "email": "sbat@fr.ch",
       "website": "",
       "contacts": [
@@ -1785,7 +1785,7 @@
       "city": "Fribourg",
       "canton": "FR",
       "country": "Suisse",
-      "phone": "+41 26 305 36 13",
+      "phone": "+41 (0)26 305 36 13",
       "email": "",
       "website": "www.fr.ch/seca",
       "contacts": [
@@ -1813,7 +1813,7 @@
       "city": "Fribourg",
       "canton": "FR",
       "country": "Suisse",
-      "phone": "+41 26 426 51 11",
+      "phone": "+41 (0)26 426 51 11",
       "email": "office@antiglio.ch",
       "website": "www.antiglio.ch",
       "contacts": [],
@@ -1838,7 +1838,7 @@
       "city": "Avry-sur-Matran",
       "canton": "FR",
       "country": "Suisse",
-      "phone": "026 470 21 79",
+      "phone": "+41 (0)26 470 21 79",
       "email": "info@graviere-bersier.ch",
       "website": "www.graviere-bersier.ch",
       "contacts": [
@@ -1869,7 +1869,7 @@
       "country": "Suisse",
       "phone": "+41 (0)26 436 25 22",
       "email": "info@energil.ch",
-      "website": "https://www.energil.ch/",
+      "website": "www.energil.ch",
       "contacts": [],
       "page": "42",
       "pdfPages": [
@@ -1915,9 +1915,9 @@
       "city": "Granges-Paccot",
       "canton": "FR",
       "country": "Suisse",
-      "phone": "+41 26 467 20 00",
+      "phone": "+41 (0)26 467 20 00",
       "email": "info@forum-fribourg.ch",
-      "website": "https://www.forum-fribourg.ch",
+      "website": "www.forum-fribourg.ch",
       "contacts": [],
       "page": "44-45",
       "pdfPages": [
@@ -1939,7 +1939,7 @@
       "city": "Estavayer-le-Lac",
       "canton": "FR",
       "country": "Suisse",
-      "phone": "+41 26 664 88 00",
+      "phone": "+41 (0)26 664 88 00",
       "email": "info@soleol.ch",
       "website": "www.soleol.ch",
       "contacts": [],
@@ -1994,8 +1994,8 @@
       "city": "Neuchâtel",
       "canton": "NE",
       "country": "Suisse",
-      "phone": "+41(0)32 / 889 64 80",
-      "email": "Service.Batiments@ne.ch",
+      "phone": "+41 (0)32 889 64 80",
+      "email": "service.batiments@ne.ch",
       "website": "www.ne.ch/sbat",
       "contacts": [
         {
@@ -2025,7 +2025,7 @@
       "city": "Neuchâtel",
       "canton": "NE",
       "country": "Suisse",
-      "phone": "+41 32 889 57 15",
+      "phone": "+41 (0)32 889 57 15",
       "email": "",
       "website": "www.ne.ch/spch",
       "contacts": [
@@ -2110,7 +2110,7 @@
       "city": "Boudry",
       "canton": "NE",
       "country": "Suisse",
-      "phone": "032 843 44 00",
+      "phone": "+41 (0)32 843 44 00",
       "email": "",
       "website": "www.quirici-freres.ch",
       "contacts": [
@@ -2146,7 +2146,7 @@
       "city": "Piotta",
       "canton": "TI",
       "country": "Suisse",
-      "phone": "+41 91 868 30 00",
+      "phone": "+41 (0)91 868 30 00",
       "email": "info@celiocostruzioni.ch",
       "website": "www.celiocostruzioni.ch",
       "contacts": [
@@ -2176,7 +2176,7 @@
       "city": "Taverne",
       "canton": "TI",
       "country": "Suisse",
-      "phone": "091 610 60 60",
+      "phone": "+41 (0)91 610 60 60",
       "email": "info@tech-insta.ch",
       "website": "www.tech-insta.ch",
       "contacts": [],
@@ -2199,7 +2199,7 @@
       "city": "Pregassona",
       "canton": "TI",
       "country": "Suisse",
-      "phone": "+41 91 941 38 21",
+      "phone": "+41 (0)91 941 38 21",
       "email": "info@fontana.ch",
       "website": "www.fontana.ch",
       "contacts": [],

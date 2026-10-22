@@ -91,10 +91,18 @@ def main():
         n = len(pages)
         cpages = {}
         offsets = Counter()
+        # Score de chaque entreprise sur chaque page : une page n'est attribuée qu'à
+        # l'entreprise qui y est la plus présente (évite la photo du voisin de page).
+        all_scores = {c["slug"]: score_pages(pages, company_signals(c)) for c in mag.get("companies", [])}
+        page_best = Counter()
+        for sc in all_scores.values():
+            for s_, i in sc:
+                page_best[i] = max(page_best[i], s_)
         for c in mag.get("companies", []):
             if c.get("pdfPages"):
                 continue
-            sel = best_pages(score_pages(pages, company_signals(c)))
+            sc = [(s_ if s_ >= page_best[i] else 0, i) for s_, i in all_scores[c["slug"]]]
+            sel = best_pages(sc)
             if sel:
                 cpages[c["slug"]] = sel
                 pr = first_int(c.get("page"))

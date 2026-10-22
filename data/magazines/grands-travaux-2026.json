@@ -752,7 +752,7 @@
       "city": "Ittigen",
       "canton": "BE",
       "country": "Suisse",
-      "phone": "058 462 94 11",
+      "phone": "+41 (0)58 462 94 11",
       "email": "info@astra.admin.ch",
       "website": "",
       "contacts": [],
@@ -800,7 +800,7 @@
       "city": "Camorino",
       "canton": "TI",
       "country": "Suisse",
-      "phone": "+41 91 851 34 40",
+      "phone": "+41 (0)91 851 34 40",
       "email": "info@argonet.ch",
       "website": "www.argonet.ch",
       "contacts": [
@@ -828,7 +828,7 @@
       "country": "Suisse",
       "phone": "",
       "email": "",
-      "website": "https://www.bergauer.ch",
+      "website": "www.bergauer.ch",
       "contacts": [
         {
           "name": "Urs Friess",
@@ -853,7 +853,7 @@
       "city": "Malvaglia",
       "canton": "TI",
       "country": "Suisse",
-      "phone": "091 870 12 17",
+      "phone": "+41 (0)91 870 12 17",
       "email": "malvaglia@casada.ch",
       "website": "www.casada.ch",
       "contacts": [
@@ -885,7 +885,7 @@
       "city": "Lausanne",
       "canton": "VD",
       "country": "Suisse",
-      "phone": "+41 21 654 00 00",
+      "phone": "+41 (0)21 654 00 00",
       "email": "info@colas.ch",
       "website": "",
       "contacts": [
@@ -912,9 +912,9 @@
       "city": "Meyrin",
       "canton": "GE",
       "country": "Suisse",
-      "phone": "+41 22 544 16 70",
+      "phone": "+41 (0)22 544 16 70",
       "email": "",
-      "website": "https://www.constructionrm.ch",
+      "website": "www.constructionrm.ch",
       "contacts": [
         {
           "name": "Alain Juillard",
@@ -992,7 +992,7 @@
       "city": "Bioggio",
       "canton": "TI",
       "country": "Suisse",
-      "phone": "+41 91 604 54 51",
+      "phone": "+41 (0)91 604 54 51",
       "email": "info@econs.ch",
       "website": "www.econs.ch",
       "contacts": [],
@@ -1014,7 +1014,7 @@
       "city": "Yverdon-les-Bains",
       "canton": "VD",
       "country": "Suisse",
-      "phone": "+41 24 422 12 70",
+      "phone": "+41 (0)24 422 12 70",
       "email": "ertec@ertec.ch",
       "website": "",
       "contacts": [
@@ -1042,7 +1042,7 @@
       "city": "Lausanne",
       "canton": "VD",
       "country": "Suisse",
-      "phone": "+41 21 613 44 77",
+      "phone": "+41 (0)21 613 44 77",
       "email": "info@ecoscan.ch",
       "website": "",
       "contacts": [
@@ -1073,7 +1073,7 @@
       "city": "Agno",
       "canton": "TI",
       "country": "Suisse",
-      "phone": "+41 91 605 22 14",
+      "phone": "+41 (0)91 605 22 14",
       "email": "info@tarchinieng.ch",
       "website": "www.tarchinieng.ch",
       "contacts": [
@@ -1100,7 +1100,7 @@
       "city": "Grono",
       "canton": "GR",
       "country": "Suisse",
-      "phone": "+41 91 827 27 39",
+      "phone": "+41 (0)91 827 27 39",
       "email": "info@censigroup.ch",
       "website": "www.censigroup.ch",
       "contacts": [
@@ -1126,7 +1126,7 @@
       "city": "Lugano Pregassona",
       "canton": "TI",
       "country": "Suisse",
-      "phone": "+41 91 941 75 55",
+      "phone": "+41 (0)91 941 75 55",
       "email": "info@ugobassi.ch",
       "website": "www.ugobassi.ch",
       "contacts": [
@@ -1153,7 +1153,7 @@
       "city": "Sion",
       "canton": "VS",
       "country": "Suisse",
-      "phone": "0800 0800 05",
+      "phone": "+41 (0)800 080 005",
       "email": "",
       "website": "",
       "contacts": [],
@@ -1175,7 +1175,7 @@
       "city": "Delémont",
       "canton": "JU",
       "country": "Suisse",
-      "phone": "032 422 15 23",
+      "phone": "+41 (0)32 422 15 23",
       "email": "info@gcomte.ch",
       "website": "",
       "contacts": [
@@ -1202,7 +1202,7 @@
       "city": "Savigny",
       "canton": "VD",
       "country": "Suisse",
-      "phone": "021 784 84 30",
+      "phone": "+41 (0)21 784 84 30",
       "email": "admin@gcm.ch",
       "website": "",
       "contacts": [
@@ -1251,7 +1251,7 @@
       "city": "Cornaux",
       "canton": "NE",
       "country": "Suisse",
-      "phone": "032 758 0202",
+      "phone": "+41 (0)32 758 02 02",
       "email": "info@juracime.ch",
       "website": "",
       "contacts": [
@@ -1279,7 +1279,7 @@
       "city": "Riazzino",
       "canton": "TI",
       "country": "Suisse",
-      "phone": "+41 91 850 50 00",
+      "phone": "+41 (0)91 850 50 00",
       "email": "info@officineghidoni.ch",
       "website": "www.officineghidoni.ch",
       "contacts": [
@@ -1306,7 +1306,7 @@
       "city": "Bernex",
       "canton": "GE",
       "country": "Suisse",
-      "phone": "+41 22 850 91 40",
+      "phone": "+41 (0)22 850 91 40",
       "email": "",
       "website": "pillet-geotechnique.ch",
       "contacts": [
@@ -1333,7 +1333,7 @@
       "city": "Martigny",
       "canton": "VS",
       "country": "Suisse",
-      "phone": "+41 27 723 50 00",
+      "phone": "+41 (0)27 723 50 00",
       "email": "info@signalisation.ch",
       "website": "",
       "contacts": [
@@ -1364,7 +1364,7 @@
       "city": "Lausanne",
       "canton": "VD",
       "country": "Suisse",
-      "phone": "+41 21 614 04 40",
+      "phone": "+41 (0)21 614 04 40",
       "email": "lausanne@rgr-sa.ch",
       "website": "www.rgr-sa.ch",
       "contacts": [
@@ -1432,7 +1432,7 @@
       "city": "Lugano",
       "canton": "TI",
       "country": "Suisse",
-      "phone": "091 971 80 21",
+      "phone": "+41 (0)91 971 80 21",
       "email": "info@spalu.com",
       "website": "",
       "contacts": [
@@ -1468,7 +1468,7 @@
       "city": "Lugano-Viganello",
       "canton": "TI",
       "country": "Suisse",
-      "phone": "+41 91 910 47 30",
+      "phone": "+41 (0)91 910 47 30",
       "email": "info@ing-bernardoni.ch",
       "website": "www.ing-bernardoni.ch",
       "contacts": [

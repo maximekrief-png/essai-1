@@ -914,7 +914,7 @@
       "country": "Suisse",
       "phone": "+41 (0)44 412 31 20",
       "email": "",
-      "website": "http://www.stadt-zuerich.ch",
+      "website": "www.stadt-zuerich.ch",
       "contacts": [
         {
           "name": "Corine Mauch",
@@ -986,7 +986,7 @@
       "city": "Zürich",
       "canton": "ZH",
       "country": "Suisse",
-      "phone": "+41 (43) 259 11 11",
+      "phone": "+41 (0)43 259 11 11",
       "email": "volkswirtschaftsdirektion@vd.zh.ch",
       "website": "www.vd.zh.ch",
       "contacts": [
@@ -1012,7 +1012,7 @@
       "city": "Zürich",
       "canton": "ZH",
       "country": "Suisse",
-      "phone": "+41 43 243 99 00",
+      "phone": "+41 (0)43 243 99 00",
       "email": "doris.aebi@aebi-kuehni.ch",
       "website": "www.aebi-kuehni.ch",
       "contacts": [
@@ -1043,7 +1043,7 @@
       "city": "Zürich",
       "canton": "ZH",
       "country": "Suisse",
-      "phone": "044 240 11 77",
+      "phone": "+41 (0)44 240 11 77",
       "email": "mail@10zu8.ch",
       "website": "www.10zu8.ch",
       "contacts": [
@@ -1110,7 +1110,7 @@
       "country": "Suisse",
       "phone": "+41 (0)52 268 02 00",
       "email": "info@gropar.ch",
-      "website": "http://www.gropar.ch",
+      "website": "www.gropar.ch",
       "contacts": [
         {
           "name": "Josef Grob",
@@ -1135,9 +1135,9 @@
       "city": "Kloten",
       "canton": "ZH",
       "country": "Suisse",
-      "phone": "+41 43 211 22 10",
+      "phone": "+41 (0)43 211 22 10",
       "email": "eberhard@eberhard.ch",
-      "website": "http://www.eberhard.ch",
+      "website": "www.eberhard.ch",
       "contacts": [
         {
           "name": "Heinz Eberhard",
@@ -1162,9 +1162,9 @@
       "city": "Schwerzenbach",
       "canton": "ZH",
       "country": "Suisse",
-      "phone": "+41 44 825 78 78",
+      "phone": "+41 (0)44 825 78 78",
       "email": "elex@elex.ch",
-      "website": "http://www.elex.ch",
+      "website": "www.elex.ch",
       "contacts": [
         {
           "name": "Peter Studer",
@@ -1214,7 +1214,7 @@
       "city": "Zürich",
       "canton": "ZH",
       "country": "Suisse",
-      "phone": "+41 43 960 81 20",
+      "phone": "+41 (0)43 960 81 20",
       "email": "info@fbag.ch",
       "website": "www.fbag.ch",
       "contacts": [
@@ -1240,7 +1240,7 @@
       "city": "Wetzikon",
       "canton": "ZH",
       "country": "Suisse",
-      "phone": "+41 43 488 11 11",
+      "phone": "+41 (0)43 488 11 11",
       "email": "info@loepfe.com",
       "website": "www.loepfe.com",
       "contacts": [
@@ -1294,7 +1294,7 @@
       "city": "Zürich",
       "canton": "ZH",
       "country": "Suisse",
-      "phone": "+41 44 305 31 80",
+      "phone": "+41 (0)44 305 31 80",
       "email": "info.ch@havells-sylvania.com",
       "website": "www.havells-sylvania.com",
       "contacts": [
@@ -1320,7 +1320,7 @@
       "city": "Zürich",
       "canton": "ZH",
       "country": "Suisse",
-      "phone": "+41 43 222 61 90",
+      "phone": "+41 (0)43 222 61 90",
       "email": "info@h-net.ch",
       "website": "www.h-net.ch",
       "contacts": [
@@ -1399,7 +1399,7 @@
       "city": "Wetzikon",
       "canton": "ZH",
       "country": "Suisse",
-      "phone": "+41 44 576 01 00",
+      "phone": "+41 (0)44 576 01 00",
       "email": "info@jstiefelgmbh.ch",
       "website": "www.jstiefelgmbh.ch",
       "contacts": [
@@ -1485,9 +1485,9 @@
       "city": "Dietlikon",
       "canton": "ZH",
       "country": "Suisse",
-      "phone": "+41 44 835 76 76",
+      "phone": "+41 (0)44 835 76 76",
       "email": "info@luzi.ch",
-      "website": "http://www.luzi.ch",
+      "website": "www.luzi.ch",
       "contacts": [
         {
           "name": "Jürg Koller",
@@ -1511,9 +1511,9 @@
       "city": "Zürich",
       "canton": "ZH",
       "country": "Suisse",
-      "phone": "+41 43 244 81 61",
+      "phone": "+41 (0)43 244 81 61",
       "email": "info@mzr.ch",
-      "website": "http://www.mzr.ch",
+      "website": "www.mzr.ch",
       "contacts": [
         {
           "name": "Galleon Graetz",
@@ -1537,7 +1537,7 @@
       "city": "Zürich",
       "canton": "ZH",
       "country": "Suisse",
-      "phone": "+41 44 310 24 47",
+      "phone": "+41 (0)44 310 24 47",
       "email": "info@meworla.com",
       "website": "www.meworla.com",
       "contacts": [
@@ -1564,7 +1564,7 @@
       "city": "Urdorf",
       "canton": "ZH",
       "country": "Suisse",
-      "phone": "+41 44 736 50 00",
+      "phone": "+41 (0)44 736 50 00",
       "email": "info@nilan.ch",
       "website": "www.nilan.ch",
       "contacts": [
@@ -1594,7 +1594,7 @@
       "country": "Suisse",
       "phone": "+41 (0)44 355 55 55",
       "email": "info.ch@poyry.com",
-      "website": "http://www.poyry.ch",
+      "website": "www.poyry.ch",
       "contacts": [
         {
           "name": "Martin Bachmann",
@@ -1618,7 +1618,7 @@
       "city": "Bülach",
       "canton": "ZH",
       "country": "Suisse",
-      "phone": "+41 44 862 52 00",
+      "phone": "+41 (0)44 862 52 00",
       "email": "info@spannverbund.ch",
       "website": "www.spannverbund.ch",
       "contacts": [
@@ -1649,7 +1649,7 @@
       "city": "Zürich",
       "canton": "ZH",
       "country": "Suisse",
-      "phone": "+41 44 384 41 11",
+      "phone": "+41 (0)44 384 41 11",
       "email": "info@swissmem.ch",
       "website": "www.swissmem.ch",
       "contacts": [
@@ -1702,7 +1702,7 @@
       "city": "Zürich",
       "canton": "ZH",
       "country": "Suisse",
-      "phone": "+41 44 255 11 11",
+      "phone": "+41 (0)44 255 11 11",
       "email": "",
       "website": "www.usz.ch",
       "contacts": [

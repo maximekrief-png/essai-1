@@ -1835,9 +1835,9 @@
       "city": "Genève 4",
       "canton": "GE",
       "country": "Suisse",
-      "phone": "+41(0)22 379 50 01",
+      "phone": "+41 (0)22 379 50 01",
       "email": "jean-louis.carpentier@unige.ch",
-      "website": "www.unige.ch/medecine/",
+      "website": "www.unige.ch/medecine",
       "contacts": [
         {
           "name": "Jean-Louis Carpentier",
@@ -1868,7 +1868,7 @@
       "country": "Suisse",
       "phone": "+41 (0)22 379 57 07",
       "email": "stylianos.antonarakis@unige.ch",
-      "website": "http://medgen.unige.ch/",
+      "website": "medgen.unige.ch",
       "contacts": [
         {
           "name": "Stylianos Antonarakis",
@@ -1985,8 +1985,8 @@
       "city": "Genève 14",
       "canton": "GE",
       "country": "Suisse",
-      "phone": "+41 (0)22 37 25214",
-      "email": "Francois.Lazeyras@unige.ch",
+      "phone": "+41 (0)22 372 52 14",
+      "email": "francois.lazeyras@unige.ch",
       "website": "www.medecine.unige.ch/organisation/services/CIBM/index.php",
       "contacts": [
         {
@@ -2025,7 +2025,7 @@
       "canton": "GE",
       "country": "Suisse",
       "phone": "+41 (0)22 379 53 81",
-      "email": "Patrik.Vuilleumier@unige.ch",
+      "email": "patrik.vuilleumier@unige.ch",
       "website": "www.bbl.unige.ch",
       "contacts": [
         {
@@ -2106,7 +2106,7 @@
       "city": "Genève 17",
       "canton": "GE",
       "country": "Suisse",
-      "phone": "+41 22 704 36 34",
+      "phone": "+41 (0)22 704 36 34",
       "email": "contact@swiss-ict.ch",
       "website": "www.swiss-ict.ch",
       "contacts": [
@@ -2168,7 +2168,7 @@
       "city": "Genève 4",
       "canton": "GE",
       "country": "Suisse",
-      "phone": "+41(0)22 379 56 96",
+      "phone": "+41 (0)22 379 56 96",
       "email": "contact@orphanet.ch",
       "website": "www.orphanet.ch",
       "contacts": [
@@ -2222,7 +2222,7 @@
       "city": "Lausanne",
       "canton": "VD",
       "country": "Suisse",
-      "phone": "+41 21 318 40 00",
+      "phone": "+41 (0)21 318 40 00",
       "email": "",
       "website": "www.alxn.com",
       "contacts": [
@@ -2249,7 +2249,7 @@
       "city": "Basel",
       "canton": "BS",
       "country": "Suisse",
-      "phone": "+41 61 691 41 51",
+      "phone": "+41 (0)61 691 41 51",
       "email": "",
       "website": "www.atmosmed.ch",
       "contacts": [
@@ -2277,7 +2277,7 @@
       "city": "Genève 4",
       "canton": "GE",
       "country": "Suisse",
-      "phone": "+41 22 304 04 04",
+      "phone": "+41 (0)22 304 04 04",
       "email": "info@croix-rouge-ge.ch",
       "website": "www.croix-rouge-ge.ch",
       "contacts": [
@@ -2306,7 +2306,7 @@
       "country": "Suisse",
       "phone": "+41 (0)31 932 44 22",
       "email": "info@curmed.ch",
-      "website": "http://www.curmed.ch",
+      "website": "www.curmed.ch",
       "contacts": [
         {
           "name": "David Perron",
@@ -2351,7 +2351,7 @@
       "city": "Genève",
       "canton": "GE",
       "country": "Suisse",
-      "phone": "+41 (0) 22 818 58 58",
+      "phone": "+41 (0)22 818 58 58",
       "email": "institut@imadev.ch",
       "website": "www.imadev.ch",
       "contacts": [],
@@ -2369,11 +2369,11 @@
       ],
       "description": "Entreprise commerciale fondée en 1955 qui importe des articles techniques vendus exclusivement en Suisse : technique de fixation du bois (agrafeuses, cloueurs, visseuses), compresseurs, assembleuses de cadres et systèmes d'identification du linge. Marques Senco, Jun-Air, Cassese, Thermopatch, Kress ; 18 collaborateurs.",
       "address": "Tödistrasse 48",
-      "postalCode": "8812",
+      "postalCode": "8810",
       "city": "Horgen",
       "canton": "ZH",
       "country": "Suisse",
-      "phone": "043 244 10 50",
+      "phone": "+41 (0)43 244 10 50",
       "email": "info@jpmuellerag.ch",
       "website": "www.jpmuellerag.ch",
       "contacts": [
@@ -2431,7 +2431,7 @@
       "city": "Adliswil",
       "canton": "ZH",
       "country": "Suisse",
-      "phone": "+41 44 709 01 01",
+      "phone": "+41 (0)44 709 01 01",
       "email": "marflow@bluewin.ch",
       "website": "www.marflow.ch",
       "contacts": [],
@@ -2453,7 +2453,7 @@
       "city": "Spreitenbach",
       "canton": "AG",
       "country": "Suisse",
-      "phone": "+41(0)56 417 33 33",
+      "phone": "+41 (0)56 417 33 33",
       "email": "jnj@its.jnj.com",
       "website": "www.jnj.com",
       "contacts": [],
@@ -2475,7 +2475,7 @@
       "city": "Castel San Pietro",
       "canton": "TI",
       "country": "Suisse",
-      "phone": "+41 91 696 60 60",
+      "phone": "+41 (0)91 696 60 60",
       "email": "info@medacta.ch",
       "website": "www.medacta.ch",
       "contacts": [],
@@ -2497,7 +2497,7 @@
       "city": "Aubonne",
       "canton": "VD",
       "country": "Suisse",
-      "phone": "+41 21 800 42 55",
+      "phone": "+41 (0)21 800 42 55",
       "email": "info@medicatech.ch",
       "website": "www.medicatech.ch",
       "contacts": [
@@ -2526,7 +2526,7 @@
       "country": "Suisse",
       "phone": "+41 (0)44 828 71 11",
       "email": "info@msd.ch",
-      "website": "http://www.msd.ch",
+      "website": "www.msd.ch",
       "contacts": [
         {
           "name": "Adriaan Ruijs",
@@ -2577,7 +2577,7 @@
       "city": "Genève 2",
       "canton": "GE",
       "country": "Suisse",
-      "phone": "+41 58 792 91 00",
+      "phone": "+41 (0)58 792 91 00",
       "email": "",
       "website": "www.pwc.ch",
       "contacts": [
@@ -2609,7 +2609,7 @@
       "city": "Servion",
       "canton": "VD",
       "country": "Suisse",
-      "phone": "+41 21 903 32 32",
+      "phone": "+41 (0)21 903 32 32",
       "email": "info@reactolab.ch",
       "website": "www.reactolab.ch",
       "contacts": [
@@ -2635,7 +2635,7 @@
       "city": "Genève",
       "canton": "GE",
       "country": "Suisse",
-      "phone": "+41(0)22 545 50 50",
+      "phone": "+41 (0)22 545 50 50",
       "email": "info@cird.ch",
       "website": "www.cird.ch",
       "contacts": [
@@ -2745,7 +2745,7 @@
       "city": "Genève",
       "canton": "GE",
       "country": "Suisse",
-      "phone": "+41 22 840 51 00",
+      "phone": "+41 (0)22 840 51 00",
       "email": "sipaec@sipaec.ch",
       "website": "www.sipaec.ch",
       "contacts": [
@@ -2772,7 +2772,7 @@
       "city": "Cham",
       "canton": "ZG",
       "country": "Suisse",
-      "phone": "+41 41 760 26 12",
+      "phone": "+41 (0)41 760 26 12",
       "email": "",
       "website": "www.tornier.com",
       "contacts": [
@@ -2799,7 +2799,7 @@
       "city": "Genève 12",
       "canton": "GE",
       "country": "Suisse",
-      "phone": "022 346 87 44",
+      "phone": "+41 (0)22 346 87 44",
       "email": "bugnion@bugnion.ch",
       "website": "www.bugnion.ch",
       "contacts": [
@@ -2851,7 +2851,7 @@
       "city": "Plan-les-Ouates",
       "canton": "GE",
       "country": "Suisse",
-      "phone": "+ 41 22 / 794 39 10",
+      "phone": "+41 (0)22 794 39 10",
       "email": "",
       "website": "www.gastromer.ch",
       "contacts": [
@@ -2877,7 +2877,7 @@
       "city": "Meyrin",
       "canton": "GE",
       "country": "Suisse",
-      "phone": "022 753 03 56",
+      "phone": "+41 (0)22 753 03 56",
       "email": "",
       "website": "www.casabat.ch",
       "contacts": [
@@ -2904,7 +2904,7 @@
       "city": "Carouge",
       "canton": "GE",
       "country": "Suisse",
-      "phone": "0041-22-342 38 39",
+      "phone": "+41 (0)22 342 38 39",
       "email": "",
       "website": "www.tvf.ch",
       "contacts": [
@@ -2931,7 +2931,7 @@
       "city": "Genève 26",
       "canton": "GE",
       "country": "Suisse",
-      "phone": "022 308 01 11",
+      "phone": "+41 (0)22 308 01 11",
       "email": "",
       "website": "www.citroen-geneve.ch",
       "contacts": [
@@ -2958,7 +2958,7 @@
       "city": "Genève-Acacias",
       "canton": "GE",
       "country": "Suisse",
-      "phone": "022 308 5 308",
+      "phone": "+41 (0)22 308 53 08",
       "email": "bmw.geneve@emilfrey.ch",
       "website": "",
       "contacts": [
@@ -2985,7 +2985,7 @@
       "city": "Lausanne",
       "canton": "VD",
       "country": "Suisse",
-      "phone": "+41 21 654 27 70",
+      "phone": "+41 (0)21 654 27 70",
       "email": "info@gets.ch",
       "website": "",
       "contacts": [
@@ -3011,7 +3011,7 @@
       "city": "Lausanne",
       "canton": "VD",
       "country": "Suisse",
-      "phone": "+41 22 989 44 44",
+      "phone": "+41 (0)22 989 44 44",
       "email": "info@veltigroup.com",
       "website": "www.veltigroup.com",
       "contacts": [
@@ -3037,7 +3037,7 @@
       "city": "Genève",
       "canton": "GE",
       "country": "Suisse",
-      "phone": "022 340 56 56",
+      "phone": "+41 (0)22 340 56 56",
       "email": "",
       "website": "www.myprivatecare.ch",
       "contacts": [
@@ -3064,7 +3064,7 @@
       "city": "Lausanne",
       "canton": "VD",
       "country": "Suisse",
-      "phone": "021 625 35 25",
+      "phone": "+41 (0)21 625 35 25",
       "email": "schweizergsa@bluewin.ch",
       "website": "",
       "contacts": [
@@ -3091,7 +3091,7 @@
       "city": "Genève",
       "canton": "GE",
       "country": "Suisse",
-      "phone": "(41)02 23 42 18 18",
+      "phone": "+41 (0)22 342 18 18",
       "email": "",
       "website": "www.utcfireandsecurity.com",
       "contacts": [],
@@ -3113,7 +3113,7 @@
       "city": "Genève 6",
       "canton": "GE",
       "country": "Suisse",
-      "phone": "022 786 39 39",
+      "phone": "+41 (0)22 786 39 39",
       "email": "",
       "website": "",
       "contacts": [],
@@ -3134,7 +3134,7 @@
       "city": "Le Mont-sur-Lausanne",
       "canton": "VD",
       "country": "Suisse",
-      "phone": "021 651 41 00",
+      "phone": "+41 (0)21 651 41 00",
       "email": "",
       "website": "",
       "contacts": [],
@@ -3204,7 +3204,7 @@
       "city": "Genève",
       "canton": "GE",
       "country": "Suisse",
-      "phone": "022 340 73 04",
+      "phone": "+41 (0)22 340 73 04",
       "email": "lf-sarl@bluewin.ch",
       "website": "",
       "contacts": [],
@@ -3225,7 +3225,7 @@
       "city": "",
       "canton": "",
       "country": "",
-      "phone": "01 55 73 02 02",
+      "phone": "+41 (0)15 573 02 02",
       "email": "",
       "website": "www.operation-presbytie.com",
       "contacts": [],

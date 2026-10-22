@@ -1245,7 +1245,7 @@
       "city": "Fribourg",
       "canton": "FR",
       "country": "Suisse",
-      "phone": "+41 26 426 71 11",
+      "phone": "+41 (0)26 426 71 11",
       "email": "info@h-fr.ch",
       "website": "www.h-fr.ch",
       "contacts": [
@@ -1327,7 +1327,7 @@
       "country": "Suisse",
       "phone": "+41 (0)26 676 91 50",
       "email": "info@bdl-arch.ch",
-      "website": "http://www.bdl-arch.ch/",
+      "website": "www.bdl-arch.ch",
       "contacts": [],
       "page": "20",
       "pdfPages": [],
@@ -1348,7 +1348,7 @@
       "country": "Suisse",
       "phone": "+41 (0)26 504 28 56",
       "email": "atelier@chenevart.ch",
-      "website": "http://www.chenevart.ch",
+      "website": "www.chenevart.ch",
       "contacts": [
         {
           "name": "Olivier Chenevart",
@@ -1401,9 +1401,9 @@
       "city": "Fribourg",
       "canton": "FR",
       "country": "Suisse",
-      "phone": "+41 26 460 74 74",
+      "phone": "+41 (0)26 460 74 74",
       "email": "fribourg@csd.ch",
-      "website": "http://www.csd.ch",
+      "website": "www.csd.ch",
       "contacts": [
         {
           "name": "Olga Darazs",
@@ -1507,7 +1507,7 @@
       "city": "Givisiez",
       "canton": "FR",
       "country": "Suisse",
-      "phone": "+41 26 350 11 60",
+      "phone": "+41 (0)26 350 11 60",
       "email": "frigaz@frigaz.ch",
       "website": "www.frigaz.ch",
       "contacts": [
@@ -1540,7 +1540,7 @@
       "country": "Suisse",
       "phone": "+41 (0)26 347 35 75",
       "email": "gainerie@packaging.ch",
-      "website": "http://www.packaging.ch",
+      "website": "www.packaging.ch",
       "contacts": [
         {
           "name": "Jacques Renevey",
@@ -1564,7 +1564,7 @@
       "city": "Granges-Paccot",
       "canton": "FR",
       "country": "Suisse",
-      "phone": "+ 41 (0)26 452 52 52",
+      "phone": "+41 (0)26 452 52 52",
       "email": "info@groupe-e.ch",
       "website": "www.groupe-e.ch",
       "contacts": [
@@ -1591,7 +1591,7 @@
       "city": "Matran",
       "canton": "FR",
       "country": "Suisse",
-      "phone": "+41(0)26 422 17 45",
+      "phone": "+41 (0)26 422 17 45",
       "email": "info@energest.ch",
       "website": "www.energest.ch",
       "contacts": [
@@ -1641,7 +1641,7 @@
       "country": "Suisse",
       "phone": "+41 (0)26 347 24 14",
       "email": "info.fribourg@implenia.com",
-      "website": "http://www.implenia.com",
+      "website": "www.implenia.com",
       "contacts": [
         {
           "name": "Alain Winkel",
@@ -1741,9 +1741,9 @@
       "city": "Givisiez",
       "canton": "FR",
       "country": "Suisse",
-      "phone": "+41 58 411 54 00",
+      "phone": "+41 (0)58 411 54 00",
       "email": "info@mc-monitoring.com",
-      "website": "http://www.mc-monitoring.com",
+      "website": "www.mc-monitoring.com",
       "contacts": [],
       "page": "45",
       "pdfPages": [],
@@ -1764,7 +1764,7 @@
       "country": "Suisse",
       "phone": "+41 (0)26 351 02 00",
       "email": "",
-      "website": "http://www.tpf.ch/",
+      "website": "www.tpf.ch",
       "contacts": [
         {
           "name": "Vincent Ducrot",
@@ -1788,9 +1788,9 @@
       "city": "Fribourg",
       "canton": "FR",
       "country": "Suisse",
-      "phone": "+41 26 422 75 11",
+      "phone": "+41 (0)26 422 75 11",
       "email": "agence.alexandre.ducrot@zurich.ch",
-      "website": "http://www.zurich.ch",
+      "website": "www.zurich.ch",
       "contacts": [
         {
           "name": "Alexandre Ducrot",
@@ -1840,7 +1840,7 @@
       "city": "Bienne",
       "canton": "BE",
       "country": "Suisse",
-      "phone": "032 326 11 01",
+      "phone": "+41 (0)32 326 11 01",
       "email": "info.pra@biel-bienne.ch",
       "website": "www.biel-bienne.ch",
       "contacts": [
@@ -1885,7 +1885,7 @@
       "country": "Suisse",
       "phone": "+41 (0)31 633 48 44",
       "email": "info.vol@vol.be.ch",
-      "website": "http://www.vol.be.ch",
+      "website": "www.vol.be.ch",
       "contacts": [
         {
           "name": "Andreas Rickenbacher",
@@ -2067,7 +2067,7 @@
       "city": "Bern",
       "canton": "BE",
       "country": "Suisse",
-      "phone": "+41(0)31 321 88 88",
+      "phone": "+41 (0)31 321 88 88",
       "email": "info@bernmobil.ch",
       "website": "www.bernmobil.ch",
       "contacts": [

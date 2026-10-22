@@ -1161,7 +1161,7 @@
       "city": "Sion 2",
       "canton": "VS",
       "country": "Suisse",
-      "phone": "027 324 11 11",
+      "phone": "+41 (0)27 324 11 11",
       "email": "info@sion.ch",
       "website": "www.sion.ch",
       "contacts": [
@@ -1211,9 +1211,9 @@
       "city": "Sion",
       "canton": "VS",
       "country": "Suisse",
-      "phone": "+41 27 203 31 31",
+      "phone": "+41 (0)27 203 31 31",
       "email": "secretariat@bativa.ch",
-      "website": "http://www.bativa.ch",
+      "website": "www.bativa.ch",
       "contacts": [],
       "page": "12",
       "pdfPages": [],
@@ -1233,9 +1233,9 @@
       "city": "Sion",
       "canton": "VS",
       "country": "Suisse",
-      "phone": "+41 27 324 07 32",
+      "phone": "+41 (0)27 324 07 32",
       "email": "info@ciges.ch",
-      "website": "http://www.ciges.ch",
+      "website": "www.ciges.ch",
       "contacts": [],
       "page": "13",
       "pdfPages": [],
@@ -1254,9 +1254,9 @@
       "city": "Sion",
       "canton": "VS",
       "country": "Suisse",
-      "phone": "+41 27 322 12 47",
+      "phone": "+41 (0)27 322 12 47",
       "email": "info@combustia.ch",
-      "website": "http://www.combustia.ch/",
+      "website": "www.combustia.ch",
       "contacts": [],
       "page": "14",
       "pdfPages": [],
@@ -1276,9 +1276,9 @@
       "city": "Sion",
       "canton": "VS",
       "country": "Suisse",
-      "phone": "+41 58 277 79 70",
+      "phone": "+41 (0)58 277 79 70",
       "email": "info.sion@css.ch",
-      "website": "http://www.css.ch",
+      "website": "www.css.ch",
       "contacts": [
         {
           "name": "Laurent Héritier",
@@ -1303,9 +1303,9 @@
       "city": "Ayent",
       "canton": "VS",
       "country": "Suisse",
-      "phone": "+41 27 398 34 44",
+      "phone": "+41 (0)27 398 34 44",
       "email": "info@editech.ch",
-      "website": "http://editech.ch/",
+      "website": "editech.ch",
       "contacts": [],
       "page": "16-17",
       "pdfPages": [],
@@ -1325,9 +1325,9 @@
       "city": "Sion",
       "canton": "VS",
       "country": "Suisse",
-      "phone": "+41 27 327 24 20",
+      "phone": "+41 (0)27 327 24 20",
       "email": "info@gdclimat.ch",
-      "website": "http://www.gdclimat.ch",
+      "website": "www.gdclimat.ch",
       "contacts": [
         {
           "name": "Johny Rudaz",
@@ -1357,7 +1357,7 @@
       "country": "Suisse",
       "phone": "+41 (0)27 322 45 54",
       "email": "valcoris@bluewin.ch",
-      "website": "http://www.valcoris.ch",
+      "website": "www.valcoris.ch",
       "contacts": [
         {
           "name": "Corinne Barthélemy",
@@ -1401,9 +1401,9 @@
       "city": "Sion",
       "canton": "VS",
       "country": "Suisse",
-      "phone": "+41 27 205 82 20",
+      "phone": "+41 (0)27 205 82 20",
       "email": "infosr@swisspro.ch",
-      "website": "http://www.swisspro.ch",
+      "website": "www.swisspro.ch",
       "contacts": [],
       "page": "23",
       "pdfPages": [],
@@ -1422,7 +1422,7 @@
       "city": "Martigny",
       "canton": "VS",
       "country": "Suisse",
-      "phone": "+ 41 (0)27 721 21 11",
+      "phone": "+41 (0)27 721 21 11",
       "email": "info@villedemartigny.ch",
       "website": "www.martigny.ch",
       "contacts": [
@@ -1500,7 +1500,7 @@
       "country": "Suisse",
       "phone": "",
       "email": "",
-      "website": "www.crem.ch/",
+      "website": "www.crem.ch",
       "contacts": [],
       "page": "24, 31",
       "pdfPages": [],
@@ -1546,7 +1546,7 @@
       "city": "Martigny",
       "canton": "VS",
       "country": "Suisse",
-      "phone": "+ 41 (0)27 721 25 00",
+      "phone": "+41 (0)27 721 25 00",
       "email": "info@sinergy.ch",
       "website": "www.sinergy.ch",
       "contacts": [
@@ -1574,7 +1574,7 @@
       "country": "Suisse",
       "phone": "+41 (0)27 721 68 40",
       "email": "info@tmrsa.ch",
-      "website": "http://www.tmrsa.ch",
+      "website": "www.tmrsa.ch",
       "contacts": [
         {
           "name": "Martin von Känel",
@@ -1598,7 +1598,7 @@
       "city": "Sierre",
       "canton": "VS",
       "country": "Suisse",
-      "phone": "027 452 01 11",
+      "phone": "+41 (0)27 452 01 11",
       "email": "ville@sierre.ch",
       "website": "www.sierre.ch",
       "contacts": [
@@ -1671,9 +1671,9 @@
       "city": "Sierre",
       "canton": "VS",
       "country": "Suisse",
-      "phone": "+41 27 452 27 27",
+      "phone": "+41 (0)27 452 27 27",
       "email": "sierre@raiffeisen.ch",
-      "website": "http://www.raiffeisen.ch/sierre",
+      "website": "www.raiffeisen.ch/sierre",
       "contacts": [
         {
           "name": "Jean-Pierre Vuistiner",
@@ -1697,9 +1697,9 @@
       "city": "Sierre",
       "canton": "VS",
       "country": "Suisse",
-      "phone": "+41 27 451 24 51",
+      "phone": "+41 (0)27 451 24 51",
       "email": "info@labosalamin.ch",
-      "website": "http://www.laboratoiresalamin.ch",
+      "website": "www.laboratoiresalamin.ch",
       "contacts": [
         {
           "name": "François Salamin",
@@ -1758,8 +1758,8 @@
       "city": "Neuchâtel",
       "canton": "NE",
       "country": "Suisse",
-      "phone": "032 717 76 01",
-      "email": "Olivier.Arni@ne.ch",
+      "phone": "+41 (0)32 717 76 01",
+      "email": "olivier.arni@ne.ch",
       "website": "",
       "contacts": [
         {
@@ -1786,7 +1786,7 @@
       "city": "Neuchâtel",
       "canton": "NE",
       "country": "Suisse",
-      "phone": "+41 32 717 74 02",
+      "phone": "+41 (0)32 717 74 02",
       "email": "christine.gaillard@ne.ch",
       "website": "www.neuchatelville.ch",
       "contacts": [
@@ -1813,7 +1813,7 @@
       "city": "Neuchâtel",
       "canton": "NE",
       "country": "Suisse",
-      "phone": "+41 32 717 72 01",
+      "phone": "+41 (0)32 717 72 01",
       "email": "pascal.sandoz@ne.ch",
       "website": "www.neuchatelville.ch",
       "contacts": [
@@ -1840,7 +1840,7 @@
       "city": "Neuchâtel",
       "canton": "NE",
       "country": "Suisse",
-      "phone": "+41 32 717 75 00",
+      "phone": "+41 (0)32 717 75 00",
       "email": "thomas.facchinetti@ne.ch",
       "website": "",
       "contacts": [
@@ -1867,9 +1867,9 @@
       "city": "Bevaix",
       "canton": "NE",
       "country": "Suisse",
-      "phone": "+41/32/847.96.00",
+      "phone": "+41 (0)32 847 96 00",
       "email": "info@adax.ch",
-      "website": "http://adax.ch/fr/adax.html",
+      "website": "adax.ch/fr/adax.html",
       "contacts": [
         {
           "name": "Urs Kamber",
@@ -1893,7 +1893,7 @@
       "city": "Chez-le-Bart",
       "canton": "NE",
       "country": "Suisse",
-      "phone": "+41 32 835 33 88",
+      "phone": "+41 (0)32 835 33 88",
       "email": "mailbox@hybrid.ch",
       "website": "www.hybrid.ch",
       "contacts": [],
@@ -1962,7 +1962,7 @@
       "city": "Granges-Paccot",
       "canton": "FR",
       "country": "Suisse",
-      "phone": "+ 41 (0)26 452 52 52",
+      "phone": "+41 (0)26 452 52 52",
       "email": "info@groupe-e.ch",
       "website": "www.groupe-e.ch",
       "contacts": [

@@ -1124,7 +1124,7 @@
       "city": "Berne",
       "canton": "BE",
       "country": "Suisse",
-      "phone": "+41(0)31 970 08 88",
+      "phone": "+41 (0)31 970 08 88",
       "email": "usic@usic.ch",
       "website": "www.usic.ch",
       "contacts": [
@@ -1307,7 +1307,7 @@
       "city": "Olten",
       "canton": "SO",
       "country": "Suisse",
-      "phone": "079 301 58 45",
+      "phone": "+41 (0)79 301 58 45",
       "email": "till.kuehnis@sbb.ch",
       "website": "www.sbb.ch",
       "contacts": [
@@ -1366,7 +1366,7 @@
       "canton": "VD",
       "country": "Suisse",
       "phone": "",
-      "email": "Leman2030@sbb.ch",
+      "email": "leman2030@sbb.ch",
       "website": "www.sbb.ch/leman2030",
       "contacts": [],
       "page": "16",
@@ -1419,7 +1419,7 @@
       "city": "Nyon",
       "canton": "VD",
       "country": "Suisse",
-      "phone": "+41 22 994 28 40",
+      "phone": "+41 (0)22 994 28 40",
       "email": "",
       "website": "www.bustpn.ch",
       "contacts": [
@@ -1513,7 +1513,7 @@
       "city": "Bern",
       "canton": "BE",
       "country": "Suisse",
-      "phone": "+41 31 350 00 20",
+      "phone": "+41 (0)31 350 00 20",
       "email": "info@dig-ing.ch",
       "website": "www.dig-ing.ch",
       "contacts": [
@@ -1544,7 +1544,7 @@
       "city": "Locarno",
       "canton": "TI",
       "country": "Suisse",
-      "phone": "+41 91 756 04 00",
+      "phone": "+41 (0)91 756 04 00",
       "email": "fart@centovalli.ch",
       "website": "www.centovalli.ch",
       "contacts": [
@@ -1571,7 +1571,7 @@
       "city": "Grono",
       "canton": "GR",
       "country": "Suisse",
-      "phone": "+41 91 827 27 39",
+      "phone": "+41 (0)91 827 27 39",
       "email": "info@censigroup.ch",
       "website": "www.censigroup.ch",
       "contacts": [
@@ -1665,7 +1665,7 @@
       "city": "Nyon",
       "canton": "VD",
       "country": "Suisse",
-      "phone": "+41 22 994 28 40",
+      "phone": "+41 (0)22 994 28 40",
       "email": "",
       "website": "www.nstcm.ch",
       "contacts": [
@@ -1723,7 +1723,7 @@
       "city": "Breganzona",
       "canton": "TI",
       "country": "Suisse",
-      "phone": "+41 91 960 17 50",
+      "phone": "+41 (0)91 960 17 50",
       "email": "info@bfingegneria.ch",
       "website": "www.bfingegneria.ch",
       "contacts": [
@@ -1751,7 +1751,7 @@
       "city": "Giubiasco",
       "canton": "TI",
       "country": "Suisse",
-      "phone": "+41 91 850 60 80",
+      "phone": "+41 (0)91 850 60 80",
       "email": "info@bonalumi-ferrari.ch",
       "website": "www.bonalumi-ferrari.ch",
       "contacts": [
@@ -1783,7 +1783,7 @@
       "city": "Lausanne",
       "canton": "VD",
       "country": "Suisse",
-      "phone": "+41 21 613 44 77",
+      "phone": "+41 (0)21 613 44 77",
       "email": "info@ecoscan.ch",
       "website": "www.ecoscan.ch",
       "contacts": [],
@@ -1828,7 +1828,7 @@
       "country": "Suisse",
       "phone": "+41 (0)26 676 92 60",
       "email": "info@laboroute.ch",
-      "website": "https://www.laboroute.ch",
+      "website": "www.laboroute.ch",
       "contacts": [
         {
           "name": "Bernard Schmid",
@@ -1853,7 +1853,7 @@
       "city": "Bellinzona",
       "canton": "TI",
       "country": "Suisse",
-      "phone": "+41 91 821 42 30",
+      "phone": "+41 (0)91 821 42 30",
       "email": "bellinzona@mawisa.ch",
       "website": "www.mawisa.ch",
       "contacts": [
@@ -1879,7 +1879,7 @@
       "city": "Castione",
       "canton": "TI",
       "country": "Suisse",
-      "phone": "+41 91 820 12 52",
+      "phone": "+41 (0)91 820 12 52",
       "email": "info@paler.ch",
       "website": "www.paler.ch",
       "contacts": [
@@ -1927,7 +1927,7 @@
       "city": "Lausanne",
       "canton": "VD",
       "country": "Suisse",
-      "phone": "+41 21 614 04 40",
+      "phone": "+41 (0)21 614 04 40",
       "email": "",
       "website": "www.rgr-sa.ch",
       "contacts": [
@@ -1962,7 +1962,7 @@
       "city": "Lugano",
       "canton": "TI",
       "country": "Suisse",
-      "phone": "+41 91 971 80 21",
+      "phone": "+41 (0)91 971 80 21",
       "email": "info@spalu.com",
       "website": "www.spalu.com",
       "contacts": [
@@ -1989,7 +1989,7 @@
       "city": "Pregassona",
       "canton": "TI",
       "country": "Suisse",
-      "phone": "+41 58 866 72 42",
+      "phone": "+41 (0)58 866 72 42",
       "email": "info@tplsa.ch",
       "website": "www.tplsa.ch",
       "contacts": [],
@@ -2011,7 +2011,7 @@
       "city": "Savièse",
       "canton": "VS",
       "country": "Suisse",
-      "phone": "+41 27 395 24 03",
+      "phone": "+41 (0)27 395 24 03",
       "email": "hygin.debons@bluewin.ch",
       "website": "www.hygindebons.ch",
       "contacts": [],
@@ -2055,7 +2055,7 @@
       "city": "Bellinzona",
       "canton": "TI",
       "country": "Suisse",
-      "phone": "+41 91 826 40 40",
+      "phone": "+41 (0)91 826 40 40",
       "email": "info@poseidonengineering.ch",
       "website": "www.poseidonengineering.ch",
       "contacts": [

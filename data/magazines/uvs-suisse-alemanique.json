@@ -1162,9 +1162,9 @@
       "city": "Zürich",
       "canton": "ZH",
       "country": "Suisse",
-      "phone": "(+41) (0)44 412 11 11",
+      "phone": "+41 (0)44 412 11 11",
       "email": "",
-      "website": "https://www.stadt-zuerich.ch",
+      "website": "www.stadt-zuerich.ch",
       "contacts": [
         {
           "name": "Corine Mauch",
@@ -1191,7 +1191,7 @@
       "country": "Suisse",
       "phone": "+41 (0)44 412 11 11",
       "email": "",
-      "website": "https://www.stadt-zuerich.ch/hbd",
+      "website": "www.stadt-zuerich.ch/hbd",
       "contacts": [
         {
           "name": "Patrick Gmür",
@@ -1268,9 +1268,9 @@
       "city": "Winterthur",
       "canton": "ZH",
       "country": "Suisse",
-      "phone": "+41 (0) 52 267 51 51",
+      "phone": "+41 (0)52 267 51 51",
       "email": "",
-      "website": "http://stadt.winterthur.ch",
+      "website": "stadt.winterthur.ch",
       "contacts": [
         {
           "name": "Michael Künzle",
@@ -1295,9 +1295,9 @@
       "city": "Winterthur",
       "canton": "ZH",
       "country": "Suisse",
-      "phone": "(+41) (0)52 267 54 62",
+      "phone": "+41 (0)52 267 54 62",
       "email": "staedtebau@win.ch",
-      "website": "http://bau.winterthur.ch/amt-fuer-staedtebau/",
+      "website": "bau.winterthur.ch/amt-fuer-staedtebau",
       "contacts": [
         {
           "name": "Michael Hauser",
@@ -1322,9 +1322,9 @@
       "city": "Winterthur",
       "canton": "ZH",
       "country": "Suisse",
-      "phone": "(+41) (0)52 267 62 72",
+      "phone": "+41 (0)52 267 62 72",
       "email": "stadtentwicklung@win.ch",
-      "website": "http://stadtentwicklung.winterthur.ch/",
+      "website": "stadtentwicklung.winterthur.ch",
       "contacts": [
         {
           "name": "Mark Würth",
@@ -1621,9 +1621,9 @@
       "city": "Kloten",
       "canton": "ZH",
       "country": "Suisse",
-      "phone": "+41 43 211 22 10",
+      "phone": "+41 (0)43 211 22 10",
       "email": "eberhard@eberhard.ch",
-      "website": "http://www.eberhard.ch",
+      "website": "www.eberhard.ch",
       "contacts": [
         {
           "name": "Heinz Eberhard",
@@ -1648,9 +1648,9 @@
       "city": "Schwerzenbach",
       "canton": "ZH",
       "country": "Suisse",
-      "phone": "+41 44 825 78 78",
+      "phone": "+41 (0)44 825 78 78",
       "email": "elex@elex.ch",
-      "website": "http://www.elex.ch",
+      "website": "www.elex.ch",
       "contacts": [
         {
           "name": "Peter Studer",
@@ -1729,7 +1729,7 @@
       "city": "Oensingen",
       "canton": "SO",
       "country": "Suisse",
-      "phone": "+41 0848 463 762",
+      "phone": "+41 (0)848 463 762",
       "email": "info@hoermann.ch",
       "website": "www.hoermann.ch",
       "contacts": [
@@ -1781,7 +1781,7 @@
       "city": "Oberbuchsiten",
       "canton": "SO",
       "country": "Suisse",
-      "phone": "+41 62 389 98 99",
+      "phone": "+41 (0)62 389 98 99",
       "email": "info@impbautest.ch",
       "website": "www.impbautest.ch",
       "contacts": [
@@ -1834,7 +1834,7 @@
       "city": "Aarau",
       "canton": "AG",
       "country": "Suisse",
-      "phone": "+41 62 838 05 05",
+      "phone": "+41 (0)62 838 05 05",
       "email": "info@juramaterials.ch",
       "website": "www.juramaterials.ch",
       "contacts": [
@@ -1860,7 +1860,7 @@
       "city": "Birmensdorf",
       "canton": "ZH",
       "country": "Suisse",
-      "phone": "+41 44 739 14 66",
+      "phone": "+41 (0)44 739 14 66",
       "email": "hastagzh@hastag.ch",
       "website": "www.hastag.ch",
       "contacts": [],
@@ -1881,7 +1881,7 @@
       "city": "Zürich",
       "canton": "ZH",
       "country": "Suisse",
-      "phone": "+41 44 310 24 47",
+      "phone": "+41 (0)44 310 24 47",
       "email": "info@meworla.com",
       "website": "www.meworla.com",
       "contacts": [

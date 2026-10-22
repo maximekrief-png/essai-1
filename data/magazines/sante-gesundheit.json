@@ -1091,7 +1091,7 @@
       "city": "Zürich",
       "canton": "ZH",
       "country": "Suisse",
-      "phone": "+41 44 255 11 11",
+      "phone": "+41 (0)44 255 11 11",
       "email": "",
       "website": "www.usz.ch",
       "contacts": [
@@ -1176,9 +1176,9 @@
       "city": "Genève",
       "canton": "GE",
       "country": "Suisse",
-      "phone": "+41 22 372 33 11",
+      "phone": "+41 (0)22 372 33 11",
       "email": "",
-      "website": "www.hug-ge.ch/",
+      "website": "www.hug-ge.ch",
       "contacts": [
         {
           "name": "Bertrand Levrat",
@@ -1287,7 +1287,7 @@
       "city": "Aarau",
       "canton": "AG",
       "country": "Suisse",
-      "phone": "+41 62 838 41 41",
+      "phone": "+41 (0)62 838 41 41",
       "email": "info@ksa.ch",
       "website": "www.ksa.ch",
       "contacts": [
@@ -1335,7 +1335,7 @@
       "city": "Taverne Torricella",
       "canton": "TI",
       "country": "Suisse",
-      "phone": "+41 91 805 38 88",
+      "phone": "+41 (0)91 805 38 88",
       "email": "info@stembank.ch",
       "website": "www.stembank.ch",
       "contacts": [
@@ -1362,7 +1362,7 @@
       "city": "Lugano",
       "canton": "TI",
       "country": "Suisse",
-      "phone": "+41 91 805 31 11",
+      "phone": "+41 (0)91 805 31 11",
       "email": "info@cardiocentro.org",
       "website": "www.cardiocentro.org",
       "contacts": [],
@@ -1384,7 +1384,7 @@
       "city": "Taverne Torricella",
       "canton": "TI",
       "country": "Suisse",
-      "phone": "+41 91 805 39 75",
+      "phone": "+41 (0)91 805 39 75",
       "email": "",
       "website": "",
       "contacts": [],
@@ -1406,7 +1406,7 @@
       "city": "Schlieren",
       "canton": "ZH",
       "country": "Suisse",
-      "phone": "043 433 66 00",
+      "phone": "+41 (0)43 433 66 00",
       "email": "info@cosanum.ch",
       "website": "www.cosanum.ch",
       "contacts": [
@@ -1459,7 +1459,7 @@
       "city": "Ostermundigen",
       "canton": "BE",
       "country": "Suisse",
-      "phone": "+41 31 932 44 22",
+      "phone": "+41 (0)31 932 44 22",
       "email": "info@curmed.ch",
       "website": "www.curmed.ch",
       "contacts": [
@@ -1512,7 +1512,7 @@
       "city": "Onex",
       "canton": "GE",
       "country": "Suisse",
-      "phone": "+41 22 709 00 00",
+      "phone": "+41 (0)22 709 00 00",
       "email": "",
       "website": "www.cite-generations.ch",
       "contacts": [],
@@ -1534,7 +1534,7 @@
       "city": "Clarens",
       "canton": "VD",
       "country": "Suisse",
-      "phone": "+41 21 989 53 53",
+      "phone": "+41 (0)21 989 53 53",
       "email": "info@ems-fbs.ch",
       "website": "www.fondation-beau-site.ch",
       "contacts": [
@@ -1614,7 +1614,7 @@
       "city": "Lausanne",
       "canton": "VD",
       "country": "Suisse",
-      "phone": "4121 692 5500",
+      "phone": "+41 (0)21 692 55 00",
       "email": "",
       "website": "www.unil.ch/physiologie",
       "contacts": [
@@ -1641,7 +1641,7 @@
       "city": "Morges",
       "canton": "VD",
       "country": "Suisse",
-      "phone": "021 804 22 11",
+      "phone": "+41 (0)21 804 22 11",
       "email": "",
       "website": "www.ehc-vd.ch",
       "contacts": [
@@ -1695,7 +1695,7 @@
       "city": "Lugano",
       "canton": "TI",
       "country": "Suisse",
-      "phone": "+41 91 985 21 21",
+      "phone": "+41 (0)91 985 21 21",
       "email": "info-hhc@helsinn.com",
       "website": "www.helsinn.com",
       "contacts": [
@@ -1834,7 +1834,7 @@
       "city": "Duillier",
       "canton": "VD",
       "country": "Suisse",
-      "phone": "+41 22 307 01 70",
+      "phone": "+41 (0)22 307 01 70",
       "email": "info@medeco-ch.com",
       "website": "www.medeco-ch.com",
       "contacts": [
@@ -1865,7 +1865,7 @@
       "city": "Lausanne",
       "canton": "VD",
       "country": "Suisse",
-      "phone": "021 314 60 66",
+      "phone": "+41 (0)21 314 60 66",
       "email": "",
       "website": "www.pmu-lausanne.ch",
       "contacts": [],
@@ -1913,7 +1913,7 @@
       "city": "Zürich",
       "canton": "ZH",
       "country": "Suisse",
-      "phone": "+41 58 404 36 36",
+      "phone": "+41 (0)58 404 36 36",
       "email": "",
       "website": "www.spitex-zuerich.ch",
       "contacts": [
