@@ -1,0 +1,2365 @@
+{
+  "slug": "lausanne",
+  "title": "Swiss Knowhow – Lausanne (octobre 2017)",
+  "series": "Économie régionale",
+  "year": 2017,
+  "region": "Lausanne et région lausannoise",
+  "languages": [
+    "fr",
+    "en",
+    "de"
+  ],
+  "description": "Numéro d'octobre 2017 consacré à Lausanne. Le syndic Grégoire Junod et six municipaux présentent les grands axes de la législature : finances et mobilité, logement et environnement, économie et sécurité, énergie, jeunesse et quartiers, sport olympique ; le directeur de Lausanne Tourisme complète le tableau. Une quarantaine de publireportages, souvent bilingues français-anglais, présentent ensuite des entreprises et institutions de la région : architectes, ingénieurs, construction, transports, santé et sciences de la vie, formation, énergie et informatique.",
+  "themes": [
+    "collectivites",
+    "territoire",
+    "architecture",
+    "construction",
+    "mobilite",
+    "sante",
+    "formation",
+    "energie",
+    "economie"
+  ],
+  "files": [
+    {
+      "driveId": "1k1rU4e-zjrpJ0-looOWpgoosYSllNx9p",
+      "name": "LAUSANNE.pdf",
+      "sizeMB": 4.4,
+      "label": "Édition web"
+    }
+  ],
+  "pdfLocal": true,
+  "articles": [
+    {
+      "slug": "lausanne-gregoire-junod",
+      "title": "Une ville incontournable",
+      "subtitle": "Entretien avec M. Grégoire Junod, syndic, en charge de la Culture et du Développement urbain",
+      "type": "interview",
+      "page": "02",
+      "pdfPages": [
+        4
+      ],
+      "summary": "Le syndic de Lausanne, ville de près de 140 000 habitants, décrit sa conception large de l'environnement : nature et potagers urbains, densification maîtrisée grâce à la maîtrise foncière, accueil d'entreprises liées aux hautes écoles et cohésion sociale dans une ville où 43 % des habitants sont étrangers. Il veut que Lausanne assume pleinement son rang de quatrième ville suisse, renforce la collaboration avec les autres grandes villes et fasse reconnaître le rôle moteur des villes. Il refuse de fixer un objectif chiffré de croissance et défend une identité à la fois olympique et culturelle.",
+      "quote": "Réduire Lausanne à une seule de ses dimensions reviendrait à la déséquilibrer.",
+      "themes": [
+        "collectivites",
+        "territoire"
+      ],
+      "region": "Lausanne",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Grégoire Junod",
+          "role": "Syndic"
+        }
+      ],
+      "companies": [
+        "ville-de-lausanne"
+      ]
+    },
+    {
+      "slug": "lausanne-florence-germond",
+      "title": "Investir pour faire du développement un atout",
+      "subtitle": "Entretien avec Mme Florence Germond, municipale en charge des Finances et de la Mobilité",
+      "type": "interview",
+      "page": "03",
+      "pdfPages": [
+        5
+      ],
+      "summary": "Lausanne prévoit d'investir près de 150 millions de francs par an, un niveau historique : stade de la Tuilière, centre sportif de Malley, viabilisation des écoquartiers du projet Métamorphose, écoles et espaces publics le long du futur métro m3. La municipale insiste sur la nécessité de dégager des marges d'autofinancement et sur le rôle régional de la ville, dont elle souhaite un meilleur partage des coûts. Elle détaille les priorités de mobilité (m3, tram t1, LEB, pistes cyclables, essai de 30 km/h nocturne) et ses attentes envers le Projet fiscal 2017 après l'échec de la RIE III.",
+      "quote": "",
+      "themes": [
+        "collectivites",
+        "mobilite",
+        "economie"
+      ],
+      "region": "Lausanne",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Florence Germond",
+          "role": "Municipale, Finances et Mobilité"
+        }
+      ],
+      "companies": [
+        "ville-de-lausanne"
+      ]
+    },
+    {
+      "slug": "lausanne-natacha-litzistorf",
+      "title": "« Une autre façon d'habiter est en marche ! »",
+      "subtitle": "Entretien avec Mme Natacha Litzistorf, municipale en charge du Logement, de l'Environnement et de l'Architecture",
+      "type": "interview",
+      "page": "04",
+      "pdfPages": [
+        6
+      ],
+      "summary": "Face aux mutations de Plateforme10, Sébeillon, de la gare et des Plaines-du-Loup, la municipale veut préserver l'identité des quartiers et densifier de manière participative, avec une plateforme interservices dédiée. Présidente de la Société immobilière lausannoise pour le logement (SILL), elle mise sur la mixité sociale et sur les nouvelles formes d'habitat (coopératives, colocations intergénérationnelles). Elle conteste l'idée que les tours soient la meilleure façon de densifier, plaide pour une trame verte et bleue, un plan des arbres remarquables et une agriculture urbaine « des champs aux balcons ».",
+      "quote": "La ville se densifiera de façon participative ou ne se densifiera pas.",
+      "themes": [
+        "collectivites",
+        "architecture",
+        "territoire"
+      ],
+      "region": "Lausanne",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Natacha Litzistorf",
+          "role": "Municipale, Logement, Environnement et Architecture"
+        }
+      ],
+      "companies": [
+        "ville-de-lausanne"
+      ]
+    },
+    {
+      "slug": "lausanne-pierre-antoine-hildbrand",
+      "title": "« Nous nous positionnons à la pointe d'une thématique vitale »",
+      "subtitle": "Entretien avec M. Pierre-Antoine Hildbrand, municipal en charge de l'Economie et de la Sécurité",
+      "type": "interview",
+      "page": "05",
+      "pdfPages": [
+        7
+      ],
+      "summary": "Le municipal présente le projet qui lui tient à cœur : la reconstruction complète de la station d'épuration de Vidy, désignée station-test par la Confédération pour le traitement des micropolluants, un chantier de 300 millions mené sans interrompre l'exploitation. Il veut soutenir le commerce en développant le tourisme de loisirs et l'événementiel. Le nouveau Service de l'économie a montré que la santé est le premier employeur de la ville, d'où la volonté d'attirer biotechs et start-ups près du CHUV, de l'EPFL et de l'UNIL. Côté sécurité, il relève la baisse de la criminalité.",
+      "quote": "",
+      "themes": [
+        "collectivites",
+        "economie",
+        "energie"
+      ],
+      "region": "Lausanne",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Pierre-Antoine Hildbrand",
+          "role": "Municipal, Economie et Sécurité"
+        }
+      ],
+      "companies": [
+        "ville-de-lausanne"
+      ]
+    },
+    {
+      "slug": "lausanne-jean-yves-pidoux",
+      "title": "Vers une vi(ll)e toujours plus verte",
+      "subtitle": "Entretien avec M. Jean-Yves Pidoux, municipal en charge des Services industriels",
+      "type": "interview",
+      "page": "06",
+      "pdfPages": [
+        8
+      ],
+      "summary": "Plus de 90 % de l'électricité livrée aux Lausannois est déjà renouvelable et le chauffage à distance est alimenté à plus de 60 % par la valorisation des déchets. Le municipal présente les projets : optimisation de l'usine hydroélectrique de Lavey, société SI-REN pour décupler le photovoltaïque local et réaliser un parc éolien d'ici 2020, géothermie de moyenne profondeur dans les écoquartiers. Il évoque le programme Equiwatt d'économies d'énergie, le réseau de communication propriété de la ville pour une smart city et le Plan lumière qui concilie sobriété, patrimoine et sentiment de sécurité.",
+      "quote": "",
+      "themes": [
+        "energie",
+        "collectivites"
+      ],
+      "region": "Lausanne",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Jean-Yves Pidoux",
+          "role": "Municipal, Services industriels"
+        }
+      ],
+      "companies": [
+        "ville-de-lausanne"
+      ]
+    },
+    {
+      "slug": "lausanne-david-payot",
+      "title": "Chaque voix doit être impliquée",
+      "subtitle": "Entretien avec M. David Payot, municipal en charge de l'Enfance, de la Jeunesse et des Quartiers",
+      "type": "interview",
+      "page": "07",
+      "pdfPages": [
+        9
+      ],
+      "summary": "Le municipal tient chaque lundi une permanence dans un café pour rencontrer les habitants et veut placer la démocratie participative au centre de son dicastère, jusqu'à associer les enfants à l'aménagement des places de jeu. Il souhaite ouvrir davantage les écoles et maisons de quartier aux associations. Lausanne a créé plus de 2 000 places d'accueil de jour en dix ans, mais des listes d'attente subsistent. Il s'inquiète du faible accès des jeunes Lausannois à l'apprentissage (15 % contre 25 % dans le canton) et présente le projet pilote « Paysage Educatif » à Grand-Vennes.",
+      "quote": "",
+      "themes": [
+        "collectivites",
+        "formation"
+      ],
+      "region": "Lausanne",
+      "language": "fr",
+      "people": [
+        {
+          "name": "David Payot",
+          "role": "Municipal, Enfance, Jeunesse et Quartiers"
+        }
+      ],
+      "companies": [
+        "ville-de-lausanne"
+      ]
+    },
+    {
+      "slug": "lausanne-oscar-tosato",
+      "title": "Lausanne en forme olympique",
+      "subtitle": "Entretien avec M. Oscar Tosato, municipal en charge des Sports et de la Cohésion sociale",
+      "type": "interview",
+      "page": "08",
+      "pdfPages": [
+        10
+      ],
+      "summary": "Capitale olympique depuis 1994, Lausanne accueille de grandes fédérations sportives et prépare les Jeux olympiques de la jeunesse 2020. Le municipal évoque les deux grands chantiers sportifs (stade de la Tuilière et centre de Malley), les quelque 600 emplois liés au sport et les manifestations comme Athletissima, la Fête romande de gymnastique ou les mondiaux de triathlon 2019. Il aborde aussi l'intégration d'une population étrangère de 40 %, avec le Bureau lausannois des immigrés, et la lutte contre le chômage de longue durée par des mesures de réinsertion.",
+      "quote": "",
+      "themes": [
+        "collectivites",
+        "territoire"
+      ],
+      "region": "Lausanne",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Oscar Tosato",
+          "role": "Municipal, Sports et Cohésion sociale"
+        }
+      ],
+      "companies": [
+        "ville-de-lausanne"
+      ]
+    },
+    {
+      "slug": "lausanne-lausanne-tourisme",
+      "title": "Devenir une ville à la mode pour les escapades d'un week-end",
+      "subtitle": "Entretien avec M. Steeve Pasche, directeur de Lausanne Tourisme",
+      "type": "interview",
+      "page": "09",
+      "pdfPages": [
+        11
+      ],
+      "summary": "Avec environ 1,2 million de nuitées par an, dont 65 % liées aux affaires, Lausanne veut développer le tourisme de loisirs et les courts séjours, une tendance qui profite aux villes moyennes. Le directeur de Lausanne Tourisme met en avant l'art de vivre, la pente, l'offre culturelle et les nouveautés comme l'aquarium Aquatis et le pôle muséal Plateforme10. Il détaille les marchés (Suisse alémanique en tête, France, Allemagne, Etats-Unis, Moyen-Orient), la collaboration avec Suisse Tourisme et l'office vaudois, et le blog my-lausanne.com qui fait des habitants des ambassadeurs.",
+      "quote": "Les meilleurs ambassadeurs d'une ville doivent être ses habitants.",
+      "themes": [
+        "territoire",
+        "economie"
+      ],
+      "region": "Lausanne",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Steeve Pasche",
+          "role": "Directeur"
+        }
+      ],
+      "companies": [
+        "lausanne-tourisme"
+      ]
+    },
+    {
+      "slug": "lausanne-a-carre-architecture",
+      "title": "A Carré Architecture & Aménagement SA – L'activité architecture",
+      "subtitle": "",
+      "type": "publireportage",
+      "page": "10-11",
+      "pdfPages": [
+        12,
+        13
+      ],
+      "summary": "Actif depuis 1985 et dirigé par un triumvirat, le bureau A Carré conçoit et réalise des bâtiments administratifs, commerciaux et publics, à raison de 20 à 30 projets par an, surtout en Suisse romande. Il défend une architecture où la beauté naît des qualités techniques et fonctionnelles, des matériaux durables et une maîtrise des coûts. L'équipe de 35 personnes (architectes, dessinateurs, spécialistes du développement durable) se forme en continu et accueille stagiaires et apprentis. Exemples illustrés : ensemble résidentiel à Domdidier, logements protégés et centre de dialyse à Vevey.",
+      "quote": "",
+      "themes": [
+        "architecture",
+        "construction"
+      ],
+      "region": "Bussigny",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Jean-Pascal Cuerel",
+          "role": "Codirecteur"
+        },
+        {
+          "name": "Marcelo Bidinost",
+          "role": "Codirecteur"
+        },
+        {
+          "name": "Didier Rinsoz",
+          "role": "Codirecteur"
+        }
+      ],
+      "companies": [
+        "a-carre-architecture-amenagement"
+      ]
+    },
+    {
+      "slug": "lausanne-a-carre-developpement",
+      "title": "A Carré SA – L'activité de la société de développement",
+      "subtitle": "",
+      "type": "publireportage",
+      "page": "12-13",
+      "pdfPages": [
+        14,
+        15
+      ],
+      "summary": "En complément du bureau d'architecture, A Carré SA accompagne propriétaires et communes dans la valorisation de terrains, de l'étude de faisabilité au plan de quartier et à la commercialisation, et réalise aussi des immeubles pour son propre compte. Jean-Pascal Cuerel cite un projet de 500 logements à Nyon dont les chiffres se sont avérés précis huit ans après l'analyse initiale. La société travaille sur une dizaine de plans de quartier, a construit une dizaine de bâtiments médicaux et propose aux collectivités un accompagnement financier et juridique (droits de superficie, friches). Exemples : hôtel de police à Morges, pôle d'activités à Lonay.",
+      "quote": "Nous sommes pragmatiques et concrets, ce qui est primordial dans la valorisation foncière.",
+      "themes": [
+        "architecture",
+        "economie"
+      ],
+      "region": "Bussigny",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Jean-Pascal Cuerel",
+          "role": "Codirecteur"
+        }
+      ],
+      "companies": [
+        "a-carre-architecture-amenagement"
+      ]
+    },
+    {
+      "slug": "lausanne-af-toscano",
+      "title": "AF Toscano SA",
+      "subtitle": "",
+      "type": "publireportage",
+      "page": "14",
+      "pdfPages": [
+        16
+      ],
+      "summary": "Membre du groupe suédois AF, AF Toscano réalise un chiffre d'affaires de 47 millions de francs avec près de 350 collaborateurs dans 21 succursales suisses, dont la moitié d'ingénieurs diplômés. Sa succursale lausannoise veut devenir un partenaire de choix en génie civil (routes, rail, réseaux souterrains, ouvrages d'art) et développer ses compétences en mobilité, géologie et géotechnique. Elle travaille sur la requalification de la route de Berne, le goulet de Crissier, les ouvrages du MOB et l'autoroute A9, et participe au chantier du stade de la Tuilière. La page comporte aussi une annonce de Bentley Lausanne.",
+      "quote": "",
+      "themes": [
+        "construction",
+        "mobilite"
+      ],
+      "region": "Lausanne",
+      "language": "fr",
+      "people": [],
+      "companies": [
+        "af-toscano",
+        "d-auto-suisse"
+      ]
+    },
+    {
+      "slug": "lausanne-agrola",
+      "title": "AGROLA AG – « AGROLA betreibt das zweitgrösste Tankstellennetz der Schweiz »",
+      "subtitle": "Interview mit Alexander Streitzig, Vorsitzender der Geschäftsleitung",
+      "type": "publireportage",
+      "page": "15",
+      "pdfPages": [
+        17
+      ],
+      "summary": "Avec 430 stations, AGROLA exploite le deuxième réseau de stations-service de Suisse, surtout en zone rurale, et domine le marché des pellets de bois, à 80 % d'origine suisse. Son directeur détaille l'offre de mazout (dont plus de 50 % d'éco-mazout), de diesel enrichi en biocomposants et à faibles émissions, le plus grand réseau d'AdBlue et l'E85 dans plus de 30 stations. Il présente la carte AGROLA energy card et la société sœur Solvatec, active dans les installations solaires. L'entreprise veut évoluer vers un fournisseur d'énergies renouvelables. Interview en allemand.",
+      "quote": "",
+      "themes": [
+        "energie",
+        "mobilite"
+      ],
+      "region": "Winterthour",
+      "language": "de",
+      "people": [
+        {
+          "name": "Alexander Streitzig",
+          "role": "Vorsitzender der Geschäftsleitung"
+        }
+      ],
+      "companies": [
+        "agrola"
+      ]
+    },
+    {
+      "slug": "lausanne-apleona-hsg",
+      "title": "Apleona HSG SA – Realising potential",
+      "subtitle": "",
+      "type": "publireportage",
+      "page": "16",
+      "pdfPages": [
+        18
+      ],
+      "summary": "Présente en Suisse depuis plus de 20 ans, Apleona HSG compte parmi les trois leaders européens du facility management. Ses 1 200 collaborateurs suisses se répartissent entre gestion technique, infrastructurelle et commerciale des bâtiments, de l'avant-projet à l'exploitation. Parmi ses clients figurent ABB, Bosch, Caterpillar et une organisation internationale genevoise ; un contrat européen couvre 120 sites d'ABB. L'entreprise mise sur la digitalisation, la modélisation, la formation à la gestion énergétique et le développement durable.",
+      "quote": "",
+      "themes": [
+        "economie",
+        "energie"
+      ],
+      "region": "Lausanne",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Emilio Abadin",
+          "role": "Directeur régional Romandie et Tessin"
+        }
+      ],
+      "companies": [
+        "apleona-hsg"
+      ]
+    },
+    {
+      "slug": "lausanne-bg-ingenieurs-conseils",
+      "title": "BG Ingénieurs Conseils – Bâtir un cadre de vie durable",
+      "subtitle": "BG Consulting Engineers – Building a sustainable living environment",
+      "type": "publireportage",
+      "page": "18-19",
+      "pdfPages": [
+        20,
+        21
+      ],
+      "summary": "Fondé en 1954, BG compte plus de 630 collaborateurs de 30 nationalités dans 22 agences en Suisse, en France et en Algérie. Le bureau conseille ses clients, à 60 % publics, dans les infrastructures, l'environnement, le bâtiment et l'énergie : stations d'épuration et d'incinération, ponts, tunnels, nœuds ferroviaires, protection contre les risques. Références : Rolex Learning Center, CEVA, A16, siège de la Poste à Berne, STEP d'Achères, métro m2/m3, Grand Paris Express. Il finance des prix de développement durable à l'EPFL et à l'ECAL et se diversifie vers le BIM et les solutions « smart ». Texte bilingue français-anglais.",
+      "quote": "",
+      "themes": [
+        "construction",
+        "energie",
+        "mobilite"
+      ],
+      "region": "Lausanne",
+      "language": "fr",
+      "people": [],
+      "companies": [
+        "bg-ingenieurs-conseils"
+      ]
+    },
+    {
+      "slug": "lausanne-biopole",
+      "title": "Biopôle – Plus qu'un parc scientifique, une communauté dynamique dans le domaine des sciences de la vie",
+      "subtitle": "Biopôle – More than a science park: a vibrant life science community",
+      "type": "publireportage",
+      "page": "20-21",
+      "pdfPages": [
+        22,
+        23
+      ],
+      "summary": "Sur 77 000 m² à Epalinges, le Biopôle réunit une cinquantaine de sociétés et organismes des sciences de la vie et plus de 1 200 personnes : laboratoires de l'UNIL et du CHUV, Institut Ludwig, multinationales comme Incyte, ADC Therapeutics ou Nestlé Health Science, PME et start-ups. Biopôle SA négocie des services à prix préférentiels, facilite l'accès aux plateformes de l'UNIL et organise conférences et événements internationaux. Plusieurs bâtiments sont en projet, dont un incubateur en 2018, le centre d'immunothérapie de l'Institut Ludwig et la plateforme « Belvédère » coconstruite avec le CHUV. Texte bilingue.",
+      "quote": "",
+      "themes": [
+        "sante",
+        "formation",
+        "economie"
+      ],
+      "region": "Epalinges",
+      "language": "fr",
+      "people": [],
+      "companies": [
+        "biopole"
+      ]
+    },
+    {
+      "slug": "lausanne-bc-ingenieurs",
+      "title": "B+C Ingénieurs SA – « Des prestations pluridisciplinaires au service du territoire »",
+      "subtitle": "",
+      "type": "publireportage",
+      "page": "22-23",
+      "pdfPages": [
+        24,
+        25
+      ],
+      "summary": "Fondé en 1945 et basé à Montreux avec des succursales à Aigle, Lausanne et Genève, le bureau B+C Ingénieurs (28 collaborateurs, environ 600 mandats par an) réunit géomètres et ingénieurs en gestion foncière, environnement, aménagement, infrastructures et hydraulique. Ses dirigeants citent la route transchablaisienne H144, la renaturation de l'Aire à Genève, primée en 2017, le suivi environnemental de l'hôpital Riviera-Chablais à Rennaz, les études d'impact des Plaines-du-Loup, la cartographie des dangers d'inondation et des relevés 3D par drone.",
+      "quote": "",
+      "themes": [
+        "territoire",
+        "construction",
+        "energie"
+      ],
+      "region": "Montreux",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Frédéric Guex",
+          "role": "Membre de la direction et du conseil d'administration"
+        },
+        {
+          "name": "Stéphane Verdon",
+          "role": "Membre de la direction et du conseil d'administration"
+        }
+      ],
+      "companies": [
+        "bc-ingenieurs"
+      ]
+    },
+    {
+      "slug": "lausanne-cibm",
+      "title": "Centre d'Imagerie Biomédicale – CIBM : une structure de recherche ouverte et ambitieuse en imagerie biomédicale",
+      "subtitle": "",
+      "type": "publireportage",
+      "page": "24",
+      "pdfPages": [
+        26
+      ],
+      "summary": "Fondé en 2004 avec le soutien des fondations Louis-Jeantet et Leenaards, le CIBM rassemble sous la direction du professeur Rolf Gruetter les compétences de l'EPFL, de l'UNIL, du CHUV, des HUG et de l'UNIGE. Ses sept modules couvrent cartographie cérébrale EEG, traitement des images, contraste de phase, tomographie par émission de positrons, imagerie animale et résonance magnétique clinique. Il dispose notamment d'un aimant 7 tesla pour l'étude du cerveau humain et a mis au point l'imagerie au fluor de l'inflammation, primée par le Prix Pfizer. Il propose aussi des cours de master et de doctorat.",
+      "quote": "",
+      "themes": [
+        "sante",
+        "formation"
+      ],
+      "region": "Lausanne",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Rolf Gruetter",
+          "role": "Directeur"
+        },
+        {
+          "name": "Micah Murray",
+          "role": "Professeur, module EEG"
+        },
+        {
+          "name": "Michael Unser",
+          "role": "Responsable division traitement des signaux"
+        }
+      ],
+      "companies": [
+        "cibm"
+      ]
+    },
+    {
+      "slug": "lausanne-cifer",
+      "title": "CIFER Centre de formation – Valoriser le métier d'électricien de réseau",
+      "subtitle": "Enhancing the status of the power network electrician",
+      "type": "publireportage",
+      "page": "26-27",
+      "pdfPages": [
+        28,
+        29
+      ],
+      "summary": "Créée en 2008 par six distributeurs romands d'électricité, la CIFER est le seul centre de formation des électriciens de réseau en Suisse romande : elle a formé 6 647 apprentis et professionnels entre 2009 et 2016 et réunit 36 membres. Elle organise les cours interentreprises de l'apprentissage, les brevets et maîtrises fédéraux et la formation continue, en lien avec la Stratégie énergétique 2050. Elle a contribué à la réforme du métier, rendu plus attractif notamment pour les femmes, et promeut la profession lors de salons et journées portes ouvertes. Texte bilingue.",
+      "quote": "",
+      "themes": [
+        "formation",
+        "energie"
+      ],
+      "region": "Penthalaz",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Philippe Perusset",
+          "role": "Directeur du Centre de formation"
+        }
+      ],
+      "companies": [
+        "cifer"
+      ]
+    },
+    {
+      "slug": "lausanne-cridec",
+      "title": "CRIDEC, l'issue pour vos déchets spéciaux et vos analyses",
+      "subtitle": "Savoir-faire, proximité et éthique environnementale",
+      "type": "publireportage",
+      "page": "28-29",
+      "pdfPages": [
+        30,
+        31
+      ],
+      "summary": "Installée à Eclépens et présente à Winterthour et Martigny, CRIDEC traite quelque 50 000 tonnes de déchets spéciaux par an. Son directeur Yvan Buehner décrit le laboratoire accrédité qui identifie chaque déchet, contrôle les rejets et analyse pour des tiers, ainsi que les filières : combustible de substitution pour les cimenteries, traitement des boues huileuses, recyclage des sources lumineuses (Lumirec) et stabilisation des cendres d'incinération. Fondée en 1985, la société est détenue à 75 % par des collectivités publiques, dont l'Etat de Vaud et Lausanne. Elle vend aussi l'absorbant naturesorb.",
+      "quote": "",
+      "themes": [
+        "energie",
+        "industrie"
+      ],
+      "region": "Eclépens",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Yvan Buehner",
+          "role": "Directeur"
+        }
+      ],
+      "companies": [
+        "cridec"
+      ]
+    },
+    {
+      "slug": "lausanne-des-systemes-de-securite",
+      "title": "D.E.S. Systèmes de sécurité SA – Notre passion, votre sécurité",
+      "subtitle": "Our passion, your safety",
+      "type": "publireportage",
+      "page": "30-31",
+      "pdfPages": [
+        32,
+        33
+      ],
+      "summary": "Fondée en 1995 avec quatre personnes, D.E.S. emploie 32 collaborateurs et réalise 10 millions de francs de chiffre d'affaires. Elle conçoit, installe et entretient des installations sprinkler et des systèmes électroniques de détection incendie, gaz et intrusion, et fait partie des rares entreprises suisses homologuées pour les deux. Un département dédié élabore les concepts de sécurité incendie. L'entreprise revendique 1 700 installations, dont le Rolex Learning Center, la tour du Bugnon, Marin Centre (17 700 buses), des sites Ikea, Lidl et Aldi, et prépare le Millénium à Crissier et des bâtiments pour Celgene. Texte bilingue.",
+      "quote": "",
+      "themes": [
+        "construction"
+      ],
+      "region": "Romanel-sur-Lausanne",
+      "language": "fr",
+      "people": [],
+      "companies": [
+        "des-systemes-de-securite"
+      ]
+    },
+    {
+      "slug": "lausanne-edifea",
+      "title": "EDIFEA SA – Des solutions constructives pour particuliers et professionnels",
+      "subtitle": "Constructive solutions for private individuals and professionals",
+      "type": "publireportage",
+      "page": "32-33",
+      "pdfPages": [
+        34,
+        35
+      ],
+      "summary": "Née en 2009 de l'association de Bertrand Duckert et Jérôme Félicité, l'entreprise générale Edifea a traité plus de 100 millions d'affaires en 2016 et pilote plus de 50 chantiers avec 85 collaborateurs organisés en pôles (villas, rénovation, surélévation, grands projets). Après la fusion avec Edifea Vaud en 2017, elle dispose de succursales à Genève, Lutry et Villars-sur-Glâne et prévoit le Valais. Parmi ses chantiers : Rossi 16 à Genève, la tour étudiante Silo à Renens (273 logements), la surélévation Vaudagne à Meyrin et Beaumont Sud à Fribourg. Texte bilingue.",
+      "quote": "",
+      "themes": [
+        "construction"
+      ],
+      "region": "Genève, Lutry",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Bertrand Duckert",
+          "role": "Cofondateur"
+        },
+        {
+          "name": "Jérôme Félicité",
+          "role": "Cofondateur"
+        }
+      ],
+      "companies": [
+        "edifea"
+      ]
+    },
+    {
+      "slug": "lausanne-effitec",
+      "title": "Effitec SA – Pour un contrôle électrique sûr et efficace",
+      "subtitle": "For reliable and efficient electrical inspections",
+      "type": "publireportage",
+      "page": "34-35",
+      "pdfPages": [
+        36,
+        37
+      ],
+      "summary": "Créée en 2002, Effitec emploie 20 personnes, réalise 2,5 à 3 millions de chiffre d'affaires et effectue environ 10 000 contrôles et audits par an. Sa mission est de prévenir les accidents électriques par les contrôles exigés par l'OIBT, des concepts de sécurité électrique, des inspections de paratonnerres, d'installations spéciales et photovoltaïques. Elle délivre les certifications Naturemade et Swissgrid et propose des formations sur mesure. Ses références incluent les CFF, l'armée, la RTS, le canton de Vaud et le Paléo Festival. Texte bilingue.",
+      "quote": "",
+      "themes": [
+        "energie",
+        "construction"
+      ],
+      "region": "Echandens",
+      "language": "fr",
+      "people": [],
+      "companies": [
+        "effitec"
+      ]
+    },
+    {
+      "slug": "lausanne-ensr",
+      "title": "Ecole Nouvelle de la Suisse Romande – ENSR",
+      "subtitle": "",
+      "type": "publireportage",
+      "page": "36-37",
+      "pdfPages": [
+        38,
+        39
+      ],
+      "summary": "Fondée en 1906, l'ENSR accueille plus de 640 élèves de 3 à 19 ans dans un cadre verdoyant à Lausanne, dont une cinquantaine d'internes de plus de 20 nationalités. L'enseignement, principalement francophone, comprend une section bilingue avec l'anglais dès la maternelle, du français langue étrangère en petits groupes, la Maturité suisse et le Baccalauréat international, et de nombreuses langues. La maternelle propose une voie Montessori. Société anonyme à but non lucratif, l'école réinvestit ses bénéfices. Le texte est publié en français et en allemand.",
+      "quote": "",
+      "themes": [
+        "formation"
+      ],
+      "region": "Lausanne",
+      "language": "fr",
+      "people": [],
+      "companies": [
+        "ensr"
+      ]
+    },
+    {
+      "slug": "lausanne-ferring",
+      "title": "Ferring International Center SA",
+      "subtitle": "Une vision globale par Michel Pettigrew ; un aperçu de notre science par Per Falk",
+      "type": "publireportage",
+      "page": "38-39",
+      "pdfPages": [
+        40,
+        41
+      ],
+      "summary": "Fondé en 1950 à Malmö, le groupe pharmaceutique Ferring est présent dans plus de 60 pays avec plus de 6 000 employés et a installé en 2006 son siège mondial et une usine à Saint-Prex, où travaillent plus de 600 personnes. La santé reproductive et maternelle représente environ 45 % de ses 1,8 milliard d'euros de ventes en 2016, aux côtés de la gastroentérologie et de l'urologie. Le site produit notamment le PENTASA et le MINIRIN. Le directeur scientifique évoque la recherche sur les peptides, dont un traitement contre la mortalité maternelle, et la médecine personnalisée. Texte bilingue.",
+      "quote": "",
+      "themes": [
+        "sante",
+        "industrie"
+      ],
+      "region": "Saint-Prex",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Michel Pettigrew",
+          "role": "Président du comité de direction et Chief Operating Officer"
+        },
+        {
+          "name": "Per Falk",
+          "role": "Executive Vice President et Chief Scientific Officer"
+        }
+      ],
+      "companies": [
+        "ferring"
+      ]
+    },
+    {
+      "slug": "lausanne-getag",
+      "title": "GETAG Entsorgungs-Technik AG / GETAG Romandie SA",
+      "subtitle": "Im Gespräch mit Geschäftsführer Yvan Grepper / Entretien avec Yvan Grepper, PDG",
+      "type": "publireportage",
+      "page": "40-41",
+      "pdfPages": [
+        42,
+        43
+      ],
+      "summary": "Active depuis plus de 25 ans dans la technique de gestion des déchets et du recyclage, GETAG propose compacteurs, broyeurs, cribles et solutions de collecte et de transport, ainsi que des stations de transbordement et des conteneurs spéciaux. Son service après-vente intervient sur site. Sa filiale GETAG Romandie, fondée en 2008, réalise environ 25 % du chiffre d'affaires. Pour le projet TRIDEL, elle a livré des stations de transfert et les conteneurs verts transportés par rail autour de Lausanne. Interview publiée en allemand et en français.",
+      "quote": "",
+      "themes": [
+        "energie",
+        "industrie"
+      ],
+      "region": "Suisse romande",
+      "language": "de",
+      "people": [
+        {
+          "name": "Yvan Grepper",
+          "role": "Geschäftsführer / PDG"
+        }
+      ],
+      "companies": [
+        "getag"
+      ]
+    },
+    {
+      "slug": "lausanne-kummler-matter",
+      "title": "Kummler+Matter SA",
+      "subtitle": "",
+      "type": "publireportage",
+      "page": "42",
+      "pdfPages": [
+        44
+      ],
+      "summary": "Filiale d'Alpiq InTec créée en 1905, Kummler+Matter compte 600 collaborateurs dans 11 succursales, dont deux romandes. Elle est active dans le ferroviaire (caténaires et installations de sécurité de marque MZ), la régulation du trafic routier, l'énergie (câblage basse, moyenne et haute tension), la fibre optique et l'alimentation électrique d'événements. Références : gare d'Assens sur le LEB, carrefour de la Bourdonnette, métros M1 et M2, centrale de Nant de Drance, fibre optique pour Pully et le CERN ; chantiers en cours sur les lignes MBC et LEB et au CEVA.",
+      "quote": "Plus c'est compliqué, mieux Kummler+Matter aime !",
+      "themes": [
+        "mobilite",
+        "energie",
+        "construction"
+      ],
+      "region": "Le Mont-sur-Lausanne",
+      "language": "fr",
+      "people": [],
+      "companies": [
+        "kummler-matter"
+      ]
+    },
+    {
+      "slug": "lausanne-guyot-architectes",
+      "title": "GUYOT | Architectes",
+      "subtitle": "",
+      "type": "publireportage",
+      "page": "43",
+      "pdfPages": [
+        45
+      ],
+      "summary": "Créé en 1966 par l'architecte et ingénieur Philippe Guyot, l'atelier, après des activités à Zurich, en Afrique et en Arabie saoudite, s'est recentré dès 1983 sur l'arc lémanique et la Riviera. Ses sept collaborateurs réalisent villas, habitat multifamilial, tours de logements jusqu'à 300 unités et bâtiments tertiaires, ainsi que des expertises. Il achève la réhabilitation de deux immeubles des années 1930 et un bâtiment mixte à Pully, participe à des concours d'EMS et de musées et prépare un projet de 70 logements pour 2018. Texte bilingue français-anglais.",
+      "quote": "",
+      "themes": [
+        "architecture"
+      ],
+      "region": "Lausanne",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Philippe Guyot",
+          "role": "Fondateur"
+        }
+      ],
+      "companies": [
+        "guyot-architectes"
+      ]
+    },
+    {
+      "slug": "lausanne-hesav",
+      "title": "La Haute Ecole de Santé Vaud au cœur de la cité – Affûtée pour relever les défis du 21e siècle",
+      "subtitle": "Entretien avec Mme Mireille Clerc, directrice de HESAV",
+      "type": "interview",
+      "page": "44-45",
+      "pdfPages": [
+        46,
+        47
+      ],
+      "summary": "Forte de plus de 1 000 étudiants et 215 collaborateurs, HESAV forme en soins infirmiers, physiothérapie, sage-femme et radiologie médicale. Sa directrice explique comment l'école prépare les soignants au vieillissement et aux maladies chroniques, notamment avec un futur master en pratique avancée. Aujourd'hui répartie sur quatre sites, HESAV quittera la tour de Chantepierre en 2022 pour le Campus santé de Chavannes-près-Renens, près de l'UNIL et de l'EPFL, avec un centre de compétences cliniques partagé (C4). Elle détaille ses liens avec la population lausannoise. Texte bilingue.",
+      "quote": "",
+      "themes": [
+        "sante",
+        "formation"
+      ],
+      "region": "Lausanne",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Mireille Clerc",
+          "role": "Directrice"
+        }
+      ],
+      "companies": [
+        "hesav"
+      ]
+    },
+    {
+      "slug": "lausanne-kalin-associes",
+      "title": "Kälin & Associés SA – L'ouverture comme philosophie",
+      "subtitle": "",
+      "type": "publireportage",
+      "page": "46-47",
+      "pdfPages": [
+        48,
+        49
+      ],
+      "summary": "Fondé en 1967 par Marcel Meuwly et André Soutter et repris en 2000 par Jean-François Kälin, ce bureau lausannois d'ingénieurs civils compte une douzaine de collaborateurs. Son patron veut faire travailler architectes et ingénieurs en véritable tandem créatif. Généraliste, le bureau s'est spécialisé dans la restauration des monuments historiques (cathédrale de Lausanne, abbatiale de Payerne, château de Vufflens) et la construction en bois, notamment pour des cabanes du Club alpin suisse. Il prépare l'intégration du BIM et souhaite renforcer son activité en génie civil.",
+      "quote": "",
+      "themes": [
+        "construction",
+        "architecture"
+      ],
+      "region": "Lausanne",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Jean-François Kälin",
+          "role": "Directeur"
+        }
+      ],
+      "companies": [
+        "kalin-associes"
+      ]
+    },
+    {
+      "slug": "lausanne-lhc-lausanne-hospitality-consulting",
+      "title": "LHC – Lausanne Hospitality Consulting : l'excellence suisse qui fascine le monde",
+      "subtitle": "Swiss excellence around the world",
+      "type": "publireportage",
+      "page": "48-49",
+      "pdfPages": [
+        50,
+        51
+      ],
+      "summary": "Filiale de l'Ecole hôtelière de Lausanne (EHL), LHC transmet le savoir-faire hôtelier suisse à toutes les industries de l'accueil, avec des bureaux à Lausanne, Pékin et New Delhi. Son directeur André Mack décrit le développement de destinations « greenfield », la certification d'établissements dans le monde entier, la formation du personnel d'entreprises comme Romande Energie ou la BCV à la qualité de service et la reconnaissance des acquis en Asie, en Afrique et en Amérique latine. LHC compte 17 collaborateurs de 15 nationalités en Suisse ; Hôtellerie Suisse en est en partie propriétaire.",
+      "quote": "",
+      "themes": [
+        "formation",
+        "economie",
+        "territoire"
+      ],
+      "region": "Lausanne",
+      "language": "fr",
+      "people": [
+        {
+          "name": "André Mack",
+          "role": "Directeur"
+        }
+      ],
+      "companies": [
+        "lhc-lausanne-hospitality-consulting"
+      ]
+    },
+    {
+      "slug": "lausanne-montangero-fils",
+      "title": "Montangero & Fils SA – Une dynastie de plâtriers-peintres",
+      "subtitle": "",
+      "type": "publireportage",
+      "page": "50",
+      "pdfPages": [
+        52
+      ],
+      "summary": "Entreprise familiale depuis cinq générations, depuis l'arrivée de Jean-Baptiste Montangero à Aubonne en 1879, Montangero & Fils emploie une trentaine de personnes à Romanel-sur-Lausanne. Dirigée depuis 2002 par Ludovic et Sylvain Montangero, elle réalise plâtrerie, peinture, rénovation de façades et techniques décoratives (béton ciré, papier peint), pour des privés, des architectes et des gérances. Elle forme des apprentis, sponsorise des clubs locaux et collabore avec sa société sœur CAPMONT SA pour les échafaudages.",
+      "quote": "",
+      "themes": [
+        "construction"
+      ],
+      "region": "Romanel-sur-Lausanne",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Ludovic Montangero",
+          "role": "Administrateur"
+        },
+        {
+          "name": "Sylvain Montangero",
+          "role": "Administrateur"
+        }
+      ],
+      "companies": [
+        "montangero-fils"
+      ]
+    },
+    {
+      "slug": "lausanne-novotel-lausanne-bussigny",
+      "title": "Novotel Lausanne Bussigny",
+      "subtitle": "",
+      "type": "publireportage",
+      "page": "51",
+      "pdfPages": [
+        53
+      ],
+      "summary": "Rénové en 2008 avec une piscine naturelle et un étage construit en matériaux durables, le Novotel Lausanne Bussigny s'engage dans le programme Planet21 d'AccorHotels. Son directeur Franck Fleury présente le centre de conférences repensé : plantes stabilisées, message « Think green », restauration maison avec produits locaux et miel de l'hôtel, fruits offerts, calcul et compensation de l'empreinte carbone des réunions. L'hôtel a aussi installé une smartflower, un capteur solaire en forme de fleur de 18 m².",
+      "quote": "",
+      "themes": [
+        "territoire",
+        "energie"
+      ],
+      "region": "Bussigny",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Franck Fleury",
+          "role": "Directeur général"
+        }
+      ],
+      "companies": [
+        "novotel-lausanne-bussigny"
+      ]
+    },
+    {
+      "slug": "lausanne-novigenix",
+      "title": "Innovation « made in Switzerland » – Un test sanguin pour la détection précoce du cancer colorectal",
+      "subtitle": "Novigenix SA",
+      "type": "publireportage",
+      "page": "52-53",
+      "pdfPages": [
+        54,
+        55
+      ],
+      "summary": "Start-up biotech installée au Biopôle, Novigenix développe des tests sanguins de nouvelle génération. Son produit phare Colox, fruit de dix ans de recherche avec l'ISREC, l'UNIL, l'EPFL, le CHUV et l'hôpital universitaire de Bâle, interroge le système immunitaire pour détecter précocement le cancer colorectal ou ses lésions précancéreuses. Ce cancer tue cinq personnes par jour en Suisse alors qu'une détection précoce porte la survie à cinq ans à 90 %. Déjà prescrit par 400 médecins à plus de 3 000 patients, le test a été validé dans Clinical Cancer Research. Texte bilingue.",
+      "quote": "",
+      "themes": [
+        "sante"
+      ],
+      "region": "Epalinges",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Brian Hashemi",
+          "role": "Executive Chairman"
+        },
+        {
+          "name": "Nicolas Demierre",
+          "role": "COO"
+        }
+      ],
+      "companies": [
+        "novigenix"
+      ]
+    },
+    {
+      "slug": "lausanne-ofisa-informatique",
+      "title": "OFISA Informatique – Pour une stratégie centrée sur l'humain",
+      "subtitle": "",
+      "type": "publireportage",
+      "page": "54-55",
+      "pdfPages": [
+        56,
+        57
+      ],
+      "summary": "Active depuis 1994 et passée en 2011 du statut d'éditeur de logiciels à celui d'intégrateur, OFISA Informatique compte une cinquantaine de collaborateurs et plus de 400 clients. Elle est leader auprès des administrations publiques romandes (plus de 250 communes), avec les solutions Abacus regroupées sous communal.ch, Nest d'Innosolv et BDI, et sert aussi les régies immobilières avec AbaImmo. Son directeur général décrit la réorganisation, le triplement du budget de formation et les axes stratégiques de l'entreprise.",
+      "quote": "",
+      "themes": [
+        "economie",
+        "collectivites"
+      ],
+      "region": "Renens",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Daniel Chevalier",
+          "role": "Directeur général"
+        }
+      ],
+      "companies": [
+        "ofisa-informatique"
+      ]
+    },
+    {
+      "slug": "lausanne-online-automation",
+      "title": "Online Automation SA – Fournisseur de solutions pour l'industrie",
+      "subtitle": "",
+      "type": "publireportage",
+      "page": "56",
+      "pdfPages": [
+        58
+      ],
+      "summary": "Créé en 1986, le bureau d'ingénieurs Online Automation (12 collaborateurs, environ 2 millions de chiffre d'affaires) conçoit des systèmes informatiques et d'automatisation pour piloter processus et machines industriels. Avec plus de 800 projets, il sert l'agroalimentaire, la chimie, le ciment, l'énergie, la pharma, le tabac et les usines d'incinération (Nestlé, Holcim, CERN, Philip Morris, Tridel). Il a développé ses propres logiciels pour ponts roulants (O_Stock, O_Vrac) et centres céréaliers (O_Grain) et participe à un projet pour Airbus à Hambourg.",
+      "quote": "",
+      "themes": [
+        "industrie"
+      ],
+      "region": "Lausanne",
+      "language": "fr",
+      "people": [],
+      "companies": [
+        "online-automation"
+      ]
+    },
+    {
+      "slug": "lausanne-orion-protection-juridique",
+      "title": "Orion Assurance de Protection Juridique SA – Un allié pour faire valoir ses droits",
+      "subtitle": "Interview de Me Sébastien Piu, responsable juridique des prestations externes pour la Romandie",
+      "type": "interview",
+      "page": "57",
+      "pdfPages": [
+        59
+      ],
+      "summary": "Assureur de protection juridique depuis plus de 40 ans et partenaire des groupes Zurich et Vaudoise, Orion compte plus de 130 000 assurés et 120 collaborateurs entre son siège bâlois et son centre juridique lausannois. Me Sébastien Piu explique l'intérêt de cette assurance, dont la prime annuelle équivaut à une heure d'avocat, pour les litiges de bail, de travail, de circulation ou de consommation. Orion assure aussi les PME avec Orion Pro. Ses juristes négocient la majorité des cas ; en cas de procès, le libre choix de l'avocat est garanti.",
+      "quote": "",
+      "themes": [
+        "economie"
+      ],
+      "region": "Lausanne",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Sébastien Piu",
+          "role": "Avocat, responsable juridique des prestations externes pour la Romandie"
+        }
+      ],
+      "companies": [
+        "orion-protection-juridique"
+      ]
+    },
+    {
+      "slug": "lausanne-srg-engineering",
+      "title": "srg | engineering – Votre partenaire CVSE en Suisse romande",
+      "subtitle": "Your engineering partner in French-speaking Switzerland",
+      "type": "publireportage",
+      "page": "58-61",
+      "pdfPages": [
+        60,
+        61,
+        62,
+        63
+      ],
+      "summary": "Nouvelle marque réunissant Ingénieurs-Conseils Scherler, R.G. Riedweg & Gendre et Schumacher & CHIngS Ingénieurs, srg | engineering compte 120 collaborateurs et cinq succursales certifiées ISO 9001 et 14001. Le bureau couvre électricité, sécurité incendie jusqu'au niveau Q3, sûreté, chauffage, ventilation, climatisation et sanitaire, ainsi que la production d'énergie (cogénération, pompes à chaleur). Sa direction collégiale garantit neutralité et continuité. Projets cités : CHUV, Unithèque, MCBA et MUDAC, Nestlé Bergère à Vevey, STEP de Vidy. Texte bilingue.",
+      "quote": "",
+      "themes": [
+        "energie",
+        "construction",
+        "architecture"
+      ],
+      "region": "Le Mont-sur-Lausanne",
+      "language": "fr",
+      "people": [],
+      "companies": [
+        "srg-engineering"
+      ]
+    },
+    {
+      "slug": "lausanne-roubaty",
+      "title": "S. Roubaty SA : toujours une longueur d'avance",
+      "subtitle": "",
+      "type": "publireportage",
+      "page": "63",
+      "pdfPages": [
+        65
+      ],
+      "summary": "Depuis 1988, l'entreprise fribourgeoise S. Roubaty construit et entretient des réseaux de télécommunication en fibre optique, coaxiaux ou cuivre dans toute la Suisse romande. Elle propose génie civil, pose de câbles par tirage ou soufflage, épissures et mesures, en solutions clés en main pour opérateurs, services industriels et collectivités, et intervient aussi en électricité, photovoltaïque, ferroviaire et gaz. Son directeur Serge Roubaty souligne les investissements en forage dirigé et équipements robotisés et le triplement des effectifs en dix ans, à plus de 60 collaborateurs.",
+      "quote": "",
+      "themes": [
+        "construction",
+        "energie"
+      ],
+      "region": "Rossens",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Serge Roubaty",
+          "role": "Directeur"
+        }
+      ],
+      "companies": [
+        "roubaty"
+      ]
+    },
+    {
+      "slug": "lausanne-transports-mbc",
+      "title": "Transports de la région Morges - Bière - Cossonay SA",
+      "subtitle": "",
+      "type": "publireportage",
+      "page": "64",
+      "pdfPages": [
+        66
+      ],
+      "summary": "Avec 6 millions de voyageurs et 70 000 tonnes de marchandises en 2016, les Transports MBC exploitent avec 240 collaborateurs et 186 véhicules quatre lignes de bus urbaines, onze régionales, un funiculaire et deux lignes ferroviaires desservant 52 localités. Ils introduisent l'information voyageurs en temps réel, deux navettes autonomes à Cossonay dès décembre 2017 et visent une cadence renforcée sur le rail. Ils développent les parkings relais avec Friderici et participent à la valorisation du terroir avec le « Train des saveurs ».",
+      "quote": "",
+      "themes": [
+        "mobilite"
+      ],
+      "region": "Morges",
+      "language": "fr",
+      "people": [],
+      "companies": [
+        "transports-mbc"
+      ]
+    },
+    {
+      "slug": "lausanne-tekhne",
+      "title": "TEKHNE",
+      "subtitle": "",
+      "type": "publireportage",
+      "page": "66-69",
+      "pdfPages": [
+        68,
+        69,
+        70,
+        71
+      ],
+      "summary": "Société indépendante active depuis 1998, Tekhne pilote des projets de construction de la faisabilité à la remise de l'ouvrage, avec 45 collaborateurs répartis entre Lausanne, Fribourg et Genève. Ses administrateurs délégués Perrine Bruyas et Jean-Daniel Beuchat expliquent qu'ils déchargent les architectes de l'administratif pour qu'ils se concentrent sur la conception. Une cellule de calcul de cinq personnes établit estimations et devis. Références : Maison de la Paix, Faculté de droit de Fribourg, usine Audemars Piguet, centre d'oncologie du CHUV, quartier des Eaux-Vives, stade de la Tuilière. Texte bilingue.",
+      "quote": "Nous permettons aux architectes de se concentrer sur ce qu'ils aiment faire, c'est-à-dire l'architecture et la conception.",
+      "themes": [
+        "architecture",
+        "construction"
+      ],
+      "region": "Lausanne",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Perrine Bruyas",
+          "role": "Architecte EPFL, administratrice déléguée"
+        },
+        {
+          "name": "Jean-Daniel Beuchat",
+          "role": "Architecte, administrateur délégué"
+        }
+      ],
+      "companies": [
+        "tekhne"
+      ]
+    },
+    {
+      "slug": "lausanne-tl-transports-publics",
+      "title": "tl, un acteur essentiel du développement – Les grands chantiers de la mobilité",
+      "subtitle": "Entretien avec M. Michel Joye, directeur des tl",
+      "type": "interview",
+      "page": "70-71",
+      "pdfPages": [
+        72,
+        73
+      ],
+      "summary": "Les Transports publics de la région lausannoise, qui transportent 112 millions de voyageurs par an et en visent 185 millions en 2025, entrent dans une ère de grands chantiers financés à hauteur d'environ 2 milliards : tram Renens-Lausanne-Flon prolongé vers Bussigny, nouveau métro m3 vers l'écoquartier de la Blécherette, augmentation de capacité du m2, transformation du LEB en RER avec un tunnel de 1,7 km sous l'avenue d'Echallens et lignes de bus à haut niveau de service. Le directeur évoque aussi l'information personnalisée en temps réel. Texte bilingue.",
+      "quote": "",
+      "themes": [
+        "mobilite"
+      ],
+      "region": "Lausanne",
+      "language": "fr",
+      "people": [
+        {
+          "name": "Michel Joye",
+          "role": "Directeur"
+        }
+      ],
+      "companies": [
+        "tl-transports-publics"
+      ]
+    },
+    {
+      "slug": "lausanne-transelec",
+      "title": "TransElec – Optez pour le constat d'état avant travaux !",
+      "subtitle": "",
+      "type": "publireportage",
+      "page": "72",
+      "pdfPages": [
+        74
+      ],
+      "summary": "Créé en 2006, le bureau d'ingénieurs civils TransElec Ingénierie réalise des constats photographiques des bâtiments voisins avant travaux, afin de protéger propriétaires et promoteurs en cas de litige sur d'éventuels dommages ; extérieur au monde de la construction, il revendique son impartialité. Il assure aussi l'ingénierie de maintenance des lignes de transport électrique : modélisation par lidar et éléments finis, audits, assainissement et démantèlement. Il voit dans la densification urbaine un fort potentiel pour les constats d'état.",
+      "quote": "",
+      "themes": [
+        "construction",
+        "energie"
+      ],
+      "region": "",
+      "language": "fr",
+      "people": [],
+      "companies": [
+        "transelec"
+      ]
+    },
+    {
+      "slug": "lausanne-wonderware",
+      "title": "Wonderware SA (Switzerland) – Donner les moyens aux Hommes de transformer leur entreprise",
+      "subtitle": "Giving mankind the means to transform companies",
+      "type": "publireportage",
+      "page": "74-75",
+      "pdfPages": [
+        76,
+        77
+      ],
+      "summary": "Distributeur exclusif en Suisse des logiciels « Wonderware by Schneider Electric » de gestion en temps réel des processus industriels et tertiaires, Wonderware SA compte plus de 600 clients et environ 6 000 licences actives, avec une croissance de 5 à 12 % par an. Son directeur François Nomblot rappelle que Wonderware a lancé il y a 30 ans le premier logiciel de supervision sous Windows et accompagne aujourd'hui l'industrie 4.0. Ses clients viennent de l'agroalimentaire, de la pharma, de la chimie et des collectivités (stations de pompage, bâtiments, transports). Texte bilingue.",
+      "quote": "",
+      "themes": [
+        "industrie",
+        "economie"
+      ],
+      "region": "Morges",
+      "language": "fr",
+      "people": [
+        {
+          "name": "François Nomblot",
+          "role": "Directeur"
+        }
+      ],
+      "companies": [
+        "wonderware"
+      ]
+    }
+  ],
+  "companies": [
+    {
+      "slug": "ville-de-lausanne",
+      "name": "Ville de Lausanne",
+      "sector": "Commune",
+      "themes": [
+        "collectivites",
+        "territoire"
+      ],
+      "description": "Quatrième ville de Suisse, près de 140 000 habitants, capitale olympique. La Municipalité investit fortement (sport, écoquartiers Métamorphose, métro m3), mise sur l'énergie renouvelable, la densification participative et la démocratie de quartier. Aucune coordonnée n'est indiquée dans les interviews.",
+      "address": "",
+      "postalCode": "",
+      "city": "Lausanne",
+      "canton": "VD",
+      "country": "Suisse",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "contacts": [
+        {
+          "name": "Grégoire Junod",
+          "role": "Syndic"
+        },
+        {
+          "name": "Florence Germond",
+          "role": "Municipale"
+        },
+        {
+          "name": "Natacha Litzistorf",
+          "role": "Municipale"
+        },
+        {
+          "name": "Pierre-Antoine Hildbrand",
+          "role": "Municipal"
+        },
+        {
+          "name": "Jean-Yves Pidoux",
+          "role": "Municipal"
+        },
+        {
+          "name": "David Payot",
+          "role": "Municipal"
+        },
+        {
+          "name": "Oscar Tosato",
+          "role": "Municipal"
+        }
+      ],
+      "page": "02-08",
+      "pdfPages": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "lausanne-tourisme",
+      "name": "Lausanne Tourisme",
+      "sector": "Office du tourisme",
+      "themes": [
+        "territoire",
+        "economie"
+      ],
+      "description": "Office du tourisme de Lausanne (environ 1,2 million de nuitées par an, 65 % de tourisme d'affaires), qui développe le tourisme de loisirs et les courts séjours, en collaboration avec Suisse Tourisme et l'office vaudois.",
+      "address": "Avenue de Rhodanie 2, CP 975",
+      "postalCode": "1001",
+      "city": "Lausanne",
+      "canton": "VD",
+      "country": "Suisse",
+      "phone": "+41 (0)21 613 73 73",
+      "email": "",
+      "website": "www.lausanne-tourisme.ch",
+      "contacts": [
+        {
+          "name": "Steeve Pasche",
+          "role": "Directeur"
+        }
+      ],
+      "page": "09",
+      "pdfPages": [
+        11
+      ],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "a-carre-architecture-amenagement",
+      "name": "A Carré Architecture et Aménagement SA / A Carré SA",
+      "sector": "Bureau d'architectes et développement immobilier",
+      "themes": [
+        "architecture",
+        "construction"
+      ],
+      "description": "Bureau d'architecture et d'urbanisme actif depuis 1985, 35 collaborateurs, 20 à 30 projets par an en Suisse romande, doublé d'une société de développement (A Carré SA) qui accompagne propriétaires et communes dans la valorisation foncière et réalise des immeubles pour son compte.",
+      "address": "Rue de l'Industrie 59",
+      "postalCode": "1030",
+      "city": "Bussigny",
+      "canton": "VD",
+      "country": "Suisse",
+      "phone": "0041 21 706 35 35",
+      "email": "archi@acarre.ch",
+      "website": "www.acarre.ch",
+      "contacts": [
+        {
+          "name": "Jean-Pascal Cuerel",
+          "role": "Codirecteur"
+        },
+        {
+          "name": "Marcelo Bidinost",
+          "role": "Codirecteur"
+        },
+        {
+          "name": "Didier Rinsoz",
+          "role": "Codirecteur"
+        }
+      ],
+      "page": "10-13",
+      "pdfPages": [
+        12,
+        13,
+        14,
+        15
+      ],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "af-toscano",
+      "name": "AF Toscano SA",
+      "sector": "Ingénierie et conseil",
+      "themes": [
+        "construction",
+        "mobilite"
+      ],
+      "description": "Bureau d'ingénierie membre du groupe suédois AF : 47 millions de chiffre d'affaires en 2016, près de 350 collaborateurs dans 21 succursales. La succursale de Lausanne vise le génie civil, la mobilité, la géologie et la géotechnique (route de Berne, goulet de Crissier, stade de la Tuilière).",
+      "address": "Place Chauderon 20a",
+      "postalCode": "1003",
+      "city": "Lausanne",
+      "canton": "VD",
+      "country": "Suisse",
+      "phone": "+41 (0)21 619 91 00",
+      "email": "lausanne@toscano.ch",
+      "website": "www.toscano.ch",
+      "contacts": [],
+      "page": "14",
+      "pdfPages": [
+        16
+      ],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "d-auto-suisse",
+      "name": "D-Auto Suisse SA – Bentley Lausanne",
+      "sector": "Automobiles",
+      "themes": [
+        "economie"
+      ],
+      "description": "Concession Bentley Lausanne exploitée par D-Auto Suisse SA à Crissier, présente par une annonce en tête de la page 14.",
+      "address": "Route du Bois-Genoud 2",
+      "postalCode": "1023",
+      "city": "Crissier",
+      "canton": "VD",
+      "country": "Suisse",
+      "phone": "+41 21 552 39 70",
+      "email": "info@bentley-lausanne.ch",
+      "website": "",
+      "contacts": [],
+      "page": "14",
+      "pdfPages": [
+        16
+      ],
+      "advertiserOnly": true
+    },
+    {
+      "slug": "agrola",
+      "name": "AGROLA AG",
+      "sector": "Distribution de carburants et combustibles",
+      "themes": [
+        "energie",
+        "mobilite"
+      ],
+      "description": "Exploitant du deuxième réseau de stations-service de Suisse (430 stations), leader des pellets de bois et de l'éco-mazout ; société sœur Solvatec active dans le solaire.",
+      "address": "Theaterstrasse 15a",
+      "postalCode": "8401",
+      "city": "Winterthur",
+      "canton": "ZH",
+      "country": "Suisse",
+      "phone": "+41 (0)58 433 80 00",
+      "email": "winterthur@agrola.ch",
+      "website": "http://www.agrola.ch",
+      "contacts": [
+        {
+          "name": "Alexander Streitzig",
+          "role": "Vorsitzender der Geschäftsleitung"
+        }
+      ],
+      "page": "15",
+      "pdfPages": [
+        17
+      ],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "amag",
+      "name": "AMAG",
+      "sector": "Automobiles",
+      "themes": [
+        "mobilite"
+      ],
+      "description": "Annonceur répertorié dans l'index du magazine en page 17 ; la page correspondante ne contient pas de texte exploitable.",
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "canton": "",
+      "country": "Suisse",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "contacts": [],
+      "page": "17",
+      "pdfPages": [
+        19
+      ],
+      "advertiserOnly": true
+    },
+    {
+      "slug": "apleona-hsg",
+      "name": "Apleona HSG SA",
+      "sector": "Facility management",
+      "themes": [
+        "economie",
+        "energie"
+      ],
+      "description": "Un des trois leaders européens du facility management, présent en Suisse depuis plus de 20 ans avec 1 200 collaborateurs : gestion technique, infrastructurelle et commerciale des bâtiments pour l'immobilier et l'industrie.",
+      "address": "Chemin du Viaduc 12, Case postale 304",
+      "postalCode": "1000",
+      "city": "Lausanne 16",
+      "canton": "VD",
+      "country": "Suisse",
+      "phone": "+41 22 308 47 74",
+      "email": "emilio.abadin@apleona.com",
+      "website": "www.apleona.com",
+      "contacts": [
+        {
+          "name": "Emilio Abadin",
+          "role": "Directeur régional Romandie et Tessin"
+        }
+      ],
+      "page": "16",
+      "pdfPages": [
+        18
+      ],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "bg-ingenieurs-conseils",
+      "name": "BG Ingénieurs Conseils",
+      "sector": "Ingénierie et conseil",
+      "themes": [
+        "construction",
+        "energie",
+        "mobilite"
+      ],
+      "description": "Société d'ingénieurs-conseils fondée en 1954 : plus de 630 collaborateurs, 22 agences en Suisse, en France et en Algérie, plus de 2 000 projets en infrastructures, environnement, bâtiment et énergie.",
+      "address": "Avenue de Cour 61, Case postale 241",
+      "postalCode": "1001",
+      "city": "Lausanne",
+      "canton": "VD",
+      "country": "Suisse",
+      "phone": "+41 58 424 11 11",
+      "email": "lausanne@bg-21.com",
+      "website": "http://www.bg-21.com",
+      "contacts": [],
+      "page": "18-19",
+      "pdfPages": [
+        20,
+        21
+      ],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "biopole",
+      "name": "Biopôle SA",
+      "sector": "Parc des sciences de la vie",
+      "themes": [
+        "sante",
+        "formation"
+      ],
+      "description": "Parc scientifique de 77 000 m² à Epalinges réunissant une cinquantaine de sociétés et organismes des sciences de la vie et plus de 1 200 personnes, avec services mutualisés, événements et projets de bâtiments (incubateur, Institut Ludwig, Belvédère).",
+      "address": "Secteur Croisettes / Bâtiment SC-A, Route de la Corniche 4",
+      "postalCode": "1066",
+      "city": "Epalinges",
+      "canton": "VD",
+      "country": "Suisse",
+      "phone": "+41(0)21 651 90 00",
+      "email": "info@biopole.ch",
+      "website": "www.biopole.ch",
+      "contacts": [],
+      "page": "20-21",
+      "pdfPages": [
+        22,
+        23
+      ],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "bc-ingenieurs",
+      "name": "B+C Ingénieurs SA",
+      "sector": "Ingénieurs et géomètres",
+      "themes": [
+        "territoire",
+        "construction"
+      ],
+      "description": "Bureau fondé en 1945, 28 collaborateurs, siège à Montreux et succursales à Aigle, Lausanne (Av. de Gratta-Paille 2) et Genève : géomètre officiel, environnement, aménagement, infrastructures, hydraulique et renaturation de cours d'eau.",
+      "address": "Avenue du Casino 45, CP 400",
+      "postalCode": "1820",
+      "city": "Montreux 2",
+      "canton": "VD",
+      "country": "Suisse",
+      "phone": "021 966 10 80",
+      "email": "mail@bcing.ch",
+      "website": "www.bcing.ch",
+      "contacts": [
+        {
+          "name": "Frédéric Guex",
+          "role": "Direction"
+        },
+        {
+          "name": "Stéphane Verdon",
+          "role": "Direction"
+        }
+      ],
+      "page": "22-23",
+      "pdfPages": [
+        24,
+        25
+      ],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "cibm",
+      "name": "Centre d'Imagerie Biomédicale – CIBM",
+      "sector": "Recherche en imagerie biomédicale",
+      "themes": [
+        "sante",
+        "formation"
+      ],
+      "description": "Centre de recherche fondé en 2004 réunissant EPFL, UNIL, CHUV, HUG et UNIGE autour de sept modules d'imagerie (IRM 7 tesla, EEG, TEP, traitement des signaux).",
+      "address": "EPFL ENT-R CIBM, Station 6",
+      "postalCode": "1015",
+      "city": "Lausanne",
+      "canton": "VD",
+      "country": "Suisse",
+      "phone": "+41 21 693 79 94",
+      "email": "info@cibm.ch",
+      "website": "www.cibm.ch",
+      "contacts": [
+        {
+          "name": "Rolf Gruetter",
+          "role": "Directeur"
+        }
+      ],
+      "page": "24",
+      "pdfPages": [
+        26
+      ],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "cifer",
+      "name": "CIFER – Communauté d'Intérêts pour la Formation des Electriciens de Réseau",
+      "sector": "Centre de formation professionnelle",
+      "themes": [
+        "formation",
+        "energie"
+      ],
+      "description": "Association créée en 2008 par six distributeurs romands d'électricité, seul centre de formation des électriciens de réseau en Suisse romande : apprentissage, brevet, maîtrise et formation continue ; 36 membres et partenaires.",
+      "address": "Venoge Parc, Bâtiments Q2-Q3",
+      "postalCode": "1305",
+      "city": "Penthalaz",
+      "canton": "VD",
+      "country": "Suisse",
+      "phone": "+41 (0)21 863 11 80",
+      "email": "info@cifer.ch",
+      "website": "http://cifer.ch/fr",
+      "contacts": [
+        {
+          "name": "Philippe Perusset",
+          "role": "Directeur du Centre de formation"
+        }
+      ],
+      "page": "26-27",
+      "pdfPages": [
+        28,
+        29
+      ],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "cridec",
+      "name": "CRIDEC SA – Centre de ramassage et d'identification des déchets spéciaux",
+      "sector": "Traitement des déchets spéciaux",
+      "themes": [
+        "energie",
+        "industrie"
+      ],
+      "description": "Société fondée en 1985, détenue à 75 % par des collectivités publiques, qui traite environ 50 000 tonnes de déchets spéciaux par an à Eclépens (sites aussi à Winterthour et Martigny), avec laboratoire accrédité et filières de valorisation. Elle figure aussi en 2e de couverture.",
+      "address": "ZI les Portettes 8",
+      "postalCode": "1312",
+      "city": "Eclépens",
+      "canton": "VD",
+      "country": "Suisse",
+      "phone": "021 866 03 00",
+      "email": "cridec@cridec.ch",
+      "website": "www.cridec.ch",
+      "contacts": [
+        {
+          "name": "Yvan Buehner",
+          "role": "Directeur"
+        }
+      ],
+      "page": "28-29",
+      "pdfPages": [
+        2,
+        30,
+        31
+      ],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "des-systemes-de-securite",
+      "name": "D.E.S. Systèmes de sécurité S.A.",
+      "sector": "Protection incendie et sécurité",
+      "themes": [
+        "construction"
+      ],
+      "description": "Entreprise fondée en 1995, 32 collaborateurs, 10 millions de chiffre d'affaires : installations sprinkler, détection incendie, gaz et intrusion, concepts de sécurité incendie ; 1 700 installations réalisées.",
+      "address": "Ch. des Planchettes 6",
+      "postalCode": "1032",
+      "city": "Romanel-sur-Lausanne",
+      "canton": "VD",
+      "country": "Suisse",
+      "phone": "+41(0)21 732 14 32",
+      "email": "info@des.swiss",
+      "website": "www.des.swiss",
+      "contacts": [],
+      "page": "30-31",
+      "pdfPages": [
+        32,
+        33
+      ],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "edifea",
+      "name": "EDIFEA SA",
+      "sector": "Entreprise générale de construction",
+      "themes": [
+        "construction"
+      ],
+      "description": "Entreprise générale fondée en 2009, 85 collaborateurs, plus de 100 millions d'affaires traitées en 2016 ; siège à Genève, succursales à Lutry (Cours des Tanneurs) et Villars-sur-Glâne.",
+      "address": "Chemin du Château-Bloch 11, CP 133",
+      "postalCode": "1211",
+      "city": "Genève 8",
+      "canton": "GE",
+      "country": "Suisse",
+      "phone": "+41 (0)22 807 33 22",
+      "email": "info@edifea.ch",
+      "website": "www.edifea.ch",
+      "contacts": [
+        {
+          "name": "Bertrand Duckert",
+          "role": "Cofondateur"
+        },
+        {
+          "name": "Jérôme Félicité",
+          "role": "Cofondateur"
+        }
+      ],
+      "page": "32-33",
+      "pdfPages": [
+        34,
+        35
+      ],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "effitec",
+      "name": "Effitec SA",
+      "sector": "Contrôles et sécurité électriques",
+      "themes": [
+        "energie"
+      ],
+      "description": "Entreprise créée en 2002, 20 collaborateurs, environ 10 000 contrôles et audits électriques par an (OIBT, certifications Naturemade et Swissgrid, concepts de sécurité, formation).",
+      "address": "Rue des Artisans 6",
+      "postalCode": "1026",
+      "city": "Echandens",
+      "canton": "VD",
+      "country": "Suisse",
+      "phone": "+41 (0)848 701 000",
+      "email": "contact@effitec.ch",
+      "website": "http://www.effitec.ch",
+      "contacts": [],
+      "page": "34-35",
+      "pdfPages": [
+        36,
+        37
+      ],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "ensr",
+      "name": "Ecole Nouvelle de la Suisse Romande (ENSR)",
+      "sector": "Ecole privée",
+      "themes": [
+        "formation"
+      ],
+      "description": "Ecole privée fondée en 1906, plus de 640 élèves de 3 à 19 ans dont une cinquantaine d'internes ; section bilingue, Maturité suisse et Baccalauréat international ; société anonyme à but non lucratif.",
+      "address": "Ch. de Rovéréaz 20, C.P. 161",
+      "postalCode": "1000",
+      "city": "Lausanne 12",
+      "canton": "VD",
+      "country": "Suisse",
+      "phone": "+41 21 654 65 00",
+      "email": "info@ensr.ch",
+      "website": "www.ensr.ch",
+      "contacts": [],
+      "page": "36-37",
+      "pdfPages": [
+        38,
+        39
+      ],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "ferring",
+      "name": "Ferring International Center S.A.",
+      "sector": "Industrie pharmaceutique",
+      "themes": [
+        "sante",
+        "industrie"
+      ],
+      "description": "Siège mondial et site de production du groupe pharmaceutique Ferring (fondé en 1950, plus de 6 000 employés, 1,8 milliard d'euros de ventes en 2016) ; plus de 600 employés à Saint-Prex, spécialiste de la santé reproductive et des peptides.",
+      "address": "Ch. de la Vergognausaz 50",
+      "postalCode": "1162",
+      "city": "Saint-Prex",
+      "canton": "VD",
+      "country": "Suisse",
+      "phone": "+41 58 301 00 00",
+      "email": "",
+      "website": "https://www.ferring.com",
+      "contacts": [
+        {
+          "name": "Michel Pettigrew",
+          "role": "Président du comité de direction, COO"
+        },
+        {
+          "name": "Per Falk",
+          "role": "Chief Scientific Officer"
+        }
+      ],
+      "page": "38-39",
+      "pdfPages": [
+        40,
+        41
+      ],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "getag",
+      "name": "GETAG Entsorgungs-Technik AG / GETAG Romandie SA",
+      "sector": "Technique de gestion des déchets et recyclage",
+      "themes": [
+        "energie",
+        "industrie"
+      ],
+      "description": "Fournisseur depuis plus de 25 ans de compacteurs, broyeurs, cribles, conteneurs et stations de transbordement pour la gestion des déchets ; filiale romande fondée en 2008 (environ 25 % du chiffre d'affaires). Aucune adresse n'est indiquée dans le magazine.",
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "canton": "",
+      "country": "Suisse",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "contacts": [
+        {
+          "name": "Yvan Grepper",
+          "role": "Geschäftsführer / PDG"
+        }
+      ],
+      "page": "40-41",
+      "pdfPages": [
+        42,
+        43
+      ],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "kummler-matter",
+      "name": "Kummler+Matter SA",
+      "sector": "Infrastructures ferroviaires, routières et énergétiques",
+      "themes": [
+        "mobilite",
+        "energie"
+      ],
+      "description": "Filiale d'Alpiq InTec créée en 1905, 600 collaborateurs dans 11 succursales : caténaires et sécurité ferroviaire, régulation du trafic, réseaux électriques et fibre optique, alimentation d'événements.",
+      "address": "Chemin du Rionzi 52",
+      "postalCode": "1052",
+      "city": "Le Mont-sur-Lausanne",
+      "canton": "VD",
+      "country": "Suisse",
+      "phone": "+41 21 631 17 17",
+      "email": "info.lemont@kuma.ch",
+      "website": "www.kuma.ch/fr",
+      "contacts": [],
+      "page": "42",
+      "pdfPages": [
+        44
+      ],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "guyot-architectes",
+      "name": "GUYOT | Architectes – Etudes et conceptions architecturales SARL",
+      "sector": "Bureau d'architectes",
+      "themes": [
+        "architecture"
+      ],
+      "description": "Atelier d'architecture créé en 1966 par Philippe Guyot, 7 collaborateurs, recentré sur la Riviera lémanique depuis 1983 ; fait partie du groupe Vidourle SA (ingénierie immobilière et environnementale, Gérances Guyot).",
+      "address": "Valentin 34, CP 105",
+      "postalCode": "1018",
+      "city": "Lausanne",
+      "canton": "VD",
+      "country": "Suisse",
+      "phone": "+41 (0) 21 329 02 50",
+      "email": "",
+      "website": "www.guyot-architecture.ch",
+      "contacts": [
+        {
+          "name": "Philippe Guyot",
+          "role": "Fondateur"
+        }
+      ],
+      "page": "43",
+      "pdfPages": [
+        45
+      ],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "hesav",
+      "name": "Haute Ecole de Santé Vaud (HESAV)",
+      "sector": "Haute école de santé",
+      "themes": [
+        "sante",
+        "formation"
+      ],
+      "description": "Haute école de plus de 1 000 étudiants et 215 collaborateurs (soins infirmiers, physiothérapie, sage-femme, radiologie médicale), qui rejoindra le Campus santé de Chavannes-près-Renens en 2022.",
+      "address": "Av. de Beaumont 21",
+      "postalCode": "1011",
+      "city": "Lausanne",
+      "canton": "VD",
+      "country": "Suisse",
+      "phone": "+41 (0) 21 316 80 00",
+      "email": "info@hesav.ch",
+      "website": "www.hesav.ch",
+      "contacts": [
+        {
+          "name": "Mireille Clerc",
+          "role": "Directrice"
+        }
+      ],
+      "page": "44-45",
+      "pdfPages": [
+        46,
+        47
+      ],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "kalin-associes",
+      "name": "Kälin & Associés SA",
+      "sector": "Bureau d'ingénieurs civils",
+      "themes": [
+        "construction",
+        "architecture"
+      ],
+      "description": "Bureau d'ingénieurs civils fondé en 1967, une douzaine de collaborateurs, spécialisé aussi dans la restauration des monuments historiques et la construction en bois.",
+      "address": "Rue des Fontenailles 21",
+      "postalCode": "1007",
+      "city": "Lausanne",
+      "canton": "VD",
+      "country": "Suisse",
+      "phone": "+41 21 616 22 66",
+      "email": "",
+      "website": "Kalin-associes.ch",
+      "contacts": [
+        {
+          "name": "Jean-François Kälin",
+          "role": "Directeur"
+        }
+      ],
+      "page": "46-47",
+      "pdfPages": [
+        48,
+        49
+      ],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "lhc-lausanne-hospitality-consulting",
+      "name": "Lausanne Hospitality Consulting SA (LHC)",
+      "sector": "Conseil en hôtellerie et accueil",
+      "themes": [
+        "formation",
+        "economie"
+      ],
+      "description": "Filiale de l'EHL, avec bureaux à Lausanne, Pékin et New Delhi, qui conseille les industries de l'accueil, certifie des établissements et forme le personnel ; 17 collaborateurs en Suisse.",
+      "address": "Route de Cojonnex 18",
+      "postalCode": "1000",
+      "city": "Lausanne 25",
+      "canton": "VD",
+      "country": "Suisse",
+      "phone": "+41 (0) 21 785 13 92",
+      "email": "lhc@ehl.ch",
+      "website": "www.lhcconsulting.com",
+      "contacts": [
+        {
+          "name": "André Mack",
+          "role": "Directeur"
+        }
+      ],
+      "page": "48-49",
+      "pdfPages": [
+        50,
+        51
+      ],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "montangero-fils",
+      "name": "Montangero & Fils SA",
+      "sector": "Plâtrerie-peinture",
+      "themes": [
+        "construction"
+      ],
+      "description": "Entreprise familiale de plâtrerie, peinture et rénovation de façades depuis cinq générations (1879), une trentaine de collaborateurs ; partenaire de la société sœur CAPMONT SA (échafaudages).",
+      "address": "",
+      "postalCode": "1032",
+      "city": "Romanel-sur-Lausanne",
+      "canton": "VD",
+      "country": "Suisse",
+      "phone": "+41 21 731 51 11",
+      "email": "",
+      "website": "www.montangeropeinture.ch",
+      "contacts": [
+        {
+          "name": "Ludovic Montangero",
+          "role": "Administrateur"
+        },
+        {
+          "name": "Sylvain Montangero",
+          "role": "Administrateur"
+        }
+      ],
+      "page": "50",
+      "pdfPages": [
+        52
+      ],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "novotel-lausanne-bussigny",
+      "name": "Novotel Lausanne Bussigny",
+      "sector": "Hôtel et centre de conférences",
+      "themes": [
+        "territoire"
+      ],
+      "description": "Hôtel du groupe AccorHotels engagé dans le programme Planet21 : piscine naturelle, matériaux durables, récupération d'eau et de chaleur, centre de conférences écoresponsable. Aucune coordonnée n'est indiquée.",
+      "address": "",
+      "postalCode": "",
+      "city": "Bussigny",
+      "canton": "VD",
+      "country": "Suisse",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "contacts": [
+        {
+          "name": "Franck Fleury",
+          "role": "Directeur général"
+        }
+      ],
+      "page": "51",
+      "pdfPages": [
+        53
+      ],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "novigenix",
+      "name": "Novigenix SA",
+      "sector": "Biotechnologie – diagnostic",
+      "themes": [
+        "sante"
+      ],
+      "description": "Start-up biotech du Biopôle qui développe des tests sanguins de nouvelle génération, dont Colox pour la détection précoce du cancer colorectal.",
+      "address": "Biopôle IV, Route de la Corniche 3B",
+      "postalCode": "1066",
+      "city": "Epalinges",
+      "canton": "VD",
+      "country": "Suisse",
+      "phone": "+41 (0)21 552 07 30",
+      "email": "",
+      "website": "www.novigenix.com",
+      "contacts": [
+        {
+          "name": "Brian Hashemi",
+          "role": "Executive Chairman"
+        },
+        {
+          "name": "Nicolas Demierre",
+          "role": "COO"
+        }
+      ],
+      "page": "52-53",
+      "pdfPages": [
+        54,
+        55
+      ],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "ofisa-informatique",
+      "name": "OFISA Informatique SA",
+      "sector": "Intégrateur de solutions informatiques",
+      "themes": [
+        "economie",
+        "collectivites"
+      ],
+      "description": "Société active depuis 1994, une cinquantaine de collaborateurs, plus de 400 clients ; leader des solutions de gestion pour les communes romandes (Abacus, Nest, BDI) et les régies immobilières (AbaImmo).",
+      "address": "Ch. de la Rueyre 120",
+      "postalCode": "1020",
+      "city": "Renens",
+      "canton": "VD",
+      "country": "Suisse",
+      "phone": "+41 (0)21 321 51 11",
+      "email": "info@o-i.ch",
+      "website": "www.o-i.ch",
+      "contacts": [
+        {
+          "name": "Daniel Chevalier",
+          "role": "Directeur général"
+        }
+      ],
+      "page": "54-55",
+      "pdfPages": [
+        56,
+        57
+      ],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "online-automation",
+      "name": "Online Automation SA",
+      "sector": "Automatisation et informatique industrielle",
+      "themes": [
+        "industrie"
+      ],
+      "description": "Bureau d'ingénieurs créé en 1986, 12 collaborateurs, plus de 800 projets d'automatisation pour l'agroalimentaire, le ciment, la chimie, la pharma, l'énergie et le tabac ; logiciels propres pour ponts roulants et centres céréaliers.",
+      "address": "Av. de la Gare 10",
+      "postalCode": "1003",
+      "city": "Lausanne",
+      "canton": "VD",
+      "country": "Suisse",
+      "phone": "+41 (0)21 310.40.10",
+      "email": "",
+      "website": "www.onlineautomation.ch/",
+      "contacts": [],
+      "page": "56",
+      "pdfPages": [
+        58
+      ],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "orion-protection-juridique",
+      "name": "Orion Assurance de Protection Juridique SA",
+      "sector": "Assurance de protection juridique",
+      "themes": [
+        "economie"
+      ],
+      "description": "Assureur de protection juridique depuis plus de 40 ans, partenaire de Zurich et de la Vaudoise, plus de 130 000 assurés et 120 collaborateurs entre Bâle et Lausanne.",
+      "address": "World Trade Center Lausanne, Avenue de Gratta-Paille 1",
+      "postalCode": "1018",
+      "city": "Lausanne",
+      "canton": "VD",
+      "country": "Suisse",
+      "phone": "+41 21 641 67 67",
+      "email": "info@orion.ch",
+      "website": "www.orion.ch",
+      "contacts": [
+        {
+          "name": "Sébastien Piu",
+          "role": "Responsable juridique des prestations externes pour la Romandie"
+        }
+      ],
+      "page": "57",
+      "pdfPages": [
+        59
+      ],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "srg-engineering",
+      "name": "srg | engineering",
+      "sector": "Ingénierie CVSE et sécurité",
+      "themes": [
+        "energie",
+        "construction"
+      ],
+      "description": "Marque réunissant trois bureaux d'ingénieurs (Scherler, Riedweg & Gendre, Schumacher & CHIngS) : 120 collaborateurs, cinq succursales certifiées ISO, ingénierie électrique, sécurité, chauffage, ventilation, climatisation et sanitaire.",
+      "address": "Chemin de Maillefer 36",
+      "postalCode": "1052",
+      "city": "Le Mont-sur-Lausanne",
+      "canton": "VD",
+      "country": "Suisse",
+      "phone": "+41 21 641 47 10",
+      "email": "",
+      "website": "srg-engineering.ch",
+      "contacts": [],
+      "page": "58-61",
+      "pdfPages": [
+        60,
+        61,
+        62,
+        63
+      ],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "perret-gentil-rey",
+      "name": "Perret Gentil + Rey & Associés",
+      "sector": "Non précisé",
+      "themes": [],
+      "description": "Annonceur répertorié dans l'index du magazine en page 65 ; la page correspondante ne contient pas de texte exploitable.",
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "canton": "",
+      "country": "Suisse",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "contacts": [],
+      "page": "65",
+      "pdfPages": [
+        67
+      ],
+      "advertiserOnly": true
+    },
+    {
+      "slug": "roubaty",
+      "name": "S. Roubaty SA",
+      "sector": "Réseaux câblés et génie civil",
+      "themes": [
+        "construction",
+        "energie"
+      ],
+      "description": "Entreprise fondée en 1988, plus de 60 collaborateurs, spécialisée dans la construction et la maintenance de réseaux de télécommunication (fibre optique, coaxial, cuivre) en Suisse romande, génie civil compris.",
+      "address": "Z.I. In Riaux 33",
+      "postalCode": "1728",
+      "city": "Rossens",
+      "canton": "FR",
+      "country": "Suisse",
+      "phone": "+41 26/424 28 05",
+      "email": "roubatysa@roubatysa.ch",
+      "website": "www.roubatysa.ch",
+      "contacts": [
+        {
+          "name": "Serge Roubaty",
+          "role": "Directeur"
+        }
+      ],
+      "page": "63",
+      "pdfPages": [
+        65
+      ],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "transports-mbc",
+      "name": "Transports de la région Morges Bière Cossonay SA (MBC)",
+      "sector": "Transports publics",
+      "themes": [
+        "mobilite"
+      ],
+      "description": "Compagnie de transports publics : 240 collaborateurs, 186 véhicules, bus urbains et régionaux, funiculaire et deux lignes ferroviaires desservant 52 localités ; 6 millions de voyageurs par an.",
+      "address": "Av. de la Gottaz 28, CP 232",
+      "postalCode": "1110",
+      "city": "Morges 2",
+      "canton": "VD",
+      "country": "Suisse",
+      "phone": "+41 21 811 43 43",
+      "email": "info@mbc.ch",
+      "website": "www.mbc.ch",
+      "contacts": [],
+      "page": "64",
+      "pdfPages": [
+        66
+      ],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "tekhne",
+      "name": "TEKHNE SA",
+      "sector": "Planification générale et direction de projets de construction",
+      "themes": [
+        "architecture",
+        "construction"
+      ],
+      "description": "Société indépendante active depuis 1998, 45 collaborateurs à Lausanne, Fribourg et Genève, qui pilote les projets de construction de la faisabilité à la remise de l'ouvrage, avec une cellule de calcul des coûts.",
+      "address": "Avenue de la Gare 33",
+      "postalCode": "1003",
+      "city": "Lausanne",
+      "canton": "VD",
+      "country": "Suisse",
+      "phone": "+41 21 349 24 00",
+      "email": "",
+      "website": "www.tekhne.ch",
+      "contacts": [
+        {
+          "name": "Perrine Bruyas",
+          "role": "Administratrice déléguée"
+        },
+        {
+          "name": "Jean-Daniel Beuchat",
+          "role": "Administrateur délégué"
+        }
+      ],
+      "page": "66-69",
+      "pdfPages": [
+        68,
+        69,
+        70,
+        71
+      ],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "tl-transports-publics",
+      "name": "tl – Transports publics de la région lausannoise SA",
+      "sector": "Transports publics",
+      "themes": [
+        "mobilite"
+      ],
+      "description": "Opérateur des transports publics lausannois (112 millions de voyageurs par an) qui pilote le tram t1, le métro m3, l'augmentation de capacité du m2, la transformation du LEB et les bus à haut niveau de service.",
+      "address": "Chemin du Closel 15, Case postale",
+      "postalCode": "1020",
+      "city": "Renens 1",
+      "canton": "VD",
+      "country": "Suisse",
+      "phone": "",
+      "email": "communication@t-l.ch",
+      "website": "www.t-l.ch",
+      "contacts": [
+        {
+          "name": "Michel Joye",
+          "role": "Directeur"
+        }
+      ],
+      "page": "70-71",
+      "pdfPages": [
+        72,
+        73
+      ],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "transelec",
+      "name": "TransElec Ingénierie Sàrl",
+      "sector": "Bureau d'ingénieurs civils",
+      "themes": [
+        "construction",
+        "energie"
+      ],
+      "description": "Bureau d'ingénieurs créé en 2006, spécialisé dans les constats d'état avant travaux et l'ingénierie de maintenance des lignes de transport électrique. Aucune coordonnée n'est indiquée dans le magazine.",
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "canton": "",
+      "country": "Suisse",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "contacts": [],
+      "page": "72",
+      "pdfPages": [
+        74
+      ],
+      "advertiserOnly": false
+    },
+    {
+      "slug": "centre-laser-victor-hugo",
+      "name": "Centre Laser Victor Hugo",
+      "sector": "Non précisé",
+      "themes": [],
+      "description": "Annonceur répertorié dans l'index du magazine en page 73 ; la page correspondante ne contient pas de texte exploitable.",
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "canton": "",
+      "country": "Suisse",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "contacts": [],
+      "page": "73",
+      "pdfPages": [
+        75
+      ],
+      "advertiserOnly": true
+    },
+    {
+      "slug": "wonderware",
+      "name": "Wonderware SA (Switzerland)",
+      "sector": "Logiciels industriels de supervision",
+      "themes": [
+        "industrie",
+        "economie"
+      ],
+      "description": "Distributeur exclusif en Suisse des logiciels Wonderware by Schneider Electric : plus de 600 clients et environ 6 000 licences actives dans l'industrie et les collectivités.",
+      "address": "Rue de Lausanne 31",
+      "postalCode": "1110",
+      "city": "Morges",
+      "canton": "VD",
+      "country": "Suisse",
+      "phone": "+41 (0)21 802 80 80",
+      "email": "",
+      "website": "www.wonderware.ch",
+      "contacts": [
+        {
+          "name": "François Nomblot",
+          "role": "Directeur"
+        }
+      ],
+      "page": "74-75",
+      "pdfPages": [
+        76,
+        77
+      ],
+      "advertiserOnly": false
+    }
+  ]
+}
