@@ -387,6 +387,3 @@ blockquote cite { display: block; margin-top: 10px; font: 500 .9rem var(--sans);
 input[type="search"]::-webkit-search-cancel-button { -webkit-appearance: none; display: none; }
 .mag-actions { flex-wrap: nowrap; gap: 6px; }
 .mag-actions .btn-sm { padding: 0 10px; font-size: .8rem; gap: 5px; }
-
-/* Essai : texte du carrousel en rouge suisse */
-.hero h1, .hero .lead, .hero .eyebrow.light { color: #da291c; opacity: 1; text-shadow: 0 1px 2px rgba(0, 0, 0, .35), 0 0 24px rgba(255, 255, 255, .25); }
