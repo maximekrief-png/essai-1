@@ -1,6 +1,7 @@
 // Générateur du site statique Swiss Knowhow.
 // Lit data/magazines/*.json (+ data/images.json) et écrit le site dans docs/.
 // Usage : node tools/build.mjs
+import crypto from 'node:crypto';
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -11,6 +12,12 @@ const OUT = path.join(ROOT, 'docs');
 const DATA = path.join(ROOT, 'data');
 const SITE_NAME = 'Swiss Knowhow';
 const SITE_URL = 'https://swissknowhow.ch';
+// Version des fichiers CSS/JS (empreinte du contenu) : force les navigateurs à recharger après chaque mise à jour
+const assetVersion = (rel) => {
+  try { return crypto.createHash('md5').update(fs.readFileSync(path.join(ROOT, 'docs', rel))).digest('hex').slice(0, 8); } catch { return '1'; }
+};
+const CSS_V = assetVersion('assets/css/style.css');
+const JS_V = assetVersion('assets/js/app.js');
 
 // ---------- utilitaires ----------
 const esc = (s) => String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
@@ -185,7 +192,7 @@ ${image ? `<meta property="og:image" content="${esc(r + image)}">` : ''}
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,650&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="${r}assets/css/style.css">
+<link rel="stylesheet" href="${r}assets/css/style.css?v=${CSS_V}">
 <script>try{const t=localStorage.getItem('skh-theme');if(t)document.documentElement.dataset.theme=t}catch(e){}</script>
 ${jsonld ? `<script type="application/ld+json">${jsonld}</script>` : ''}
 </head>
@@ -233,7 +240,7 @@ ${body}
     <div class="search-results" data-search-results></div>
   </div>
 </div>
-<script src="${r}assets/js/app.js" defer></script>
+<script src="${r}assets/js/app.js?v=${JS_V}" defer></script>
 </body>
 </html>`;
 }
