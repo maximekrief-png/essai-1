@@ -187,7 +187,7 @@ function layout({ depth, title, description = '', active = '', body, jsonld = ''
 <meta property="og:description" content="${esc(description.slice(0, 300))}">
 <meta property="og:type" content="website">
 ${image ? `<meta property="og:image" content="${esc(r + image)}">` : ''}
-<meta name="theme-color" content="#c8102e">
+<meta name="theme-color" content="#FF0000">
 <link rel="icon" href="${r}assets/favicon.svg" type="image/svg+xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -201,7 +201,7 @@ ${jsonld ? `<script type="application/ld+json">${jsonld}</script>` : ''}
 <header class="site-header">
   <div class="wrap header-inner">
     <a class="brand" href="${r}" aria-label="${SITE_NAME} — accueil">
-      <span class="brand-mark" aria-hidden="true"><svg viewBox="0 0 32 32"><rect width="32" height="32" rx="7" fill="#c8102e"/><path d="M13 7h6v6h6v6h-6v6h-6v-6H7v-6h6z" fill="#fff"/></svg></span>
+      <span class="brand-mark" aria-hidden="true"><svg viewBox="0 0 32 32"><rect width="32" height="32" rx="7" fill="#FF0000"/><path d="M13 7h6v6h6v6h-6v6h-6v-6H7v-6h6z" fill="#fff"/></svg></span>
       <span class="brand-text">Swiss <b>Knowhow</b></span>
     </a>
     <nav class="main-nav" aria-label="Navigation principale">
@@ -220,7 +220,7 @@ ${body}
 <footer class="site-footer">
   <div class="wrap footer-grid">
     <div>
-      <a class="brand" href="${r}"><span class="brand-mark" aria-hidden="true"><svg viewBox="0 0 32 32"><rect width="32" height="32" rx="7" fill="#c8102e"/><path d="M13 7h6v6h6v6h-6v6h-6v-6H7v-6h6z" fill="#fff"/></svg></span><span class="brand-text">Swiss <b>Knowhow</b></span></a>
+      <a class="brand" href="${r}"><span class="brand-mark" aria-hidden="true"><svg viewBox="0 0 32 32"><rect width="32" height="32" rx="7" fill="#FF0000"/><path d="M13 7h6v6h6v6h-6v6h-6v-6H7v-6h6z" fill="#fff"/></svg></span><span class="brand-text">Swiss <b>Knowhow</b></span></a>
       <p>Le magazine du savoir-faire suisse : entreprises, institutions et acteurs de l'économie, de l'horlogerie, de la santé et des grands travaux.</p>
     </div>
     <div>
@@ -259,7 +259,7 @@ const location = (c) => [c.postalCode && c.city ? `${c.postalCode} ${c.city}` : 
 
 function magCover(m, r, cls = '') {
   if (m.cover) return `<div class="cover ${cls}">${img(m.cover, `Couverture — ${m.title}`, r)}</div>`;
-  const t = THEMES[m.themes?.[0]] || { color: '#c8102e' };
+  const t = THEMES[m.themes?.[0]] || { color: '#FF0000' };
   return `<div class="cover cover-gen ${cls}" style="--c:${t.color}" aria-hidden="true"><span class="cg-brand">SWISS<br>KNOWHOW</span><span class="cg-title">${esc(m.series || m.title)}</span><span class="cg-year">${m.year || ''}</span>${m.themes?.[0] ? themeIcon(m.themes[0], 'cg-ico') : ''}</div>`;
 }
 
@@ -413,7 +413,7 @@ function pageCompany(c) {
   }).replace(/</g, '\\u003c');
   const gallery = (c.images || []).slice(0, 6);
   const body = `
-<section class="detail-hero" style="--c:${THEMES[th]?.color || '#c8102e'}">
+<section class="detail-hero" style="--c:${THEMES[th]?.color || '#FF0000'}">
   <div class="wrap detail-hero-inner">
     <div class="detail-media">${gallery.length ? img(gallery[0], c.name, r, 'detail-img') : placeholder(c.name, th, 'detail-img')}</div>
     <div class="detail-text">
@@ -615,7 +615,7 @@ function pageContact() {
   <article class="detail-main">
     <section><h2>Paraître dans Swiss Knowhow</h2><p class="prose">Entreprise, institution ou collectivité, vous souhaitez présenter votre savoir-faire dans une prochaine édition (horlogerie, santé, grands travaux, économie régionale) ou mettre à jour votre fiche dans l'annuaire ? Écrivez-nous en précisant le nom de votre organisation et la fiche concernée.</p>
     <p><a class="btn btn-primary" href="mailto:${PUBLISHER.email}?subject=${encodeURIComponent('Annuaire Swiss Knowhow')}">${icon('mail', 'ico sm')}Écrire à la rédaction</a></p></section>
-    <section><h2>Nos collections</h2><div class="chips">${uniq(magazines.map((m) => m.series)).map((s) => `<a class="chip" style="--c:#c8102e" href="${r}magazines/">${esc(s)}</a>`).join('')}</div></section>
+    <section><h2>Nos collections</h2><div class="chips">${uniq(magazines.map((m) => m.series)).map((s) => `<a class="chip" style="--c:#FF0000" href="${r}magazines/">${esc(s)}</a>`).join('')}</div></section>
   </article>
   <aside class="detail-side">
     <div class="contact-card">
