@@ -3,15 +3,6 @@
   "aee-suisse-energie:aee-suisse-energie-interview-gianni-operto": [
    "assets/img/web-aee-suisse-energie/p004-9f5d02c98427.webp"
   ],
-  "aee-suisse-energie:aee-suisse-energie-interview-andreas-von-kaenel": [
-   "assets/img/web-aee-suisse-energie/p026-234266c2f3c0.webp"
-  ],
-  "aee-suisse-energie:aee-suisse-energie-interview-beat-vonlanthen": [
-   "assets/img/web-aee-suisse-energie/p038-0f465d605973.webp",
-   "assets/img/web-aee-suisse-energie/p039-1d349a13ada5.webp",
-   "assets/img/web-aee-suisse-energie/p039-64e2376561f5.webp",
-   "assets/img/web-aee-suisse-energie/p039-5c8d03a98d99.webp"
-  ],
   "aee-suisse-energie:aee-suisse-energie-sig-konrad-rieder": [
    "assets/img/web-aee-suisse-energie/p009-d3e9701bae9f.webp",
    "assets/img/web-aee-suisse-energie/p009-424c202d0204.webp"
@@ -21,6 +12,9 @@
   ],
   "aee-suisse-energie:aee-suisse-energie-canton-de-vaud-laurent-balsiger": [
    "assets/img/web-aee-suisse-energie/p012-113aa0c64ae0.webp"
+  ],
+  "aee-suisse-energie:aee-suisse-energie-energies-nouvelles-vaud-patrick-chiche": [
+   "assets/img/web-aee-suisse-energie/p013-27719b2ab74e.webp"
   ],
   "aee-suisse-energie:aee-suisse-energie-hei-valais-gaetan-cherix": [
    "assets/img/web-aee-suisse-energie/p016-2b3a00140b9d.webp"
@@ -94,9 +88,6 @@
   ],
   "aee-suisse-energie:aee-suisse-energie-solstis": [
    "assets/img/web-aee-suisse-energie/p047-92bac529fa9c.webp"
-  ],
-  "aee-suisse-energie:aee-suisse-energie-heiniger-cables": [
-   "assets/img/web-aee-suisse-energie/p049-55d56496244a.webp"
   ],
   "arc-jurassien-2013:arc-jurassien-2013-interview-mireille-gasser": [
    "assets/img/aj2013-arcjurassien-ch-mireille-gasser/p001-f1e6c95e8e70.webp",
@@ -244,6 +235,15 @@
    "assets/img/aj2013-vigier-beton-seeland-jura/p001-4b5ac8fe232f.webp",
    "assets/img/aj2013-vigier-beton-seeland-jura/p002-40e0beb91819.webp"
   ],
+  "arc-lemanique:arc-lemanique-region-de-nyon-frederic-mani": [
+   "assets/img/web-arc-lemanique/p004-7c9a4fd618ae.webp"
+  ],
+  "arc-lemanique:arc-lemanique-region-de-nyon-gudrun-russig": [
+   "assets/img/web-arc-lemanique/p005-a5c56a399488.webp"
+  ],
+  "arc-lemanique:arc-lemanique-region-de-nyon-gerard-produit": [
+   "assets/img/web-arc-lemanique/p007-09bcef3b5cc8.webp"
+  ],
   "arc-lemanique:arc-lemanique-atelier-94-architecture": [
    "assets/img/web-arc-lemanique/p016-b218b95b616c.webp",
    "assets/img/web-arc-lemanique/p016-e562bd8bbd06.webp",
@@ -264,7 +264,8 @@
    "assets/img/web-arc-lemanique/p023-73d67efd444a.webp"
   ],
   "arc-lemanique:arc-lemanique-iffp": [
-   "assets/img/web-arc-lemanique/p024-96924d77148d.webp"
+   "assets/img/web-arc-lemanique/p024-96924d77148d.webp",
+   "assets/img/web-arc-lemanique/p025-7c7fb1ca631e.webp"
   ],
   "arc-lemanique:arc-lemanique-balmelli": [
    "assets/img/web-arc-lemanique/p026-819984a36c03.webp"
@@ -357,6 +358,7 @@
    "assets/img/web-economie-publique/p006-56c5bd7a3bc7.webp"
   ],
   "economie-publique:economie-publique-caisse-avs-vaud-fabienne-goetzinger": [
+   "assets/img/web-economie-publique/p011-7683acacca41.webp",
    "assets/img/web-economie-publique/p012-376e0bb28de9.webp",
    "assets/img/web-economie-publique/p012-8b4e4d94155c.webp"
   ],
@@ -391,8 +393,7 @@
    "assets/img/web-economie-publique/p025-66e65cbf8d2c.webp"
   ],
   "economie-publique:economie-publique-hep-vaud-guillaume-vanhulst": [
-   "assets/img/web-economie-publique/p026-5805447e1de8.webp",
-   "assets/img/web-economie-publique/p027-607b3dea2d25.webp"
+   "assets/img/web-economie-publique/p026-5805447e1de8.webp"
   ],
   "economie-publique:economie-publique-henri-badoux-vins": [
    "assets/img/web-economie-publique/p028-953308f20815.webp",
@@ -405,14 +406,16 @@
    "assets/img/web-economie-publique/p031-b1d87a922be3.webp"
   ],
   "economie-publique:economie-publique-iffp-alexandre-etienne": [
+   "assets/img/web-economie-publique/p032-3dc7fe477cc7.webp",
+   "assets/img/web-economie-publique/p032-7d2bcf5770a2.webp",
+   "assets/img/web-economie-publique/p033-dab6886e1d12.webp",
    "assets/img/web-economie-publique/p034-80611b8f5803.webp"
   ],
   "economie-publique:economie-publique-interprofession-du-gruyere": [
+   "assets/img/web-economie-publique/p036-4ca2b62b6e38.webp",
    "assets/img/web-economie-publique/p037-8804493ca414.webp",
    "assets/img/web-economie-publique/p037-42cc58880b89.webp",
-   "assets/img/web-economie-publique/p037-7fcf79fd3308.webp",
-   "assets/img/web-economie-publique/p039-2ceea0ec99b8.webp",
-   "assets/img/web-economie-publique/p039-c5b39e43792e.webp"
+   "assets/img/web-economie-publique/p037-7fcf79fd3308.webp"
   ],
   "economie-publique:economie-publique-montangero-fils": [
    "assets/img/web-economie-publique/p040-9667b6c3b2bf.webp"
@@ -429,14 +432,10 @@
    "assets/img/web-economie-publique/p045-ccc6e2d1676d.webp"
   ],
   "economie-publique:economie-publique-nstcm-ligne-unique": [
-   "assets/img/web-economie-publique/p047-9ecc905efe9b.webp",
-   "assets/img/web-economie-publique/p048-908cf90d91b1.webp",
-   "assets/img/web-economie-publique/p049-cb477931d7b1.webp"
+   "assets/img/web-economie-publique/p046-f72760f0c9f5.webp"
   ],
   "economie-publique:economie-publique-tpn-offre-de-qualite": [
-   "assets/img/web-economie-publique/p047-9ecc905efe9b.webp",
-   "assets/img/web-economie-publique/p048-908cf90d91b1.webp",
-   "assets/img/web-economie-publique/p049-cb477931d7b1.webp"
+   "assets/img/web-economie-publique/p048-908cf90d91b1.webp"
   ],
   "economie-publique:economie-publique-swi-institut-suisse-soudure": [
    "assets/img/web-economie-publique/p051-4b5138c4d6a6.webp",
@@ -451,22 +450,25 @@
   ],
   "economie-publique:economie-publique-vaudoise-assurances-philippe-hebeisen": [
    "assets/img/web-economie-publique/p056-6a6068c63b4f.webp",
-   "assets/img/web-economie-publique/p056-54201b724d96.webp",
-   "assets/img/web-economie-publique/p058-f04e43be6741.webp"
+   "assets/img/web-economie-publique/p056-54201b724d96.webp"
   ],
   "fribourg-bienne-tessin:fribourg-bienne-tessin-stadt-solothurn-kurt-fluri": [
-   "assets/img/web-fribourg-bienne-tessin/p119-66589f46717b.webp",
-   "assets/img/web-fribourg-bienne-tessin/p121-19d42da89779.webp",
-   "assets/img/web-fribourg-bienne-tessin/p121-ae2207711b08.webp",
-   "assets/img/web-fribourg-bienne-tessin/p121-5025d9d8e994.webp",
-   "assets/img/web-fribourg-bienne-tessin/p121-7e2b5d94e494.webp",
-   "assets/img/web-fribourg-bienne-tessin/p121-67a43215a26b.webp"
+   "assets/img/web-fribourg-bienne-tessin/p005-19d42da89779.webp",
+   "assets/img/web-fribourg-bienne-tessin/p005-ae2207711b08.webp",
+   "assets/img/web-fribourg-bienne-tessin/p005-5025d9d8e994.webp",
+   "assets/img/web-fribourg-bienne-tessin/p005-7e2b5d94e494.webp",
+   "assets/img/web-fribourg-bienne-tessin/p005-67a43215a26b.webp"
   ],
   "fribourg-bienne-tessin:fribourg-bienne-tessin-fribourg-pierre-alain-clement": [
    "assets/img/web-fribourg-bienne-tessin/p006-a0b85c1cfcde.webp"
   ],
+  "fribourg-bienne-tessin:fribourg-bienne-tessin-bulle-yves-menoud": [
+   "assets/img/web-fribourg-bienne-tessin/p009-e94ef739ef1c.webp",
+   "assets/img/web-fribourg-bienne-tessin/p009-1869b98af349.webp",
+   "assets/img/web-fribourg-bienne-tessin/p009-b10e7ec24da4.webp"
+  ],
   "fribourg-bienne-tessin:fribourg-bienne-tessin-fribourg-jean-bourgknecht": [
-   "assets/img/web-fribourg-bienne-tessin/p006-a0b85c1cfcde.webp"
+   "assets/img/web-fribourg-bienne-tessin/p010-d3f559941c12.webp"
   ],
   "fribourg-bienne-tessin:fribourg-bienne-tessin-gif-vfi-chantal-robin": [
    "assets/img/web-fribourg-bienne-tessin/p011-c34f53bee785.webp",
@@ -476,13 +478,8 @@
   "fribourg-bienne-tessin:fribourg-bienne-tessin-ccif-alain-riedo": [
    "assets/img/web-fribourg-bienne-tessin/p012-6a54e8df2c61.webp"
   ],
-  "fribourg-bienne-tessin:fribourg-bienne-tessin-fribourg-thierry-steiert": [
-   "assets/img/web-fribourg-bienne-tessin/p006-a0b85c1cfcde.webp"
-  ],
-  "fribourg-bienne-tessin:fribourg-bienne-tessin-fribourg-madeleine-genoud-page": [
-   "assets/img/web-fribourg-bienne-tessin/p006-a0b85c1cfcde.webp"
-  ],
   "fribourg-bienne-tessin:fribourg-bienne-tessin-hfr-claudia-kach": [
+   "assets/img/web-fribourg-bienne-tessin/p016-990475f16c49.webp",
    "assets/img/web-fribourg-bienne-tessin/p017-4b97a80779be.webp",
    "assets/img/web-fribourg-bienne-tessin/p017-db58e6261808.webp",
    "assets/img/web-fribourg-bienne-tessin/p017-0eed5a5a4b62.webp",
@@ -494,9 +491,6 @@
   "fribourg-bienne-tessin:fribourg-bienne-tessin-it-valley-christian-meixenberger": [
    "assets/img/web-fribourg-bienne-tessin/p019-1a0eb39afca1.webp",
    "assets/img/web-fribourg-bienne-tessin/p019-6df20a8c22a6.webp"
-  ],
-  "fribourg-bienne-tessin:fribourg-bienne-tessin-fribourg-antoinette-de-weck": [
-   "assets/img/web-fribourg-bienne-tessin/p006-a0b85c1cfcde.webp"
   ],
   "fribourg-bienne-tessin:fribourg-bienne-tessin-bdl-architectes": [
    "assets/img/web-fribourg-bienne-tessin/p022-c8ef17845786.webp",
@@ -584,17 +578,25 @@
   "fribourg-bienne-tessin:fribourg-bienne-tessin-stadt-bern-alexander-tschaeppaet": [
    "assets/img/web-fribourg-bienne-tessin/p056-b019db1b826c.webp"
   ],
+  "fribourg-bienne-tessin:fribourg-bienne-tessin-kanton-bern-andreas-rickenbacher": [
+   "assets/img/web-fribourg-bienne-tessin/p060-2ec2fe345d04.webp"
+  ],
+  "fribourg-bienne-tessin:fribourg-bienne-tessin-bienne-barbara-schwickert": [
+   "assets/img/web-fribourg-bienne-tessin/p062-b6a0083071fd.webp",
+   "assets/img/web-fribourg-bienne-tessin/p063-9cd3b6c0918c.webp",
+   "assets/img/web-fribourg-bienne-tessin/p063-3a3c3d86cc4e.webp",
+   "assets/img/web-fribourg-bienne-tessin/p063-92d527fdc43c.webp",
+   "assets/img/web-fribourg-bienne-tessin/p063-00b563d3c890.webp"
+  ],
   "fribourg-bienne-tessin:fribourg-bienne-tessin-universitaet-bern-martin-taeuber": [
    "assets/img/web-fribourg-bienne-tessin/p064-0988b23273df.webp",
    "assets/img/web-fribourg-bienne-tessin/p064-b7d91064e3d4.webp",
    "assets/img/web-fribourg-bienne-tessin/p065-8a3b3beece37.webp",
    "assets/img/web-fribourg-bienne-tessin/p065-d53b98121d41.webp",
-   "assets/img/web-fribourg-bienne-tessin/p065-354514e198bb.webp",
-   "assets/img/web-fribourg-bienne-tessin/p066-0985f2cf15f5.webp"
+   "assets/img/web-fribourg-bienne-tessin/p065-354514e198bb.webp"
   ],
   "fribourg-bienne-tessin:fribourg-bienne-tessin-inselspital-holger-baumann": [
-   "assets/img/web-fribourg-bienne-tessin/p067-94610074f1fc.webp",
-   "assets/img/web-fribourg-bienne-tessin/p067-77df70e7b2dc.webp"
+   "assets/img/web-fribourg-bienne-tessin/p066-0985f2cf15f5.webp"
   ],
   "fribourg-bienne-tessin:fribourg-bienne-tessin-emch-aufzuege-bernhard-emch": [
    "assets/img/web-fribourg-bienne-tessin/p068-af9f34496ba9.webp",
@@ -605,8 +607,15 @@
   "fribourg-bienne-tessin:fribourg-bienne-tessin-berner-arbeitgeber-uwe-jocham": [
    "assets/img/web-fribourg-bienne-tessin/p070-57aa12bb7a51.webp"
   ],
+  "fribourg-bienne-tessin:fribourg-bienne-tessin-bienne-thomas-gfeller": [
+   "assets/img/web-fribourg-bienne-tessin/p072-c4c8f846e13c.webp",
+   "assets/img/web-fribourg-bienne-tessin/p072-f79d660d9a19.webp"
+  ],
   "fribourg-bienne-tessin:fribourg-bienne-tessin-bern-bss-franziska-teuscher": [
    "assets/img/web-fribourg-bienne-tessin/p074-d897f36374c1.webp"
+  ],
+  "fribourg-bienne-tessin:fribourg-bienne-tessin-bienne-cedric-nemitz": [
+   "assets/img/web-fribourg-bienne-tessin/p076-1e2330e8055a.webp"
   ],
   "fribourg-bienne-tessin:fribourg-bienne-tessin-bernmobil-rolf-meyer": [
    "assets/img/web-fribourg-bienne-tessin/p078-288edea57b70.webp",
@@ -630,10 +639,7 @@
    "assets/img/web-geneve-la-cote/p010-5a7ad4346f54.webp"
   ],
   "geneve-la-cote:geneve-la-cote-meyrin-jean-marc-devaud": [
-   "assets/img/web-geneve-la-cote/p015-b7780015954b.webp",
-   "assets/img/web-geneve-la-cote/p015-41a21aa416dd.webp",
-   "assets/img/web-geneve-la-cote/p017-66d799baefab.webp",
-   "assets/img/web-geneve-la-cote/p017-43339d25d500.webp"
+   "assets/img/web-geneve-la-cote/p011-48f58006144c.webp"
   ],
   "geneve-la-cote:geneve-la-cote-carouge-nicolas-walder": [
    "assets/img/web-geneve-la-cote/p012-46f5413f884a.webp",
@@ -647,9 +653,7 @@
   ],
   "geneve-la-cote:geneve-la-cote-meyrin-les-vergers": [
    "assets/img/web-geneve-la-cote/p015-b7780015954b.webp",
-   "assets/img/web-geneve-la-cote/p015-41a21aa416dd.webp",
-   "assets/img/web-geneve-la-cote/p017-66d799baefab.webp",
-   "assets/img/web-geneve-la-cote/p017-43339d25d500.webp"
+   "assets/img/web-geneve-la-cote/p015-41a21aa416dd.webp"
   ],
   "geneve-la-cote:geneve-la-cote-meyrin-dynamisme-economique": [
    "assets/img/web-geneve-la-cote/p015-b7780015954b.webp",
@@ -736,21 +740,18 @@
    "assets/img/web-geneve-la-cote/p046-38c9a0f17c12.webp"
   ],
   "geneve-la-cote:geneve-la-cote-arcam-georges-rime": [
-   "assets/img/web-geneve-la-cote/p047-eca40f0224dc.webp",
-   "assets/img/web-geneve-la-cote/p049-e6d7aceeee09.webp"
-  ],
-  "geneve-la-cote:geneve-la-cote-cossonay-georges-rime": [
-   "assets/img/web-geneve-la-cote/p078-39a6646dacbd.webp",
-   "assets/img/web-geneve-la-cote/p078-aa0a25dec516.webp"
+   "assets/img/web-geneve-la-cote/p047-eca40f0224dc.webp"
   ],
   "geneve-la-cote:geneve-la-cote-arcam-oscar-cherbuin": [
    "assets/img/web-geneve-la-cote/p047-eca40f0224dc.webp",
    "assets/img/web-geneve-la-cote/p049-e6d7aceeee09.webp"
   ],
   "geneve-la-cote:geneve-la-cote-morges-vincent-jaques": [
-   "assets/img/web-geneve-la-cote/p070-042ff1f4a51a.webp"
+   "assets/img/web-geneve-la-cote/p051-fb903cf8cb98.webp"
   ],
   "geneve-la-cote:geneve-la-cote-ensemble-hospitalier-de-la-cote": [
+   "assets/img/web-geneve-la-cote/p052-83706d05aace.webp",
+   "assets/img/web-geneve-la-cote/p052-328bfe083809.webp",
    "assets/img/web-geneve-la-cote/p053-a2f67b9c852d.webp",
    "assets/img/web-geneve-la-cote/p053-1039d18fa242.webp"
   ],
@@ -758,71 +759,73 @@
    "assets/img/web-geneve-la-cote/p055-669e68def46c.webp"
   ],
   "geneve-la-cote:geneve-la-cote-aubonne-luc-etienne-rossier": [
-   "assets/img/web-geneve-la-cote/p064-613a49debf7d.webp",
-   "assets/img/web-geneve-la-cote/p066-6c43f782e74f.webp"
+   "assets/img/web-geneve-la-cote/p056-ec4eecab8210.webp"
   ],
   "geneve-la-cote:geneve-la-cote-morges-jean-jacques-aubert": [
-   "assets/img/web-geneve-la-cote/p070-042ff1f4a51a.webp"
+   "assets/img/web-geneve-la-cote/p057-6148be1e669a.webp"
   ],
   "geneve-la-cote:geneve-la-cote-aubonne-gisele-burnet": [
-   "assets/img/web-geneve-la-cote/p064-613a49debf7d.webp",
-   "assets/img/web-geneve-la-cote/p066-6c43f782e74f.webp"
+   "assets/img/web-geneve-la-cote/p058-cba97c5caa43.webp"
+  ],
+  "geneve-la-cote:geneve-la-cote-nyon-fabienne-freymond-cantone": [
+   "assets/img/web-geneve-la-cote/p060-b83b70cb000b.webp"
   ],
   "geneve-la-cote:geneve-la-cote-gland-thierry-genoud": [
-   "assets/img/web-geneve-la-cote/p055-669e68def46c.webp"
+   "assets/img/web-geneve-la-cote/p061-fe595e7cacef.webp"
+  ],
+  "geneve-la-cote:geneve-la-cote-nyon-claude-uldry": [
+   "assets/img/web-geneve-la-cote/p062-9228e603f4b1.webp"
+  ],
+  "geneve-la-cote:geneve-la-cote-nyon-olivier-mayor": [
+   "assets/img/web-geneve-la-cote/p063-d996d3f54c74.webp"
   ],
   "geneve-la-cote:geneve-la-cote-aubonne-jean-christophe-de-mestral": [
-   "assets/img/web-geneve-la-cote/p064-613a49debf7d.webp",
-   "assets/img/web-geneve-la-cote/p066-6c43f782e74f.webp"
+   "assets/img/web-geneve-la-cote/p064-613a49debf7d.webp"
   ],
   "geneve-la-cote:geneve-la-cote-cossonay-claude-moinat": [
-   "assets/img/web-geneve-la-cote/p078-39a6646dacbd.webp",
-   "assets/img/web-geneve-la-cote/p078-aa0a25dec516.webp"
+   "assets/img/web-geneve-la-cote/p065-6b6fa807bc9a.webp"
   ],
   "geneve-la-cote:geneve-la-cote-aubonne-eric-muller": [
-   "assets/img/web-geneve-la-cote/p064-613a49debf7d.webp",
    "assets/img/web-geneve-la-cote/p066-6c43f782e74f.webp"
   ],
   "geneve-la-cote:geneve-la-cote-morges-yves-paccaud": [
-   "assets/img/web-geneve-la-cote/p070-042ff1f4a51a.webp"
+   "assets/img/web-geneve-la-cote/p067-1604d04c1aad.webp"
   ],
   "geneve-la-cote:geneve-la-cote-gland-michael-rohrer": [
-   "assets/img/web-geneve-la-cote/p055-669e68def46c.webp"
+   "assets/img/web-geneve-la-cote/p068-441a1f464fb1.webp"
   ],
   "geneve-la-cote:geneve-la-cote-morges-eric-zuger": [
    "assets/img/web-geneve-la-cote/p070-042ff1f4a51a.webp"
   ],
   "geneve-la-cote:geneve-la-cote-cossonay-nicole-baudet": [
-   "assets/img/web-geneve-la-cote/p078-39a6646dacbd.webp",
-   "assets/img/web-geneve-la-cote/p078-aa0a25dec516.webp"
+   "assets/img/web-geneve-la-cote/p071-4bd256671681.webp"
   ],
   "geneve-la-cote:geneve-la-cote-gland-daniel-collaud": [
-   "assets/img/web-geneve-la-cote/p055-669e68def46c.webp"
+   "assets/img/web-geneve-la-cote/p072-fbfafe0796a6.webp"
   ],
   "geneve-la-cote:geneve-la-cote-cossonay-bernard-ebener": [
-   "assets/img/web-geneve-la-cote/p078-39a6646dacbd.webp",
-   "assets/img/web-geneve-la-cote/p078-aa0a25dec516.webp"
+   "assets/img/web-geneve-la-cote/p074-1bcb7072c93f.webp",
+   "assets/img/web-geneve-la-cote/p074-cf23afb772b2.webp"
   ],
   "geneve-la-cote:geneve-la-cote-gland-olivier-fargeon": [
-   "assets/img/web-geneve-la-cote/p055-669e68def46c.webp"
+   "assets/img/web-geneve-la-cote/p076-b457d12d8a16.webp",
+   "assets/img/web-geneve-la-cote/p076-ee5c4d2d3c76.webp"
   ],
   "geneve-la-cote:geneve-la-cote-gland-christine-girod": [
-   "assets/img/web-geneve-la-cote/p055-669e68def46c.webp"
+   "assets/img/web-geneve-la-cote/p077-cf97900e459e.webp"
   ],
   "geneve-la-cote:geneve-la-cote-cossonay-valerie-induni": [
    "assets/img/web-geneve-la-cote/p078-39a6646dacbd.webp",
    "assets/img/web-geneve-la-cote/p078-aa0a25dec516.webp"
   ],
   "geneve-la-cote:geneve-la-cote-gland-isabelle-monney": [
-   "assets/img/web-geneve-la-cote/p055-669e68def46c.webp"
+   "assets/img/web-geneve-la-cote/p079-9dd8874e9636.webp",
+   "assets/img/web-geneve-la-cote/p079-dbec1f479216.webp"
   ],
   "geneve-la-cote:geneve-la-cote-acronet": [
    "assets/img/web-geneve-la-cote/p080-d7595d752b05.webp",
    "assets/img/web-geneve-la-cote/p080-cda6cf8e7469.webp",
    "assets/img/web-geneve-la-cote/p080-e23f1584e1ef.webp"
-  ],
-  "grands-travaux-2026:grands-travaux-2026-bergauer-interview-urs-friess": [
-   "assets/img/web-grands-travaux-2026/p049-42829f595f96.webp"
   ],
   "grands-travaux-2026:grands-travaux-2026-casada-regola-arte": [
    "assets/img/web-grands-travaux-2026/p017-ce705ed9b5aa.webp"
@@ -876,11 +879,12 @@
    "assets/img/web-grands-travaux/p046-a5518ad1f390.webp"
   ],
   "grands-travaux:grands-travaux-rothpletz-lienhard-interview": [
+   "assets/img/web-grands-travaux/p018-8adff4e2fd7f.webp",
+   "assets/img/web-grands-travaux/p018-2c69f5904750.webp",
+   "assets/img/web-grands-travaux/p019-c6f5ced6973e.webp",
+   "assets/img/web-grands-travaux/p019-e068f48647da.webp",
    "assets/img/web-grands-travaux/p020-4c83acffe974.webp",
-   "assets/img/web-grands-travaux/p020-8f75c28fbfdd.webp",
-   "assets/img/web-grands-travaux/p020-33be07d456db.webp",
-   "assets/img/web-grands-travaux/p021-bf35327785f0.webp",
-   "assets/img/web-grands-travaux/p021-47e24c0ac0be.webp"
+   "assets/img/web-grands-travaux/p020-8f75c28fbfdd.webp"
   ],
   "grands-travaux:grands-travaux-tpn-accompagner-essor-region": [
    "assets/img/web-grands-travaux/p022-ae798f1774e6.webp"
@@ -968,7 +972,8 @@
    "assets/img/web-horlogerie-2015/p007-4dd807d7b55f.webp"
   ],
   "horlogerie-2015:horlogerie-2015-salon-ephj-epmt-smt": [
-   "assets/img/web-horlogerie-2015/p008-2cc2bcfc1dff.webp"
+   "assets/img/web-horlogerie-2015/p008-2cc2bcfc1dff.webp",
+   "assets/img/web-horlogerie-2015/p009-1ded80d89d3e.webp"
   ],
   "horlogerie-2015:horlogerie-2015-salon-de-te-hktdc": [
    "assets/img/web-horlogerie-2015/p010-06cf71660b3c.webp",
@@ -990,8 +995,7 @@
    "assets/img/web-horlogerie-2015/p027-d2e05d8e2f0b.webp"
   ],
   "horlogerie-2015:horlogerie-2015-procolor-lcti": [
-   "assets/img/web-horlogerie-2015/p028-20e2373ff80e.webp",
-   "assets/img/web-horlogerie-2015/p029-39b8ebb47005.webp"
+   "assets/img/web-horlogerie-2015/p028-20e2373ff80e.webp"
   ],
   "horlogerie-2015:horlogerie-2015-horlogerie-schild": [
    "assets/img/web-horlogerie-2015/p030-de7602c29a3a.webp"
@@ -1014,15 +1018,8 @@
    "assets/img/web-horlogerie-2015/p037-383b6ca45ad8.webp"
   ],
   "horlogerie-2015:horlogerie-2015-w-blosch-antireflets": [
-   "assets/img/web-horlogerie-2015/p041-92f4abf1766b.webp",
-   "assets/img/web-horlogerie-2015/p042-9e131df93055.webp",
-   "assets/img/web-horlogerie-2015/p043-c4c51c743aae.webp"
-  ],
-  "horlogerie-2015:horlogerie-2015-dm-surfaces": [
-   "assets/img/web-horlogerie-2015/p045-ba8730c7b90b.webp",
-   "assets/img/web-horlogerie-2015/p045-41dbb0610aee.webp",
-   "assets/img/web-horlogerie-2015/p045-14b26c35fc15.webp",
-   "assets/img/web-horlogerie-2015/p045-23f16708c0f5.webp"
+   "assets/img/web-horlogerie-2015/p040-fed917f5843f.webp",
+   "assets/img/web-horlogerie-2015/p041-92f4abf1766b.webp"
   ],
   "horlogerie-2015:horlogerie-2015-gmti": [
    "assets/img/web-horlogerie-2015/p046-613136e257a9.webp",
@@ -1037,10 +1034,7 @@
    "assets/img/web-horlogerie-2015/p049-bfddfeeace62.webp"
   ],
   "horlogerie-2015:horlogerie-2015-meyer-sintermetall": [
-   "assets/img/web-horlogerie-2015/p050-ba764c4df2cb.webp",
-   "assets/img/web-horlogerie-2015/p051-ffb1ddc4fed7.webp",
-   "assets/img/web-horlogerie-2015/p051-ba764c4df2cb.webp",
-   "assets/img/web-horlogerie-2015/p051-7d2087d90a61.webp"
+   "assets/img/web-horlogerie-2015/p050-ba764c4df2cb.webp"
   ],
   "horlogerie-2015:horlogerie-2015-tectri": [
    "assets/img/web-horlogerie-2015/p052-57fa32162c03.webp"
@@ -1108,13 +1102,19 @@
    "assets/img/web-horlogerie-2016/p006-90d38a73269d.webp",
    "assets/img/web-horlogerie-2016/p007-95f35881838d.webp",
    "assets/img/web-horlogerie-2016/p007-7106c60613bc.webp",
-   "assets/img/web-horlogerie-2016/p008-3c110b8727e6.webp"
+   "assets/img/web-horlogerie-2016/p008-3c110b8727e6.webp",
+   "assets/img/web-horlogerie-2016/p009-1214e3f5e496.webp",
+   "assets/img/web-horlogerie-2016/p009-01443049e768.webp"
   ],
   "horlogerie-2016:horlogerie-2016-wag-watches-art-gallery": [
-   "assets/img/web-horlogerie-2016/p014-e6dfd77840c6.webp"
+   "assets/img/web-horlogerie-2016/p014-e6dfd77840c6.webp",
+   "assets/img/web-horlogerie-2016/p015-a74a8c0f4077.webp",
+   "assets/img/web-horlogerie-2016/p015-4d24cfd21569.webp"
   ],
   "horlogerie-2016:horlogerie-2016-siwp-casino-de-geneve": [
-   "assets/img/web-horlogerie-2016/p016-94c51a4d277f.webp"
+   "assets/img/web-horlogerie-2016/p016-94c51a4d277f.webp",
+   "assets/img/web-horlogerie-2016/p017-1a88b5b27571.webp",
+   "assets/img/web-horlogerie-2016/p017-7ab716bc6103.webp"
   ],
   "horlogerie-2016:horlogerie-2016-swisscreativelab": [
    "assets/img/web-horlogerie-2016/p018-5d00d5607e66.webp",
@@ -1195,11 +1195,7 @@
    "assets/img/web-horlogerie-2016/p049-6067b00ee29f.webp"
   ],
   "horlogerie-2016:horlogerie-2016-meyer-sintermetall": [
-   "assets/img/web-horlogerie-2016/p051-29fcaf62269c.webp",
-   "assets/img/web-horlogerie-2016/p052-4a715880c542.webp",
-   "assets/img/web-horlogerie-2016/p053-2cb18f3c7eec.webp",
-   "assets/img/web-horlogerie-2016/p053-4a715880c542.webp",
-   "assets/img/web-horlogerie-2016/p053-44d8250a17bd.webp"
+   "assets/img/web-horlogerie-2016/p052-4a715880c542.webp"
   ],
   "horlogerie-2016:horlogerie-2016-monnier": [
    "assets/img/web-horlogerie-2016/p054-706072b7ff63.webp"
@@ -1317,7 +1313,6 @@
    "assets/img/web-horlogerie-2016/p100-29fcaf62269c.webp"
   ],
   "horlogerie-2016:horlogerie-2016-tsm-assurances": [
-   "assets/img/web-horlogerie-2016/p101-29fcaf62269c.webp",
    "assets/img/web-horlogerie-2016/p102-053ca6d453ca.webp"
   ],
   "horlogerie-2016:horlogerie-2016-altmann-casting": [
@@ -1340,7 +1335,6 @@
    "assets/img/web-horlogerie-2016/p109-186d08cd85f8.webp"
   ],
   "horlogerie-2016:horlogerie-2016-demhosa": [
-   "assets/img/web-horlogerie-2016/p076-29fcaf62269c.webp",
    "assets/img/web-horlogerie-2016/p110-bca0511e8748.webp"
   ],
   "horlogerie-2016:horlogerie-2016-kif-parechoc": [
@@ -1358,8 +1352,7 @@
    "assets/img/web-horlogerie-2016/p115-f2e06908d971.webp"
   ],
   "horlogerie-2016:horlogerie-2016-procolor-lcti": [
-   "assets/img/web-horlogerie-2016/p116-6db111d2bde6.webp",
-   "assets/img/web-horlogerie-2016/p117-6a4fac1e0b99.webp"
+   "assets/img/web-horlogerie-2016/p116-6db111d2bde6.webp"
   ],
   "horlogerie-2016:horlogerie-2016-meylan-freres": [
    "assets/img/web-horlogerie-2016/p118-ede42e6aba62.webp",
@@ -1378,12 +1371,9 @@
    "assets/img/web-horlogerie-2016/p121-c8459ea0788c.webp"
   ],
   "horlogerie-2017:horlogerie-2017-salon-ephj-epmt-smt-2017": [
-   "assets/img/web-horlogerie-2017/p006-a3a54d40c444.webp",
-   "assets/img/web-horlogerie-2017/p006-3e9d6f8c3059.webp",
-   "assets/img/web-horlogerie-2017/p006-8506c8071339.webp",
-   "assets/img/web-horlogerie-2017/p006-1a933d51b05d.webp",
    "assets/img/web-horlogerie-2017/p007-1f1be517f4bd.webp",
-   "assets/img/web-horlogerie-2017/p007-dfdb9faf1405.webp"
+   "assets/img/web-horlogerie-2017/p007-dfdb9faf1405.webp",
+   "assets/img/web-horlogerie-2017/p007-c496357874e8.webp"
   ],
   "horlogerie-2017:horlogerie-2017-tec-ebauches": [
    "assets/img/web-horlogerie-2017/p010-cd43f68ad81a.webp",
@@ -1416,8 +1406,7 @@
   ],
   "horlogerie-2017:horlogerie-2017-rimann-interview-stefan-eichler": [
    "assets/img/web-horlogerie-2017/p024-7ee92d8c636c.webp",
-   "assets/img/web-horlogerie-2017/p024-bcee92126548.webp",
-   "assets/img/web-horlogerie-2017/p025-524226856c74.webp"
+   "assets/img/web-horlogerie-2017/p024-bcee92126548.webp"
   ],
   "horlogerie-2017:horlogerie-2017-arola-alfred-rochat-fils": [
    "assets/img/web-horlogerie-2017/p026-f608989307bb.webp",
@@ -1439,10 +1428,7 @@
    "assets/img/web-horlogerie-2017/p031-a00043af7c41.webp"
   ],
   "horlogerie-2017:horlogerie-2017-meyer-sintermetall-metallurgie-des-poudres": [
-   "assets/img/web-horlogerie-2017/p032-4a715880c542.webp",
-   "assets/img/web-horlogerie-2017/p033-2cb18f3c7eec.webp",
-   "assets/img/web-horlogerie-2017/p033-4a715880c542.webp",
-   "assets/img/web-horlogerie-2017/p033-44d8250a17bd.webp"
+   "assets/img/web-horlogerie-2017/p032-4a715880c542.webp"
   ],
   "horlogerie-2017:horlogerie-2017-meylan-freres": [
    "assets/img/web-horlogerie-2017/p035-ba608a97aae6.webp"
@@ -1509,10 +1495,7 @@
    "assets/img/web-horlogerie-2018/p022-2258ec045f6a.webp"
   ],
   "horlogerie-2018:horlogerie-2018-meyer-sintermetall-metallurgie-des-poudres": [
-   "assets/img/web-horlogerie-2018/p024-ba764c4df2cb.webp",
-   "assets/img/web-horlogerie-2018/p025-ffb1ddc4fed7.webp",
-   "assets/img/web-horlogerie-2018/p025-ba764c4df2cb.webp",
-   "assets/img/web-horlogerie-2018/p025-efd612b73f8b.webp"
+   "assets/img/web-horlogerie-2018/p024-ba764c4df2cb.webp"
   ],
   "horlogerie-2018:horlogerie-2018-manufacture-de-haute-accessoirie": [
    "assets/img/web-horlogerie-2018/p026-ff0552a6e815.webp",
@@ -1571,10 +1554,6 @@
   "horlogerie-2018:horlogerie-2018-wenk": [
    "assets/img/web-horlogerie-2018/p060-9b08b35aaf5f.webp"
   ],
-  "horlogerie-2019:horlogerie-2019-interview-salon-ephj-epmt-smt": [
-   "assets/img/web-horlogerie-2019/p007-79a085192443.webp",
-   "assets/img/web-horlogerie-2019/p007-c18aebe6cff0.webp"
-  ],
   "horlogerie-2019:horlogerie-2019-dc-swiss": [
    "assets/img/web-horlogerie-2019/p026-1b585eb1dc47.webp"
   ],
@@ -1618,9 +1597,6 @@
   "horlogerie-2020:horlogerie-2020-asrh-laiton-sans-plomb": [
    "assets/img/web-horlogerie-2020/p008-7b9a9df2c017.webp"
   ],
-  "horlogerie-2020:horlogerie-2020-interview-baselworld": [
-   "assets/img/web-horlogerie-2020/p050-82f45e443e06.webp"
-  ],
   "horlogerie-2020:horlogerie-2020-abarthel": [
    "assets/img/web-horlogerie-2020/p018-4a3267c4f1ab.webp"
   ],
@@ -1634,8 +1610,7 @@
    "assets/img/web-horlogerie-2020/p026-1cb13722036c.webp"
   ],
   "horlogerie-2020:horlogerie-2020-interview-daniel-ryf": [
-   "assets/img/web-horlogerie-2020/p030-1050600eaa5a.webp",
-   "assets/img/web-horlogerie-2020/p031-474fcd2e6e1a.webp"
+   "assets/img/web-horlogerie-2020/p030-1050600eaa5a.webp"
   ],
   "horlogerie-2020:horlogerie-2020-metafil-lagirolle": [
    "assets/img/web-horlogerie-2020/p036-74f0239f7b4b.webp"
@@ -1980,81 +1955,60 @@
    "assets/img/web-horlogerie-2026/p037-99bc0993ade4.webp",
    "assets/img/web-horlogerie-2026/p037-becd8e6dea17.webp"
   ],
-  "hug-2011:hug-2011-horizon-2015-bernard-gruson": [
-   "assets/img/web-hug-2011/p009-2e9f731e1d44.webp",
-   "assets/img/web-hug-2011/p011-434914bb94d0.webp"
-  ],
   "hug-2011:hug-2011-hug-font-peau-neuve": [
-   "assets/img/web-hug-2011/p009-2e9f731e1d44.webp",
-   "assets/img/web-hug-2011/p011-434914bb94d0.webp"
-  ],
-  "hug-2011:hug-2011-hopital-vert": [
-   "assets/img/web-hug-2011/p009-2e9f731e1d44.webp",
-   "assets/img/web-hug-2011/p011-434914bb94d0.webp"
+   "assets/img/web-hug-2011/p009-2e9f731e1d44.webp"
   ],
   "hug-2011:hug-2011-geneve-internationale-humanitaire": [
-   "assets/img/web-hug-2011/p009-2e9f731e1d44.webp",
-   "assets/img/web-hug-2011/p011-434914bb94d0.webp"
+   "assets/img/web-hug-2011/p014-af5cac6cc800.webp"
   ],
   "hug-2011:hug-2011-indispensable-u-faculte-medecine": [
-   "assets/img/web-hug-2011/p009-2e9f731e1d44.webp",
-   "assets/img/web-hug-2011/p011-434914bb94d0.webp"
+   "assets/img/web-hug-2011/p017-b0e664067bf3.webp"
   ],
   "hug-2011:hug-2011-securite-qualite": [
-   "assets/img/web-hug-2011/p009-2e9f731e1d44.webp",
-   "assets/img/web-hug-2011/p011-434914bb94d0.webp"
+   "assets/img/web-hug-2011/p020-4a8b938030d4.webp"
   ],
   "hug-2011:hug-2011-medecine-de-premier-recours": [
-   "assets/img/web-hug-2011/p009-2e9f731e1d44.webp",
-   "assets/img/web-hug-2011/p011-434914bb94d0.webp"
+   "assets/img/web-hug-2011/p022-890dbdc42d21.webp",
+   "assets/img/web-hug-2011/p023-6ee019744cc6.webp"
   ],
   "hug-2011:hug-2011-sport-sante-performance": [
-   "assets/img/web-hug-2011/p009-2e9f731e1d44.webp",
-   "assets/img/web-hug-2011/p011-434914bb94d0.webp"
+   "assets/img/web-hug-2011/p027-3b90c4e63d09.webp",
+   "assets/img/web-hug-2011/p028-259ed64e738c.webp"
   ],
   "hug-2011:hug-2011-infarctus-programme-elips": [
-   "assets/img/web-hug-2011/p009-2e9f731e1d44.webp",
-   "assets/img/web-hug-2011/p011-434914bb94d0.webp"
+   "assets/img/web-hug-2011/p032-a3e70e53dda7.webp",
+   "assets/img/web-hug-2011/p033-a19b78a41c40.webp"
   ],
   "hug-2011:hug-2011-medecine-genetique-antonarakis": [
-   "assets/img/web-hug-2011/p009-2e9f731e1d44.webp",
-   "assets/img/web-hug-2011/p011-434914bb94d0.webp"
+   "assets/img/web-hug-2011/p036-c47928860383.webp",
+   "assets/img/web-hug-2011/p037-f79d4b47ed01.webp"
   ],
   "hug-2011:hug-2011-chirurgie-robotique-philippe-morel": [
-   "assets/img/web-hug-2011/p009-2e9f731e1d44.webp",
-   "assets/img/web-hug-2011/p011-434914bb94d0.webp"
+   "assets/img/web-hug-2011/p041-61423a8435a9.webp"
   ],
   "hug-2011:hug-2011-greffes-du-foie-enfant": [
    "assets/img/web-hug-2011/p009-2e9f731e1d44.webp",
    "assets/img/web-hug-2011/p011-434914bb94d0.webp"
   ],
-  "hug-2011:hug-2011-anevrismes-intracraniens-neurist": [
-   "assets/img/web-hug-2011/p009-2e9f731e1d44.webp",
-   "assets/img/web-hug-2011/p011-434914bb94d0.webp"
-  ],
   "hug-2011:hug-2011-laboratoire-de-virologie": [
-   "assets/img/web-hug-2011/p009-2e9f731e1d44.webp",
-   "assets/img/web-hug-2011/p011-434914bb94d0.webp"
+   "assets/img/web-hug-2011/p052-73dc7bf9f53d.webp",
+   "assets/img/web-hug-2011/p053-2476105aa5ec.webp"
   ],
   "hug-2011:hug-2011-prometheus-parkinson": [
-   "assets/img/web-hug-2011/p009-2e9f731e1d44.webp",
-   "assets/img/web-hug-2011/p011-434914bb94d0.webp"
+   "assets/img/web-hug-2011/p056-91513f594604.webp"
   ],
   "hug-2011:hug-2011-defis-de-la-psychiatrie": [
-   "assets/img/web-hug-2011/p009-2e9f731e1d44.webp",
-   "assets/img/web-hug-2011/p011-434914bb94d0.webp"
+   "assets/img/web-hug-2011/p058-471a6793c777.webp"
   ],
   "hug-2011:hug-2011-recherche-clinique": [
-   "assets/img/web-hug-2011/p009-2e9f731e1d44.webp",
-   "assets/img/web-hug-2011/p011-434914bb94d0.webp"
+   "assets/img/web-hug-2011/p061-6b1299c39ac4.webp"
   ],
   "hug-2011:hug-2011-oncologie-dietrich": [
    "assets/img/web-hug-2011/p009-2e9f731e1d44.webp",
    "assets/img/web-hug-2011/p011-434914bb94d0.webp"
   ],
   "hug-2011:hug-2011-hug-epfl-vaccin-cancer": [
-   "assets/img/web-hug-2011/p009-2e9f731e1d44.webp",
-   "assets/img/web-hug-2011/p011-434914bb94d0.webp"
+   "assets/img/web-hug-2011/p069-30a049ce3bed.webp"
   ],
   "hug-2011:hug-2011-cibm-imagerie-biomedicale": [
    "assets/img/web-hug-2011/p009-2e9f731e1d44.webp",
@@ -2284,18 +2238,13 @@
    "assets/img/web-sante-gesundheit/p011-e11fd02156e4.webp"
   ],
   "sante-gesundheit:sante-gesundheit-arodems-pierre-rochat": [
-   "assets/img/web-sante-gesundheit/p013-8e183dc0e702.webp",
-   "assets/img/web-sante-gesundheit/p033-0a1b4ac67c57.webp"
+   "assets/img/web-sante-gesundheit/p013-8e183dc0e702.webp"
   ],
   "sante-gesundheit:sante-gesundheit-cades-claude-alain-rebetez": [
    "assets/img/web-sante-gesundheit/p015-dfc82b607e09.webp"
   ],
   "sante-gesundheit:sante-gesundheit-kantonsspital-aarau-robert-rhiner": [
    "assets/img/web-sante-gesundheit/p016-77471651a613.webp"
-  ],
-  "sante-gesundheit:sante-gesundheit-swiss-stem-cell-bank": [
-   "assets/img/web-sante-gesundheit/p019-853111d4b39e.webp",
-   "assets/img/web-sante-gesundheit/p019-bd30b80f20b3.webp"
   ],
   "sante-gesundheit:sante-gesundheit-cardiocentro-ticino": [
    "assets/img/web-sante-gesundheit/p021-7b2502173d96.webp"
@@ -2319,15 +2268,17 @@
    "assets/img/web-sante-gesundheit/p039-8198d9e61408.webp"
   ],
   "sante-gesundheit:sante-gesundheit-ensemble-hospitalier-de-la-cote": [
-   "assets/img/web-sante-gesundheit/p042-8d8ff089b2a1.webp"
+   "assets/img/web-sante-gesundheit/p042-8d8ff089b2a1.webp",
+   "assets/img/web-sante-gesundheit/p043-3cbec7dc6a0a.webp",
+   "assets/img/web-sante-gesundheit/p043-fbd4fa7cef8d.webp"
   ],
   "sante-gesundheit:sante-gesundheit-h-net-michael-ziegler": [
    "assets/img/web-sante-gesundheit/p044-0118b82dbc18.webp",
    "assets/img/web-sante-gesundheit/p045-7f4eff0fc348.webp"
   ],
   "sante-gesundheit:sante-gesundheit-helsinn-riccardo-braglia": [
-   "assets/img/web-sante-gesundheit/p047-7cdd67733bfd.webp",
-   "assets/img/web-sante-gesundheit/p049-17fdf1a9de30.webp"
+   "assets/img/web-sante-gesundheit/p046-4269470905b9.webp",
+   "assets/img/web-sante-gesundheit/p047-7cdd67733bfd.webp"
   ],
   "sante-gesundheit:sante-gesundheit-jp-muller": [
    "assets/img/web-sante-gesundheit/p052-b163f4f4b4e5.webp",
@@ -2356,36 +2307,20 @@
    "assets/img/web-sante-gesundheit/p062-afb501671d9e.webp"
   ],
   "sommary:sommary-franco-ambrosetti": [
-   "assets/img/web-sommary/p022-8044c12769c6.webp",
-   "assets/img/web-sommary/p023-8044c12769c6.webp"
-  ],
-  "sommary:sommary-luca-albertoni": [
-   "assets/img/web-sommary/p022-8044c12769c6.webp",
-   "assets/img/web-sommary/p023-8044c12769c6.webp"
+   "assets/img/web-sommary/p002-f98297f2063d.webp"
   ],
   "sommary:sommary-cc-ti-associazione-mantello": [
    "assets/img/web-sommary/p022-8044c12769c6.webp",
    "assets/img/web-sommary/p023-8044c12769c6.webp"
   ],
   "sommary:sommary-cc-ti-rinaldo-gobbi": [
-   "assets/img/web-sommary/p022-8044c12769c6.webp",
-   "assets/img/web-sommary/p023-8044c12769c6.webp"
+   "assets/img/web-sommary/p012-56af7934dcdb.webp"
   ],
   "sommary:sommary-cc-ti-gabriele-lazzaroni": [
-   "assets/img/web-sommary/p022-8044c12769c6.webp",
-   "assets/img/web-sommary/p023-8044c12769c6.webp"
+   "assets/img/web-sommary/p014-3087e7407221.webp"
   ],
   "sommary:sommary-cc-ti-simona-morosini-marconi": [
-   "assets/img/web-sommary/p022-8044c12769c6.webp",
-   "assets/img/web-sommary/p023-8044c12769c6.webp"
-  ],
-  "sommary:sommary-cc-ti-marco-passalia": [
-   "assets/img/web-sommary/p022-8044c12769c6.webp",
-   "assets/img/web-sommary/p023-8044c12769c6.webp"
-  ],
-  "sommary:sommary-cc-ti-alberto-riva": [
-   "assets/img/web-sommary/p022-8044c12769c6.webp",
-   "assets/img/web-sommary/p023-8044c12769c6.webp"
+   "assets/img/web-sommary/p016-88a2e9df274b.webp"
   ],
   "sommary:sommary-cc-ti-rapporti-con-l-estero": [
    "assets/img/web-sommary/p022-8044c12769c6.webp",
@@ -2400,12 +2335,10 @@
    "assets/img/web-sommary/p023-8044c12769c6.webp"
   ],
   "sommary:sommary-ftaf-cristina-maderni": [
-   "assets/img/web-sommary/p028-9d849b539a1c.webp",
-   "assets/img/web-sommary/p029-9d849b539a1c.webp"
+   "assets/img/web-sommary/p028-9d849b539a1c.webp"
   ],
   "sommary:sommary-reg-giuliano-anastasi": [
-   "assets/img/web-sommary/p030-389fe0b74047.webp",
-   "assets/img/web-sommary/p031-389fe0b74047.webp"
+   "assets/img/web-sommary/p030-389fe0b74047.webp"
   ],
   "sommary:sommary-helsinn": [
    "assets/img/web-sommary/p032-4eb10498c2a5.webp",
@@ -2504,32 +2437,34 @@
    "assets/img/web-uvs-suisse-alemanique/p074-88af9492f11b.webp"
   ],
   "uvs-suisse-alemanique:uvs-suisse-alemanique-schuldirektion-solothurn": [
-   "assets/img/web-uvs-suisse-alemanique/p010-852c8322133c.webp"
+   "assets/img/web-uvs-suisse-alemanique/p010-852c8322133c.webp",
+   "assets/img/web-uvs-suisse-alemanique/p011-e6a473f59120.webp",
+   "assets/img/web-uvs-suisse-alemanique/p011-6c3bf436ccaf.webp"
+  ],
+  "uvs-suisse-alemanique:uvs-suisse-alemanique-stadtbauamt-solothurn": [
+   "assets/img/web-uvs-suisse-alemanique/p013-725529d288c9.webp"
   ],
   "uvs-suisse-alemanique:uvs-suisse-alemanique-stadt-zuerich-corine-mauch": [
-   "assets/img/web-uvs-suisse-alemanique/p014-d7974235981b.webp",
-   "assets/img/web-uvs-suisse-alemanique/p016-03a8340a0078.webp",
-   "assets/img/web-uvs-suisse-alemanique/p016-12b9a390175e.webp"
+   "assets/img/web-uvs-suisse-alemanique/p014-d7974235981b.webp"
   ],
   "uvs-suisse-alemanique:uvs-suisse-alemanique-amt-fuer-staedtebau-zuerich": [
-   "assets/img/web-uvs-suisse-alemanique/p014-d7974235981b.webp",
    "assets/img/web-uvs-suisse-alemanique/p016-03a8340a0078.webp",
-   "assets/img/web-uvs-suisse-alemanique/p016-12b9a390175e.webp"
+   "assets/img/web-uvs-suisse-alemanique/p016-12b9a390175e.webp",
+   "assets/img/web-uvs-suisse-alemanique/p017-6febdf0841ed.webp",
+   "assets/img/web-uvs-suisse-alemanique/p017-22461af7e0cb.webp"
   ],
   "uvs-suisse-alemanique:uvs-suisse-alemanique-stadtentwicklung-zuerich-benno-seiler": [
-   "assets/img/web-uvs-suisse-alemanique/p018-40ce1c6eedd1.webp"
-  ],
-  "uvs-suisse-alemanique:uvs-suisse-alemanique-greater-zurich-area": [
+   "assets/img/web-uvs-suisse-alemanique/p018-40ce1c6eedd1.webp",
    "assets/img/web-uvs-suisse-alemanique/p019-3d864e1df5b3.webp",
    "assets/img/web-uvs-suisse-alemanique/p019-5ce0b02e7f90.webp",
-   "assets/img/web-uvs-suisse-alemanique/p019-62d74db2d1e5.webp",
+   "assets/img/web-uvs-suisse-alemanique/p019-62d74db2d1e5.webp"
+  ],
+  "uvs-suisse-alemanique:uvs-suisse-alemanique-greater-zurich-area": [
    "assets/img/web-uvs-suisse-alemanique/p020-1d8b3e76c70a.webp",
    "assets/img/web-uvs-suisse-alemanique/p021-c3169062d41d.webp"
   ],
   "uvs-suisse-alemanique:uvs-suisse-alemanique-stadt-winterthur-michael-kuenzle": [
-   "assets/img/web-uvs-suisse-alemanique/p022-16b40426528e.webp"
-  ],
-  "uvs-suisse-alemanique:uvs-suisse-alemanique-amt-fuer-staedtebau-winterthur": [
+   "assets/img/web-uvs-suisse-alemanique/p022-16b40426528e.webp",
    "assets/img/web-uvs-suisse-alemanique/p023-db5b3e43673b.webp"
   ],
   "uvs-suisse-alemanique:uvs-suisse-alemanique-stadtentwicklung-winterthur-mark-wuerth": [
@@ -2542,8 +2477,7 @@
    "assets/img/web-uvs-suisse-alemanique/p029-11b403b3dd8f.webp"
   ],
   "uvs-suisse-alemanique:uvs-suisse-alemanique-aihk-peter-luescher": [
-   "assets/img/web-uvs-suisse-alemanique/p033-f40ddd3fd4e2.webp",
-   "assets/img/web-uvs-suisse-alemanique/p035-ff3816b424b1.webp"
+   "assets/img/web-uvs-suisse-alemanique/p033-f40ddd3fd4e2.webp"
   ],
   "uvs-suisse-alemanique:uvs-suisse-alemanique-stadt-baden-standortmarketing": [
    "assets/img/web-uvs-suisse-alemanique/p038-511d620f322f.webp",
@@ -2553,28 +2487,23 @@
    "assets/img/web-uvs-suisse-alemanique/p042-bc35f5c16da8.webp"
   ],
   "uvs-suisse-alemanique:uvs-suisse-alemanique-bbp-per-trifunovic": [
-   "assets/img/web-uvs-suisse-alemanique/p044-4f03ed5cfa12.webp",
-   "assets/img/web-uvs-suisse-alemanique/p045-9942416df3a2.webp"
+   "assets/img/web-uvs-suisse-alemanique/p044-4f03ed5cfa12.webp"
   ],
   "uvs-suisse-alemanique:uvs-suisse-alemanique-elex-peter-studer": [
-   "assets/img/web-uvs-suisse-alemanique/p050-2949467cb744.webp"
+   "assets/img/web-uvs-suisse-alemanique/p050-2949467cb744.webp",
+   "assets/img/web-uvs-suisse-alemanique/p051-c73f9e9f2e1a.webp",
+   "assets/img/web-uvs-suisse-alemanique/p051-8c37078c876e.webp"
   ],
   "uvs-suisse-alemanique:uvs-suisse-alemanique-hardturm-vincent-albers": [
-   "assets/img/web-uvs-suisse-alemanique/p054-565fc3b4e8ba.webp",
-   "assets/img/web-uvs-suisse-alemanique/p055-2704084e24d5.webp"
+   "assets/img/web-uvs-suisse-alemanique/p052-d70de1efd725.webp"
   ],
   "uvs-suisse-alemanique:uvs-suisse-alemanique-h-net-michael-ziegler": [
    "assets/img/web-uvs-suisse-alemanique/p056-66f40bbcb5c0.webp"
   ],
-  "uvs-suisse-alemanique:uvs-suisse-alemanique-hoermann-andreas-breschan": [
-   "assets/img/web-uvs-suisse-alemanique/p058-2c7e192bb0bd.webp"
-  ],
   "uvs-suisse-alemanique:uvs-suisse-alemanique-ibaarau-hans-kaspar-scherrer": [
+   "assets/img/web-uvs-suisse-alemanique/p060-d797b510cd0d.webp",
    "assets/img/web-uvs-suisse-alemanique/p061-8477de635460.webp",
-   "assets/img/web-uvs-suisse-alemanique/p061-f44ad6fe62b0.webp",
-   "assets/img/web-uvs-suisse-alemanique/p062-0ed0aec5e3b4.webp",
-   "assets/img/web-uvs-suisse-alemanique/p063-c0ccfee8b015.webp",
-   "assets/img/web-uvs-suisse-alemanique/p063-c15b4ff27c67.webp"
+   "assets/img/web-uvs-suisse-alemanique/p061-f44ad6fe62b0.webp"
   ],
   "uvs-suisse-alemanique:uvs-suisse-alemanique-imp-bautest": [
    "assets/img/web-uvs-suisse-alemanique/p064-2430448d1496.webp",
@@ -2596,14 +2525,14 @@
    "assets/img/web-uvs-suisse-alemanique/p071-d438ed16ac15.webp"
   ],
   "uvs-suisse-alemanique:uvs-suisse-alemanique-neosys-juerg-liechti": [
-   "assets/img/web-uvs-suisse-alemanique/p072-9683abd4f599.webp",
    "assets/img/web-uvs-suisse-alemanique/p073-8ebf280e1573.webp"
   ],
   "uvs-suisse-alemanique:uvs-suisse-alemanique-regio-energie-solothurn-felix-straessle": [
    "assets/img/web-uvs-suisse-alemanique/p074-88af9492f11b.webp"
   ],
   "uvs-suisse-alemanique:uvs-suisse-alemanique-amt-fuer-kultur-und-sport-solothurn": [
-   "assets/img/web-uvs-suisse-alemanique/p076-36c482933737.webp"
+   "assets/img/web-uvs-suisse-alemanique/p076-36c482933737.webp",
+   "assets/img/web-uvs-suisse-alemanique/p077-6cb2d655fe4f.webp"
   ],
   "uvs-suisse-alemanique:uvs-suisse-alemanique-hochschule-fuer-wirtschaft-fhnw": [
    "assets/img/web-uvs-suisse-alemanique/p080-e6dd4df5d14a.webp",
@@ -2612,6 +2541,23 @@
   "uvs-valais-neuchatel:uvs-valais-neuchatel-stadt-solothurn-kurt-fluri": [
    "assets/img/web-uvs-valais-neuchatel/p002-40f18568f4be.webp",
    "assets/img/web-uvs-valais-neuchatel/p003-c6ac93293248.webp"
+  ],
+  "uvs-valais-neuchatel:uvs-valais-neuchatel-sion-benoit-fournier": [
+   "assets/img/web-uvs-valais-neuchatel/p005-fda78a939b8e.webp"
+  ],
+  "uvs-valais-neuchatel:uvs-valais-neuchatel-sion-georges-joliat": [
+   "assets/img/web-uvs-valais-neuchatel/p006-d0318f0f628f.webp"
+  ],
+  "uvs-valais-neuchatel:uvs-valais-neuchatel-sion-blaise-crittin": [
+   "assets/img/web-uvs-valais-neuchatel/p007-3b66c88a142f.webp"
+  ],
+  "uvs-valais-neuchatel:uvs-valais-neuchatel-sion-aeroport-cyrille-fauchere": [
+   "assets/img/web-uvs-valais-neuchatel/p008-d3ec02b4ec55.webp",
+   "assets/img/web-uvs-valais-neuchatel/p008-0752a0497343.webp"
+  ],
+  "uvs-valais-neuchatel:uvs-valais-neuchatel-sion-vincent-pellissier": [
+   "assets/img/web-uvs-valais-neuchatel/p010-cd2d272c1978.webp",
+   "assets/img/web-uvs-valais-neuchatel/p010-5e5dc221f88f.webp"
   ],
   "uvs-valais-neuchatel:uvs-valais-neuchatel-bativa": [
    "assets/img/web-uvs-valais-neuchatel/p012-aa1d8dc3efcd.webp",
@@ -2679,6 +2625,24 @@
    "assets/img/web-uvs-valais-neuchatel/p032-0c6f42d34f26.webp",
    "assets/img/web-uvs-valais-neuchatel/p032-ac1cd29b082f.webp"
   ],
+  "uvs-valais-neuchatel:uvs-valais-neuchatel-sierre-pierre-kenzelmann": [
+   "assets/img/web-uvs-valais-neuchatel/p035-9a98c0e3e5cf.webp"
+  ],
+  "uvs-valais-neuchatel:uvs-valais-neuchatel-sierre-pierre-berthod": [
+   "assets/img/web-uvs-valais-neuchatel/p037-d33e3dbd6a93.webp",
+   "assets/img/web-uvs-valais-neuchatel/p037-f3bf7d89e77b.webp"
+  ],
+  "uvs-valais-neuchatel:uvs-valais-neuchatel-sierre-laetitia-massy": [
+   "assets/img/web-uvs-valais-neuchatel/p038-c3a55b4c5b86.webp"
+  ],
+  "uvs-valais-neuchatel:uvs-valais-neuchatel-sierre-mario-rossi": [
+   "assets/img/web-uvs-valais-neuchatel/p039-3432523f39fd.webp"
+  ],
+  "uvs-valais-neuchatel:uvs-valais-neuchatel-sierre-jean-paul-salamin": [
+   "assets/img/web-uvs-valais-neuchatel/p040-cd2d272c1978.webp",
+   "assets/img/web-uvs-valais-neuchatel/p040-32aa7d545f6d.webp",
+   "assets/img/web-uvs-valais-neuchatel/p040-0a2e1c5a9e6d.webp"
+  ],
   "uvs-valais-neuchatel:uvs-valais-neuchatel-va-zwissig": [
    "assets/img/web-uvs-valais-neuchatel/p042-a815017bc0e7.webp"
   ],
@@ -2723,79 +2687,57 @@
    "assets/img/web-zurich/p017-e732fea47fd6.webp",
    "assets/img/web-zurich/p017-7f0bfa7fc3e5.webp",
    "assets/img/web-zurich/p018-3a12781bb63c.webp",
-   "assets/img/web-zurich/p018-a5c9aa65c0d4.webp"
+   "assets/img/web-zurich/p018-a5c9aa65c0d4.webp",
+   "assets/img/web-zurich/p019-d8294fbe47ac.webp"
   ],
   "zurich:zurich-atelier-ww": [
    "assets/img/web-zurich/p020-a6694f9c22e7.webp",
-   "assets/img/web-zurich/p022-f1074b31ca02.webp"
-  ],
-  "zurich:zurich-elex": [
-   "assets/img/web-zurich/p029-0db5ef6bdb56.webp"
+   "assets/img/web-zurich/p021-dccae3ad1201.webp",
+   "assets/img/web-zurich/p021-5a146db8f048.webp"
   ],
   "zurich:zurich-fabrimex-systems": [
-   "assets/img/web-zurich/p030-e29e91b8c6c0.webp",
-   "assets/img/web-zurich/p031-dee5da55d981.webp"
+   "assets/img/web-zurich/p030-e29e91b8c6c0.webp"
   ],
   "zurich:zurich-hardturm": [
+   "assets/img/web-zurich/p036-17250e261b0d.webp",
    "assets/img/web-zurich/p037-d68807dd8e9b.webp",
-   "assets/img/web-zurich/p037-05ba3e4f2141.webp",
-   "assets/img/web-zurich/p038-07898e070684.webp",
-   "assets/img/web-zurich/p038-fa8a7266ee61.webp",
-   "assets/img/web-zurich/p039-b7bac9e84e8e.webp",
-   "assets/img/web-zurich/p039-f77f68130a12.webp"
-  ],
-  "zurich:zurich-jakob-stiefel": [
-   "assets/img/web-zurich/p049-34c1ad424b5a.webp"
+   "assets/img/web-zurich/p037-05ba3e4f2141.webp"
   ],
   "zurich:zurich-klinik-susenberg": [
+   "assets/img/web-zurich/p050-53ddc33d41f9.webp",
    "assets/img/web-zurich/p051-f4478e727abf.webp",
-   "assets/img/web-zurich/p051-53ae67ad33dd.webp",
-   "assets/img/web-zurich/p052-69b3cbfbf1b4.webp",
-   "assets/img/web-zurich/p052-d59cca3239d7.webp",
-   "assets/img/web-zurich/p053-9dc9eb808ad5.webp"
+   "assets/img/web-zurich/p051-53ae67ad33dd.webp"
   ],
   "zurich:zurich-lernpaedagogisches-zentrum": [
-   "assets/img/web-zurich/p055-8f97abcf7840.webp",
-   "assets/img/web-zurich/p056-43c0a6523ec3.webp",
-   "assets/img/web-zurich/p057-bc6be3849986.webp",
-   "assets/img/web-zurich/p057-9f9ee0540491.webp"
+   "assets/img/web-zurich/p055-8f97abcf7840.webp"
   ],
   "zurich:zurich-medizinisches-zentrum-roemerhof": [
-   "assets/img/web-zurich/p060-8a6b2d01ae4a.webp",
-   "assets/img/web-zurich/p061-ab92e151fe0c.webp"
-  ],
-  "zurich:zurich-meworla": [
-   "assets/img/web-zurich/p063-d438ed16ac15.webp"
+   "assets/img/web-zurich/p060-8a6b2d01ae4a.webp"
   ],
   "zurich:zurich-nilan": [
-   "assets/img/web-zurich/p064-a5559f954917.webp",
-   "assets/img/web-zurich/p065-bcedaceff56f.webp"
+   "assets/img/web-zurich/p064-a5559f954917.webp"
   ],
   "zurich:zurich-poyry-schweiz": [
    "assets/img/web-zurich/p066-5d7074572ba7.webp",
    "assets/img/web-zurich/p066-36f4b862a1b2.webp",
    "assets/img/web-zurich/p067-af5fc5b0b409.webp",
-   "assets/img/web-zurich/p067-1ea8048d4dd2.webp",
-   "assets/img/web-zurich/p068-5d7074572ba7.webp",
-   "assets/img/web-zurich/p068-36f4b862a1b2.webp"
+   "assets/img/web-zurich/p067-1ea8048d4dd2.webp"
   ],
   "zurich:zurich-spannverbund-bausysteme": [
    "assets/img/web-zurich/p070-c164d5cad57c.webp",
-   "assets/img/web-zurich/p072-aece7c6b5c50.webp",
-   "assets/img/web-zurich/p072-d55994a347ef.webp"
+   "assets/img/web-zurich/p071-3bb10dfe20a6.webp",
+   "assets/img/web-zurich/p071-b20ff27b7192.webp"
   ],
   "zurich:zurich-swissmem": [
-   "assets/img/web-zurich/p074-44bff7cdda01.webp",
-   "assets/img/web-zurich/p075-5e217711ab2e.webp"
+   "assets/img/web-zurich/p074-44bff7cdda01.webp"
   ],
   "zurich:zurich-swissmill": [
    "assets/img/web-zurich/p076-2811b5af2153.webp"
   ],
   "zurich:zurich-universitatsspital-zurich": [
+   "assets/img/web-zurich/p078-b2087e767d70.webp",
    "assets/img/web-zurich/p079-6b3d9e0da03a.webp",
-   "assets/img/web-zurich/p079-8a550fd628ea.webp",
-   "assets/img/web-zurich/p080-173a644d1a93.webp",
-   "assets/img/web-zurich/p081-acf018236e6c.webp"
+   "assets/img/web-zurich/p079-8a550fd628ea.webp"
   ]
  },
  "companies": {
