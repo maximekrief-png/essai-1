@@ -79,6 +79,40 @@ def best_pages(scores, limit=3):
     return sorted(sel)
 
 
+def text_pages(pages, body, limit=4):
+    """Pages du PDF contenant des extraits (25 caractères) du texte intégral de l'article."""
+    if not body or not body.get("blocks"):
+        return []
+    snippets = []
+    for b in body["blocks"]:
+        t = squash(b.get("x", ""))
+        for i in range(10, len(t) - 25, 120):
+            snippets.append(t[i:i + 25])
+    if not snippets:
+        return []
+    snippets = snippets[:: max(1, len(snippets) // 40)]
+    hits = Counter()
+    for i, t in enumerate(pages, 1):
+        for sn in snippets:
+            if sn in t:
+                hits[i] += 1
+    if not hits:
+        return []
+    best = max(hits.values())
+    if best < 2:
+        return []
+    sel = sorted(i for i, h in hits.items() if h >= max(2, best * 0.25))
+    # garde le bloc contigu autour de la page la plus riche
+    top = max(sel, key=lambda i: hits[i])
+    block = [top]
+    for d in (1, -1):
+        j = top + d
+        while j in sel and len(block) < limit:
+            block.append(j)
+            j += d
+    return sorted(block)
+
+
 def main():
     out = {"articles": {}, "companies": {}}
     for f in sorted((ROOT / "data" / "magazines").glob("*.json")):
@@ -123,11 +157,18 @@ def main():
                 cpages[c["slug"]] = sel
                 out["companies"][f"{slug}:{c['slug']}"] = {"pdf": pdf_slug, "pages": sel}
         na = 0
+        texts_f = ROOT / "data" / "texts" / f"{slug}.json"
+        texts = json.loads(texts_f.read_text(encoding="utf-8")) if texts_f.exists() else {}
         for a in mag.get("articles", []):
             if a.get("pdfPages"):
                 continue
-            # D'abord les pages où l'entreprise liée a été retrouvée, sinon la pagination imprimée
-            sel = []
+            # 1) Texte intégral connu : on retrouve les pages qui contiennent des extraits du texte
+            sel = text_pages(pages, texts.get(a["slug"]))
+            if sel:
+                out["articles"][f"{slug}:{a['slug']}"] = {"pdf": pdf_slug, "pages": sel}
+                na += 1
+                continue
+            # 2) Sinon les pages où l'entreprise liée a été retrouvée, puis la pagination imprimée
             for cs in a.get("companies", []):
                 sel += cpages.get(cs, [])
             sel = sorted(set(sel))[:3]

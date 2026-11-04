@@ -4,22 +4,19 @@
    "pdf": "web-aee-suisse-energie",
    "pages": [
     4,
-    5,
-    6
+    5
    ]
   },
   "aee-suisse-energie:aee-suisse-energie-interview-andreas-von-kaenel": {
    "pdf": "web-aee-suisse-energie",
    "pages": [
-    6,
-    26
+    6
    ]
   },
   "aee-suisse-energie:aee-suisse-energie-interview-beat-vonlanthen": {
    "pdf": "web-aee-suisse-energie",
    "pages": [
-    38,
-    39
+    7
    ]
   },
   "aee-suisse-energie:aee-suisse-energie-ville-de-vevey-jerome-christen": {
@@ -55,7 +52,7 @@
   "aee-suisse-energie:aee-suisse-energie-energies-nouvelles-vaud-patrick-chiche": {
    "pdf": "web-aee-suisse-energie",
    "pages": [
-    11
+    13
    ]
   },
   "aee-suisse-energie:aee-suisse-energie-pv-lab-christophe-ballif": {
@@ -232,8 +229,7 @@
   "aee-suisse-energie:aee-suisse-energie-heiniger-cables": {
    "pdf": "web-aee-suisse-energie",
    "pages": [
-    48,
-    49
+    48
    ]
   },
   "arc-lemanique:arc-lemanique-region-de-nyon-gerald-cretegny": {
@@ -245,52 +241,49 @@
   "arc-lemanique:arc-lemanique-region-de-nyon-pierre-graber": {
    "pdf": "web-arc-lemanique",
    "pages": [
-    2
+    3
    ]
   },
   "arc-lemanique:arc-lemanique-region-de-nyon-frederic-mani": {
    "pdf": "web-arc-lemanique",
    "pages": [
-    2
+    4
    ]
   },
   "arc-lemanique:arc-lemanique-region-de-nyon-gudrun-russig": {
    "pdf": "web-arc-lemanique",
    "pages": [
-    2
+    5
    ]
   },
   "arc-lemanique:arc-lemanique-region-de-nyon-daniel-rossellat": {
    "pdf": "web-arc-lemanique",
    "pages": [
-    2
+    6
    ]
   },
   "arc-lemanique:arc-lemanique-region-de-nyon-gerard-produit": {
    "pdf": "web-arc-lemanique",
    "pages": [
-    2
+    7
    ]
   },
   "arc-lemanique:arc-lemanique-morges-vincent-jaques": {
    "pdf": "web-arc-lemanique",
    "pages": [
-    8,
-    9
+    8
    ]
   },
   "arc-lemanique:arc-lemanique-morges-promotion-economique": {
    "pdf": "web-arc-lemanique",
    "pages": [
-    8,
     9
    ]
   },
   "arc-lemanique:arc-lemanique-morges-livre-sur-les-quais": {
    "pdf": "web-arc-lemanique",
    "pages": [
-    8,
-    9
+    10
    ]
   },
   "arc-lemanique:arc-lemanique-saint-prex-daniel-mosini": {
@@ -358,7 +351,8 @@
   "arc-lemanique:arc-lemanique-iffp": {
    "pdf": "web-arc-lemanique",
    "pages": [
-    24
+    24,
+    25
    ]
   },
   "arc-lemanique:arc-lemanique-balmelli": {
@@ -428,6 +422,8 @@
   "economie-publique:economie-publique-caisse-avs-vaud-fabienne-goetzinger": {
    "pdf": "web-economie-publique",
    "pages": [
+    10,
+    11,
     12
    ]
   },
@@ -480,8 +476,7 @@
   "economie-publique:economie-publique-hep-vaud-guillaume-vanhulst": {
    "pdf": "web-economie-publique",
    "pages": [
-    26,
-    27
+    26
    ]
   },
   "economie-publique:economie-publique-henri-badoux-vins": {
@@ -501,14 +496,16 @@
   "economie-publique:economie-publique-iffp-alexandre-etienne": {
    "pdf": "web-economie-publique",
    "pages": [
+    32,
+    33,
     34
    ]
   },
   "economie-publique:economie-publique-interprofession-du-gruyere": {
    "pdf": "web-economie-publique",
    "pages": [
-    37,
-    39
+    36,
+    37
    ]
   },
   "economie-publique:economie-publique-montangero-fils": {
@@ -533,17 +530,13 @@
   "economie-publique:economie-publique-nstcm-ligne-unique": {
    "pdf": "web-economie-publique",
    "pages": [
-    47,
-    48,
-    49
+    46
    ]
   },
   "economie-publique:economie-publique-tpn-offre-de-qualite": {
    "pdf": "web-economie-publique",
    "pages": [
-    47,
-    48,
-    49
+    48
    ]
   },
   "economie-publique:economie-publique-swi-institut-suisse-soudure": {
@@ -563,16 +556,14 @@
   "economie-publique:economie-publique-vaudoise-assurances-philippe-hebeisen": {
    "pdf": "web-economie-publique",
    "pages": [
-    56,
-    58
+    56
    ]
   },
   "fribourg-bienne-tessin:fribourg-bienne-tessin-stadt-solothurn-kurt-fluri": {
    "pdf": "web-fribourg-bienne-tessin",
    "pages": [
-    119,
-    120,
-    121
+    4,
+    5
    ]
   },
   "fribourg-bienne-tessin:fribourg-bienne-tessin-fribourg-pierre-alain-clement": {
@@ -584,13 +575,14 @@
   "fribourg-bienne-tessin:fribourg-bienne-tessin-bulle-yves-menoud": {
    "pdf": "web-fribourg-bienne-tessin",
    "pages": [
-    8
+    8,
+    9
    ]
   },
   "fribourg-bienne-tessin:fribourg-bienne-tessin-fribourg-jean-bourgknecht": {
    "pdf": "web-fribourg-bienne-tessin",
    "pages": [
-    6
+    10
    ]
   },
   "fribourg-bienne-tessin:fribourg-bienne-tessin-gif-vfi-chantal-robin": {
@@ -608,18 +600,19 @@
   "fribourg-bienne-tessin:fribourg-bienne-tessin-fribourg-thierry-steiert": {
    "pdf": "web-fribourg-bienne-tessin",
    "pages": [
-    6
+    13
    ]
   },
   "fribourg-bienne-tessin:fribourg-bienne-tessin-fribourg-madeleine-genoud-page": {
    "pdf": "web-fribourg-bienne-tessin",
    "pages": [
-    6
+    14
    ]
   },
   "fribourg-bienne-tessin:fribourg-bienne-tessin-hfr-claudia-kach": {
    "pdf": "web-fribourg-bienne-tessin",
    "pages": [
+    16,
     17
    ]
   },
@@ -638,7 +631,7 @@
   "fribourg-bienne-tessin:fribourg-bienne-tessin-fribourg-antoinette-de-weck": {
    "pdf": "web-fribourg-bienne-tessin",
    "pages": [
-    6
+    20
    ]
   },
   "fribourg-bienne-tessin:fribourg-bienne-tessin-bdl-architectes": {
@@ -762,27 +755,28 @@
   "fribourg-bienne-tessin:fribourg-bienne-tessin-kanton-bern-andreas-rickenbacher": {
    "pdf": "web-fribourg-bienne-tessin",
    "pages": [
+    60,
     61
    ]
   },
   "fribourg-bienne-tessin:fribourg-bienne-tessin-bienne-barbara-schwickert": {
    "pdf": "web-fribourg-bienne-tessin",
    "pages": [
-    58
+    62,
+    63
    ]
   },
   "fribourg-bienne-tessin:fribourg-bienne-tessin-universitaet-bern-martin-taeuber": {
    "pdf": "web-fribourg-bienne-tessin",
    "pages": [
     64,
-    65,
-    66
+    65
    ]
   },
   "fribourg-bienne-tessin:fribourg-bienne-tessin-inselspital-holger-baumann": {
    "pdf": "web-fribourg-bienne-tessin",
    "pages": [
-    67
+    66
    ]
   },
   "fribourg-bienne-tessin:fribourg-bienne-tessin-emch-aufzuege-bernhard-emch": {
@@ -802,13 +796,13 @@
   "fribourg-bienne-tessin:fribourg-bienne-tessin-bienne-thomas-gfeller": {
    "pdf": "web-fribourg-bienne-tessin",
    "pages": [
-    58
+    72
    ]
   },
   "fribourg-bienne-tessin:fribourg-bienne-tessin-bienne-francois-kuonen": {
    "pdf": "web-fribourg-bienne-tessin",
    "pages": [
-    58
+    73
    ]
   },
   "fribourg-bienne-tessin:fribourg-bienne-tessin-bern-bss-franziska-teuscher": {
@@ -826,7 +820,7 @@
   "fribourg-bienne-tessin:fribourg-bienne-tessin-bienne-cedric-nemitz": {
    "pdf": "web-fribourg-bienne-tessin",
    "pages": [
-    58
+    76
    ]
   },
   "fribourg-bienne-tessin:fribourg-bienne-tessin-bernmobil-rolf-meyer": {
@@ -859,8 +853,7 @@
   "geneve-la-cote:geneve-la-cote-meyrin-jean-marc-devaud": {
    "pdf": "web-geneve-la-cote",
    "pages": [
-    15,
-    17
+    11
    ]
   },
   "geneve-la-cote:geneve-la-cote-carouge-nicolas-walder": {
@@ -884,8 +877,7 @@
   "geneve-la-cote:geneve-la-cote-meyrin-les-vergers": {
    "pdf": "web-geneve-la-cote",
    "pages": [
-    15,
-    17
+    15
    ]
   },
   "geneve-la-cote:geneve-la-cote-meyrin-dynamisme-economique": {
@@ -1031,14 +1023,13 @@
   "geneve-la-cote:geneve-la-cote-arcam-georges-rime": {
    "pdf": "web-geneve-la-cote",
    "pages": [
-    47,
-    49
+    47
    ]
   },
   "geneve-la-cote:geneve-la-cote-cossonay-georges-rime": {
    "pdf": "web-geneve-la-cote",
    "pages": [
-    78
+    48
    ]
   },
   "geneve-la-cote:geneve-la-cote-arcam-oscar-cherbuin": {
@@ -1051,18 +1042,19 @@
   "geneve-la-cote:geneve-la-cote-nyon-daniel-rossellat": {
    "pdf": "web-geneve-la-cote",
    "pages": [
-    69
+    50
    ]
   },
   "geneve-la-cote:geneve-la-cote-morges-vincent-jaques": {
    "pdf": "web-geneve-la-cote",
    "pages": [
-    70
+    51
    ]
   },
   "geneve-la-cote:geneve-la-cote-ensemble-hospitalier-de-la-cote": {
    "pdf": "web-geneve-la-cote",
    "pages": [
+    52,
     53
    ]
   },
@@ -1081,77 +1073,73 @@
   "geneve-la-cote:geneve-la-cote-aubonne-luc-etienne-rossier": {
    "pdf": "web-geneve-la-cote",
    "pages": [
-    64,
-    66
+    56
    ]
   },
   "geneve-la-cote:geneve-la-cote-morges-jean-jacques-aubert": {
    "pdf": "web-geneve-la-cote",
    "pages": [
-    70
+    57
    ]
   },
   "geneve-la-cote:geneve-la-cote-aubonne-gisele-burnet": {
    "pdf": "web-geneve-la-cote",
    "pages": [
-    64,
-    66
+    58
    ]
   },
   "geneve-la-cote:geneve-la-cote-nyon-fabienne-freymond-cantone": {
    "pdf": "web-geneve-la-cote",
    "pages": [
-    69
+    60
    ]
   },
   "geneve-la-cote:geneve-la-cote-gland-thierry-genoud": {
    "pdf": "web-geneve-la-cote",
    "pages": [
-    55
+    61
    ]
   },
   "geneve-la-cote:geneve-la-cote-nyon-claude-uldry": {
    "pdf": "web-geneve-la-cote",
    "pages": [
-    69
+    62
    ]
   },
   "geneve-la-cote:geneve-la-cote-nyon-olivier-mayor": {
    "pdf": "web-geneve-la-cote",
    "pages": [
-    69
+    63
    ]
   },
   "geneve-la-cote:geneve-la-cote-aubonne-jean-christophe-de-mestral": {
    "pdf": "web-geneve-la-cote",
    "pages": [
-    64,
-    66
+    64
    ]
   },
   "geneve-la-cote:geneve-la-cote-cossonay-claude-moinat": {
    "pdf": "web-geneve-la-cote",
    "pages": [
-    78
+    65
    ]
   },
   "geneve-la-cote:geneve-la-cote-aubonne-eric-muller": {
    "pdf": "web-geneve-la-cote",
    "pages": [
-    64,
     66
    ]
   },
   "geneve-la-cote:geneve-la-cote-morges-yves-paccaud": {
    "pdf": "web-geneve-la-cote",
    "pages": [
-    70
+    67
    ]
   },
   "geneve-la-cote:geneve-la-cote-gland-michael-rohrer": {
    "pdf": "web-geneve-la-cote",
    "pages": [
-    55
+    68
    ]
   },
   "geneve-la-cote:geneve-la-cote-nyon-elisabeth-ruey-ray": {
@@ -1169,37 +1157,37 @@
   "geneve-la-cote:geneve-la-cote-cossonay-nicole-baudet": {
    "pdf": "web-geneve-la-cote",
    "pages": [
-    78
+    71
    ]
   },
   "geneve-la-cote:geneve-la-cote-gland-daniel-collaud": {
    "pdf": "web-geneve-la-cote",
    "pages": [
-    55
+    72
    ]
   },
   "geneve-la-cote:geneve-la-cote-nyon-claude-dupertuis": {
    "pdf": "web-geneve-la-cote",
    "pages": [
-    69
+    73
    ]
   },
   "geneve-la-cote:geneve-la-cote-cossonay-bernard-ebener": {
    "pdf": "web-geneve-la-cote",
    "pages": [
-    78
+    74
    ]
   },
   "geneve-la-cote:geneve-la-cote-gland-olivier-fargeon": {
    "pdf": "web-geneve-la-cote",
    "pages": [
-    55
+    76
    ]
   },
   "geneve-la-cote:geneve-la-cote-gland-christine-girod": {
    "pdf": "web-geneve-la-cote",
    "pages": [
-    55
+    77
    ]
   },
   "geneve-la-cote:geneve-la-cote-cossonay-valerie-induni": {
@@ -1211,7 +1199,7 @@
   "geneve-la-cote:geneve-la-cote-gland-isabelle-monney": {
    "pdf": "web-geneve-la-cote",
    "pages": [
-    55
+    79
    ]
   },
   "geneve-la-cote:geneve-la-cote-acronet": {
@@ -1229,7 +1217,8 @@
   "grands-travaux-2026:grands-travaux-2026-interview-sbb-linus-looser": {
    "pdf": "web-grands-travaux-2026",
    "pages": [
-    6
+    6,
+    7
    ]
   },
   "grands-travaux-2026:grands-travaux-2026-chantiers-cff-sbb": {
@@ -1248,7 +1237,7 @@
   "grands-travaux-2026:grands-travaux-2026-bergauer-interview-urs-friess": {
    "pdf": "web-grands-travaux-2026",
    "pages": [
-    49
+    13
    ]
   },
   "grands-travaux-2026:grands-travaux-2026-casada-regola-arte": {
@@ -1399,7 +1388,6 @@
   "grands-travaux:grands-travaux-interview-infra-suisse-matthias-forster": {
    "pdf": "web-grands-travaux",
    "pages": [
-    1,
     2
    ]
   },
@@ -1503,15 +1491,15 @@
   "grands-travaux:grands-travaux-rothpletz-lienhard-interview": {
    "pdf": "web-grands-travaux",
    "pages": [
-    20,
-    21
+    18,
+    19,
+    20
    ]
   },
   "grands-travaux:grands-travaux-tpn-accompagner-essor-region": {
    "pdf": "web-grands-travaux",
    "pages": [
-    22,
-    23
+    22
    ]
   },
   "grands-travaux:grands-travaux-transn-sauts-qualitatifs": {
@@ -1653,8 +1641,7 @@
   "grands-travaux:grands-travaux-poseidon-geophysical-surveys": {
    "pdf": "web-grands-travaux",
    "pages": [
-    54,
-    56
+    54
    ]
   },
   "grands-travaux:grands-travaux-resonance-ingenieurs-conseils": {
@@ -1678,7 +1665,8 @@
   "horlogerie-2015:horlogerie-2015-salon-ephj-epmt-smt": {
    "pdf": "web-horlogerie-2015",
    "pages": [
-    8
+    8,
+    9
    ]
   },
   "horlogerie-2015:horlogerie-2015-salon-de-te-hktdc": {
@@ -1691,21 +1679,20 @@
   "horlogerie-2015:horlogerie-2015-interview-elisabeth-zolch-cp": {
    "pdf": "web-horlogerie-2015",
    "pages": [
-    12
+    12,
+    13
    ]
   },
   "horlogerie-2015:horlogerie-2015-apiah-association-patronale": {
    "pdf": "web-horlogerie-2015",
    "pages": [
-    14,
-    15
+    14
    ]
   },
   "horlogerie-2015:horlogerie-2015-asrh-recherche-horlogere": {
    "pdf": "web-horlogerie-2015",
    "pages": [
-    16,
-    17
+    16
    ]
   },
   "horlogerie-2015:horlogerie-2015-cosc-controle-chronometres": {
@@ -1746,8 +1733,7 @@
   "horlogerie-2015:horlogerie-2015-procolor-lcti": {
    "pdf": "web-horlogerie-2015",
    "pages": [
-    28,
-    29
+    28
    ]
   },
   "horlogerie-2015:horlogerie-2015-horlogerie-schild": {
@@ -1789,16 +1775,14 @@
   "horlogerie-2015:horlogerie-2015-w-blosch-antireflets": {
    "pdf": "web-horlogerie-2015",
    "pages": [
-    41,
-    42,
-    43
+    40,
+    41
    ]
   },
   "horlogerie-2015:horlogerie-2015-dm-surfaces": {
    "pdf": "web-horlogerie-2015",
    "pages": [
-    44,
-    45
+    44
    ]
   },
   "horlogerie-2015:horlogerie-2015-gmti": {
@@ -1818,8 +1802,7 @@
   "horlogerie-2015:horlogerie-2015-meyer-sintermetall": {
    "pdf": "web-horlogerie-2015",
    "pages": [
-    50,
-    51
+    50
    ]
   },
   "horlogerie-2015:horlogerie-2015-tectri": {
@@ -1999,7 +1982,8 @@
   "horlogerie-2016:horlogerie-2016-jean-daniel-pasche-fh": {
    "pdf": "web-horlogerie-2016",
    "pages": [
-    4
+    4,
+    5
    ]
   },
   "horlogerie-2016:horlogerie-2016-salon-ephj-epmt-smt": {
@@ -2007,32 +1991,35 @@
    "pages": [
     6,
     7,
-    8
+    8,
+    9
    ]
   },
   "horlogerie-2016:horlogerie-2016-interview-elisabeth-zolch-cp": {
    "pdf": "web-horlogerie-2016",
    "pages": [
-    10
+    10,
+    11
    ]
   },
   "horlogerie-2016:horlogerie-2016-apiah-association-patronale": {
    "pdf": "web-horlogerie-2016",
    "pages": [
-    12,
-    13
+    12
    ]
   },
   "horlogerie-2016:horlogerie-2016-wag-watches-art-gallery": {
    "pdf": "web-horlogerie-2016",
    "pages": [
-    14
+    14,
+    15
    ]
   },
   "horlogerie-2016:horlogerie-2016-siwp-casino-de-geneve": {
    "pdf": "web-horlogerie-2016",
    "pages": [
-    16
+    16,
+    17
    ]
   },
   "horlogerie-2016:horlogerie-2016-swisscreativelab": {
@@ -2175,9 +2162,7 @@
   "horlogerie-2016:horlogerie-2016-meyer-sintermetall": {
    "pdf": "web-horlogerie-2016",
    "pages": [
-    51,
-    52,
-    53
+    52
    ]
   },
   "horlogerie-2016:horlogerie-2016-monnier": {
@@ -2385,7 +2370,6 @@
   "horlogerie-2016:horlogerie-2016-tsm-assurances": {
    "pdf": "web-horlogerie-2016",
    "pages": [
-    101,
     102
    ]
   },
@@ -2430,7 +2414,6 @@
   "horlogerie-2016:horlogerie-2016-demhosa": {
    "pdf": "web-horlogerie-2016",
    "pages": [
-    76,
     110
    ]
   },
@@ -2462,8 +2445,7 @@
   "horlogerie-2016:horlogerie-2016-procolor-lcti": {
    "pdf": "web-horlogerie-2016",
    "pages": [
-    116,
-    117
+    116
    ]
   },
   "horlogerie-2016:horlogerie-2016-meylan-freres": {
@@ -2508,9 +2490,7 @@
   "horlogerie-2017:horlogerie-2017-salon-ephj-epmt-smt-2017": {
    "pdf": "web-horlogerie-2017",
    "pages": [
-    6,
-    7,
-    8
+    7
    ]
   },
   "horlogerie-2017:horlogerie-2017-asrh-recherche-horlogere-communautaire": {
@@ -2583,8 +2563,7 @@
   "horlogerie-2017:horlogerie-2017-rimann-interview-stefan-eichler": {
    "pdf": "web-horlogerie-2017",
    "pages": [
-    24,
-    25
+    24
    ]
   },
   "horlogerie-2017:horlogerie-2017-arola-alfred-rochat-fils": {
@@ -2626,8 +2605,7 @@
   "horlogerie-2017:horlogerie-2017-meyer-sintermetall-metallurgie-des-poudres": {
    "pdf": "web-horlogerie-2017",
    "pages": [
-    32,
-    33
+    32
    ]
   },
   "horlogerie-2017:horlogerie-2017-monnier-electroplastie-decoration": {
@@ -2806,8 +2784,7 @@
   "horlogerie-2018:horlogerie-2018-meyer-sintermetall-metallurgie-des-poudres": {
    "pdf": "web-horlogerie-2018",
    "pages": [
-    24,
-    25
+    24
    ]
   },
   "horlogerie-2018:horlogerie-2018-manufacture-de-haute-accessoirie": {
@@ -3028,8 +3005,7 @@
   "horlogerie-2019:horlogerie-2019-interview-salon-ephj-epmt-smt": {
    "pdf": "web-horlogerie-2019",
    "pages": [
-    6,
-    7
+    6
    ]
   },
   "horlogerie-2019:horlogerie-2019-interview-asrh": {
@@ -3192,8 +3168,6 @@
   "horlogerie-2019:horlogerie-2019-interview-erma-boecourt": {
    "pdf": "web-horlogerie-2019",
    "pages": [
-    30,
-    31,
     51
    ]
   },
@@ -3303,9 +3277,7 @@
   "horlogerie-2020:horlogerie-2020-interview-salon-ephj": {
    "pdf": "web-horlogerie-2020",
    "pages": [
-    3,
-    5,
-    6
+    5
    ]
   },
   "horlogerie-2020:horlogerie-2020-technical-watchmaker-show": {
@@ -3329,7 +3301,7 @@
   "horlogerie-2020:horlogerie-2020-interview-baselworld": {
    "pdf": "web-horlogerie-2020",
    "pages": [
-    50
+    10
    ]
   },
   "horlogerie-2020:horlogerie-2020-apiah": {
@@ -3419,8 +3391,7 @@
   "horlogerie-2020:horlogerie-2020-interview-daniel-ryf": {
    "pdf": "web-horlogerie-2020",
    "pages": [
-    30,
-    31
+    30
    ]
   },
   "horlogerie-2020:horlogerie-2020-technofinish-technoformage": {
@@ -3514,15 +3485,13 @@
   "horlogerie-2021:horlogerie-2021-interview-fh-jean-daniel-pasche": {
    "pdf": "web-horlogerie-2021",
    "pages": [
-    4,
-    5
+    4
    ]
   },
   "horlogerie-2021:horlogerie-2021-interview-ephj-alexandre-catton": {
    "pdf": "web-horlogerie-2021",
    "pages": [
-    6,
-    7
+    6
    ]
   },
   "horlogerie-2021:horlogerie-2021-altmann-casting": {
@@ -4528,89 +4497,76 @@
   "hug-2011:hug-2011-horizon-2015-bernard-gruson": {
    "pdf": "web-hug-2011",
    "pages": [
-    9,
-    11,
-    12
+    4,
+    5
    ]
   },
   "hug-2011:hug-2011-hug-font-peau-neuve": {
    "pdf": "web-hug-2011",
    "pages": [
-    9,
-    11,
-    12
+    8,
+    9
    ]
   },
   "hug-2011:hug-2011-hopital-vert": {
    "pdf": "web-hug-2011",
    "pages": [
-    9,
-    11,
     12
    ]
   },
   "hug-2011:hug-2011-geneve-internationale-humanitaire": {
    "pdf": "web-hug-2011",
    "pages": [
-    9,
-    11,
-    12
+    14
    ]
   },
   "hug-2011:hug-2011-indispensable-u-faculte-medecine": {
    "pdf": "web-hug-2011",
    "pages": [
-    9,
-    11,
-    12
+    16,
+    17
    ]
   },
   "hug-2011:hug-2011-securite-qualite": {
    "pdf": "web-hug-2011",
    "pages": [
-    9,
-    11,
-    12
+    20
    ]
   },
   "hug-2011:hug-2011-medecine-de-premier-recours": {
    "pdf": "web-hug-2011",
    "pages": [
-    9,
-    11,
-    12
+    22,
+    23
    ]
   },
   "hug-2011:hug-2011-sport-sante-performance": {
    "pdf": "web-hug-2011",
    "pages": [
-    9,
-    11,
-    12
+    26,
+    27,
+    28
    ]
   },
   "hug-2011:hug-2011-infarctus-programme-elips": {
    "pdf": "web-hug-2011",
    "pages": [
-    9,
-    11,
-    12
+    32,
+    33
    ]
   },
   "hug-2011:hug-2011-medecine-genetique-antonarakis": {
    "pdf": "web-hug-2011",
    "pages": [
-    9,
-    11,
-    12
+    36,
+    37
    ]
   },
   "hug-2011:hug-2011-chirurgie-robotique-philippe-morel": {
    "pdf": "web-hug-2011",
    "pages": [
-    9,
-    11,
-    12
+    40,
+    41
    ]
   },
   "hug-2011:hug-2011-greffes-du-foie-enfant": {
@@ -4624,41 +4580,34 @@
   "hug-2011:hug-2011-anevrismes-intracraniens-neurist": {
    "pdf": "web-hug-2011",
    "pages": [
-    9,
-    11,
-    12
+    48,
+    49
    ]
   },
   "hug-2011:hug-2011-laboratoire-de-virologie": {
    "pdf": "web-hug-2011",
    "pages": [
-    9,
-    11,
-    12
+    52,
+    53
    ]
   },
   "hug-2011:hug-2011-prometheus-parkinson": {
    "pdf": "web-hug-2011",
    "pages": [
-    9,
-    11,
-    12
+    56
    ]
   },
   "hug-2011:hug-2011-defis-de-la-psychiatrie": {
    "pdf": "web-hug-2011",
    "pages": [
-    9,
-    11,
-    12
+    58
    ]
   },
   "hug-2011:hug-2011-recherche-clinique": {
    "pdf": "web-hug-2011",
    "pages": [
-    9,
-    11,
-    12
+    60,
+    61
    ]
   },
   "hug-2011:hug-2011-oncologie-dietrich": {
@@ -4672,9 +4621,8 @@
   "hug-2011:hug-2011-hug-epfl-vaccin-cancer": {
    "pdf": "web-hug-2011",
    "pages": [
-    9,
-    11,
-    12
+    68,
+    69
    ]
   },
   "hug-2011:hug-2011-cibm-imagerie-biomedicale": {
@@ -5003,7 +4951,6 @@
   "sante-gesundheit:sante-gesundheit-santesuisse-verena-nold-rebetez": {
    "pdf": "web-sante-gesundheit",
    "pages": [
-    1,
     3
    ]
   },
@@ -5043,15 +4990,13 @@
   "sante-gesundheit:sante-gesundheit-hug-bertrand-levrat": {
    "pdf": "web-sante-gesundheit",
    "pages": [
-    40,
-    41
+    12
    ]
   },
   "sante-gesundheit:sante-gesundheit-arodems-pierre-rochat": {
    "pdf": "web-sante-gesundheit",
    "pages": [
-    13,
-    33
+    13
    ]
   },
   "sante-gesundheit:sante-gesundheit-chuv-pierre-francois-leyvraz": {
@@ -5075,9 +5020,7 @@
   "sante-gesundheit:sante-gesundheit-swiss-stem-cell-bank": {
    "pdf": "web-sante-gesundheit",
    "pages": [
-    18,
-    19,
-    22
+    18
    ]
   },
   "sante-gesundheit:sante-gesundheit-cardiocentro-ticino": {
@@ -5120,7 +5063,6 @@
   "sante-gesundheit:sante-gesundheit-unispital-basel-geert-pagenstert": {
    "pdf": "web-sante-gesundheit",
    "pages": [
-    30,
     31
    ]
   },
@@ -5141,14 +5083,12 @@
   "sante-gesundheit:sante-gesundheit-departement-chemie-unibas": {
    "pdf": "web-sante-gesundheit",
    "pages": [
-    34,
     35
    ]
   },
   "sante-gesundheit:sante-gesundheit-inselspital-hno-caversaccio": {
    "pdf": "web-sante-gesundheit",
    "pages": [
-    36,
     37
    ]
   },
@@ -5163,14 +5103,14 @@
   "sante-gesundheit:sante-gesundheit-hug-sante-mentale-psychiatrie": {
    "pdf": "web-sante-gesundheit",
    "pages": [
-    40,
-    41
+    40
    ]
   },
   "sante-gesundheit:sante-gesundheit-ensemble-hospitalier-de-la-cote": {
    "pdf": "web-sante-gesundheit",
    "pages": [
-    42
+    42,
+    43
    ]
   },
   "sante-gesundheit:sante-gesundheit-h-net-michael-ziegler": {
@@ -5183,9 +5123,8 @@
   "sante-gesundheit:sante-gesundheit-helsinn-riccardo-braglia": {
    "pdf": "web-sante-gesundheit",
    "pages": [
-    47,
-    49,
-    50
+    46,
+    47
    ]
   },
   "sante-gesundheit:sante-gesundheit-jp-muller": {
@@ -5237,24 +5176,19 @@
   "sante-gesundheit:sante-gesundheit-spitex-zurich-limmat": {
    "pdf": "web-sante-gesundheit",
    "pages": [
-    62,
-    64
+    62
    ]
   },
   "sommary:sommary-franco-ambrosetti": {
    "pdf": "web-sommary",
    "pages": [
-    21,
-    22,
-    23
+    2
    ]
   },
   "sommary:sommary-luca-albertoni": {
    "pdf": "web-sommary",
    "pages": [
-    21,
-    22,
-    23
+    4
    ]
   },
   "sommary:sommary-laura-sadis": {
@@ -5284,41 +5218,31 @@
   "sommary:sommary-cc-ti-rinaldo-gobbi": {
    "pdf": "web-sommary",
    "pages": [
-    21,
-    22,
-    23
+    12
    ]
   },
   "sommary:sommary-cc-ti-gabriele-lazzaroni": {
    "pdf": "web-sommary",
    "pages": [
-    21,
-    22,
-    23
+    14
    ]
   },
   "sommary:sommary-cc-ti-simona-morosini-marconi": {
    "pdf": "web-sommary",
    "pages": [
-    21,
-    22,
-    23
+    16
    ]
   },
   "sommary:sommary-cc-ti-marco-passalia": {
    "pdf": "web-sommary",
    "pages": [
-    21,
-    22,
-    23
+    18
    ]
   },
   "sommary:sommary-cc-ti-alberto-riva": {
    "pdf": "web-sommary",
    "pages": [
-    21,
-    22,
-    23
+    20
    ]
   },
   "sommary:sommary-cc-ti-rapporti-con-l-estero": {
@@ -5348,15 +5272,13 @@
   "sommary:sommary-ftaf-cristina-maderni": {
    "pdf": "web-sommary",
    "pages": [
-    28,
-    29
+    28
    ]
   },
   "sommary:sommary-reg-giuliano-anastasi": {
    "pdf": "web-sommary",
    "pages": [
-    30,
-    31
+    30
    ]
   },
   "sommary:sommary-helsinn": {
@@ -5519,9 +5441,7 @@
   "sommary:sommary-pkb-privatbank": {
    "pdf": "web-sommary",
    "pages": [
-    66,
-    67,
-    68
+    66
    ]
   },
   "sommary:sommary-sandro-vanini": {
@@ -5586,7 +5506,6 @@
   "uvs-suisse-alemanique:uvs-suisse-alemanique-stadt-solothurn-kurt-fluri": {
    "pdf": "web-uvs-suisse-alemanique",
    "pages": [
-    1,
     2,
     3
    ]
@@ -5614,41 +5533,41 @@
   "uvs-suisse-alemanique:uvs-suisse-alemanique-schuldirektion-solothurn": {
    "pdf": "web-uvs-suisse-alemanique",
    "pages": [
-    10
+    10,
+    11
    ]
   },
   "uvs-suisse-alemanique:uvs-suisse-alemanique-stadtbauamt-solothurn": {
    "pdf": "web-uvs-suisse-alemanique",
    "pages": [
-    12
+    12,
+    13
    ]
   },
   "uvs-suisse-alemanique:uvs-suisse-alemanique-stadt-zuerich-corine-mauch": {
    "pdf": "web-uvs-suisse-alemanique",
    "pages": [
     14,
-    15,
-    16
+    15
    ]
   },
   "uvs-suisse-alemanique:uvs-suisse-alemanique-amt-fuer-staedtebau-zuerich": {
    "pdf": "web-uvs-suisse-alemanique",
    "pages": [
-    14,
-    15,
-    16
+    16,
+    17
    ]
   },
   "uvs-suisse-alemanique:uvs-suisse-alemanique-stadtentwicklung-zuerich-benno-seiler": {
    "pdf": "web-uvs-suisse-alemanique",
    "pages": [
-    18
+    18,
+    19
    ]
   },
   "uvs-suisse-alemanique:uvs-suisse-alemanique-greater-zurich-area": {
    "pdf": "web-uvs-suisse-alemanique",
    "pages": [
-    19,
     20,
     21
    ]
@@ -5656,13 +5575,13 @@
   "uvs-suisse-alemanique:uvs-suisse-alemanique-stadt-winterthur-michael-kuenzle": {
    "pdf": "web-uvs-suisse-alemanique",
    "pages": [
-    22
+    22,
+    23
    ]
   },
   "uvs-suisse-alemanique:uvs-suisse-alemanique-amt-fuer-staedtebau-winterthur": {
    "pdf": "web-uvs-suisse-alemanique",
    "pages": [
-    23,
     24,
     25
    ]
@@ -5670,7 +5589,6 @@
   "uvs-suisse-alemanique:uvs-suisse-alemanique-stadtentwicklung-winterthur-mark-wuerth": {
    "pdf": "web-uvs-suisse-alemanique",
    "pages": [
-    25,
     26,
     27
    ]
@@ -5697,9 +5615,8 @@
   "uvs-suisse-alemanique:uvs-suisse-alemanique-aihk-peter-luescher": {
    "pdf": "web-uvs-suisse-alemanique",
    "pages": [
-    33,
-    34,
-    35
+    32,
+    33
    ]
   },
   "uvs-suisse-alemanique:uvs-suisse-alemanique-aarau-info": {
@@ -5731,36 +5648,33 @@
   "uvs-suisse-alemanique:uvs-suisse-alemanique-bbp-per-trifunovic": {
    "pdf": "web-uvs-suisse-alemanique",
    "pages": [
-    44,
-    45
+    44
    ]
   },
   "uvs-suisse-alemanique:uvs-suisse-alemanique-centris-patrick-progin": {
    "pdf": "web-uvs-suisse-alemanique",
    "pages": [
-    46,
     47
    ]
   },
   "uvs-suisse-alemanique:uvs-suisse-alemanique-eberhard-bau-heinz-eberhard": {
    "pdf": "web-uvs-suisse-alemanique",
    "pages": [
-    48,
-    49
+    48
    ]
   },
   "uvs-suisse-alemanique:uvs-suisse-alemanique-elex-peter-studer": {
    "pdf": "web-uvs-suisse-alemanique",
    "pages": [
-    50
+    50,
+    51
    ]
   },
   "uvs-suisse-alemanique:uvs-suisse-alemanique-hardturm-vincent-albers": {
    "pdf": "web-uvs-suisse-alemanique",
    "pages": [
-    53,
-    54,
-    55
+    52,
+    53
    ]
   },
   "uvs-suisse-alemanique:uvs-suisse-alemanique-h-net-michael-ziegler": {
@@ -5773,16 +5687,14 @@
   "uvs-suisse-alemanique:uvs-suisse-alemanique-hoermann-andreas-breschan": {
    "pdf": "web-uvs-suisse-alemanique",
    "pages": [
-    58,
     59
    ]
   },
   "uvs-suisse-alemanique:uvs-suisse-alemanique-ibaarau-hans-kaspar-scherrer": {
    "pdf": "web-uvs-suisse-alemanique",
    "pages": [
-    61,
-    62,
-    63
+    60,
+    61
    ]
   },
   "uvs-suisse-alemanique:uvs-suisse-alemanique-imp-bautest": {
@@ -5795,7 +5707,6 @@
   "uvs-suisse-alemanique:uvs-suisse-alemanique-impuls-mittelschule": {
    "pdf": "web-uvs-suisse-alemanique",
    "pages": [
-    66,
     67
    ]
   },
@@ -5816,20 +5727,21 @@
   "uvs-suisse-alemanique:uvs-suisse-alemanique-neosys-juerg-liechti": {
    "pdf": "web-uvs-suisse-alemanique",
    "pages": [
-    72,
     73
    ]
   },
   "uvs-suisse-alemanique:uvs-suisse-alemanique-regio-energie-solothurn-felix-straessle": {
    "pdf": "web-uvs-suisse-alemanique",
    "pages": [
-    74
+    74,
+    75
    ]
   },
   "uvs-suisse-alemanique:uvs-suisse-alemanique-amt-fuer-kultur-und-sport-solothurn": {
    "pdf": "web-uvs-suisse-alemanique",
    "pages": [
-    76
+    76,
+    77
    ]
   },
   "uvs-suisse-alemanique:uvs-suisse-alemanique-swissmill": {
@@ -5848,7 +5760,6 @@
   "uvs-valais-neuchatel:uvs-valais-neuchatel-stadt-solothurn-kurt-fluri": {
    "pdf": "web-uvs-valais-neuchatel",
    "pages": [
-    1,
     2,
     3
    ]
@@ -5862,37 +5773,37 @@
   "uvs-valais-neuchatel:uvs-valais-neuchatel-sion-benoit-fournier": {
    "pdf": "web-uvs-valais-neuchatel",
    "pages": [
-    4
+    5
    ]
   },
   "uvs-valais-neuchatel:uvs-valais-neuchatel-sion-georges-joliat": {
    "pdf": "web-uvs-valais-neuchatel",
    "pages": [
-    4
+    6
    ]
   },
   "uvs-valais-neuchatel:uvs-valais-neuchatel-sion-blaise-crittin": {
    "pdf": "web-uvs-valais-neuchatel",
    "pages": [
-    4
+    7
    ]
   },
   "uvs-valais-neuchatel:uvs-valais-neuchatel-sion-aeroport-cyrille-fauchere": {
    "pdf": "web-uvs-valais-neuchatel",
    "pages": [
-    4
+    8
    ]
   },
   "uvs-valais-neuchatel:uvs-valais-neuchatel-sion-gaelle-metrailler": {
    "pdf": "web-uvs-valais-neuchatel",
    "pages": [
-    4
+    9
    ]
   },
   "uvs-valais-neuchatel:uvs-valais-neuchatel-sion-vincent-pellissier": {
    "pdf": "web-uvs-valais-neuchatel",
    "pages": [
-    4
+    10
    ]
   },
   "uvs-valais-neuchatel:uvs-valais-neuchatel-bativa": {
@@ -6010,31 +5921,32 @@
   "uvs-valais-neuchatel:uvs-valais-neuchatel-sierre-pierre-kenzelmann": {
    "pdf": "web-uvs-valais-neuchatel",
    "pages": [
-    34
+    35
    ]
   },
   "uvs-valais-neuchatel:uvs-valais-neuchatel-sierre-pierre-berthod": {
    "pdf": "web-uvs-valais-neuchatel",
    "pages": [
-    34
+    36,
+    37
    ]
   },
   "uvs-valais-neuchatel:uvs-valais-neuchatel-sierre-laetitia-massy": {
    "pdf": "web-uvs-valais-neuchatel",
    "pages": [
-    34
+    38
    ]
   },
   "uvs-valais-neuchatel:uvs-valais-neuchatel-sierre-mario-rossi": {
    "pdf": "web-uvs-valais-neuchatel",
    "pages": [
-    34
+    39
    ]
   },
   "uvs-valais-neuchatel:uvs-valais-neuchatel-sierre-jean-paul-salamin": {
    "pdf": "web-uvs-valais-neuchatel",
    "pages": [
-    34
+    40
    ]
   },
   "uvs-valais-neuchatel:uvs-valais-neuchatel-va-zwissig": {
@@ -6116,14 +6028,12 @@
   "uvs-valais-neuchatel:uvs-valais-neuchatel-groupe-e": {
    "pdf": "web-uvs-valais-neuchatel",
    "pages": [
-    59,
-    60
+    59
    ]
   },
   "zurich:zurich-stadt-zurich-corine-mauch": {
    "pdf": "web-zurich",
    "pages": [
-    1,
     2,
     3
    ]
@@ -6131,17 +6041,15 @@
   "zurich:zurich-zhk-karin-lenzlinger": {
    "pdf": "web-zurich",
    "pages": [
-    11,
-    12,
-    13
+    4,
+    5
    ]
   },
   "zurich:zurich-zhk-regine-sauter": {
    "pdf": "web-zurich",
    "pages": [
-    11,
-    12,
-    13
+    6,
+    7
    ]
   },
   "zurich:zurich-volkswirtschaftsdirektion-ernst-stocker": {
@@ -6154,40 +6062,31 @@
   "zurich:zurich-zhk-wirtschaftswochen": {
    "pdf": "web-zurich",
    "pages": [
-    11,
-    12,
-    13
+    10
    ]
   },
   "zurich:zurich-zhk-export-dienstleistungen": {
    "pdf": "web-zurich",
    "pages": [
-    11,
-    12,
-    13
+    11
    ]
   },
   "zurich:zurich-zhk-schiedsgericht": {
    "pdf": "web-zurich",
    "pages": [
-    11,
-    12,
-    13
+    12
    ]
   },
   "zurich:zurich-zhk-beat-zimmermann": {
    "pdf": "web-zurich",
    "pages": [
-    11,
-    12,
     13
    ]
   },
   "zurich:zurich-aebi-kuehni": {
    "pdf": "web-zurich",
    "pages": [
-    14,
-    15
+    14
    ]
   },
   "zurich:zurich-atelier-10-8": {
@@ -6195,165 +6094,146 @@
    "pages": [
     16,
     17,
-    18
+    18,
+    19
    ]
   },
   "zurich:zurich-atelier-ww": {
    "pdf": "web-zurich",
    "pages": [
     20,
-    22
+    21
    ]
   },
   "zurich:zurich-dr-j-grob-partner": {
    "pdf": "web-zurich",
    "pages": [
-    24,
-    25
+    24
    ]
   },
   "zurich:zurich-eberhard-bau": {
    "pdf": "web-zurich",
    "pages": [
-    26,
-    27
+    26
    ]
   },
   "zurich:zurich-elex": {
    "pdf": "web-zurich",
    "pages": [
-    28,
-    29
+    28
    ]
   },
   "zurich:zurich-fabrimex-systems": {
    "pdf": "web-zurich",
    "pages": [
-    30,
-    31
+    30
    ]
   },
   "zurich:zurich-fluckiger-bosshard": {
    "pdf": "web-zurich",
    "pages": [
-    32,
-    33
+    32
    ]
   },
   "zurich:zurich-gebruder-loepfe": {
    "pdf": "web-zurich",
    "pages": [
-    34,
-    35
+    34
    ]
   },
   "zurich:zurich-hardturm": {
    "pdf": "web-zurich",
    "pages": [
-    37,
-    38,
-    39
+    36,
+    37
    ]
   },
   "zurich:zurich-havells-sylvania": {
    "pdf": "web-zurich",
    "pages": [
-    40,
-    41
+    40
    ]
   },
   "zurich:zurich-h-net": {
    "pdf": "web-zurich",
    "pages": [
-    42,
-    43
+    42
    ]
   },
   "zurich:zurich-imt-masken-und-teilungen": {
    "pdf": "web-zurich",
    "pages": [
-    44,
-    45
+    44
    ]
   },
   "zurich:zurich-itpc": {
    "pdf": "web-zurich",
    "pages": [
-    46,
-    47
+    46
    ]
   },
   "zurich:zurich-jakob-stiefel": {
    "pdf": "web-zurich",
    "pages": [
-    48,
-    49
+    48
    ]
   },
   "zurich:zurich-klinik-susenberg": {
    "pdf": "web-zurich",
    "pages": [
-    51,
-    52,
-    53
+    50,
+    51
    ]
   },
   "zurich:zurich-lernpaedagogisches-zentrum": {
    "pdf": "web-zurich",
    "pages": [
-    55,
-    56,
-    57
+    54,
+    55
    ]
   },
   "zurich:zurich-luzi": {
    "pdf": "web-zurich",
    "pages": [
-    58,
-    59
+    58
    ]
   },
   "zurich:zurich-medizinisches-zentrum-roemerhof": {
    "pdf": "web-zurich",
    "pages": [
-    60,
-    61
+    60
    ]
   },
   "zurich:zurich-meworla": {
    "pdf": "web-zurich",
    "pages": [
-    62,
-    63
+    62
    ]
   },
   "zurich:zurich-nilan": {
    "pdf": "web-zurich",
    "pages": [
-    64,
-    65
+    64
    ]
   },
   "zurich:zurich-poyry-schweiz": {
    "pdf": "web-zurich",
    "pages": [
     66,
-    67,
-    68
+    67
    ]
   },
   "zurich:zurich-spannverbund-bausysteme": {
    "pdf": "web-zurich",
    "pages": [
     70,
-    72
+    71
    ]
   },
   "zurich:zurich-swissmem": {
    "pdf": "web-zurich",
    "pages": [
-    74,
-    75
+    74
    ]
   },
   "zurich:zurich-swissmill": {
@@ -6366,9 +6246,8 @@
   "zurich:zurich-universitatsspital-zurich": {
    "pdf": "web-zurich",
    "pages": [
-    79,
-    80,
-    81
+    78,
+    79
    ]
   }
  },
