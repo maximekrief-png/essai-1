@@ -54,6 +54,13 @@ const plural = (n, one, many) => `${n} ${n > 1 ? many : one}`;
 const magFiles = fs.existsSync(path.join(DATA, 'magazines'))
   ? fs.readdirSync(path.join(DATA, 'magazines')).filter((f) => f.endsWith('.json'))
   : [];
+// Texte intégral des interviews : data/texts/<magazine>.json → { "<slug article>": { lang, pages, blocks: [{t, x}] } }
+const TEXTS = {};
+if (fs.existsSync(path.join(DATA, 'texts'))) {
+  for (const f of fs.readdirSync(path.join(DATA, 'texts')).filter((x) => x.endsWith('.json'))) {
+    try { TEXTS[f.replace(/\.json$/, '')] = JSON.parse(fs.readFileSync(path.join(DATA, 'texts', f), 'utf8')); } catch (e) { console.warn('Texte invalide', f, e.message); }
+  }
+}
 const images = fs.existsSync(path.join(DATA, 'images.json')) ? JSON.parse(fs.readFileSync(path.join(DATA, 'images.json'), 'utf8')) : { articles: {}, companies: {} };
 
 const magazines = [];
@@ -118,6 +125,8 @@ for (const m of magazines) {
     while (articleSlugs.has(s)) s += '-2';
     articleSlugs.add(s);
     const art = { ...a, slug: s, magazine: m.slug, themes: validThemes(a.themes).length ? validThemes(a.themes) : validThemes(m.themes).slice(0, 1) };
+    const body = TEXTS[m.slug]?.[a.slug];
+    if (body?.blocks?.length) art.body = body;
     art.companies = uniq((a.companies || []).map((x) => resolveCompany(m.slug, x)));
     art.images = images.articles?.[`${m.slug}:${a.slug}`] || [];
     for (const cs of art.companies) {
@@ -232,7 +241,7 @@ ${body}
       ${Object.entries(THEMES).slice(0, 6).map(([id, t]) => `<a href="${r}themes/${id}/">${esc(t.label)}</a>`).join('')}
     </div>
   </div>
-  <div class="wrap footer-bottom">© ${new Date().getFullYear()} ${SITE_NAME} · Une marque de Com Consulting Sàrl, Rue Fritz-Courvoisier 40, 2300 La Chaux-de-Fonds · <a href="mailto:info@comconsulting.ch">info@comconsulting.ch</a></div>
+  <div class="wrap footer-bottom">© ${new Date().getFullYear()} ${SITE_NAME} · Une marque de Com Consulting Sàrl, Faubourg du Lac 2, CH-2000 Neuchâtel · <a href="mailto:info@comconsulting.ch">info@comconsulting.ch</a></div>
 </footer>
 <div class="search-overlay" data-search-overlay hidden>
   <div class="search-panel" role="dialog" aria-modal="true" aria-label="Recherche">
@@ -282,7 +291,7 @@ function articleCard(a, r, { showMag = true } = {}) {
   const th = a.themes[0];
   const media = a.images?.length ? img(a.images[0], a.title, r, 'card-img') : placeholder(a.title, th, 'card-img');
   return `<a class="card article-card" href="${r}articles/${a.slug}/" data-themes="${esc(a.themes.join(' '))}" data-type="${esc(a.type || '')}" data-mag="${esc(a.magazine)}" data-q="${esc(fold([a.title, a.subtitle, a.region, (a.people || []).map((p) => p.name).join(' '), m?.title].join(' ')))}">
-  <div class="card-media">${media}${a.type && TYPES[a.type] ? `<span class="badge">${TYPES[a.type]}</span>` : ''}</div>
+  <div class="card-media">${media}${a.type && TYPES[a.type] ? `<span class="badge">${TYPES[a.type]}${a.body ? ' · texte intégral' : ''}</span>` : ''}</div>
   <div class="card-body">
     <h3>${esc(a.title)}</h3>
     ${a.subtitle ? `<p class="muted clamp2">${esc(a.subtitle)}</p>` : ''}
@@ -487,8 +496,14 @@ function pageArticle(a) {
 </header>
 <div class="wrap article-media">${a.images?.length ? img(a.images[0], a.title, r, 'article-img') : placeholder(a.title, th, 'article-img')}</div>
 <div class="wrap narrow article-body">
-  <p class="prose">${esc(a.summary || '')}</p>
+  ${a.body ? `<div class="summary-box"><p class="eyebrow">En bref</p><p>${esc(a.summary || '')}</p></div>` : `<p class="prose">${esc(a.summary || '')}</p>`}
   ${a.quote ? `<blockquote>« ${esc(a.quote.replace(/^[«"“\s]+|[»"”\s]+$/g, ''))} »${a.people?.[0] ? `<cite>— ${esc(a.people[0].name)}</cite>` : ''}</blockquote>` : ''}
+  ${a.body ? `<section class="full-text" lang="${esc(a.body.lang || a.language || 'fr')}">
+    <h2>${a.type === 'interview' ? 'L\'interview intégrale' : 'Texte intégral'}</h2>
+    ${a.body.blocks.map((b) => b.t === 'q' ? `<p class="ft-q">${esc(b.x)}</p>` : b.t === 'h' ? `<h3>${esc(b.x)}</h3>` : `<p>${esc(b.x)}</p>`).join('\n    ')}
+    ${a.body.note ? `<p class="ft-note">${esc(a.body.note)}</p>` : ''}
+    <p class="ft-source">Texte paru dans ${esc(m?.title || '')}${a.body.pages ? `, ${esc(a.body.pages)}` : (a.page ? `, p. ${esc(a.page)}` : '')}.</p>
+  </section>` : ''}
   ${a.images?.length > 1 ? `<div class="gallery">${a.images.slice(1, 7).map((s) => `<a href="${r}${esc(s)}" data-lightbox>${img(s, a.title, r)}</a>`).join('')}</div>` : ''}
   ${a.people?.length ? `<h2>Personnes citées</h2><ul class="people">${a.people.map((p) => `<li>${icon('user')}<span><b>${esc(p.name)}</b>${p.role ? `<span class="muted">${esc(p.role)}</span>` : ''}</span></li>`).join('')}</ul>` : ''}
   ${m ? `<div class="source-box">
@@ -600,7 +615,7 @@ function pageSearch() {
   write('recherche/index.html', layout({ depth: 1, title: 'Recherche', description: 'Rechercher dans l’annuaire Swiss Knowhow.', active: '', body }));
 }
 
-const PUBLISHER = { name: 'Com Consulting Sàrl', address: 'Rue Fritz-Courvoisier 40', city: '2300 La Chaux-de-Fonds', phone: '+41 (0)32 967 95 83', email: 'info@comconsulting.ch' };
+const PUBLISHER = { name: 'Com Consulting Sàrl', address: 'Faubourg du Lac 2', city: 'CH-2000 Neuchâtel', phone: '+41 (0)32 967 95 83', email: 'info@comconsulting.ch' };
 
 function pageContact() {
   const r = '../';
@@ -609,7 +624,7 @@ function pageContact() {
 <section class="page-head wrap">
   ${crumbs([[null, 'Contact']], r)}
   <h1>Contact & éditeur</h1>
-  <p class="lead">Swiss Knowhow est une marque de la société d'édition ${PUBLISHER.name}, à La Chaux-de-Fonds. Depuis une vingtaine d'années, ses magazines présentent les entreprises et les institutions qui incarnent la qualité et le savoir-faire suisses.</p>
+  <p class="lead">Swiss Knowhow est une marque de la société d'édition ${PUBLISHER.name}, à Neuchâtel. Depuis une vingtaine d'années, ses magazines présentent les entreprises et les institutions qui incarnent la qualité et le savoir-faire suisses.</p>
 </section>
 <div class="wrap detail-grid">
   <article class="detail-main">
@@ -628,7 +643,7 @@ function pageContact() {
     </div>
   </aside>
 </div>`;
-  write('contact/index.html', layout({ depth: 1, title: 'Contact', description: `Contacter ${PUBLISHER.name}, éditeur du magazine Swiss Knowhow à La Chaux-de-Fonds.`, active: 'contact/', body }));
+  write('contact/index.html', layout({ depth: 1, title: 'Contact', description: `Contacter ${PUBLISHER.name}, éditeur du magazine Swiss Knowhow à Neuchâtel.`, active: 'contact/', body }));
 }
 
 function page404() {
